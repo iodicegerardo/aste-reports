@@ -1,0 +1,252 @@
+{
+  "B2416411": {
+    "id": "B2416411",
+    "titolo": "Via Sebenico - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 162/2024 Rif. #B2416411",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 71000.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416411",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/db5e2a8fa95b30bd31a8b3e1a2c67ee4/2344300-D?cd=true",
+      "https://documents.astalegale.net/file/2/e6701656b7491883535d6783fbd648e4/2344301-D?cd=true",
+      "https://documents.astalegale.net/file/2/393512a1a167b39f8715530cf67b42ff/2344303-D?cd=true",
+      "https://documents.astalegale.net/file/2/131db2c952c1e52d394ffd6f61ac8335/2344302-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416411_doc1.pdf",
+      "output/pdf/B2416411_doc2.pdf",
+      "output/pdf/B2416411_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2344300 d avviso di vendita",
+      "2344301 d ordinanza",
+      "2344303 d perizia"
+    ],
+    "descrizione": "Compendio immobiliare, costituito da una casa monofamiliare di tre piani fuori terra con cortile privato su cui si affacciano due locali accessori e un'autorimessa singola. - Tipologia: Abitazione di tipo civile - Prezzo: € 71.000,00 - Data asta: 21/07/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa monofamiliare su tre piani (102 mq calpestabili, 174 mq commerciali) con autorimessa e cortile a Bonemerse (CR), piccolo comune a circa 15 km da Cremona. Edificio dei primi anni del '900 in stato di abbandono prolungato con ristrutturazione totale necessaria, impianti non funzionanti e copertura parzialmente ceduta. Il prezzo base di €71.000 coincide con il valore di vendita forzata stimato dal CTU, quindi non vi è ulteriore sconto d'asta rispetto alla perizia.",
+      "dati_catastali": "Foglio 3, Mappale 109/1 e 111/1 (abitazione, cat. A/3, classe 2, consistenza 5 vani, 79 mq, rendita €238,60, piano T e 1); Foglio 3, Mappale 110/1 (autorimessa, cat. C/6, classe 2, consistenza 23 mq, rendita €67,71, piano T). Nessun subalterno indicato.",
+      "superficie_mq": 174,
+      "prezzo_al_mq": 408,
+      "prezzo_mercato_stimato": "500-700 €/mq (Bonemerse, comune rurale <15 km da Cremona, immobile da ristrutturare totalmente)",
+      "sconto_percentuale": "Il prezzo base (€71.000 = €408/mq commerciale) è già sotto il valore di libero mercato stimato dal CTU (€500/mq = €87.000), con uno sconto del 18% applicato dal perito. Rispetto al mercato reale della zona (500-700 €/mq per immobili simili da ristrutturare), lo sconto effettivo è circa 18-42% dal valore lordo, ma al netto dei costi di ristrutturazione stimabili in €70.000-125.000 (700-1.200 €/mq su 102 mq calpestabili) il vantaggio economico si azzera o diventa negativo.",
+      "anomalie": [
+        "La scheda catastale originale dell'abitazione era difforme dallo stato di fatto (mancavano veranda e latrina al piano terra): il CTU ha richiesto aggiornamento DOCFA, ora corretto (scheda aggiornata ad aprile 2025), ma questo evidenzia una storia di irregolarità catastali pregresse.",
+        "Il Permesso di Costruire n°3340/2006 per ristrutturazione dell'intero edificio non è mai stato eseguito ed è scaduto: l'immobile non ha mai ricevuto alcun intervento di ristrutturazione nonostante il titolo rilasciato, confermando lo stato di degrado avanzato.",
+        "Il box/autorimessa (Mapp. 110/1) è stato costruito abusivamente nel 1975 e sanato solo nel 2005 con permesso in sanatoria n°725/1986: titolo edilizio tardivo che potrebbe richiedere verifiche approfondite sulla regolarità della sanatoria stessa.",
+        "Presenza di materiale contenente Eternit (amianto) nella tettoia esterna parzialmente crollata e nei pannelli del garage: smaltimento obbligatorio ai sensi del D.Lgs. 257/1992, con costi non trascurabili.",
+        "La superficie indicata nel bando d'asta (72 mq) non corrisponde né alla superficie calpestabile indicata in perizia (102 mq) né a quella commerciale (174 mq): incongruenza significativa che può generare confusione nei potenziali offerenti.",
+        "Presenza di ipoteche fiscali dell'Agenzia delle Entrate (2017 e 2022), segnale di debiti tributari pregressi del debitore; gli importi iscritti non sono indicati nella perizia."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Costi di ristrutturazione vs valore finale",
+          "dettaglio": "L'immobile richiede ristrutturazione totale: impianto elettrico non funzionante, riscaldamento solo con camino, copertura ceduta, locali accessori in degrado, materiale da discarica da smaltire. Il costo stimato è di €70.000-125.000 (700-1.200 €/mq su 102 mq), portando l'investimento totale a €140.000-200.000+, a fronte di un valore di mercato post-ristrutturazione stimabile in €87.000-120.000 massimo in zona Bonemerse: l'operazione rischia di essere in perdita."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Presenza di Eternit/Amianto",
+          "dettaglio": "La tettoia esterna parzialmente crollata contiene pezzi di Eternit (amianto), materiale classificato come pericoloso. Lo smaltimento richiede ditta specializzata certificata con costi di €3.000-10.000+ a seconda della quantità; è obbligatorio per legge prima di qualsiasi intervento e non è derogabile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteche fiscali Agenzia delle Entrate",
+          "dettaglio": "Sono presenti due ipoteche di tipo amministrativo/riscossione dell'Agenzia delle Entrate (2017 e 2022) che si estingueranno con la vendita forzata se il ricavato le copre. Gli importi iscritti non sono indicati in perizia: è necessario verificarli presso la Conservatoria dei Registri Immobiliari per escludere che siano superiori al prezzo base. In ogni caso, l'acquirente non risponde dei debiti fiscali del debitore dopo il trasferimento."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e inefficienza energetica",
+          "dettaglio": "Classe G con consumo di 523,18 kWh/mq anno: il costo energetico annuo è elevatissimo e dal 2033 la Direttiva UE Case Green imporrà adeguamenti obbligatori. Per portare l'immobile in classe E-D sarà necessario intervenire sull'isolamento termico e sull'impianto di riscaldamento, con costi aggiuntivi stimabili in €20.000-40.000."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Posizione periferica e liquidità del mercato",
+          "dettaglio": "Bonemerse è un piccolo comune rurale con mercato immobiliare molto limitato: il CTU stesso definisce 'discreta' l'appetibilità economica e nota la concorrenza di nuove villette a schiera in zona. La rivendita post-ristrutturazione potrebbe richiedere anni, con rischio di ulteriore deprezzamento."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Stato di occupazione",
+          "dettaglio": "L'immobile risulta disabitato da tempo alla data del sopralluogo (03/03/2025): nessuna procedura di sgombero necessaria, immissione in possesso immediata dopo l'aggiudicazione."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "1) Ipoteca volontaria da mutuo fondiario (notaio Squintani Ambrogio, 20/05/2005) - importo non specificato in perizia; 2) Ipoteca amministrativa Agenzia delle Entrate iscritta 13/09/2017 - importo non specificato; 3) Ipoteca amministrativa Agenzia delle Entrate iscritta 07/04/2022 - importo non specificato. Tutte si estinguono con la vendita forzata. ATTENZIONE: gli importi iscritti non sono indicati nella perizia e vanno verificati.",
+        "spese_condominiali": "Nessuna (immobile monofamiliare senza condominio).",
+        "altri_oneri": "Pignoramento immobiliare n°2184 del 23/07/2024 (si cancella con la vendita). Nessuna servitù, vincolo artistico/storico, diritti di terzi o convenzioni matrimoniali risultanti. Oneri di smaltimento rifiuti e Eternit a carico dell'acquirente (stimati €5.000-15.000)."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Nessuno rilevato allo stato attuale. Il box costruito abusivamente nel 1975 è stato sanato con permesso in sanatoria del 2005 e corrisponde allo stato di fatto. L'edificio abitativo, pur con scheda catastale precedentemente difforme (veranda e latrina non indicate), è considerato urbanisticamente regolare sulla base del PDC n°3340/2006 che rappresenta lo stato di fatto come validato dal Comune. Il CTU dichiara esplicitamente assenza di difformità edilizie.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Edificio dei primi anni del '900, struttura portante in mattoni pieni dichiarata sana dal CTU ma con solai in legno originali, copertura parzialmente ceduta e finiture completamente da rifare. Il dato superficie nel bando (72 mq) è errato rispetto alla perizia (102 mq calpestabili, 174 mq commerciali): verificare il bando d'asta definitivo. La perizia è recente (sopralluogo marzo 2025, asta luglio 2026) quindi i valori sono aggiornati. Il problema fondamentale è economico: acquisto a €71.000 + ristrutturazione totale €70.000-125.000 + smaltimento amianto €5.000-15.000 + spese d'asta/imposte €3.000-7.000 = investimento totale €149.000-218.000 per un immobile che in zona Bonemerse post-ristrutturazione varrebbe al massimo €100.000-130.000. L'operazione ha senso solo per chi intende abitarci stabilmente e considera il delta come costo della personalizzazione, con piena consapevolezza del mercato illiquido della zona."
+    },
+    "data_analisi": "2026-05-04"
+  },
+  "B2415630": {
+    "id": "B2415630",
+    "titolo": "Via Piave, 5 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 164/2025 Rif. #B2415630",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 43408.44,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415630",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "Trattasi di casa autonoma di civile abitazione di piani due fuori terra con annessa piccola area cortilizia.  - Tipologia: Abitazione di tipo civile - Prezzo: € 43.408,44 - Data asta: 23/07/2026 - 11:00",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2405015": {
+    "id": "B2405015",
+    "titolo": "Via Cattaneo 6 - Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 90000.0,
+    "data_asta": "07/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2405015",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "PIENA PROPRIETÀ di una villa indipendente sviluppata su due piani fuori terra edificata su un lotto di superficie di 570 mq. L’abitazione, della superficie complessiva di mq 140 circa, si compone, al piano terra, da soggiorno, cucina, bagno e locale accessorio mentre, al piano primo, da due camere, bagno e balcone. Compongono altresì l’immobile una porzione adibita a locale accessori, un portico ed un giardino.L’immobile è in discreto stato di conservazione ed è attualmente libero da persone e d",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2415972": {
+    "id": "B2415972",
+    "titolo": "Localita' Binanuova - Via Domenico Barbieri, 15 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 179/2024 Rif. #B2415972",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 42319.22,
+    "data_asta": "17/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415972",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "Trattasi di complesso immobiliare costituito da due unità immobiliari residenziali in duplex con accessori rustici ed aree scoperte comuni. In particolare: \n(A) Appartamento al piano terra del corpo di fabbrica interno composto da ingresso/soggiorno, cucina con disimpegno, corridoio/disimpegno, due letto e bagno; annessi all’appartamento, nel corpo di fabbrica in fregio alla via Barbieri, sono, al piano terra, un locale cantina ed un locale ripostiglio. Il tutto identificato dai mapp. 270/502-27",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2404245": {
+    "id": "B2404245",
+    "titolo": "Via Umberto I, 22 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 165/2023 Rif. #B2404245",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 67200.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2404245",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "In complesso immobiliare costituito da n. 2 fabbricati condominiali contraddistinti con le lettere\nA e B e da 10 villette, l’appartamento è posto al piano primo del fabbricato B e composto da tre locali, disimpegno, balcone e servizio igienico.\nAutorimessa al piano seminterrato. Nella vendita è compresa la quota proporzionale di comproprietà degli spazi ed enti comuni dell’intero complesso. - Tipologia: Abitazione di tipo civile - Prezzo: € 67.200,00 - Data asta: 21/07/2026 - 16:00",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2404333": {
+    "id": "B2404333",
+    "titolo": "Via Bramante, 116 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 147/2025 Rif. #B2404333",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 76500.0,
+    "data_asta": "20/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2404333",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "Appartamento di circa 93 mq al primo piano di una palazzina condominiale, composto da soggiorno, cucina, bagno, ripostiglio e due camere, oltre a tre balconi di 13,50 mq totali; dotato di cantinetta (4,50 mq) e box pertinenziale (28,50 mq). - Tipologia: Abitazione di tipo civile - Prezzo: € 76.500,00 - Data asta: 20/07/2026 - 10:00",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2404589": {
+    "id": "B2404589",
+    "titolo": "Vicolo Alchieri , 12 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 95/2025 Rif. #B2404589",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 21500.0,
+    "data_asta": "22/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2404589",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "Vecchio fabbricato posto al piano terra, piano primo e sottotetto composto da 3,5 vani, portico chiuso da cancello di ferro, cucina e annesso bagno al piano terra, con scala interna in legno si accede ad un disimpegno, una stanza e un locale “sgombero” al piano primo, proseguendo sulla scala si accede ad ulteriori disimpegno e locale “sgombero” al piano sottotetto.\nAccesso, parti comuni e servitù come meglio specificato nell’elaborato peritale al quale si rimanda. L’immobile possiede un Attestat",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2404022": {
+    "id": "B2404022",
+    "titolo": "Via Borgo Fornace, 4 - Lotto 15 - Tribunale di Cremona - Esecuzioni civili 4/2021 Rif. #B2404022",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 22125.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2404022",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "LOTTO C.10 - ALLOGGIO AL PIANO SECONDO (ANGOLO NORD-OVEST) CON CANTINA: l'alloggio è composto da soggiorno/cottura, camera da letto, w.c.-doccia e disimpegno. La superficie lorda è 54,50 mq. Cantina: mq. 5,15. Classe energetica G - Tipologia: Abitazione di tipo civile - Prezzo: € 22.125,00 - Data asta: 21/07/2026 - 10:00",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2403413": {
+    "id": "B2403413",
+    "titolo": "Viale Ettore Sacchi , 2/a - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 121/2024 Rif. #B2403413",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 95489.42,
+    "data_asta": "17/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2403413",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "Il bene in vendita, consiste in una villetta a schiera di due piani fuori terra con area esterna retrostante, costruita nei primi anni 2000. Il box auto è sito in Sesto ed Uniti, Via Alessandro Manzoni. L’abitazione è composta al piano terra da soggiorno, cucina, disimpegno, bagno ed accesso al vano scale con portico sul giardino antistante. Al piano primo si trovano il disimpegno centrale, tre camere da letto ed un accessorio, un bagno ed il balcone verso il portico retrostante. Gli intonaci es",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  },
+  "B2403620": {
+    "id": "B2403620",
+    "titolo": "Via Dosso  14/B - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 45/2025 Rif. #B2403620",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 37000.0,
+    "data_asta": "25/06/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2403620",
+    "pdf_urls": [],
+    "pdf_paths": [],
+    "pdf_names": [],
+    "descrizione": "Piena proprietà di appartamento posto al secondo piano con cantina posta al piano seminterrato, composto da ingresso con bussola, corridoio, zona giorno con angolo cottura, bagno, due camere da letto. - Tipologia: Abitazione di tipo civile - Prezzo: € 37.000,00 - Data asta: 25/06/2026 - 15:00",
+    "superficie": "",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": null,
+    "data_analisi": "2026-05-04"
+  }
+}

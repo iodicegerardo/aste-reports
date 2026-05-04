@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aste Cremona — 2026-05-04</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --paper: #f5f2eb;
+    --accent: #8b1a1a;
+    --muted: #666;
+    --border: #d4cfc4;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Source Sans 3', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    padding: 2rem 1rem;
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  header {
+    border-bottom: 3px solid var(--accent);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    color: var(--accent);
+    letter-spacing: -0.5px;
+  }
+  header .subtitle {
+    color: var(--muted);
+    font-weight: 300;
+    margin-top: 0.25rem;
+  }
+  .sommario {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+  .stat-box {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    text-align: center;
+    min-width: 120px;
+  }
+  .stat-box .num { font-size: 2rem; font-weight: 700; font-family: 'Playfair Display', serif; }
+  .stat-box .lbl { font-size: 0.8rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .lotto-card {
+    background: white;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .lotto-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+  }
+  .lotto-titolo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    flex: 1;
+  }
+  .badge {
+    color: white;
+    padding: 0.3rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .lotto-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 0.88rem;
+    color: var(--muted);
+  }
+  .sintesi {
+    background: rgba(0,0,0,0.03);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+  }
+  .sezione {
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+  }
+  .sezione ul { padding-left: 1.2rem; margin-top: 0.25rem; }
+  .sezione li { margin-bottom: 0.2rem; }
+  .rischio { padding: 0.2rem 0; }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+  }
+  .note { color: var(--muted); font-size: 0.88rem; }
+  .lotto-footer {
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border);
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+  .btn-link, .pdf-link {
+    display: inline-block;
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity 0.2s;
+  }
+  .btn-link { background: var(--accent); color: white; }
+  .pdf-link { background: #2c5282; color: white; }
+  .btn-link:hover, .pdf-link:hover { opacity: 0.85; }
+  .alert-box {
+    background: #fff3cd;
+    border: 1px solid #f0c040;
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+  }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.8rem;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏛 Aste Immobiliari — Cremona</h1>
+  <div class="subtitle">Report giornaliero del 2026-05-04 · Zona: Cremona e dintorni · Budget: fino a €130.000 · Fonte: portaleaste.com</div>
+</header>
+
+<div class="sommario">
+  <div class="stat-box"><div class="num">8</div><div class="lbl">Lotti trovati</div></div>
+  <div class="stat-box"><div class="num" style="color:#1a6b3c">0</div><div class="lbl">🟢 Interessanti</div></div>
+  <div class="stat-box"><div class="num" style="color:#7a5c00">0</div><div class="lbl">🟡 Con cautela</div></div>
+  <div class="stat-box"><div class="num" style="color:#8b1a1a">0</div><div class="lbl">🔴 Sconsigliati</div></div>
+</div>
+
+
+
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Via Cattaneo 6 - Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €90,000</span>
+            <span>📐 72M2</span>
+            
+            
+            <span>📅 07/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2405015" target="_blank">🔗 Scheda completa</a>
+            <a class="pdf-link" href="https://documents.astalegale.net/file/2/bdcf5664136fcab4a0c989120bdee0d2/2342440-D?cd=true" target="_blank">📄 2342440 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/58b4be4b561566c1ec8582e96b48b3ad/2342441-D?cd=true" target="_blank">📄 2342441 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/2705d5bd94e563ba911417e02ed82209/2250566-B?cd=true" target="_blank">📄 2250566 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/bf882b9107a087f5104b2a6e11c93a69/2250567-B?cd=true" target="_blank">📄 2250567 B</a> 
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Localita' Binanuova - Via Domenico Barbieri, 15 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 179/2024 Rif. #</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €42,319</span>
+            
+            
+            
+            <span>📅 17/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415972" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Via Umberto I, 22 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 165/2023 Rif. #B2404245</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €67,200</span>
+            
+            
+            
+            <span>📅 21/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2404245" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Via Bramante, 116 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 147/2025 Rif. #B2404333</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €76,500</span>
+            
+            
+            
+            <span>📅 20/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2404333" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Vicolo Alchieri , 12 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 95/2025 Rif. #B2404589</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €21,500</span>
+            
+            
+            
+            <span>📅 22/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2404589" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Via Borgo Fornace, 4 - Lotto 15 - Tribunale di Cremona - Esecuzioni civili 4/2021 Rif. #B2404022</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €22,125</span>
+            
+            
+            
+            <span>📅 21/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2404022" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Viale Ettore Sacchi , 2/a - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 121/2024 Rif. #B2403413</div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €95,489</span>
+            
+            
+            
+            <span>📅 17/07/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2403413" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+    <div class="lotto-card" style="border-left: 5px solid #444; background: #f8f8f8">
+        <div class="lotto-header">
+            <div class="lotto-titolo">Via Dosso  14/B - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare </div>
+            <div class="badge" style="background:#444">⚪ N/D</div>
+        </div>
+        <div class="lotto-meta">
+            <span>📍 Cremona</span>
+            <span>💶 €37,000</span>
+            
+            
+            
+            <span>📅 25/06/2026</span>
+            
+        </div>
+        <div class="sintesi">Analisi non disponibile</div>
+        
+        
+        <div class="sezione grid-2">
+            <div><strong>🏠 Occupazione:</strong> N/D</div>
+            <div><strong>🔨 Abusi edilizi:</strong> N/D</div>
+            
+            
+        </div>
+        
+        <div class="lotto-footer">
+            <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2403620" target="_blank">🔗 Scheda completa</a>
+            
+        </div>
+    </div>
+
+<footer>
+  Generato automaticamente · 04/05/2026 18:26 ·
+  Fonte: portaleaste.com (Tribunale di Cremona) ·
+  Analisi: Claude AI (Anthropic) ·
+  ⚠️ Non costituisce consulenza legale o finanziaria.
+</footer>
+</body>
+</html>

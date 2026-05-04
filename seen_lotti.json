@@ -1,0 +1,215 @@
+{
+  "B2416411": {
+    "id": "B2416411",
+    "titolo": "Via Sebenico - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 162/2024 Rif. #B2416411",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 71000.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416411",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/db5e2a8fa95b30bd31a8b3e1a2c67ee4/2344300-D?cd=true",
+      "https://documents.astalegale.net/file/2/e6701656b7491883535d6783fbd648e4/2344301-D?cd=true",
+      "https://documents.astalegale.net/file/2/393512a1a167b39f8715530cf67b42ff/2344303-D?cd=true",
+      "https://documents.astalegale.net/file/2/131db2c952c1e52d394ffd6f61ac8335/2344302-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416411_doc1.pdf",
+      "output/pdf/B2416411_doc2.pdf",
+      "output/pdf/B2416411_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2344300 d avviso di vendita",
+      "2344301 d ordinanza",
+      "2344303 d perizia"
+    ],
+    "descrizione": "Compendio immobiliare, costituito da una casa monofamiliare di tre piani fuori terra con cortile privato su cui si affacciano due locali accessori e un'autorimessa singola. - Tipologia: Abitazione di tipo civile - Prezzo: € 71.000,00 - Data asta: 21/07/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa monofamiliare su tre piani (102 mq calpestabili, 174 mq commerciali) con autorimessa e cortile a Bonemerse (CR), piccolo comune a circa 15 km da Cremona. Edificio dei primi anni del '900 in stato di abbandono prolungato con ristrutturazione totale necessaria, impianti non funzionanti e copertura parzialmente ceduta. Il prezzo base di €71.000 coincide con il valore di vendita forzata stimato dal CTU, quindi non vi è ulteriore sconto d'asta rispetto alla perizia.",
+      "dati_catastali": "Foglio 3, Mappale 109/1 e 111/1 (abitazione, cat. A/3, classe 2, consistenza 5 vani, 79 mq, rendita €238,60, piano T e 1); Foglio 3, Mappale 110/1 (autorimessa, cat. C/6, classe 2, consistenza 23 mq, rendita €67,71, piano T). Nessun subalterno indicato.",
+      "superficie_mq": 174,
+      "prezzo_al_mq": 408,
+      "prezzo_mercato_stimato": "500-700 €/mq (Bonemerse, comune rurale <15 km da Cremona, immobile da ristrutturare totalmente)",
+      "sconto_percentuale": "Il prezzo base (€71.000 = €408/mq commerciale) è già sotto il valore di libero mercato stimato dal CTU (€500/mq = €87.000), con uno sconto del 18% applicato dal perito. Rispetto al mercato reale della zona (500-700 €/mq per immobili simili da ristrutturare), lo sconto effettivo è circa 18-42% dal valore lordo, ma al netto dei costi di ristrutturazione stimabili in €70.000-125.000 (700-1.200 €/mq su 102 mq calpestabili) il vantaggio economico si azzera o diventa negativo.",
+      "anomalie": [
+        "La scheda catastale originale dell'abitazione era difforme dallo stato di fatto (mancavano veranda e latrina al piano terra): il CTU ha richiesto aggiornamento DOCFA, ora corretto (scheda aggiornata ad aprile 2025), ma questo evidenzia una storia di irregolarità catastali pregresse.",
+        "Il Permesso di Costruire n°3340/2006 per ristrutturazione dell'intero edificio non è mai stato eseguito ed è scaduto: l'immobile non ha mai ricevuto alcun intervento di ristrutturazione nonostante il titolo rilasciato, confermando lo stato di degrado avanzato.",
+        "Il box/autorimessa (Mapp. 110/1) è stato costruito abusivamente nel 1975 e sanato solo nel 2005 con permesso in sanatoria n°725/1986: titolo edilizio tardivo che potrebbe richiedere verifiche approfondite sulla regolarità della sanatoria stessa.",
+        "Presenza di materiale contenente Eternit (amianto) nella tettoia esterna parzialmente crollata e nei pannelli del garage: smaltimento obbligatorio ai sensi del D.Lgs. 257/1992, con costi non trascurabili.",
+        "La superficie indicata nel bando d'asta (72 mq) non corrisponde né alla superficie calpestabile indicata in perizia (102 mq) né a quella commerciale (174 mq): incongruenza significativa che può generare confusione nei potenziali offerenti.",
+        "Presenza di ipoteche fiscali dell'Agenzia delle Entrate (2017 e 2022), segnale di debiti tributari pregressi del debitore; gli importi iscritti non sono indicati nella perizia."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Costi di ristrutturazione vs valore finale",
+          "dettaglio": "L'immobile richiede ristrutturazione totale: impianto elettrico non funzionante, riscaldamento solo con camino, copertura ceduta, locali accessori in degrado, materiale da discarica da smaltire. Il costo stimato è di €70.000-125.000 (700-1.200 €/mq su 102 mq), portando l'investimento totale a €140.000-200.000+, a fronte di un valore di mercato post-ristrutturazione stimabile in €87.000-120.000 massimo in zona Bonemerse: l'operazione rischia di essere in perdita."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Presenza di Eternit/Amianto",
+          "dettaglio": "La tettoia esterna parzialmente crollata contiene pezzi di Eternit (amianto), materiale classificato come pericoloso. Lo smaltimento richiede ditta specializzata certificata con costi di €3.000-10.000+ a seconda della quantità; è obbligatorio per legge prima di qualsiasi intervento e non è derogabile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteche fiscali Agenzia delle Entrate",
+          "dettaglio": "Sono presenti due ipoteche di tipo amministrativo/riscossione dell'Agenzia delle Entrate (2017 e 2022) che si estingueranno con la vendita forzata se il ricavato le copre. Gli importi iscritti non sono indicati in perizia: è necessario verificarli presso la Conservatoria dei Registri Immobiliari per escludere che siano superiori al prezzo base. In ogni caso, l'acquirente non risponde dei debiti fiscali del debitore dopo il trasferimento."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e inefficienza energetica",
+          "dettaglio": "Classe G con consumo di 523,18 kWh/mq anno: il costo energetico annuo è elevatissimo e dal 2033 la Direttiva UE Case Green imporrà adeguamenti obbligatori. Per portare l'immobile in classe E-D sarà necessario intervenire sull'isolamento termico e sull'impianto di riscaldamento, con costi aggiuntivi stimabili in €20.000-40.000."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Posizione periferica e liquidità del mercato",
+          "dettaglio": "Bonemerse è un piccolo comune rurale con mercato immobiliare molto limitato: il CTU stesso definisce 'discreta' l'appetibilità economica e nota la concorrenza di nuove villette a schiera in zona. La rivendita post-ristrutturazione potrebbe richiedere anni, con rischio di ulteriore deprezzamento."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Stato di occupazione",
+          "dettaglio": "L'immobile risulta disabitato da tempo alla data del sopralluogo (03/03/2025): nessuna procedura di sgombero necessaria, immissione in possesso immediata dopo l'aggiudicazione."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "1) Ipoteca volontaria da mutuo fondiario (notaio Squintani Ambrogio, 20/05/2005) - importo non specificato in perizia; 2) Ipoteca amministrativa Agenzia delle Entrate iscritta 13/09/2017 - importo non specificato; 3) Ipoteca amministrativa Agenzia delle Entrate iscritta 07/04/2022 - importo non specificato. Tutte si estinguono con la vendita forzata. ATTENZIONE: gli importi iscritti non sono indicati nella perizia e vanno verificati.",
+        "spese_condominiali": "Nessuna (immobile monofamiliare senza condominio).",
+        "altri_oneri": "Pignoramento immobiliare n°2184 del 23/07/2024 (si cancella con la vendita). Nessuna servitù, vincolo artistico/storico, diritti di terzi o convenzioni matrimoniali risultanti. Oneri di smaltimento rifiuti e Eternit a carico dell'acquirente (stimati €5.000-15.000)."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Nessuno rilevato allo stato attuale. Il box costruito abusivamente nel 1975 è stato sanato con permesso in sanatoria del 2005 e corrisponde allo stato di fatto. L'edificio abitativo, pur con scheda catastale precedentemente difforme (veranda e latrina non indicate), è considerato urbanisticamente regolare sulla base del PDC n°3340/2006 che rappresenta lo stato di fatto come validato dal Comune. Il CTU dichiara esplicitamente assenza di difformità edilizie.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Edificio dei primi anni del '900, struttura portante in mattoni pieni dichiarata sana dal CTU ma con solai in legno originali, copertura parzialmente ceduta e finiture completamente da rifare. Il dato superficie nel bando (72 mq) è errato rispetto alla perizia (102 mq calpestabili, 174 mq commerciali): verificare il bando d'asta definitivo. La perizia è recente (sopralluogo marzo 2025, asta luglio 2026) quindi i valori sono aggiornati. Il problema fondamentale è economico: acquisto a €71.000 + ristrutturazione totale €70.000-125.000 + smaltimento amianto €5.000-15.000 + spese d'asta/imposte €3.000-7.000 = investimento totale €149.000-218.000 per un immobile che in zona Bonemerse post-ristrutturazione varrebbe al massimo €100.000-130.000. L'operazione ha senso solo per chi intende abitarci stabilmente e considera il delta come costo della personalizzazione, con piena consapevolezza del mercato illiquido della zona."
+    },
+    "data_analisi": "2026-05-04"
+  },
+  "B2415630": {
+    "id": "B2415630",
+    "titolo": "Via Piave, 5 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 164/2025 Rif. #B2415630",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 43408.44,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415630",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/3b803236261b7bbc4906ee5ae1718ebc/2342452-D?cd=true",
+      "https://documents.astalegale.net/file/2/43192f22056e9e7b036e33a6e6d146da/2342453-D?cd=true",
+      "https://documents.astalegale.net/file/2/ad6ac2a2255aadb57b555c23f22ae7be/2342454-D?cd=true",
+      "https://documents.astalegale.net/file/2/c0d4117b8f58f7b8581ec172bd7ea5c2/2342457-D?cd=true",
+      "https://documents.astalegale.net/file/2/1550a3d8d64f1305300267cfe0b332fc/2342456-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2415630_doc1.pdf",
+      "output/pdf/B2415630_doc2.pdf",
+      "output/pdf/B2415630_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2342452 d avviso di vendita",
+      "2342453 d ordinanza",
+      "2342454 d perizia"
+    ],
+    "descrizione": "Trattasi di casa autonoma di civile abitazione di piani due fuori terra con annessa piccola area cortilizia.  - Tipologia: Abitazione di tipo civile - Prezzo: € 43.408,44 - Data asta: 23/07/2026 - 11:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa unifamiliare di due piani fuori terra con box e piccola corte, sita a Corte Dè Cortesi con Cignone (CR) - Via Piave 5, in mediocre stato conservativo (muffe, condense, copertura in eternit da bonificare). Prezzo base coincide con il valore in vendita forzata del CTU (€43.408), ma il valore lordo di mercato è solo €79.781 per un immobile in paese scarsamente servito: il potenziale di acquisto è limitato ma non nullo per chi cerca una prima casa a basso costo in provincia.",
+      "dati_catastali": "Foglio 8, mappale 346 sub.1 cat. A/3 cl.2 (abitazione, 6 vani, sup. tot. 150 mq, escluse aree esterne 144 mq, rendita €247,90) + sub.2 cat. C/6 cl.1 (autorimessa, 18 mq cons., sup. tot. 21 mq, rendita €23,24) - Comune Corte dè Cortesi con Cignone (D056) CR. Aggiornamento DOCFA del 21/01/2026.",
+      "superficie_mq": 159,
+      "prezzo_al_mq": 273,
+      "prezzo_mercato_stimato": "350-500 €/mq (comune rurale provincia Cremona, scarsi servizi, mercato stagnante - dati OMI 1° sem. 2025 confermati dalla perizia CTU)",
+      "sconto_percentuale": "26% rispetto al valore di mercato lordo CTU (€79.781); sconto pressoché nullo rispetto al valore netto CTU post-oneri (€48.231); attenzione: il prezzo base è già il valore in vendita forzata, non il valore di mercato",
+      "anomalie": [
+        "La superficie indicata nel lotto d'asta (72 mq) è gravemente discordante dalla superficie commerciale CTU (158,80 mq) e dalla superficie catastale (150 mq sub.1 + 21 mq sub.2): probabilmente il portale riporta solo la superficie calpestabile del piano primo, ma l'incongruenza deve essere verificata prima dell'offerta.",
+        "La planimetria catastale non era aggiornata dal 1968 alla situazione del 2004: il DOCFA correttivo è stato depositato dal CTU stesso il 21/01/2026 con classamento e rendita ancora 'proposti' ex D.M. 701/94, quindi non ancora definitivamente confermati dall'Agenzia delle Entrate.",
+        "Presenza di copertura in cemento-amianto (Eternit) sull'intero fabbricato (circa 130 mq): obbligo di bonifica con costo stimato €24.350 + IVA, già dedotto dal CTU nel valore netto ma onere reale a carico dell'acquirente.",
+        "Piccolo rustico/sgabuzzino esterno in area cortilizia privo di titolo edilizio e con copertura in eternit parzialmente crollata: non sanabile tramite CILA, il CTU ne raccomanda la demolizione (costo €3.500). Non risultano ordini di demolizione emessi ma il manufatto è abusivo.",
+        "Il vano al piano terra usato come cucina ha altezza netta 2,20 m: non ha i requisiti minimi di agibilità per uso abitativo (min. 2,70 m) e dovrà essere dismesso da tale uso.",
+        "Il libretto caldaia e l'iscrizione al catasto impianti con CURIT non sono reperibili: impianto di riscaldamento non verificabile né certificato.",
+        "Infiltrazione d'acqua documentata tra piano primo e piano terra con danno al solaio: costo di ripristino non quantificato nella perizia.",
+        "Regime patrimoniale di uno dei comproprietari (separazione dei beni) non annotato nel registro Comunale: anomalia formale segnalata dal CTU, non ostatica ma da monitorare ai fini della provenienza."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Copertura in amianto (Eternit)",
+          "dettaglio": "L'intera copertura (~130 mq) è in lastre di cemento-amianto classificate come rifiuto speciale pericoloso. La bonifica è obbligatoria per legge e ha un costo stimato dal CTU di €24.350 + IVA (circa €29.700 IVA inclusa al 22%). È il maggiore onere aggiuntivo e deve essere affrontato entro tempi definiti dalle autorità sanitarie locali. Il CTU ha già dedotto questo costo dal valore netto, ma l'acquirente deve averlo nel proprio budget."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario/debitore",
+          "dettaglio": "L'immobile è occupato da uno dei debitori esecutati con la propria famiglia, senza contratto di locazione o comodato. Non ci sono terzi con titolo, quindi la liberazione avviene tramite decreto del giudice dell'esecuzione dopo il decreto di trasferimento. I tempi tipici sono 3-9 mesi dalla aggiudicazione; possibile resistenza all'uscita con conseguente procedura di sgombero coattivo (ulteriori 2-6 mesi e costi legali di €1.500-3.000)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Abusi edilizi sanabili",
+          "dettaglio": "Due difformità: (1) tavolati interni spostati rispetto alla DIA 2004, sanabile con CILA in sanatoria, costo totale €3.700; (2) rustico esterno abusivo con eternit crollato, non sanabile, da demolire con costo €3.500 (inclusa rimozione eternit parziale). Totale sanatoria €7.200 già dedotto dal CTU. La sanatoria CILA richiede 30-60 giorni dalla presentazione; nessuna certezza sull'accettazione da parte del Comune, anche se il CTU la ritiene praticabile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Stato manutentivo mediocre e classe energetica G",
+          "dettaglio": "Muffe e condense diffuse per assenza di isolamento termico, solaio danneggiato da infiltrazione, impianti vetusti (caldaia senza libretto), serramenti parzialmente in PVC. La classe G (EPgl,nren 446,72 kWh/m²a) implica costi di gestione elevati e, dal 2033, potenziale obbligo di efficientamento energetico secondo la Direttiva Case Green UE. Un intervento di ristrutturazione completa costerebbe €700-900/mq sulla superficie reale, pari a €100.000-140.000 sull'immobile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido e localizzazione sfavorita",
+          "dettaglio": "Corte Dè Cortesi con Cignone è un piccolo comune senza stazione ferroviaria, con scarsi negozi e servizi primari. Il CTU stesso segnala 'stagnazione del mercato immobiliare' e ha trovato un solo comparabile (venduto €37.000 nel 2023). La rivendita futura sarà difficile e i tempi di commercializzazione molto lunghi; non adatto come investimento da reddito o da rivalutazione."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteca e pignoramento",
+          "dettaglio": "Ipoteca volontaria a favore di Crédit Agricole Italia s.p.a. (ex Cassa di Risparmio di Parma e Piacenza) iscritta per €135.000, più il pignoramento trascritto il 30/10/2025. Entrambe le formalità saranno cancellate con il decreto di trasferimento. L'ipoteca di €135.000 è superiore al valore lordo CTU (€79.781), il che significa che il creditore recupererà solo parzialmente il credito, ma questo non impatta l'acquirente: la vendita forzata estingue comunque l'ipoteca."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca volontaria (mutuo fondiario) €135.000 a favore di Crédit Agricole Italia s.p.a. (già Cassa di Risparmio di Parma e Piacenza), iscritta a Cremona il 27/02/2023 al n. 199/1757, in rinnovazione dell'ipoteca originaria del 2003. Sarà cancellata con il decreto di trasferimento.",
+        "spese_condominiali": "Nessuna: l'immobile non costituisce condominio.",
+        "altri_oneri": "Pignoramento trascritto il 30/10/2025 a favore di Crédit Agricole Italia s.p.a. (sarà cancellato). Vincolo urbanistico NAF (Nucleo di Antica Formazione) ex art. 39 PdR del PGT: limitazioni alle trasformazioni edilizie che resteranno a carico dell'acquirente. Nessuna servitù emersa."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Presenti sanabili (parzialmente): (1) difformità interne per tavolati spostati rispetto DIA 2004 - sanabile con CILA in sanatoria, costo €3.700; (2) rustico esterno abusivo con copertura in eternit crollata - non sanabile, da demolire, costo €3.500 inclusa rimozione eternit. Costo totale regolarizzazione €7.200 già scontato nel valore netto CTU.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE CRITICA: il prezzo base (€43.408) coincide esattamente con il valore in vendita forzata del CTU, che è già al netto dei costi di bonifica amianto (€24.350) e sanatoria (€7.200). Aggiungendo questi oneri obbligatori al prezzo base si arriva a €75.000-80.000, praticamente pari al valore lordo di mercato stimato dal CTU: lo sconto reale per l'acquirente è quindi minimo o nullo. Costruita nel 1968, ristrutturata parzialmente nel 2004, classe energetica G. Il vincolo NAF limita le possibilità di ampliamento. La superficie di 72 mq indicata sul portale è fuorviante (probabilmente solo piano primo): la superficie commerciale reale è 158,80 mq secondo CTU. Prima di offrire, è indispensabile calcolare il budget totale: prezzo base + bonifica eternit (~€29.700 IVA) + sanatoria (€7.200) + sgombero/spese legali (~€3.000) + spese d'asta e imposte (~€3.000-5.000) + ristrutturazione almeno parziale (minimo €30.000-50.000) = totale realistico €115.000-140.000 per un immobile con valore di mercato lordo di €79.781 in un comune illiquido."
+    },
+    "data_analisi": "2026-05-04"
+  },
+  "B2405015": {
+    "id": "B2405015",
+    "titolo": "Via Cattaneo 6 - Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 90000.0,
+    "data_asta": "07/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2405015",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/bdcf5664136fcab4a0c989120bdee0d2/2342440-D?cd=true",
+      "https://documents.astalegale.net/file/2/58b4be4b561566c1ec8582e96b48b3ad/2342441-D?cd=true",
+      "https://documents.astalegale.net/file/2/2705d5bd94e563ba911417e02ed82209/2250566-B?cd=true",
+      "https://documents.astalegale.net/file/2/bf882b9107a087f5104b2a6e11c93a69/2250567-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2405015_doc1.pdf",
+      "output/pdf/B2405015_doc2.pdf",
+      "output/pdf/B2405015_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2342440 d avviso di vendita",
+      "2342441 d ordinanza",
+      "2250566 b perizia"
+    ],
+    "descrizione": "PIENA PROPRIETÀ di una villa indipendente sviluppata su due piani fuori terra edificata su un lotto di superficie di 570 mq. L’abitazione, della superficie complessiva di mq 140 circa, si compone, al piano terra, da soggiorno, cucina, bagno e locale accessorio mentre, al piano primo, da due camere, bagno e balcone. Compongono altresì l’immobile una porzione adibita a locale accessori, un portico ed un giardino.L’immobile è in discreto stato di conservazione ed è attualmente libero da persone e d",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CahzvwLo1jyvjTnNDXRvg'}",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-04"
+  }
+}

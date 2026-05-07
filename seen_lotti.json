@@ -211,5 +211,93 @@
       "giudizio_colore": "⚪"
     },
     "data_analisi": "2026-05-04"
+  },
+  "B2416272": {
+    "id": "B2416272",
+    "titolo": "Via Livelli Inferiori, 1 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 107/2023 Rif. #B2416272",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 22781.25,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416272",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/6aea6f755caa1f327f3aac2d6ff7d7f9/2348536-B?cd=true",
+      "https://documents.astalegale.net/file/2/b876b5420fae29dbd346a02b4d2ac35c/2348535-B?cd=true",
+      "https://documents.astalegale.net/file/2/8b9fed4b4d2c91435f82b6d98dfc9d9c/2348537-B?cd=true",
+      "https://documents.astalegale.net/file/2/fa71ddc2d90c5f04b6276c603e6113b8/2348538-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416272_doc1.pdf",
+      "output/pdf/B2416272_doc2.pdf",
+      "output/pdf/B2416272_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2348536 b avviso di vendita",
+      "2348535 b ordinanza",
+      "2348537 b perizia"
+    ],
+    "descrizione": "Gli immobili sono situati area golenale agricola chiusa. Edificati prima del 1967 si costituiscono di un immobile principale di semplice architettura e privo di segni distintivi, rustici edificati nella parte posteriore delimitanti il cortile ed un corpo di fabbrica adiacente all’edificio principale contenente un’autorimessa. Nella parte ad est sorgeva un magazzino, quasi interamente demolito dal maltempo che ha riservato il perimetro costituito da un muro basso utilizzato come recinto per il be",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Edificio residenziale su tre livelli (PT+P1+P2) con autorimessa e area agricola di circa 2.600 mq, ubicato a Motta Baluffi (CR), piccolo comune a circa 25 km da Cremona in zona golenale agricola vincolata. Stato manutentivo sufficiente per l'abitazione, scarso per l'autorimessa, con necessità di interventi ordinari. Il prezzo base d'asta (€22.781) è drasticamente inferiore al valore di vendita forzata stimato dal CTU (€54.000) e ancor più al valore di libero mercato (€64.000), ma l'ubicazione rurale periferica, il vincolo golenale inedificabile e l'occupazione da parte dell'esecutato con famiglia ne limitano significativamente l'attrattività commerciale.",
+      "dati_catastali": "Fg. 10, mapp. 52 (Terreno); Fg. 10, mapp. 50; Fg. 10, mapp. 51 sub. 501 e mapp. 122 sub. 501 (Cat. A/3, Cl. 2, Supf. cat. 238 mq totale escluse aree scoperte, consistenza 9 vani, rendita €395,09, PT P1 P2); Fg. 10, mapp. 51 sub. 502 (Cat. C/6, consistenza 32 mq - autorimessa); Fg. 10, mapp. 123 (Cat. C/2, consistenza 65 mq - edificio quasi completamente demolito)",
+      "superficie_mq": 242,
+      "prezzo_al_mq": 94,
+      "prezzo_mercato_stimato": "250-400 €/mq (comune rurale periferico >20 km da Cremona, zona golenale vincolata, mercato illiquido)",
+      "sconto_percentuale": "64% rispetto al valore di libero mercato CTU (€64.000); il prezzo base di €22.781 appare anomalmente basso rispetto alla stima CTU di €54.000 in vendita forzata, probabile riduzione da aste deserte precedenti",
+      "anomalie": [
+        "Il prezzo base indicato nel lotto (€22.781) è inferiore del 58% rispetto al valore di vendita forzata stimato dal CTU (€54.000): probabile ribasso da aste deserte precedenti, segnale di scarso interesse del mercato.",
+        "La superficie indicata nel lotto (72 mq) è gravemente difforme dalla superficie lorda residenziale rilevata dal CTU (241,80 mq abitazione + 39 mq autorimessa): il dato del portale è probabilmente errato o si riferisce solo alla superficie catastale netta di un subalterno.",
+        "Il magazzino catastato come C/2 (mapp. 123, 65 mq) risulta quasi completamente demolito ma ancora iscritto al catasto: situazione da regolarizzare con aggiornamento catastale (DOCFA) a carico dell'acquirente.",
+        "Assenza del titolo abilitativo edilizio originario (costruzione ante 1967 in ambito rurale): conforme per legge ma privo di agibilità/abitabilità formale; l'acquirente dovrà valutare se ottenere il certificato di agibilità per future compravendite.",
+        "Le certificazioni di conformità degli impianti non sono state reperite: impianti potenzialmente non a norma (elettrico, idrico-sanitario), con costi di adeguamento da stimare.",
+        "Serramenti interni al P2 risultavano smontati al momento del sopralluogo: possibile asportazione di beni da parte dell'occupante durante la procedura."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Vincolo urbanistico golenale inedificabile",
+          "dettaglio": "L'immobile ricade in zona agricola golenale chiusa con fascia di rispetto extra-golenale (PTPR E3), classificata come zona R - ambito di rispetto inedificabile. Sono ammessi solo ampliamenti fino al 20% del volume esistente per gli edifici residenziali preesistenti; nessuna nuova costruzione è possibile. Questo vincolo comprime drasticamente le possibilità di valorizzazione, rende l'immobile commercialmente illiquido e ne deprime il valore a lungo termine. Non sanabile, intrinseco alla localizzazione."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Ubicazione e mercato illiquido",
+          "dettaglio": "Motta Baluffi è un piccolo comune con popolazione inferiore a 700 abitanti, a 25 km da Cremona, in contesto agricolo isolato. La vendibilità è giudicata 'discreta' dalla stessa CTU. Il mercato immobiliare locale è praticamente inesistente, con pochissime transazioni di riferimento, rendendo molto difficile la rivendita futura. Il ribasso del prezzo rispetto alla stima CTU suggerisce aste precedenti andate deserte."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario con famiglia",
+          "dettaglio": "L'immobile è stabilmente occupato dall'esecutato insieme a convivente e due figli minorenni. Pur non essendoci contratti di locazione, la presenza di minori può rendere la procedura di liberazione più delicata e allungare i tempi. È necessario decreto del giudice dell'esecuzione per lo sgombero: stimare 6-18 mesi e possibili tensioni, con costi legali di €2.000-5.000."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Rischio alluvionale/esondazione",
+          "dettaglio": "L'area è inserita nella fascia B del PAI (fascia di esondazione del Po), 'discretamente difese dalle maggiori piene'. Il rischio idrogeologico è strutturale e non eliminabile: possibili danni da alluvione, costi assicurativi elevati, difficoltà di ottenere mutui ipotecari su questa tipologia di immobile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Impianti non certificati e stato autorimessa",
+          "dettaglio": "Nessuna certificazione di conformità degli impianti disponibile (elettrico, gas, idrico-sanitario). L'autorimessa è in condizioni scarse con finiture incomplete e basculanti da sostituire. I costi di adeguamento impiantistico e manutenzione straordinaria sono stimabili in €15.000-30.000 totali per portare l'immobile a standard abitativo moderno."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità urbanistica ed edilizia",
+          "dettaglio": "Il compendio risulta conforme agli atti edilizi; la costruzione ante 1967 in ambito rurale non richiede titolo abilitativo. Non sono state riscontrate opere abusive da sanare. Le coperture in amianto sono già state rimosse. Situazione urbanistica pulita, salvo necessità di aggiornamento catastale per il magazzino demolito (costo stimato DOCFA: €800-1.500)."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Presente pignoramento immobiliare trascritto a Cremona (data e importo parzialmente oscurati nella perizia). Non emergono ulteriori ipoteche volontarie dall'ispezione ipotecaria del 15/01/2024. Il pignoramento si estinguerà con la vendita forzata.",
+        "spese_condominiali": "Non applicabile: non si tratta di condominio.",
+        "altri_oneri": "Nessun censo, livello o uso civico rilevato. Nessun vincolo storico-artistico. Vincolo paesaggistico-ambientale PTPR E3 (zona golenale) che limita le possibilità edificatorie: resta a carico dell'acquirente come vincolo reale non eliminabile."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "nessuno rilevato - il compendio risulta conforme agli atti edilizi; la costruzione ante 1967 in ambito rurale è conforme per legge senza necessità di titolo abilitativo. Da regolarizzare solo l'aggiornamento catastale del magazzino (mapp. 123) quasi completamente demolito.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Nonostante lo sconto nominale molto elevato (prezzo base €22.781 vs valore CTU €64.000), il contesto complessivo scoraggia l'acquisto per un privato: l'immobile si trova in un comune rurale isolato a 25 km da Cremona, in zona golenale inedificabile con rischio alluvionale strutturale, il che lo rende praticamente invendibile sul mercato aperto. La stessa CTU giudica la vendibilità 'discreta' e il ribasso significativo del prezzo base rispetto alla stima di vendita forzata (€54.000) suggerisce aste già andate deserte. L'edificio è ante 1967, con solai probabilmente in latero-cemento, impianti non certificati, classe energetica non comunicata nel documento (APE presente fino al 2027 ma classe non specificata - probabile F o G data l'epoca). Aggiungendo i costi di liberazione (6-18 mesi), adeguamento impianti (€15.000-30.000), regolarizzazione catastale magazzino demolito (€1.000-2.000), spese d'asta e imposte di registro (circa €2.000-3.000 sul prezzo di aggiudicazione), il costo totale reale si avvicina rapidamente al valore di mercato locale, annullando il vantaggio apparente. Unico scenario plausibile: acquisto da parte di soggetto che vuole una casa rurale in zona golenale per uso agricolo/ricreativo personale, senza necessità di rivendita futura, con disponibilità liquida per ristrutturazione e tolleranza alle lungaggini di sgombero."
+    },
+    "data_analisi": "2026-05-07"
   }
 }

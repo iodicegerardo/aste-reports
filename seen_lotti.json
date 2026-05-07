@@ -299,5 +299,93 @@
       "note_aggiuntive": "Nonostante lo sconto nominale molto elevato (prezzo base €22.781 vs valore CTU €64.000), il contesto complessivo scoraggia l'acquisto per un privato: l'immobile si trova in un comune rurale isolato a 25 km da Cremona, in zona golenale inedificabile con rischio alluvionale strutturale, il che lo rende praticamente invendibile sul mercato aperto. La stessa CTU giudica la vendibilità 'discreta' e il ribasso significativo del prezzo base rispetto alla stima di vendita forzata (€54.000) suggerisce aste già andate deserte. L'edificio è ante 1967, con solai probabilmente in latero-cemento, impianti non certificati, classe energetica non comunicata nel documento (APE presente fino al 2027 ma classe non specificata - probabile F o G data l'epoca). Aggiungendo i costi di liberazione (6-18 mesi), adeguamento impianti (€15.000-30.000), regolarizzazione catastale magazzino demolito (€1.000-2.000), spese d'asta e imposte di registro (circa €2.000-3.000 sul prezzo di aggiudicazione), il costo totale reale si avvicina rapidamente al valore di mercato locale, annullando il vantaggio apparente. Unico scenario plausibile: acquisto da parte di soggetto che vuole una casa rurale in zona golenale per uso agricolo/ricreativo personale, senza necessità di rivendita futura, con disponibilità liquida per ristrutturazione e tolleranza alle lungaggini di sgombero."
     },
     "data_analisi": "2026-05-07"
+  },
+  "B2416340": {
+    "id": "B2416340",
+    "titolo": "Via SONZOGNO , 3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 98/2025 Rif. #B2416340",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 55000.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416340",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/a0c6c4ebe438dbc85997b6fcfd1a8e6d/2348506-B?cd=true",
+      "https://documents.astalegale.net/file/2/ed68ab2919db827df3adebe774ac55e7/2348505-B?cd=true",
+      "https://documents.astalegale.net/file/2/58c5170dd914f6705b31d8ce6b1a04ea/2348507-B?cd=true",
+      "https://documents.astalegale.net/file/2/12ab8f02cce45f767dcfec543620318c/2348508-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416340_doc1.pdf",
+      "output/pdf/B2416340_doc2.pdf",
+      "output/pdf/B2416340_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2348506 b avviso di vendita",
+      "2348505 b ordinanza",
+      "2348507 b perizia"
+    ],
+    "descrizione": "L’immobile è situato all’interno del centro storico del paese ed è composto da un appartamento disposto su due piani. Al piano primo si trova un accesso da pianerottolo della scala ad uso esclusivo che immette direttamente nel soggiorno con zona dedicata a cucina, disimpegno da cui si accede a due camere da letto, bagno e terrazza coperta con ondulina trasparente. Al secondo piano, sempre con accesso da pianerottolo della scala si trovano i locali del sottotetto ad uso abitativo senza i requisit",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento su due livelli (P1+sottotetto P2) a Casalbuttano ed Uniti (CR), centro storico, circa 183 mq catastali (8,5 vani) ma solo ~182 mq commerciali stimati dal CTU a 333,95 €/mq. Stato manutentivo scarso, problemi strutturali all'impianto idrico, sottotetto P2 privo dei requisiti igienico-sanitari (altezze insufficienti). Prezzo base coincide esattamente con il valore di vendita forzata del CTU, quindi sconto sull'aggiudicazione minimo rispetto al valore di mercato stimato dal perito.",
+      "dati_catastali": "Foglio 12, Mappale 313, Subalterno 5, Categoria A/2, Classe 4, Vani 8,5 - Comune di Casalbuttano ed Uniti (CR)",
+      "superficie_mq": 182,
+      "prezzo_al_mq": 302,
+      "prezzo_mercato_stimato": "500-800 €/mq (centro storico Casalbuttano ed Uniti, comune ~4.000 ab., circa 20 km da Cremona, da ristrutturare)",
+      "sconto_percentuale": "circa 25-40% rispetto al valore di mercato della zona (range ampio per illiquidità del mercato locale), ma solo ~10% rispetto al valore libero mercato CTU (€61.000); il prezzo base è già il valore di vendita forzata",
+      "anomalie": [
+        "Il piano secondo (sottotetto) è adibito ad uso abitativo ma NON soddisfa i requisiti igienico-sanitari minimi: altezza media inferiore a 2,40 mt e superfici finestrate insufficienti per aerazione e illuminazione. La C.E. in sanatoria n. 319/1987 ha sanato la destinazione d'uso ma NON la non-regolarità igienico-sanitaria, pertanto il P2 deve essere considerato soffitta e non abitazione dal punto di vista igienico-sanitario.",
+        "La cucina al P2 è accatastata come 'lavanderia': difformità tra uso effettivo e destinazione catastale, anche se il CTU dichiara regolarità catastale complessiva.",
+        "Il bagno ha gravi problemi all'impianto di scarico con perdite che raggiungono il piano sottostante di altra proprietà: rischio di contenzioso con condomini/vicini e costi di riparazione non quantificati nella perizia.",
+        "Superficie commerciale utilizzata dal CTU (circa 182 mq a 333,95 €/mq) appare incongruente con i soli 8,5 vani catastali e lo stato di fatto descritto; la scheda riporta 72 mq nel bando d'asta, dato fortemente discordante dalla superficie CTU (~182 mq): chiarire quale superficie sia quella effettivamente calpestabile.",
+        "L'edificio è in 'Ambiti dei nuclei di antica formazione' nel PGT: possibili vincoli sugli interventi di recupero e ristrutturazione che potrebbero limitare la libertà progettuale.",
+        "La sopraelevazione degli anni '70 (latero-cemento) è coperta da C.E. 391/1977 ma la regolarità igienico-sanitaria del piano risultante non è mai stata sanata definitivamente."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Non abitabilità P2 per requisiti igienico-sanitari",
+          "dettaglio": "Il piano secondo è legittimo dal punto di vista edilizio-urbanistico ma NON igienico-sanitario: altezze insufficienti (<2,40 mt) e superfici finestrate inadeguate. Non può essere utilizzato come abitazione conforme; eventuali lavori di adeguamento (sopraelevazione del tetto o abbassamento del solaio) in zona di antica formazione potrebbero essere non autorizzabili o molto costosi (stimabili 30.000-80.000€). Questo impatta direttamente il valore reale dell'immobile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario (esecutato e coniuge)",
+          "dettaglio": "L'immobile è occupato dall'esecutata e dal marito in regime di comunione legale. Non risultano contratti di locazione. Lo sgombero richiederà decreto del giudice dell'esecuzione post-aggiudicazione; i tempi tipici sono 3-9 mesi. Rischio di resistenza all'abbandono dell'abitazione principale."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Stato manutentivo scarso e impianti da rifare",
+          "dettaglio": "Umidità diffusa, infiltrazioni dalla copertura, impianto scarico bagno con perdite verso altra proprietà, serramenti in legno con vetro singolo, impianti tecnologici da mettere a norma. Costo di ristrutturazione stimabile tra 40.000-80.000€ (220-440 €/mq su ~182 mq), che sommato al prezzo base porta l'investimento totale a 95.000-135.000€."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Illiquidità del mercato immobiliare locale",
+          "dettaglio": "Casalbuttano ed Uniti è un comune di piccole dimensioni (~4.000 ab.) con mercato immobiliare molto illiquido. Le tre compravendite comparabili citate dal CTU (70.000€, 95.000€, 110.000€) riguardano immobili con pertinenze e autorimesse; la rivendita futura potrebbe richiedere anni e a prezzi non garantiti."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F",
+          "dettaglio": "APE classe F valido fino al 28/08/2029. Adeguamento energetico (cappotto, infissi, impianto) necessario per rispettare le future normative europee EPBD; costo stimato 15.000-30.000€ aggiuntivi."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteche e vincoli",
+          "dettaglio": "Dalla perizia risulta che le formalità che resteranno a carico dell'acquirente sono assenti ('non risultano vincoli diretti sull'immobile'). Esistono formalità che saranno cancellate (ipoteca e pignoramento). Nessun onere condominiale arretrato (non è un condominio)."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Presente almeno un'ipoteca (visibile nella sezione 'Formalità che saranno cancellate', creditore con sede a Roma - verosimilmente istituto bancario) e trascrizione del pignoramento immobiliare: entrambi si cancelleranno con la vendita forzata. Importo esatto non leggibile per oscuramento nel documento.",
+        "spese_condominiali": "Nessuna: il compendio non risulta parte di un condominio.",
+        "altri_oneri": "Trascrizione del pignoramento immobiliare a favore del creditore procedente (Tribunale di Cremona): verrà cancellata. Nessun censo, livello, uso civico o servitù risultante dagli atti."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Nessuno rilevato formalmente dal CTU. Tuttavia, il sottotetto P2 è stato trasformato in abitazione con C.E. in sanatoria n. 319/1987, ma permane la non-regolarità igienico-sanitaria (altezze insufficienti) che impedisce la classificazione come unità abitativa conforme: situazione legittima urbanisticamente ma problematica funzionalmente e ai fini della commerciabilità come 'appartamento su due piani'.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE CRITICA: la superficie indicata nel bando d'asta (72 mq) è gravemente discordante dalla superficie commerciale utilizzata dal CTU per la stima (circa 182 mq a 333,95 €/mq); prima di qualsiasi offerta è indispensabile chiarire questo dato accedendo alla planimetria catastale allegata. L'immobile si trova nel centro storico di Casalbuttano, circa 20 km da Cremona, con scarsa attrattività per un acquirente non locale. Il CTU stesso definisce il giudizio sulla vendibilità 'discreto'. L'investimento totale realistico (55.000€ base + 50.000-80.000€ ristrutturazione + 5.000-8.000€ spese d'asta) porterebbe a 110.000-143.000€, vicino ai valori di mercato delle compravendite comparabili (70.000-110.000€), rendendo il margine molto ridotto. Consigliato sopralluogo approfondito e consulenza tecnica prima dell'offerta, con particolare attenzione alla verifica delle altezze reali del P2 e ai costi di riparazione dell'impianto idrico-fognario."
+    },
+    "data_analisi": "2026-05-07"
   }
 }

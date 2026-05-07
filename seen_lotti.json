@@ -387,5 +387,196 @@
       "note_aggiuntive": "ATTENZIONE CRITICA: la superficie indicata nel bando d'asta (72 mq) è gravemente discordante dalla superficie commerciale utilizzata dal CTU per la stima (circa 182 mq a 333,95 €/mq); prima di qualsiasi offerta è indispensabile chiarire questo dato accedendo alla planimetria catastale allegata. L'immobile si trova nel centro storico di Casalbuttano, circa 20 km da Cremona, con scarsa attrattività per un acquirente non locale. Il CTU stesso definisce il giudizio sulla vendibilità 'discreto'. L'investimento totale realistico (55.000€ base + 50.000-80.000€ ristrutturazione + 5.000-8.000€ spese d'asta) porterebbe a 110.000-143.000€, vicino ai valori di mercato delle compravendite comparabili (70.000-110.000€), rendendo il margine molto ridotto. Consigliato sopralluogo approfondito e consulenza tecnica prima dell'offerta, con particolare attenzione alla verifica delle altezze reali del P2 e ai costi di riparazione dell'impianto idrico-fognario."
     },
     "data_analisi": "2026-05-07"
+  },
+  "B2416255": {
+    "id": "B2416255",
+    "titolo": "Via Corte Guazzona, 5 - Lotto Unico - Tribunale di Cremona - Contenzioso civile 149/2025 Rif. #B2416255",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 94668.75,
+    "data_asta": "17/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416255",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/787428f6a1c9fb34a2ceded7f45800ba/2347205-B?cd=true",
+      "https://documents.astalegale.net/file/2/3f33eaba1d339a6c7cbb51102427e63f/2347204-B?cd=true",
+      "https://documents.astalegale.net/file/2/c747940fafe73fe59eed18833efb79fe/2146470-C?cd=true",
+      "https://documents.astalegale.net/file/2/37f2591fd3e6d31d5a5d48b7e84ae810/2146471-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416255_doc1.pdf",
+      "output/pdf/B2416255_doc2.pdf",
+      "output/pdf/B2416255_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2347205 b avviso di vendita",
+      "2347204 b ordinanza",
+      "2146470 c perizia"
+    ],
+    "descrizione": "Unità immobiliare ingresso principale (accesso carrabile e pedonale) o via Filanda n. 2 (ingresso secondario pedonale). Trattasi di unità immobiliare ad uso abitativo con locali accessori ed autorimessa. Edificio di tipo unifamiliare, caratterizzato da ampi spazi, interni ed esterni, costituito da tre piani fuori terra. Al piano terra è composto da cucina, soggiorno, salotto, un ripostiglio, il vano scala che conduce al piano superiore adiacente a quest’ultimo e diviso da un muro senza accesso d",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Edificio unifamiliare a San Giovanni in Croce (CR), via Corte Guazzona 5, su tre piani fuori terra con locali accessori, autorimessa e giardino/cortile, superficie commerciale 327,50 mq. Il prezzo base di €94.669 appare estremamente ridotto rispetto al valore di mercato CTU (€207.200), ma l'immobile è occupato da inquilino con contratto di locazione in corso e presenta fabbricati accessori non concessionati da demolire obbligatoriamente. La superficie indicata nel lotto (72 mq) è gravemente discordante dai 327,50 mq commerciali della perizia: probabile errore del portale o riferimento a una sola unità catastale.",
+      "dati_catastali": "Foglio 7, mappale 259 sub.502 (A/3, classe 3, graffato a mapp. 318/501, 260/501, 261/501, 262/501); mappale 262 sub.502 (C/2, classe 2); mappale 260 sub.503 graffato a 262 sub.504 (C/2, classe 2); mappale 260 sub.502 (C/2, classe 2); mappale 262 sub.503 (C/6, classe 2). Conformità catastale: sì. Nota: la planimetria del mapp. 262 sub.503 (C/6) corrisponde ancora alla vecchia scheda mapp. 260 sub.4, aggiornato solo il tipo mappale e non la planimetria.",
+      "superficie_mq": 328,
+      "prezzo_al_mq": 289,
+      "prezzo_mercato_stimato": "500-750 €/mq (San Giovanni in Croce, comune ~1.500 ab. entro 20 km da Cremona, zona non in espansione, edificio da ristrutturare con abusi da demolire)",
+      "sconto_percentuale": "48-62% rispetto al valore di mercato stimato per la zona; lo sconto rispetto al valore CTU in vendita forzata (€168.300) è del 44%",
+      "anomalie": [
+        "GRAVE DISCREPANZA DI SUPERFICIE: il portale aste indica 72 mq mentre la perizia CTU certifica 327,50 mq commerciali (superficie catastale abitazione sola: 286 mq). Probabile errore del portale ma da verificare assolutamente prima di partecipare.",
+        "FABBRICATI ACCESSORI NON CONCESSIONATI (ABUSO EDILIZIO NON SANABILE): i locali accessori identificati al Fg. 7 mapp. 260 sub.503 e una porzione del sub.502 sono stati realizzati senza titoli abilitativi e il Comune di San Giovanni in Croce ha confermato che non sono sanabili: obbligo di demolizione con costo stimato €16.000.",
+        "ASSENZA TOTALE DI AGIBILITÀ/ABITABILITÀ: dalle ricerche comunali non sono emersi documenti di agibilità o abitabilità dell'immobile, che è privo di questo requisito essenziale.",
+        "INCONGRUENZA TRA ATTO DI PIGNORAMENTO E DATI CATASTALI ATTUALI: il pignoramento era stato eseguito sui vecchi dati catastali (antecedenti al dicembre 2019); la CTU ha dovuto richiedere nuova certificazione notarile per includere il mappale 262 sub.502 (C/2) inizialmente omesso. Sanata dalla nuova certificazione del Notaio Tiecco.",
+        "PLANIMETRIA CATASTALE NON AGGIORNATA per il mapp. 262 sub.503 (C/6): corrisponde ancora alla vecchia scheda del mapp. 260 sub.4, con aggiornamento solo del tipo mappale ma non della planimetria depositata.",
+        "ANNOTAMENTO DI INEFFICACIA PARZIALE sulla donazione del 02/08/2013 (2/6 di proprietà), emesso dal Tribunale di Cremona il 13/10/2017 e annotato il 21/12/2017: segnale di possibili contenziosi pregressi sulla titolarità.",
+        "IMMOBILE LOCATO con contratto di affitto in corso al momento del sopralluogo (01/03/2024): il conduttore era presente e l'immobile risultava arredato e abitato. Scadenza del contratto e condizioni non specificate nella perizia disponibile.",
+        "SERVITÙ PRESENTE sull'immobile (rimandata all'atto di acquisto 1977, Allegato F): natura e contenuto della servitù non dettagliati nella perizia, da verificare.",
+        "POSSIBILE PRESENZA DI AMIANTO nelle coperture dei fabbricati accessori (tetto in onduline): la CTU segnala che andrà verificato e correttamente smaltito se presente.",
+        "ACCESSO SECONDARIO DA VIA FILANDA 12 NON ISPEZIONABILE al sopralluogo: le chiavi non erano disponibili, quindi parte della proprietà non è stata verificata direttamente."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da inquilino con contratto registrato",
+          "dettaglio": "L'immobile risulta locato a un conduttore con contratto di locazione registrato (Allegato Q). Il conduttore ha diritto di restare fino alla scadenza naturale del contratto; la vendita forzata non risolve automaticamente il contratto se anteriore al pignoramento. I tempi di liberazione dipendono dalla scadenza contrattuale (non indicata) e possono essere di 1-4+ anni; il conduttore potrebbe esercitare diritto di prelazione. Impatto diretto sul possesso e sulla disponibilità dell'immobile post-aggiudicazione."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Abusi edilizi non sanabili con obbligo di demolizione",
+          "dettaglio": "I locali accessori (mapp. 260 sub.503 e porzione sub.502) sono stati realizzati senza concessione e il Comune ha confermato che non sono sanabili: obbligo di demolizione certificato dalla CTU. Costo stimato €16.000 (lavori + SCIA + nuovo accatastamento). La mancata demolizione espone l'acquirente a sanzioni amministrative e impossibilità di futura rivendita o ipoteca. Rischio concreto e certo, non evitabile."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di agibilità/abitabilità",
+          "dettaglio": "Nessun documento di agibilità o abitabilità è stato reperito presso il Comune. Senza agibilità l'immobile non può essere oggetto di contratto di locazione legale post-acquisto, né di mutuo ipotecario per l'acquirente, né di vendita regolare futura senza sanatoria. Ottenere l'agibilità postuma richiede verifica di conformità strutturale, impiantistica e urbanistica: tempi e costi incerti, potenzialmente elevati (stima €5.000-20.000+ in funzione degli adeguamenti necessari)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Annotamento di inefficacia parziale su donazione 2013",
+          "dettaglio": "Sulla donazione di 2/6 di proprietà del 2013 risulta un annotamento di inefficacia parziale emesso dal Tribunale di Cremona nel 2017. Potrebbe indicare un'azione revocatoria parzialmente accolta da parte di creditori. Sebbene il pignoramento sembri esteso all'intero lotto (nuova certificazione notarile Tiecco lo conferma), questo precedente merita approfondimento con un legale prima di partecipare."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti da adeguare",
+          "dettaglio": "Classe energetica F (APE del 30/12/2016, valido fino al 30/12/2026). Riscaldamento con sole stufe a legna, nessun impianto centralizzato. Adeguamento energetico minimo (caldaia, isolamento) stimabile in €15.000-40.000 a seconda dell'intervento scelto. Gli impianti tecnologici presenti (elettrico, idrico, fognario) non risultano certificati a norma."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù non identificata",
+          "dettaglio": "La perizia segnala la presenza di una servitù (rinvio all'atto 1977) senza specificarne natura, ampiezza e soggetto beneficiario. Potrebbe trattarsi di servitù di passaggio (esiste un corridoio di collegamento tra cortili di cui uno non di proprietà). Da esaminare l'atto del 1977 prima dell'asta per escludere limitazioni significative all'uso della proprietà."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Stato manutentivo dei fabbricati accessori",
+          "dettaglio": "I fabbricati accessori (autorimessa e locali annessi) versano in stato fatiscente con cedimento della copertura, possibile amianto nelle onduline, cortile ammalorato da rifacimento. Le aree esterne necessitano di risistemazione complessiva. Costi aggiuntivi stimabili in €10.000-25.000 oltre ai €16.000 di demolizione obbligatoria."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteche e trascrizioni pregiudizievoli",
+          "dettaglio": "La CTU non rileva ipoteche o trascrizioni pregiudizievoli successive alla certificazione notarile del Notaio Tiecco. Nessun onere condominiale arretrato. Il quadro degli oneri reali appare pulito, il che è un fattore positivo rispetto ad altre aste."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca risultante dalla ricerca effettuata successivamente alla certificazione notarile del Notaio Niccolò Tiecco. Non sono indicate ipoteche specifiche con importi nella perizia.",
+        "spese_condominiali": "Nessuna (immobile unifamiliare, nessun condominio, nessun arretrato rilevato)",
+        "altri_oneri": "Servitù presente (natura non specificata, rimando all'atto 1977); annotamento di inefficacia parziale sulla donazione 2013 (Tribunale Cremona, Rep. 1898/2016, annotato 21/12/2017). Obbligo di demolizione dei fabbricati accessori non concessionati (costo €16.000) che grava sull'acquirente."
+      },
+      "occupazione": "occupato da terzi (con titolo - contratto di locazione registrato in corso)",
+      "abusi_edilizi": "Presenti NON SANABILI: i locali accessori identificati al Fg. 7 mapp. 260 sub.503 e una porzione del sub.502 sono stati realizzati senza titoli abilitativi e il Comune di San Giovanni in Croce ha confermato che non sono sanabili. Obbligo di demolizione con costo stimato dalla CTU in €16.000 comprensivo di lavori (€13.435), SCIA (€1.000), diritti di segreteria (€50) e nuovo accatastamento (€1.500). La C.E. n.457/1979 riguardava solo bagno al P.1 e garage, non i locali accessori che risultano quindi privi di qualsiasi titolo.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Lo sconto sul valore CTU in vendita forzata (€168.300) è significativo (44%), ma il prezzo base di €94.669 deve essere depurato dei costi certi e immediati: demolizione obbligatoria €16.000 + adeguamento energetico/impiantistico stimato €20.000-40.000 + spese d'asta (imposta registro 9% seconda casa = ~€8.500, o 2% prima casa = ~€1.900) + eventuale amianto da smaltire. Il costo reale all'acquisto si avvicina a €130.000-160.000 prima di qualsiasi ristrutturazione dell'abitativo. L'immobile è edificato presumibilmente a metà '800 con aggiunte anni '70-'80, struttura in muratura portante con mattoni pieni, volte a crociera nella parte più antica. Zona non in espansione (San Giovanni in Croce ~1.500 abitanti), mercato immobiliare locale con liquidità ridotta e vendibilità futura 'discreta' secondo la stessa CTU. IL RISCHIO PRINCIPALE E BLOCCANTE è la locazione in corso: senza conoscere la scadenza del contratto l'acquirente non sa quando potrà disporre dell'immobile. Verificare URGENTEMENTE (prima dell'asta) la scadenza del contratto di locazione (Allegato Q non pubblicato integralmente). Se il contratto scade entro 12 mesi, il rischio diventa gestibile; se residuano 3-4 anni di locazione, l'operazione perde ulteriore attrattività economica. Secondariamente, la discrepanza 72 mq del portale vs 327,50 mq CTU deve essere chiarita con il custode giudiziario prima del deposito dell'offerta: potrebbe trattarsi di un errore di inserimento dati, ma in caso contrario l'analisi economica cambia radicalmente. Perizia depositata 10/10/2024: recente e aggiornata, metodologia MCA su due compravendite locali (2022 e 2024), affidabile."
+    },
+    "data_analisi": "2026-05-07"
+  },
+  "B2415710": {
+    "id": "B2415710",
+    "titolo": "Via TRENTO , 27 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2415710",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 18500.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415710",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/811e781259b8d65967612c7f879b9ff4/2347162-B?cd=true",
+      "https://documents.astalegale.net/file/2/ccb97d49a9dc9df77c33a180fdd2d51b/2347161-B?cd=true",
+      "https://documents.astalegale.net/file/2/31cc0f827d7598154208d116a13b5cac/2347165-B?cd=true",
+      "https://documents.astalegale.net/file/2/5d9c2dc7b3360d4ebe6ed16ab77663bb/2347166-B?cd=true",
+      "https://documents.astalegale.net/file/2/c101cd31b4220c57a32c38e50a46d3af/2347163-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2415710_doc1.pdf",
+      "output/pdf/B2415710_doc2.pdf",
+      "output/pdf/B2415710_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2347162 b avviso di vendita",
+      "2347161 b ordinanza",
+      "2347165 b perizia"
+    ],
+    "descrizione": "Trattasi di casa a cortina nel centro di Grontardo (CR), dotata di cortile e rustico antistante su due livelli: l'ingresso avviene dal cancello al civico n. 27 di via Trento che non pare avere una concessione di passo carraio. Dal cortile si accede al portico e, con una scala esterna mobile, al fienile; dalla porta d'accesso al fabbricato principale invece si accede al soggiorno, successivamente alla cucina ed infine al bagno. \nDall'antibagno parte la scala interna che conduce al piano primo: la",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa a cortina su due livelli con cortile e rustico/fienile nel centro di Grontardo (CR), comune di circa 1.500 abitanti a ~20 km da Cremona. Immobile libero, in stato manutentivo scarso, con abusi edilizi presenti e parzialmente sanabili, amianto probabile, impianto termico assente e classe energetica G. Il prezzo base di 18.500€ è estremamente basso ma riflette un valore di mercato già molto contenuto per la zona e gli oneri di riqualificazione totale.",
+      "dati_catastali": "Foglio 9, Particelle 161 e 162 graffate, nessun subalterno (unità non in condominio), Categoria A/4, Classe 1, consistenza 5,5 vani, superficie catastale totale 104 mq (escluso aree scoperte 101 mq), Rendita 142,03 €. Irregolarità catastale rilevata (portico non conforme alla scheda catastale vigente).",
+      "superficie_mq": 142,
+      "prezzo_al_mq": 130,
+      "prezzo_mercato_stimato": "500-700 €/mq (comune rurale provincia Cremona, mercato stagnante, stato degradato) - valore di mercato CTU 20.500€ pari a circa 144 €/mq commerciale",
+      "sconto_percentuale": "10% circa rispetto al valore di mercato CTU (20.500€); lo sconto reale è minimo considerando i costi di sanatoria e ristrutturazione stimati tra 14.960€ (solo oneri perizia) e oltre 80.000-100.000€ per ristrutturazione completa",
+      "anomalie": [
+        "Irregolarità catastale confermata: la planimetria catastale non corrisponde allo stato di fatto (portico non regolare); detratti 70€ dal valore di mercato per diritti catastali e spese tecniche.",
+        "Irregolarità edilizia confermata: Concessione Edilizia 1982 non conforme per apertura finestre e costruzione balcone al piano primo; Permesso di Costruire 2004 NON ultimato, con conseguenti abusi residui da sanare.",
+        "Presenza probabile di amianto: eternit ipotizzato nel manto di copertura del fienile (mapp. 162) e nelle canne fumarie/tubazioni del fabbricato principale (mapp. 161); bonifica obbligatoria con costi da quantificare.",
+        "Accesso carraio senza concessione di passo carraio: il cancello di ingresso al civico 27 non risulta avere titolo per passo carraio, potenziale problema per utilizzo del cortile.",
+        "Permesso di Costruire 2004 non ultimato: il titolo edilizio non è stato portato a completamento, con incertezza sullo stato autorizzativo delle opere eseguite nel 2004 e conseguenti costi di sanatoria per le difformità.",
+        "Superficie indicata nel bando d'asta (72 mq) incongruente con la superficie commerciale CTU (142 mq) e catastale (104 mq): probabile errore nel bando che riporta solo la superficie principale parziale."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Amianto probabile",
+          "dettaglio": "La CTU segnala la probabile presenza di lastre di eternit nel fienile (mapp. 162) e non esclude la presenza nelle canne fumarie/tubazioni del fabbricato principale. La bonifica da amianto è obbligatoria per legge prima di qualsiasi intervento edilizio: costo stimabile tra 3.000€ e 10.000€+ a seconda dell'estensione effettiva, con necessità di ditta specializzata e smaltimento in discarica autorizzata. L'incertezza sull'entità rende difficile preventivare l'intervento."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Ristrutturazione integrale obbligatoria",
+          "dettaglio": "Impianto termico completamente assente (no caldaia, no radiatori), impianti elettrico e idro-sanitario da verificare/rifare, infiltrazioni d'acqua dal tetto con distacchi di intonaco, umidità di risalita diffusa, balcone non impermeabilizzato, stato manutentivo 'scarso'. Costo ristrutturazione completa stimabile 700-1.000€/mq su ~114 mq principali = 80.000-115.000€, portando il costo totale a 100.000-135.000€ per un immobile con valore di mercato finale non superiore a 30.000-40.000€."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Abusi edilizi sanabili con costi certi",
+          "dettaglio": "La CTU stima i costi di sanatoria in circa 14.960€ (sanzione PDC 1.032€, spese tecniche 7.612€, rifacimento tettoia 21 mq con bonifica amianto 2.440€, parapetti, ponteggio, nuovo manto, smaltimento rifiuti). Tuttavia la CTU avverte esplicitamente che tali costi sono stimati senza pareri preventivi e potrebbero aumentare per cambiamenti normativi, interpretazioni del RUP e condizioni impreviste sull'impianto elettrico e sulla struttura per l'agibilità."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Permesso di Costruire 2004 non ultimato",
+          "dettaglio": "Il titolo edilizio del 2004 non risulta ultimato: ciò comporta che le opere previste ma non completate siano in sanatoria parziale e che ogni futuro intervento straordinario richieda preventivamente la regolarizzazione. Rischio di iter burocratico complesso presso il Comune di Grontardo con tempi incerti (6-18 mesi)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato immobiliare stagnante",
+          "dettaglio": "La stessa CTU definisce il giudizio di vendibilità 'scarso' per la sostanziale stagnazione del mercato in zona. Grontardo è un comune rurale di piccole dimensioni senza servizi significativi; la liquidabilità dell'investimento è molto bassa e i tempi di rivendita potrebbero essere pluriennali con forte rischio di svalutazione ulteriore."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteche cancellabili",
+          "dettaglio": "Le ipoteche iscritte (Sanpaolo IMI 110.000€, LO.SE.RI. 27.606€) e i pignoramenti si estinguono con il decreto di trasferimento. L'ipoteca LO.SE.RI. non risulta rinnovata dopo vent'anni ma è in attesa di notifica ex art. 498 cpc: non costituisce rischio per l'acquirente poiché verrà cancellata nella procedura."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "1) Ipoteca volontaria a favore di SANPAOLO I.M.I. S.P.A. (ora Intesa Sanpaolo), iscritta 21/09/2004, capitale garantito 55.000€, totale complessivo 110.000€ - rinnovata il 31/07/2024; sarà cancellata con il decreto di trasferimento. 2) Ipoteca legale ex art. 77 DPR 602/1973 a favore di LO.SE.RI. S.p.a., iscritta 04/04/2005, capitale 13.803€, totale 27.606€ - non rinnovata dopo vent'anni, in attesa di notifica ex art. 498 cpc; sarà cancellata. Tutte le formalità saranno cancellate con il decreto di trasferimento.",
+        "spese_condominiali": "Nessuna: l'immobile non fa parte di un condominio.",
+        "altri_oneri": "Pignoramento BMW Financial Services Italia S.p.A. trascritto 06/04/2007 (verrà cancellato). Pignoramento Penelope SPV S.R.L. trascritto 20/06/2025 - atto originante la presente procedura (verrà cancellato). Rifiuti urbani presenti nel cortile e sotto il portico: smaltimento stimato 1.500€ detratto già dal valore CTU. Nessun vincolo paesaggistico, ambientale o condominiale."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti sanabili (con riserve): 1) Difformità da Concessione Edilizia 1982 per apertura finestre e costruzione balcone al piano primo - sanabile per parziale difformità al titolo abilitativo, sanzione stimata 1.032€; 2) Permesso di Costruire 2004 non ultimato con difformità residue; costo totale stimato sanatoria circa 14.960€ secondo CTU, ma con avvertenza esplicita di possibili aumenti non preventivabili. Si raccomanda perizia tecnica indipendente prima di partecipare.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Il conto economico dell'operazione è fortemente negativo: prezzo base 18.500€ + sanatoria stimata ~15.000€ + bonifica amianto stimata ~5.000-10.000€ + ristrutturazione completa ~80.000-115.000€ + spese d'asta e trasferimento ~2.000-3.000€ = investimento totale stimato 120.000-162.000€, a fronte di un valore di mercato post-intervento difficilmente superiore a 40.000-50.000€ in un mercato stagnante. La classe energetica G richiede interventi significativi sull'involucro e sull'impianto. L'immobile è ante 1967 in muratura portante con solaio in laterocemento e orditura del tetto in legno: eventuali interventi strutturali (adeguamento sismico, risanamento murature umide) potrebbero aggiungersi ai costi. L'unico scenario plausibile di convenienza sarebbe un utilizzo personale con capacità di eseguire lavori in economia e con prospettiva di lunghissimo periodo, accettando un mercato di rivendita quasi inesistente."
+    },
+    "data_analisi": "2026-05-07"
   }
 }

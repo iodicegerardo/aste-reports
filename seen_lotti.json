@@ -177,39 +177,5 @@
       "note_aggiuntive": "ATTENZIONE CRITICA: il prezzo base (€43.408) coincide esattamente con il valore in vendita forzata del CTU, che è già al netto dei costi di bonifica amianto (€24.350) e sanatoria (€7.200). Aggiungendo questi oneri obbligatori al prezzo base si arriva a €75.000-80.000, praticamente pari al valore lordo di mercato stimato dal CTU: lo sconto reale per l'acquirente è quindi minimo o nullo. Costruita nel 1968, ristrutturata parzialmente nel 2004, classe energetica G. Il vincolo NAF limita le possibilità di ampliamento. La superficie di 72 mq indicata sul portale è fuorviante (probabilmente solo piano primo): la superficie commerciale reale è 158,80 mq secondo CTU. Prima di offrire, è indispensabile calcolare il budget totale: prezzo base + bonifica eternit (~€29.700 IVA) + sanatoria (€7.200) + sgombero/spese legali (~€3.000) + spese d'asta e imposte (~€3.000-5.000) + ristrutturazione almeno parziale (minimo €30.000-50.000) = totale realistico €115.000-140.000 per un immobile con valore di mercato lordo di €79.781 in un comune illiquido."
     },
     "data_analisi": "2026-05-04"
-  },
-  "B2405015": {
-    "id": "B2405015",
-    "titolo": "Via Cattaneo 6 - Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015",
-    "indirizzo": "",
-    "comune": "Cremona",
-    "prezzo_base": 90000.0,
-    "data_asta": "07/07/2026",
-    "url": "https://www.portaleaste.com/Aste/Detail/B2405015",
-    "pdf_urls": [
-      "https://documents.astalegale.net/file/2/bdcf5664136fcab4a0c989120bdee0d2/2342440-D?cd=true",
-      "https://documents.astalegale.net/file/2/58b4be4b561566c1ec8582e96b48b3ad/2342441-D?cd=true",
-      "https://documents.astalegale.net/file/2/2705d5bd94e563ba911417e02ed82209/2250566-B?cd=true",
-      "https://documents.astalegale.net/file/2/bf882b9107a087f5104b2a6e11c93a69/2250567-B?cd=true"
-    ],
-    "pdf_paths": [
-      "output/pdf/B2405015_doc1.pdf",
-      "output/pdf/B2405015_doc2.pdf",
-      "output/pdf/B2405015_doc3.pdf"
-    ],
-    "pdf_names": [
-      "2342440 d avviso di vendita",
-      "2342441 d ordinanza",
-      "2250566 b perizia"
-    ],
-    "descrizione": "PIENA PROPRIETÀ di una villa indipendente sviluppata su due piani fuori terra edificata su un lotto di superficie di 570 mq. L’abitazione, della superficie complessiva di mq 140 circa, si compone, al piano terra, da soggiorno, cucina, bagno e locale accessorio mentre, al piano primo, da due camere, bagno e balcone. Compongono altresì l’immobile una porzione adibita a locale accessori, un portico ed un giardino.L’immobile è in discreto stato di conservazione ed è attualmente libero da persone e d",
-    "superficie": "72M2",
-    "tribunale": "",
-    "numero_procedura": "",
-    "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CahzvwLo1jyvjTnNDXRvg'}",
-      "giudizio_colore": "⚪"
-    },
-    "data_analisi": "2026-05-04"
   }
 }

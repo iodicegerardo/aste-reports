@@ -1144,5 +1144,203 @@
       "note_aggiuntive": "Edificio costruito ante 1967, struttura in muratura con solai in laterocemento. Riscaldamento autonomo a gas con caldaia e radiatori. Nessun impianto di condizionamento. APE presente con validità fino al 06/03/2027 (classe non esplicitata nei documenti disponibili, da verificare allegato). Area verde agricola di 2.600 mq parzialmente coltivata (vigneto, ortaggi) inclusa nel lotto. Il prezzo base di €22.781 rappresenta uno sconto dell'82% sul valore di mercato CTU (€64.000): a prima vista molto attraente, ma la zona golenale vincolata, la posizione isolata, la difficile rivendibilità e l'occupazione con minori rendono l'operazione adatta SOLO a chi intende abitarci personalmente e accetta i rischi di liberazione e i costi di manutenzione. Sconsigliato come investimento puro o per acquirenti che necessitano di liquidità futura. Prima di partecipare: verificare la classe energetica APE, il contenuto completo del bando (spese d'asta, termine saldo), e confrontarsi con un legale sui tempi di liberazione con minori presenti."
     },
     "data_analisi": "2026-05-08"
+  },
+  "astalegale_B2416340": {
+    "id": "astalegale_B2416340",
+    "source": "astalegale",
+    "titolo": "Via SONZOGNO , 3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 98/2025 Rif. #B2416340",
+    "indirizzo": "",
+    "comune": "Casalbuttano ed Uniti",
+    "prezzo_base": 55000.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2416340",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/a0c6c4ebe438dbc85997b6fcfd1a8e6d/2348506-B?cd=true",
+      "https://documents.astalegale.net/file/0/ed68ab2919db827df3adebe774ac55e7/2348505-B?cd=true",
+      "https://documents.astalegale.net/file/0/58c5170dd914f6705b31d8ce6b1a04ea/2348507-B?cd=true",
+      "https://documents.astalegale.net/file/0/12ab8f02cce45f767dcfec543620318c/2348508-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2416340_doc1.pdf",
+      "output/pdf/astalegale_B2416340_doc2.pdf",
+      "output/pdf/astalegale_B2416340_doc3.pdf",
+      "output/pdf/astalegale_B2416340_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2348506 b avviso di vendita",
+      "2348505 b ordinanza",
+      "2348507 b perizia",
+      "2348508 b documento con foto"
+    ],
+    "descrizione": "L’immobile è situato all’interno del centro storico del paese ed è composto da un appartamento disposto su due piani. Al piano primo si trova un accesso da pianerottolo della scala ad uso esclusivo che immette direttamente nel soggiorno con zona dedicata a cucina, disimpegno da cui si accede a due camere da letto, bagno e terrazza coperta con ondulina trasparente. Al secondo piano, sempre con accesso da pianerottolo della scala si trovano i locali del sottotetto ad uso abitativo senza i requisit",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento su due livelli (P1 + sottotetto P2) a Casalbuttano ed Uniti (CR), centro storico, via Sonzogno 3, in stato manutentivo scarso con gravi problemi di umidità, impianti da rifare e piano secondo (sottotetto) non conforme ai requisiti igienico-sanitari di altezza. Prezzo base coincide con il valore di vendita forzata stimato dal CTU, il che azzera lo sconto reale rispetto alla stima peritale.",
+      "comune_effettivo": "Casalbuttano ed Uniti",
+      "dati_catastali": "Foglio 12, Mappale 313, Subalterno 5, Categoria A/2, Classe 4, vani 8,5 - Comune di Casalbuttano ed Uniti (CR)",
+      "superficie_mq": 182,
+      "prezzo_al_mq": 302,
+      "prezzo_mercato_stimato": "500-800 €/mq (Casalbuttano ed Uniti, centro storico, piccolo comune provincia Cremona)",
+      "sconto_percentuale": "Lo sconto rispetto al valore di libero mercato CTU (€61.000) è solo del 10%, coincidendo il prezzo base esattamente con il valore di vendita forzata. Rispetto al mercato stimato per la zona (500-800 €/mq su ~182 mq = €91.000-145.600) lo sconto sarebbe teoricamente elevato, ma il valore CTU di €61.000 (334 €/mq) è già molto depresso e riflette la scarsa commerciabilità dell'immobile. Sconto effettivo rispetto al valore CTU: ~10%; rispetto al mercato medio zona: stimabile 40-60% ma il CTU stesso segnala 'discreta' vendibilità.",
+      "anomalie": [
+        "Il piano secondo (P2/sottotetto) è adibito ad uso abitativo ma NON soddisfa i requisiti igienico-sanitari: altezza media inferiore a 2,40 mt e superfici finestrate insufficienti per aerazione e illuminazione. La C.E. in sanatoria n. 319/1987 ha sanato la destinazione d'uso ma NON la non-conformità igienico-sanitaria, che persiste e rende il piano secondo tecnicamente 'soffitta' e non 'abitazione' ai sensi della normativa sanitaria.",
+        "La superficie indicata nel lotto (72 mq) non corrisponde alla superficie catastale di 8,5 vani (stimabile in circa 170-185 mq commerciali); il CTU indica 182 mq circa (€/mq 333,95 su €61.000). Questa incoerenza va verificata: i 72 mq potrebbero riferirsi alla sola superficie calpestabile del piano primo.",
+        "Il bagno al piano primo presenta gravi problemi all'impianto di scarico con perdite che raggiungono il piano sottostante di altra proprietà: rischio di contenzioso con il vicino e costi di bonifica certi.",
+        "La cucina al P2 è accatastata come 'lavanderia': difformità tra uso effettivo e rendita catastale, pur non costituendo abuso edilizio formale, potrebbe richiedere variazione catastale.",
+        "Serramenti in legno con vetro singolo e impianto di riscaldamento autonomo con caldaia a gas: entrambi da sostituire per efficienza energetica. APE in classe F.",
+        "Le formalità che saranno cancellate includono ipoteca e trascrizione pignoramento, ma i dettagli degli importi sono oscurati nel documento pubblicato: non è verificabile l'entità esatta dell'ipoteca iscritta."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Non conformità igienico-sanitaria P2 permanente",
+          "dettaglio": "Il piano secondo è legittimo dal punto di vista edilizio-urbanistico ma NON è conforme ai requisiti igienico-sanitari (altezza <2,40 mt, superfici finestrate insufficienti). Non è una difformità sanabile con semplice pratica edilizia: richiede interventi strutturali (abbassamento solaio o interventi equivalenti) spesso impossibili o antieconomici. In pratica circa metà dell'appartamento non è 'abitazione' in senso legale, con impatto diretto su valore commerciale e possibilità di futura vendita regolare."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Valore di mercato CTU molto basso",
+          "dettaglio": "Il CTU stima il valore di libero mercato a soli €61.000 (334 €/mq), che è un valore bassissimo anche per un piccolo comune della provincia cremonese. Il prezzo base di €55.000 corrisponde al valore di vendita forzata, quindi l'acquirente non ottiene alcun sconto reale rispetto alla stima peritale. Il mercato di Casalbuttano (comune di ~4.000 abitanti, 25 km da Cremona) è scarsamente liquido con difficoltà di rivendita."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Costi di ristrutturazione sproporzionati al valore",
+          "dettaglio": "L'appartamento necessita di: rifacimento impianto fognario/scarico (perdite verso altro piano, probabile contenzioso), risanamento da umidità diffusa su muri e soffitti, messa a norma impianti elettrico e idraulico, sostituzione serramenti. Costo stimato ristrutturazione: €40.000-70.000 almeno. Sommando al prezzo base: costo totale €95.000-125.000 vs valore di mercato stimato €61.000-90.000 = investimento in perdita."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario/coniuge",
+          "dettaglio": "L'immobile è occupato dall'esecutata e dal marito (regime di comunione legale, il bene è però oggetto di espropriazione per piena proprietà 1/1). Non risultano contratti di locazione. Il coniuge occupa l'immobile come abitazione principale: la liberazione potrebbe richiedere decreto del giudice con tempi di 6-12 mesi dopo l'aggiudicazione, salvo accordo bonario."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F",
+          "dettaglio": "APE classe F valido fino al 28/08/2029. Costi energetici elevati e, con la normativa UE sugli edifici a basso consumo, potrebbe essere necessario un intervento di efficientamento entro il 2033-2035. Costo stimato per passaggio a classe D: €15.000-30.000 aggiuntivi."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido - piccolo comune",
+          "dettaglio": "Casalbuttano ed Uniti è un comune di circa 4.000 abitanti senza particolari attrattive. La rivendita futura sarà difficile, i tempi di commercializzazione lunghi (12-24 mesi) e il bacino di acquirenti molto ristretto. Non adatto come investimento speculativo."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Risulta almeno un'iscrizione ipotecaria nascente da atto notarile (dettagli oscurati nel documento) e una trascrizione di pignoramento immobiliare del Tribunale di Cremona. Le formalità che saranno cancellate includono ipoteca e pignoramento. Gli importi esatti non sono leggibili nel documento pubblicato: necessario verificare il fascicolo completo prima dell'offerta.",
+        "spese_condominiali": "Il compendio non fa parte di un condominio: nessuna spesa condominiale arretrata. Nessuna rata mensile condominiale.",
+        "altri_oneri": "Dalle verifiche effettuate non risultano vincoli diretti sull'immobile che resteranno a carico dell'acquirente (nessun censo, livello o uso civico). L'immobile è in zona PGT 'Ambiti dei nuclei di antica formazione': ammessi interventi di ristrutturazione ma con possibili vincoli sulle modalità costruttive."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "nessuno rilevato formalmente (regolarità catastale, urbanistica ed edilizia dichiarate SI dalla CTU). Tuttavia permane una NON CONFORMITÀ IGIENICO-SANITARIA strutturale al P2 (altezza locali <2,40 mt) che pur non essendo 'abuso edilizio' in senso tecnico rende il piano secondo non utilizzabile come abitazione conforme. La C.E. in sanatoria 319/1987 ha sanato la destinazione d'uso ma non i requisiti sanitari.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Edificio di origine antica con sopraelevazione anni '70 (latero-cemento). Classe energetica F. Impianti da rifare completamente. Il dato di superficie 72 mq nel lotto sembra riferirsi solo al piano primo: la superficie catastale è di 8,5 vani, corrispondenti a circa 182 mq commerciali secondo il CTU (€/mq 333,95). La situazione più critica è la non conformità igienico-sanitaria del P2 (sottotetto): questo piano, pur sanato edilizialmente nel 1987, non può essere considerato 'abitazione' per le altezze insufficienti, riducendo di fatto l'unità abitativa a quanto presente al solo P1. Considerando il costo di ristrutturazione necessario (minimo €40.000-70.000), il costo totale dell'operazione supera ampiamente il valore di mercato stimato dal CTU stesso, rendendo l'investimento antieconomico. Il CTU stesso definisce 'discreto' il giudizio di vendibilità. Sconsigliato salvo specifiche esigenze abitative locali senza alternative e con budget limitato."
+    },
+    "data_analisi": "2026-05-08"
+  },
+  "astalegale_B2416255": {
+    "id": "astalegale_B2416255",
+    "source": "astalegale",
+    "titolo": "Via Corte Guazzona, 5 - Lotto Unico - Tribunale di Cremona - Contenzioso civile 149/2025 Rif. #B2416255",
+    "indirizzo": "",
+    "comune": "San Giovanni in Croce",
+    "prezzo_base": 94668.75,
+    "data_asta": "17/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2416255",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/787428f6a1c9fb34a2ceded7f45800ba/2347205-B?cd=true",
+      "https://documents.astalegale.net/file/0/3f33eaba1d339a6c7cbb51102427e63f/2347204-B?cd=true",
+      "https://documents.astalegale.net/file/0/c747940fafe73fe59eed18833efb79fe/2146470-C?cd=true",
+      "https://documents.astalegale.net/file/0/37f2591fd3e6d31d5a5d48b7e84ae810/2146471-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2416255_doc1.pdf",
+      "output/pdf/astalegale_B2416255_doc2.pdf",
+      "output/pdf/astalegale_B2416255_doc3.pdf",
+      "output/pdf/astalegale_B2416255_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2347205 b avviso di vendita",
+      "2347204 b ordinanza",
+      "2146470 c perizia",
+      "2146471 c documento con foto"
+    ],
+    "descrizione": "Unità immobiliare ingresso principale (accesso carrabile e pedonale) o via Filanda n. 2 (ingresso secondario pedonale). Trattasi di unità immobiliare ad uso abitativo con locali accessori ed autorimessa. Edificio di tipo unifamiliare, caratterizzato da ampi spazi, interni ed esterni, costituito da tre piani fuori terra. Al piano terra è composto da cucina, soggiorno, salotto, un ripostiglio, il vano scala che conduce al piano superiore adiacente a quest’ultimo e diviso da un muro senza accesso d",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Edificio unifamiliare di circa 327 mq commerciali (72 mq indicati nel lotto probabilmente errati o riferiti a sub-porzione) a San Giovanni in Croce (CR), costruzione metà '800 con aggiunte anni '80, stato manutentivo discreto per l'abitazione principale ma fatiscente per i fabbricati accessori. Presenza di abusi edilizi non sanabili (locali accessori da demolire obbligatoriamente) e immobile occupato da inquilino con contratto di locazione in corso: scenario complesso con costi aggiuntivi certi.",
+      "comune_effettivo": "San Giovanni in Croce",
+      "dati_catastali": "Foglio 7, mapp. 259 sub.502 (A/3 cl.3) graffato a mapp. 318/501, 260/501, 261/501, 262/501; Foglio 7, mapp. 262 sub.502 (C/2 cl.2); Foglio 7, mapp. 260 sub.503 graffato a mapp. 262 sub.504 (C/2 cl.2); Foglio 7, mapp. 260 sub.502 (C/2 cl.2); Foglio 7, mapp. 262 sub.503 (C/6 cl.2)",
+      "superficie_mq": 328,
+      "prezzo_al_mq": 289,
+      "prezzo_mercato_stimato": "500-750 €/mq (San Giovanni in Croce, comune entro 30 km da Cremona, zona non in espansione, immobile datato con abusi)",
+      "sconto_percentuale": "46% rispetto al valore CTU (€207.700); circa 35-50% rispetto al mercato stimato della zona, ma il confronto è distorto dagli obblighi di demolizione (~€16.000) e dai costi di sgombero/ristrutturazione",
+      "anomalie": [
+        "La superficie indicata nel lotto (72 mq) è gravemente discordante dalla superficie commerciale CTU (327,50 mq): probabile errore nell'avviso d'asta o riferimento a una sola sub-unità; il potenziale acquirente deve verificare con certezza cosa viene venduto.",
+        "Locali accessori (corpi di fabbrica identificati a Fg. 7 mapp. 260 sub.503 e porzione del sub.502) classificati come abusi edilizi NON SANABILI: il Comune ha confermato l'obbligo di demolizione, con costo stimato €16.000.",
+        "La conformità urbanistica è dichiarata 'No (fino alla demolizione dei fabbricati accessori)': l'immobile non è urbanisticamente conforme alla data d'asta e il decreto di trasferimento non sana questo vincolo.",
+        "Assenza totale di documentazione di abitabilità/agibilità: nessun documento trovato presso l'archivio comunale; l'immobile non potrà essere locato o rivenduto facilmente senza regolarizzare questo aspetto.",
+        "La planimetria catastale di mapp. 262 sub.503 (C/6) corrisponde ancora alla vecchia scheda del mapp. 260 sub.4: incongruenza catastale non ancora sanata, solo il tipo mappale è stato aggiornato.",
+        "Incongruenza rilevata tra atto di pignoramento e certificazione notarile: il mappale 262 sub.502 (C/2) non era citato nella prima certificazione notarile; è stato necessario produrre una seconda certificazione per estendere il pignoramento a tutto il lotto.",
+        "L'immobile pignorato riguarda la quota di 2/6 di proprietà della debitrice, come segnalato nella perizia: occorre verificare se l'asta vende l'intero bene (1/1) o solo la quota indivisa, poiché questo impatta radicalmente il valore e la gestibilità.",
+        "Presenza di servitù rilevate dall'atto di acquisto 1977 (allegato F): la natura e l'impatto delle servitù non è dettagliata nella perizia disponibile.",
+        "Tetti dei fabbricati accessori con copertura in onduline: segnalata la possibile presenza di amianto, da verificare e smaltire a costi aggiuntivi non ancora quantificati.",
+        "La perizia è datata 10/10/2024 e il sopralluogo è avvenuto il 01/03/2024: i valori sono ragionevolmente aggiornati, ma l'immobile era abitato dall'inquilino e non si è potuto accedere all'ingresso secondario via Filanda n.12."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abuso edilizio non sanabile con obbligo di demolizione",
+          "dettaglio": "I locali accessori (fabbricati in muratura con copertura in onduline) non hanno titolo edilizio e il Comune ha confermato che non sono sanabili: l'acquirente è obbligato a demolirli a proprie spese. Il costo certo è €16.000 (computo metrico CTU); si aggiungono eventuali costi di smaltimento amianto (non ancora quantificati, potenzialmente €5.000-15.000 aggiuntivi). La mancata demolizione espone a sanzioni amministrative e preclude la regolarizzazione urbanistica."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da terzi con contratto di locazione in corso",
+          "dettaglio": "Al momento del sopralluogo (marzo 2024) l'immobile era occupato da un inquilino con contratto di locazione registrato (allegato Q). L'acquirente in asta subentra nel contratto e non può liberare l'immobile prima della scadenza naturale, salvo che si tratti di locazione ad uso abitativo antecedente al pignoramento (opponibile). I tempi di liberazione possono essere 12-36 mesi dalla scadenza contrattuale; occorre verificare urgentemente la scadenza del contratto prima di partecipare."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Quota indivisa pignorata (2/6) vs. vendita integrale",
+          "dettaglio": "La perizia segnala che i beni risultano pignorati per la quota complessiva di 2/6 della debitrice. Se l'asta vende solo 2/6, l'acquirente diventerebbe comproprietario con terzi, rendendo impossibile la gestione autonoma dell'immobile senza un successivo accordo o giudizio di divisione (costi legali €5.000-20.000, tempi 2-5 anni). È indispensabile verificare l'avviso di vendita per chiarire se si vende l'intero (1/1) o la quota."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di agibilità/abitabilità",
+          "dettaglio": "Nessun documento di abitabilità o agibilità è stato reperito presso il Comune. Senza agibilità l'immobile non può essere locato né ipotecato agevolmente, e la futura rivendita sarà complessa. Il conseguimento dell'agibilità richiede la preventiva regolarizzazione urbanistica (demolizione abusi) e potenzialmente interventi tecnici sugli impianti: iter stimabile in 12-24 mesi e costi variabili."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti non certificati",
+          "dettaglio": "La classe energetica F implica consumi elevati e necessità di interventi di efficientamento (cappotto, sostituzione infissi, impianto riscaldamento centralizzato in luogo delle stufe a legna). Il costo per passare alla classe D-C è stimabile in €30.000-60.000 per un immobile di queste dimensioni. Le certificazioni degli impianti risultano assenti (impianto elettrico, idrico, fognario da certificare)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù attive/passive da atto 1977",
+          "dettaglio": "La perizia segnala la presenza di servitù riferite all'atto di acquisto del 1977 (allegato F) senza specificarne la natura. Potrebbe trattarsi di servitù di passaggio (esiste un corridoio che permette accesso al cortile non di proprietà) con impatto sul pieno godimento dell'immobile. Necessaria verifica dell'atto notarile prima dell'asta."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Possibile presenza di amianto nelle coperture",
+          "dettaglio": "I fabbricati accessori hanno coperture in onduline di cui non è stata verificata la composizione: se in eternit/amianto, lo smaltimento è obbligatorio per legge prima della demolizione, con costi variabili da €3.000 a €15.000 a seconda della superficie e del grado di degrado. La CTU segnala la necessità di verifica ma non ha quantificato questo costo."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Zona non in espansione e bassa liquidità",
+          "dettaglio": "La CTU stessa giudica la vendibilità 'discreta' e la zona 'non in espansione'; non risultano compravendite dell'immobile negli ultimi 20 anni. Il mercato immobiliare di San Giovanni in Croce è poco liquido, con tempi di vendita lunghi (>12 mesi): il potenziale di rivalutazione è limitato e l'uscita dall'investimento è difficoltosa."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca successiva alla certificazione notarile del Notaio Niccolò Tiecco risulta dalla ricerca CTU; il pignoramento è il principale vincolo pregiudizievole. Verificare l'avviso di vendita per l'importo del credito del procedente.",
+        "spese_condominiali": "Nessuna (immobile unifamiliare, nessun condominio); nessun arretrato condominiale segnalato.",
+        "altri_oneri": "Servitù da atto 1977 (natura non specificata); obbligo legale di demolizione dei fabbricati accessori abusivi (€16.000 stimati + eventuali costi amianto); assenza di agibilità da regolarizzare. Nessuna trascrizione o iscrizione pregiudizievole ulteriore rispetto alla certificazione notarile."
+      },
+      "occupazione": "occupato da terzi (con titolo - contratto di locazione registrato in corso alla data del sopralluogo marzo 2024)",
+      "abusi_edilizi": "Presenti non sanabili: i fabbricati accessori (identificati a Fg. 7 mapp. 260 sub.503 e porzione del sub.502, cat. C/2) sono stati realizzati senza titolo edilizio e il Comune di San Giovanni in Croce ha confermato l'impossibilità di sanatoria; l'acquirente dovrà procedere obbligatoriamente alla demolizione (costo stimato CTU: €16.000 + eventuali costi smaltimento amianto non quantificati). La conformità urbanistica è subordinata all'avvenuta demolizione.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "ATTENZIONE CRITICA: Prima di qualsiasi valutazione economica è indispensabile chiarire se l'asta vende il 100% dell'immobile o solo la quota di 2/6 pignorata (la perizia è ambigua su questo punto fondamentale). La superficie di 72 mq indicata nell'avviso è palesemente errata rispetto ai 327,50 mq commerciali della perizia: verificare obbligatoriamente l'avviso di vendita ufficiale. I costi aggiuntivi certi post-aggiudicazione sono: demolizione abusi €16.000 + amianto (da quantificare) + regolarizzazione agibilità (da quantificare) + sgombero inquilino (tempi incerti) + ristrutturazione impianti e classe energetica (€30.000-60.000 stimati). Edificio costruito metà '800 con rimaneggiamenti anni '79/'80; struttura portante in muratura con solai presumibilmente latero-cemento e volte a crociera nella parte antica. Il prezzo base di €94.669 appare basso in valore assoluto ma nasconde obblighi di spesa certi per almeno €30.000-80.000 aggiuntivi, azzerando o annullando lo sconto apparente. La perizia è depositata il 10/10/2024 con sopralluogo marzo 2024: sufficientemente recente. Per un acquirente privato orientato all'abitazione propria il rischio è inaccettabile per la combinazione di abusi non sanabili, assenza di agibilità e occupazione con locazione in corso."
+    },
+    "data_analisi": "2026-05-08"
   }
 }

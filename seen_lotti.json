@@ -858,5 +858,99 @@
       "note_aggiuntive": "Il problema centrale non è l'acquisto in sé ma la matematica dell'investimento: prezzo base €15.855 + ristrutturazione completa stimata €25.000-42.000 + sanatoria €2.500 + spese d'asta (imposta registro 9% seconda casa = €1.426, o 2% prima casa = €317) + eventuali arretrati condominiali = costo totale realistico €45.000-62.000. Il valore di mercato a Isola Dovarese post-ristrutturazione stimato dal CTU è €350/mq x 60 mq = €21.000: il ritorno sull'investimento è strutturalmente negativo. L'immobile può avere senso SOLO come prima abitazione per chi vuole risiedere stabilmente a Isola Dovarese e partecipa all'asta aggiudicandosi il prezzo base senza rilanci. Edificio anni 50-60, piano terra (umidità da verificare). La discrepanza tra la superficie indicata nell'annuncio (72 mq) e quella della perizia (60,40 mq) va chiarita prima di formulare qualsiasi offerta: se i 72 mq non trovano riscontro catastale, potrebbe indicare superfici non accatastate."
     },
     "data_analisi": "2026-05-07"
+  },
+  "B2416341": {
+    "id": "B2416341",
+    "titolo": "Via Brescia, 33/C - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 139/2025 Rif. #B2416341",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 93000.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416341",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/ddbea4fc787c89ee31a60b2c771600e5/2350417-B?cd=true",
+      "https://documents.astalegale.net/file/2/b7f22a317381a6f79dae87050cc25456/2350416-B?cd=true",
+      "https://documents.astalegale.net/file/2/addd239d5683d800aa60f6d136201e3b/2350418-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416341_doc1.pdf",
+      "output/pdf/B2416341_doc2.pdf",
+      "output/pdf/B2416341_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2350417 b avviso di vendita",
+      "2350416 b ordinanza",
+      "2350418 b perizia"
+    ],
+    "descrizione": "Abitazione semi-indipendente sviluppantesi su tre livelli, così composta: locale cucina-pranzo con antistante portico al piano terra - due camere, disimpegno e bagno al piano primo - due locali sottotetto e disimpegno al piano secondo, con annessa area pertinenziale esclusiva adibita a cortile e giardino (retrostante l’abitazione) su cui insiste un corpo accessorio ad un piano fuori terra adibito a servizio igienico e locale rustico-ripostiglio. - Tipologia: Abitazione di tipo civile - Prezzo: €",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Abitazione semi-indipendente su tre livelli (piano terra, primo e sottotetto) con portico, corte esclusiva e corpo accessorio rustico, in zona semiperiferica di Crema (quartiere San Bernardino), costruzione ante 1960. L'immobile presenta abusi edilizi in parte sanabili e in parte non sanabili con obblighi di demolizione, classe energetica F e necessità di revisione impianti. Il prezzo base corrisponde al valore di vendita forzata stimato dal CTU, quindi lo sconto reale è sul valore di mercato lordo (€120.000), non sul prezzo base.",
+      "dati_catastali": "Foglio 27, Mappale 100 (graffato con mappali 67 e 74), Subalterno 8, Categoria A/3, Classe 1, Comune di Crema (CR)",
+      "superficie_mq": 138,
+      "prezzo_al_mq": 674,
+      "prezzo_mercato_stimato": "750-900 €/mq (zona semiperiferica Crema, San Bernardino, immobili da ristrutturare/stato mediocre); il CTU ha determinato un valore di mercato lordo di €120.000 pari a ~870 €/mq su sup. commerciale 138 mq, poi deprezzato a €107.000 (€775/mq) dopo deduzioni per irregolarità",
+      "sconto_percentuale": "13% sul valore di mercato netto CTU (€107.000); 22% sul valore lordo CTU (€120.000). Attenzione: la superficie indicata nel portale (72 mq) è errata rispetto alla perizia (138 mq commerciali), il che gonfia artificialmente il prezzo al mq apparente.",
+      "anomalie": [
+        "La superficie indicata nel portale aste (72 mq) non corrisponde a quella della perizia CTU (128 mq catastali, 138 mq commerciali): divergenza del 91%, probabilmente il portale riporta solo la superficie di un piano o la superficie netta abitativa parziale. Verificare prima dell'offerta.",
+        "Opere abusive non sanabili presenti: (1) portichetto in legno sul retro già oggetto di ordinanza di demolizione comunale del 19/10/2011 mai eseguita - obbligo di demolire persistente; (2) ampliamento del corpo accessorio rustico (da 20 mq consentiti a 30 mq realizzati) in zona 'Verde privato' PGT - non sanabile, obbligo di demolizione parziale.",
+        "Difformità catastali rilevate su tutti e tre i piani (parete demolita piano terra, scala a chiocciola non indicata, tavolato divisorio sottotetto, wc abusivo sottotetto): richiedono DOCFA e nuova planimetria successivamente alla sanatoria edilizia, costo stimato €1.500.",
+        "Le tavole progettuali allegate alla DIA 2002 (ultima pratica edilizia) riportano misure discordanti con lo stato di fatto rilevato: incoerenza documentale che complica la sanatoria.",
+        "Immobile classificato nel PGT di Crema come 'Ambiti di valore paesaggistico ambientale ed ecologico' (art. 22.2 NTA): l'area pertinenziale ricade in 'Verde privato' art. 22.4, il che limita ulteriormente la sanabilità degli abusi e potrebbe imporre vincoli su futuri interventi.",
+        "Controsoffitto al piano primo con altezza interna ridotta a 2,45 m (non idonea per civile abitazione): da rimuovere, non sanabile.",
+        "Rapporti aeroilluminanti non conformi al Regolamento locale di igiene ai piani terra e primo: richiedono interventi compensativi (elementi di arredo fisso o sostituzione serramenti).",
+        "Ipoteca volontaria del 2009 per €284.000 (capitale €142.000) a favore di Intesa Sanpaolo: il valore totale iscritto (€284.000) è quasi il triplo del prezzo base (€93.000) e più del doppio del valore di mercato CTU (€107.000). Anche se si cancella con il decreto di trasferimento, segnala un'esposizione debitoria storica molto elevata rispetto al valore reale del bene."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abuso edilizio non sanabile con obbligo di demolizione",
+          "dettaglio": "Sussistono due opere non sanabili con obbligo di demolizione: il portichetto in legno (soggetto a ordinanza comunale già emessa nel 2011, mai eseguita, con rischio di sanzione amministrativa a carico del nuovo proprietario) e l'ampliamento del rustico in zona Verde privato. Il comune potrebbe rieseguire o sanzionare. Costo demolizioni stimato dal CTU €4.000 totali, ma l'acquirente eredita anche la posizione debitoria verso il Comune per l'ordinanza inevasa. Impatto: riduzione del valore effettivo e obbligo legale non eludibile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Abuso edilizio sanabile - costi e tempi",
+          "dettaglio": "Le difformità interne sanabili (distribuzione piano terra, rapporti aeroilluminanti, tavolato sottotetto) richiedono pratica in sanatoria: costo stimato CTU €4.500 per diritti e spese tecniche + €1.500 per rimozione controsoffitto e wc sottotetto. Totale oneri regolarizzazione: €10.000 (già dedotti dal CTU nel calcolo del valore di mercato). Tempi stimati: 6-12 mesi per ottenere i titoli in sanatoria dal Comune di Crema."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Vincolo paesaggistico/urbanistico su area pertinenziale",
+          "dettaglio": "L'area cortile e il corpo rustico ricadono in zona 'Verde privato' (art. 22.4 NTA PGT) con parametri edificatori molto restrittivi (UF 0,03 mq/mq, Q 20%). Qualsiasi futuro intervento sull'area esterna sarà fortemente limitato. Non impedisce il trasferimento ma riduce le potenzialità di valorizzazione e rende non sanabili le opere già realizzate in eccesso."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti da verificare",
+          "dettaglio": "Classe F (215,64 kWh/mq anno): consumi energetici elevati, obbligo di adeguamento in caso di ristrutturazione significativa o compravendita futura. Impianto di riscaldamento autonomo a condensazione con distribuzione a parete in condizioni 'scarso'; serramenti esterni in legno in condizioni 'scarso'. Costo stimato per adeguamento energetico minimo (impianto + serramenti): €8.000-15.000 aggiuntivi non inclusi nella perizia."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Infiltrazioni d'acqua dal tetto (non verificate)",
+          "dettaglio": "Il CTU segnala 'probabili infiltrazioni di acqua dal tetto, non verificate' al sottotetto; il manto di copertura (tegole) è in condizioni 'scarso' e l'isolamento è assente. Rischio concreto di intervento urgente sul tetto post-acquisto con costo non quantificato (stima orientativa rifacimento copertura parziale: €5.000-15.000). Trattandosi di acquisto senza garanzia per vizi, l'acquirente non ha tutele."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteca elevata - si cancella con decreto trasferimento",
+          "dettaglio": "Ipoteca volontaria Intesa Sanpaolo per €284.000 totali iscritti: si cancella automaticamente con il decreto di trasferimento ai sensi dell'art. 586 c.p.c., indipendentemente dal fatto che il ricavato la copra parzialmente. Nessun rischio diretto per l'acquirente, ma conferma l'alto indebitamento pregresso dei debitori."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Occupazione da terzi - già liberato",
+          "dettaglio": "Immobile formalmente libero da persone dal 30/01/2026 (relazione di avvenuta liberazione depositata dal Custode IVG di Crema). Il contratto di locazione originario (2015-2019, poi rinnovatosi) era già stato dichiarato non opponibile alla procedura. Nessun rischio di sgombero residuo."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca volontaria da mutuo fondiario iscritta il 28/05/2009 (nn.1780/8647) a favore di INTESA SANPAOLO SPA: capitale €142.000, totale ipoteca iscritta €284.000. Si cancellerà con il decreto di trasferimento. Pignoramento trascritto il 18/09/2025 a favore di ANDOR SPV SRL (creditore procedente): si estingue con la vendita.",
+        "spese_condominiali": "Nessuna: trattasi di abitazione semi-indipendente in corte senza amministratore di condominio formalmente costituito. Non risultano arretrati condominiali.",
+        "altri_oneri": "Ordinanza di demolizione comunale del 19/10/2011 (Prot. 2011/00387) per portichetto abusivo: mai eseguita, rimane a carico dell'acquirente l'obbligo di demolizione. Vincolo urbanistico PGT 'Verde privato' sull'area pertinenziale (art. 22.4 NTA): limita interventi futuri sull'area esterna. Nessun censo, livello o uso civico."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti, in parte sanabili e in parte non sanabili. SANABILI (€4.500 + €1.500): difformità distributive interne (parete demolita piano terra, tavolato sottotetto), problemi aeroilluminanti ai piani terra e primo. NON SANABILI con obbligo di demolizione: (1) portichetto in legno sul retro (ordinanza comunale 2011 inevasa, costo demolizione €1.000); (2) ampliamento corpo rustico da 20 a 30 mq in zona Verde privato PGT (costo demolizione parziale €3.000). Costo complessivo regolarizzazione stimato dal CTU: €10.000.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE SUPERFICIE: Il portale indica 72 mq mentre la perizia certifica 138 mq commerciali (128 mq catastali); utilizzare sempre il dato CTU per valutazioni comparative. Lo sconto reale sul valore di mercato lordo CTU (€120.000) è del 22%, che scende al 13% sul valore netto dopo deduzioni (€107.000): borderline per il giudizio 🟢. Il prezzo base coincide esattamente con il valore di vendita forzata CTU (€93.000), quindi non c'è ulteriore sconto rispetto alla perizia. Fabbricato ante 1960, ultimo intervento 2002: impianti e strutture da verificare attentamente. Zona San Bernardino di Crema: posizione semiperiferica con buona accessibilità, vicinanza al Canale Vacchelli, mercato di nicchia per abitazioni in corte. Potenziale di rivalutazione modesto data la tipologia e i vincoli urbanistici. Costo totale stimato post-acquisto per messa a norma: €10.000 (regolarizzazione) + €8.000-15.000 (impianti/serramenti) + €5.000-15.000 (copertura, se necessario) = €23.000-40.000 aggiuntivi. Valore finale realizzabile stimato €107.000 al netto delle regolarizzazioni già scontate dal CTU. L'acquirente dovrebbe puntare all'aggiudicazione a non più di €85.000-88.000 per avere un margine adeguato rispetto ai costi certi di regolarizzazione e ai rischi residui (tetto, impianti)."
+    },
+    "data_analisi": "2026-05-08"
   }
 }

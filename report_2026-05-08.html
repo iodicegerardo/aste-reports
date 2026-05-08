@@ -88,7 +88,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 1rem;
+    gap: 0.75rem;
     margin-bottom: 0.5rem;
   }
   .lotto-titolo {
@@ -166,6 +166,12 @@
     transition: opacity 0.2s;
   }
   .btn-link { background: var(--accent); color: white; }
+  .lotto-header .btn-link {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.6rem;
+    white-space: nowrap;
+    align-self: center;
+  }
   .pdf-link { background: #2c5282; color: white; }
   .btn-link:hover, .pdf-link:hover { opacity: 0.85; }
   .alert-box {
@@ -193,20 +199,55 @@
 </header>
 
 <div class="sommario">
-  <div class="stat-box"><div class="num">10</div><div class="lbl">Lotti in archivio</div></div>
+  <div class="stat-box"><div class="num">11</div><div class="lbl">Lotti in archivio</div></div>
   <div class="stat-box"><div class="num" style="color:#1a6b3c">0</div><div class="lbl">🟢 Interessanti</div></div>
-  <div class="stat-box"><div class="num" style="color:#7a5c00">3</div><div class="lbl">🟡 Con cautela</div></div>
+  <div class="stat-box"><div class="num" style="color:#7a5c00">4</div><div class="lbl">🟡 Con cautela</div></div>
   <div class="stat-box"><div class="num" style="color:#8b1a1a">6</div><div class="lbl">🔴 Sconsigliati</div></div>
 </div>
 
+{'<div class="alert-box">⚠️ <strong>Nessun lotto trovato</strong> con i filtri impostati oggi. Verifica la connessione o i parametri di ricerca.</div>' if not lotti else ''}
 
 
+    <div class="lotto-card" style="border-left: 5px solid #7a5c00; background: #fffbeb">
+        <details>
+            <summary class="lotto-summary">
+                <div class="lotto-header">
+                    <div class="lotto-titolo"><div class="lotto-via">Via Brescia, 33/C</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 139/2025 Rif. #B2416341</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416341" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
+                    <div class="badge" style="background:#7a5c00">🟡 PROCEDERE CON CAUTELA</div>
+                </div>
+                <div class="lotto-meta">
+                    <span>📍 Cremona</span>
+                    <span>💶 €93,000</span>
+                    <span>📐 138</span>
+                    <span>💹 €674/mq</span>
+                    <span>📉 Sconto: 13% sul valore di mercato netto CTU (€107.000); 22% sul valore lordo CTU (€120.000). Attenzione: la superficie indicata nel portale (72 mq) è errata rispetto alla perizia (138 mq commerciali), il che gonfia artificialmente il prezzo al mq apparente.</span>
+                    <span>📅 21/07/2026</span>
+                    
+                </div>
+            </summary>
+            <div class="lotto-detail">
+                <div class="sintesi">Abitazione semi-indipendente su tre livelli (piano terra, primo e sottotetto) con portico, corte esclusiva e corpo accessorio rustico, in zona semiperiferica di Crema (quartiere San Bernardino), costruzione ante 1960. L'immobile presenta abusi edilizi in parte sanabili e in parte non sanabili con obblighi di demolizione, classe energetica F e necessità di revisione impianti. Il prezzo base corrisponde al valore di vendita forzata stimato dal CTU, quindi lo sconto reale è sul valore di mercato lordo (€120.000), non sul prezzo base.</div>
+                <div class="sezione"><strong>🔍 Anomalie</strong><ul><li>La superficie indicata nel portale aste (72 mq) non corrisponde a quella della perizia CTU (128 mq catastali, 138 mq commerciali): divergenza del 91%, probabilmente il portale riporta solo la superficie di un piano o la superficie netta abitativa parziale. Verificare prima dell'offerta.</li><li>Opere abusive non sanabili presenti: (1) portichetto in legno sul retro già oggetto di ordinanza di demolizione comunale del 19/10/2011 mai eseguita - obbligo di demolire persistente; (2) ampliamento del corpo accessorio rustico (da 20 mq consentiti a 30 mq realizzati) in zona 'Verde privato' PGT - non sanabile, obbligo di demolizione parziale.</li><li>Difformità catastali rilevate su tutti e tre i piani (parete demolita piano terra, scala a chiocciola non indicata, tavolato divisorio sottotetto, wc abusivo sottotetto): richiedono DOCFA e nuova planimetria successivamente alla sanatoria edilizia, costo stimato €1.500.</li><li>Le tavole progettuali allegate alla DIA 2002 (ultima pratica edilizia) riportano misure discordanti con lo stato di fatto rilevato: incoerenza documentale che complica la sanatoria.</li><li>Immobile classificato nel PGT di Crema come 'Ambiti di valore paesaggistico ambientale ed ecologico' (art. 22.2 NTA): l'area pertinenziale ricade in 'Verde privato' art. 22.4, il che limita ulteriormente la sanabilità degli abusi e potrebbe imporre vincoli su futuri interventi.</li><li>Controsoffitto al piano primo con altezza interna ridotta a 2,45 m (non idonea per civile abitazione): da rimuovere, non sanabile.</li><li>Rapporti aeroilluminanti non conformi al Regolamento locale di igiene ai piani terra e primo: richiedono interventi compensativi (elementi di arredo fisso o sostituzione serramenti).</li><li>Ipoteca volontaria del 2009 per €284.000 (capitale €142.000) a favore di Intesa Sanpaolo: il valore totale iscritto (€284.000) è quasi il triplo del prezzo base (€93.000) e più del doppio del valore di mercato CTU (€107.000). Anche se si cancella con il decreto di trasferimento, segnala un'esposizione debitoria storica molto elevata rispetto al valore reale del bene.</li></ul></div>
+                <div class="sezione"><strong>⚠️ Rischi</strong><div class="rischio">🔴 <strong>Abuso edilizio non sanabile con obbligo di demolizione</strong> — Sussistono due opere non sanabili con obbligo di demolizione: il portichetto in legno (soggetto a ordinanza comunale già emessa nel 2011, mai eseguita, con rischio di sanzione amministrativa a carico del nuovo proprietario) e l'ampliamento del rustico in zona Verde privato. Il comune potrebbe rieseguire o sanzionare. Costo demolizioni stimato dal CTU €4.000 totali, ma l'acquirente eredita anche la posizione debitoria verso il Comune per l'ordinanza inevasa. Impatto: riduzione del valore effettivo e obbligo legale non eludibile.</div><div class="rischio">🟡 <strong>Abuso edilizio sanabile - costi e tempi</strong> — Le difformità interne sanabili (distribuzione piano terra, rapporti aeroilluminanti, tavolato sottotetto) richiedono pratica in sanatoria: costo stimato CTU €4.500 per diritti e spese tecniche + €1.500 per rimozione controsoffitto e wc sottotetto. Totale oneri regolarizzazione: €10.000 (già dedotti dal CTU nel calcolo del valore di mercato). Tempi stimati: 6-12 mesi per ottenere i titoli in sanatoria dal Comune di Crema.</div><div class="rischio">🟡 <strong>Vincolo paesaggistico/urbanistico su area pertinenziale</strong> — L'area cortile e il corpo rustico ricadono in zona 'Verde privato' (art. 22.4 NTA PGT) con parametri edificatori molto restrittivi (UF 0,03 mq/mq, Q 20%). Qualsiasi futuro intervento sull'area esterna sarà fortemente limitato. Non impedisce il trasferimento ma riduce le potenzialità di valorizzazione e rende non sanabili le opere già realizzate in eccesso.</div><div class="rischio">🟡 <strong>Classe energetica F e impianti da verificare</strong> — Classe F (215,64 kWh/mq anno): consumi energetici elevati, obbligo di adeguamento in caso di ristrutturazione significativa o compravendita futura. Impianto di riscaldamento autonomo a condensazione con distribuzione a parete in condizioni 'scarso'; serramenti esterni in legno in condizioni 'scarso'. Costo stimato per adeguamento energetico minimo (impianto + serramenti): €8.000-15.000 aggiuntivi non inclusi nella perizia.</div><div class="rischio">🟡 <strong>Infiltrazioni d'acqua dal tetto (non verificate)</strong> — Il CTU segnala 'probabili infiltrazioni di acqua dal tetto, non verificate' al sottotetto; il manto di copertura (tegole) è in condizioni 'scarso' e l'isolamento è assente. Rischio concreto di intervento urgente sul tetto post-acquisto con costo non quantificato (stima orientativa rifacimento copertura parziale: €5.000-15.000). Trattandosi di acquisto senza garanzia per vizi, l'acquirente non ha tutele.</div><div class="rischio">🟢 <strong>Ipoteca elevata - si cancella con decreto trasferimento</strong> — Ipoteca volontaria Intesa Sanpaolo per €284.000 totali iscritti: si cancella automaticamente con il decreto di trasferimento ai sensi dell'art. 586 c.p.c., indipendentemente dal fatto che il ricavato la copra parzialmente. Nessun rischio diretto per l'acquirente, ma conferma l'alto indebitamento pregresso dei debitori.</div><div class="rischio">🟢 <strong>Occupazione da terzi - già liberato</strong> — Immobile formalmente libero da persone dal 30/01/2026 (relazione di avvenuta liberazione depositata dal Custode IVG di Crema). Il contratto di locazione originario (2015-2019, poi rinnovatosi) era già stato dichiarato non opponibile alla procedura. Nessun rischio di sgombero residuo.</div></div>
+                <div class="sezione grid-2">
+                    <div><strong>🏠 Occupazione:</strong> libero</div>
+                    <div><strong>🔨 Abusi edilizi:</strong> Presenti, in parte sanabili e in parte non sanabili. SANABILI (€4.500 + €1.500): difformità distributive interne (parete demolita piano terra, tavolato sottotetto), problemi aeroilluminanti ai piani terra e primo. NON SANABILI con obbligo di demolizione: (1) portichetto in legno sul retro (ordinanza comunale 2011 inevasa, costo demolizione €1.000); (2) ampliamento corpo rustico da 20 a 30 mq in zona Verde privato PGT (costo demolizione parziale €3.000). Costo complessivo regolarizzazione stimato dal CTU: €10.000.</div>
+                    <div><strong>💳 Ipoteche:</strong> Ipoteca volontaria da mutuo fondiario iscritta il 28/05/2009 (nn.1780/8647) a favore di INTESA SANPAOLO SPA: capitale €142.000, totale ipoteca iscritta €284.000. Si cancellerà con il decreto di trasferimento. Pignoramento trascritto il 18/09/2025 a favore di ANDOR SPV SRL (creditore procedente): si estingue con la vendita.</div>
+                    <div><strong>🏢 Spese condominiali:</strong> Nessuna: trattasi di abitazione semi-indipendente in corte senza amministratore di condominio formalmente costituito. Non risultano arretrati condominiali.</div>
+                </div>
+                <div class="sezione note"><strong>📝 Note:</strong> ATTENZIONE SUPERFICIE: Il portale indica 72 mq mentre la perizia certifica 138 mq commerciali (128 mq catastali); utilizzare sempre il dato CTU per valutazioni comparative. Lo sconto reale sul valore di mercato lordo CTU (€120.000) è del 22%, che scende al 13% sul valore netto dopo deduzioni (€107.000): borderline per il giudizio 🟢. Il prezzo base coincide esattamente con il valore di vendita forzata CTU (€93.000), quindi non c'è ulteriore sconto rispetto alla perizia. Fabbricato ante 1960, ultimo intervento 2002: impianti e strutture da verificare attentamente. Zona San Bernardino di Crema: posizione semiperiferica con buona accessibilità, vicinanza al Canale Vacchelli, mercato di nicchia per abitazioni in corte. Potenziale di rivalutazione modesto data la tipologia e i vincoli urbanistici. Costo totale stimato post-acquisto per messa a norma: €10.000 (regolarizzazione) + €8.000-15.000 (impianti/serramenti) + €5.000-15.000 (copertura, se necessario) = €23.000-40.000 aggiuntivi. Valore finale realizzabile stimato €107.000 al netto delle regolarizzazioni già scontate dal CTU. L'acquirente dovrebbe puntare all'aggiudicazione a non più di €85.000-88.000 per avere un margine adeguato rispetto ai costi certi di regolarizzazione e ai rischi residui (tetto, impianti).</div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/ddbea4fc787c89ee31a60b2c771600e5/2350417-B?cd=true" target="_blank">📄 2350417 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/b7f22a317381a6f79dae87050cc25456/2350416-B?cd=true" target="_blank">📄 2350416 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/addd239d5683d800aa60f6d136201e3b/2350418-B?cd=true" target="_blank">📄 2350418 b perizia</a> </div>
+            </div>
+        </details>
+    </div>
 
     <div class="lotto-card" style="border-left: 5px solid #8b1a1a; background: #fff5f5">
         <details>
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via Sebenico</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 162/2024 Rif. #B2416411</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416411" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#8b1a1a">🔴 SCONSIGLIATO</div>
                 </div>
                 <div class="lotto-meta">
@@ -230,10 +271,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Nessuna (immobile monofamiliare senza condominio).</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Edificio dei primi anni del '900, struttura portante in mattoni pieni dichiarata sana dal CTU ma con solai in legno originali, copertura parzialmente ceduta e finiture completamente da rifare. Il dato superficie nel bando (72 mq) è errato rispetto alla perizia (102 mq calpestabili, 174 mq commerciali): verificare il bando d'asta definitivo. La perizia è recente (sopralluogo marzo 2025, asta luglio 2026) quindi i valori sono aggiornati. Il problema fondamentale è economico: acquisto a €71.000 + ristrutturazione totale €70.000-125.000 + smaltimento amianto €5.000-15.000 + spese d'asta/imposte €3.000-7.000 = investimento totale €149.000-218.000 per un immobile che in zona Bonemerse post-ristrutturazione varrebbe al massimo €100.000-130.000. L'operazione ha senso solo per chi intende abitarci stabilmente e considera il delta come costo della personalizzazione, con piena consapevolezza del mercato illiquido della zona.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416411" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/db5e2a8fa95b30bd31a8b3e1a2c67ee4/2344300-D?cd=true" target="_blank">📄 2344300 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/e6701656b7491883535d6783fbd648e4/2344301-D?cd=true" target="_blank">📄 2344301 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/393512a1a167b39f8715530cf67b42ff/2344303-D?cd=true" target="_blank">📄 2344303 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/131db2c952c1e52d394ffd6f61ac8335/2344302-D?cd=true" target="_blank">📄 2344302 D</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/db5e2a8fa95b30bd31a8b3e1a2c67ee4/2344300-D?cd=true" target="_blank">📄 2344300 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/e6701656b7491883535d6783fbd648e4/2344301-D?cd=true" target="_blank">📄 2344301 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/393512a1a167b39f8715530cf67b42ff/2344303-D?cd=true" target="_blank">📄 2344303 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/131db2c952c1e52d394ffd6f61ac8335/2344302-D?cd=true" target="_blank">📄 2344302 D</a> </div>
             </div>
         </details>
     </div>
@@ -243,6 +281,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via Piave, 5</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 164/2025 Rif. #B2415630</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415630" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#7a5c00">🟡 PROCEDERE CON CAUTELA</div>
                 </div>
                 <div class="lotto-meta">
@@ -266,10 +305,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Nessuna: l'immobile non costituisce condominio.</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> ATTENZIONE CRITICA: il prezzo base (€43.408) coincide esattamente con il valore in vendita forzata del CTU, che è già al netto dei costi di bonifica amianto (€24.350) e sanatoria (€7.200). Aggiungendo questi oneri obbligatori al prezzo base si arriva a €75.000-80.000, praticamente pari al valore lordo di mercato stimato dal CTU: lo sconto reale per l'acquirente è quindi minimo o nullo. Costruita nel 1968, ristrutturata parzialmente nel 2004, classe energetica G. Il vincolo NAF limita le possibilità di ampliamento. La superficie di 72 mq indicata sul portale è fuorviante (probabilmente solo piano primo): la superficie commerciale reale è 158,80 mq secondo CTU. Prima di offrire, è indispensabile calcolare il budget totale: prezzo base + bonifica eternit (~€29.700 IVA) + sanatoria (€7.200) + sgombero/spese legali (~€3.000) + spese d'asta e imposte (~€3.000-5.000) + ristrutturazione almeno parziale (minimo €30.000-50.000) = totale realistico €115.000-140.000 per un immobile con valore di mercato lordo di €79.781 in un comune illiquido.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415630" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/3b803236261b7bbc4906ee5ae1718ebc/2342452-D?cd=true" target="_blank">📄 2342452 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/43192f22056e9e7b036e33a6e6d146da/2342453-D?cd=true" target="_blank">📄 2342453 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ad6ac2a2255aadb57b555c23f22ae7be/2342454-D?cd=true" target="_blank">📄 2342454 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/c0d4117b8f58f7b8581ec172bd7ea5c2/2342457-D?cd=true" target="_blank">📄 2342457 D</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/1550a3d8d64f1305300267cfe0b332fc/2342456-D?cd=true" target="_blank">📄 2342456 D</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/3b803236261b7bbc4906ee5ae1718ebc/2342452-D?cd=true" target="_blank">📄 2342452 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/43192f22056e9e7b036e33a6e6d146da/2342453-D?cd=true" target="_blank">📄 2342453 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ad6ac2a2255aadb57b555c23f22ae7be/2342454-D?cd=true" target="_blank">📄 2342454 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/c0d4117b8f58f7b8581ec172bd7ea5c2/2342457-D?cd=true" target="_blank">📄 2342457 D</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/1550a3d8d64f1305300267cfe0b332fc/2342456-D?cd=true" target="_blank">📄 2342456 D</a> </div>
             </div>
         </details>
     </div>
@@ -279,6 +315,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via Cattaneo 6</div><div class="lotto-subtitle">Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2405015" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#444">⚪ N/D</div>
                 </div>
                 <div class="lotto-meta">
@@ -302,10 +339,7 @@
                     
                 </div>
                 
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2405015" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/bdcf5664136fcab4a0c989120bdee0d2/2342440-D?cd=true" target="_blank">📄 2342440 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/58b4be4b561566c1ec8582e96b48b3ad/2342441-D?cd=true" target="_blank">📄 2342441 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/2705d5bd94e563ba911417e02ed82209/2250566-B?cd=true" target="_blank">📄 2250566 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/bf882b9107a087f5104b2a6e11c93a69/2250567-B?cd=true" target="_blank">📄 2250567 B</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/bdcf5664136fcab4a0c989120bdee0d2/2342440-D?cd=true" target="_blank">📄 2342440 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/58b4be4b561566c1ec8582e96b48b3ad/2342441-D?cd=true" target="_blank">📄 2342441 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/2705d5bd94e563ba911417e02ed82209/2250566-B?cd=true" target="_blank">📄 2250566 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/bf882b9107a087f5104b2a6e11c93a69/2250567-B?cd=true" target="_blank">📄 2250567 B</a> </div>
             </div>
         </details>
     </div>
@@ -315,6 +349,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via Livelli Inferiori, 1</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 107/2023 Rif. #B2416272</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416272" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#8b1a1a">🔴 SCONSIGLIATO</div>
                 </div>
                 <div class="lotto-meta">
@@ -338,10 +373,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Non applicabile: non si tratta di condominio.</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Nonostante lo sconto nominale molto elevato (prezzo base €22.781 vs valore CTU €64.000), il contesto complessivo scoraggia l'acquisto per un privato: l'immobile si trova in un comune rurale isolato a 25 km da Cremona, in zona golenale inedificabile con rischio alluvionale strutturale, il che lo rende praticamente invendibile sul mercato aperto. La stessa CTU giudica la vendibilità 'discreta' e il ribasso significativo del prezzo base rispetto alla stima di vendita forzata (€54.000) suggerisce aste già andate deserte. L'edificio è ante 1967, con solai probabilmente in latero-cemento, impianti non certificati, classe energetica non comunicata nel documento (APE presente fino al 2027 ma classe non specificata - probabile F o G data l'epoca). Aggiungendo i costi di liberazione (6-18 mesi), adeguamento impianti (€15.000-30.000), regolarizzazione catastale magazzino demolito (€1.000-2.000), spese d'asta e imposte di registro (circa €2.000-3.000 sul prezzo di aggiudicazione), il costo totale reale si avvicina rapidamente al valore di mercato locale, annullando il vantaggio apparente. Unico scenario plausibile: acquisto da parte di soggetto che vuole una casa rurale in zona golenale per uso agricolo/ricreativo personale, senza necessità di rivendita futura, con disponibilità liquida per ristrutturazione e tolleranza alle lungaggini di sgombero.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416272" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/6aea6f755caa1f327f3aac2d6ff7d7f9/2348536-B?cd=true" target="_blank">📄 2348536 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/b876b5420fae29dbd346a02b4d2ac35c/2348535-B?cd=true" target="_blank">📄 2348535 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/8b9fed4b4d2c91435f82b6d98dfc9d9c/2348537-B?cd=true" target="_blank">📄 2348537 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/fa71ddc2d90c5f04b6276c603e6113b8/2348538-B?cd=true" target="_blank">📄 2348538 B</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/6aea6f755caa1f327f3aac2d6ff7d7f9/2348536-B?cd=true" target="_blank">📄 2348536 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/b876b5420fae29dbd346a02b4d2ac35c/2348535-B?cd=true" target="_blank">📄 2348535 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/8b9fed4b4d2c91435f82b6d98dfc9d9c/2348537-B?cd=true" target="_blank">📄 2348537 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/fa71ddc2d90c5f04b6276c603e6113b8/2348538-B?cd=true" target="_blank">📄 2348538 B</a> </div>
             </div>
         </details>
     </div>
@@ -351,6 +383,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via SONZOGNO , 3</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 98/2025 Rif. #B2416340</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416340" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#7a5c00">🟡 PROCEDERE CON CAUTELA</div>
                 </div>
                 <div class="lotto-meta">
@@ -374,10 +407,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Nessuna: il compendio non risulta parte di un condominio.</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> ATTENZIONE CRITICA: la superficie indicata nel bando d'asta (72 mq) è gravemente discordante dalla superficie commerciale utilizzata dal CTU per la stima (circa 182 mq a 333,95 €/mq); prima di qualsiasi offerta è indispensabile chiarire questo dato accedendo alla planimetria catastale allegata. L'immobile si trova nel centro storico di Casalbuttano, circa 20 km da Cremona, con scarsa attrattività per un acquirente non locale. Il CTU stesso definisce il giudizio sulla vendibilità 'discreto'. L'investimento totale realistico (55.000€ base + 50.000-80.000€ ristrutturazione + 5.000-8.000€ spese d'asta) porterebbe a 110.000-143.000€, vicino ai valori di mercato delle compravendite comparabili (70.000-110.000€), rendendo il margine molto ridotto. Consigliato sopralluogo approfondito e consulenza tecnica prima dell'offerta, con particolare attenzione alla verifica delle altezze reali del P2 e ai costi di riparazione dell'impianto idrico-fognario.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416340" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/a0c6c4ebe438dbc85997b6fcfd1a8e6d/2348506-B?cd=true" target="_blank">📄 2348506 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ed68ab2919db827df3adebe774ac55e7/2348505-B?cd=true" target="_blank">📄 2348505 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/58c5170dd914f6705b31d8ce6b1a04ea/2348507-B?cd=true" target="_blank">📄 2348507 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/12ab8f02cce45f767dcfec543620318c/2348508-B?cd=true" target="_blank">📄 2348508 B</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/a0c6c4ebe438dbc85997b6fcfd1a8e6d/2348506-B?cd=true" target="_blank">📄 2348506 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ed68ab2919db827df3adebe774ac55e7/2348505-B?cd=true" target="_blank">📄 2348505 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/58c5170dd914f6705b31d8ce6b1a04ea/2348507-B?cd=true" target="_blank">📄 2348507 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/12ab8f02cce45f767dcfec543620318c/2348508-B?cd=true" target="_blank">📄 2348508 B</a> </div>
             </div>
         </details>
     </div>
@@ -387,6 +417,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via Corte Guazzona, 5</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Contenzioso civile 149/2025 Rif. #B2416255</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416255" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#7a5c00">🟡 PROCEDERE CON CAUTELA</div>
                 </div>
                 <div class="lotto-meta">
@@ -410,10 +441,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Nessuna (immobile unifamiliare, nessun condominio, nessun arretrato rilevato)</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Lo sconto sul valore CTU in vendita forzata (€168.300) è significativo (44%), ma il prezzo base di €94.669 deve essere depurato dei costi certi e immediati: demolizione obbligatoria €16.000 + adeguamento energetico/impiantistico stimato €20.000-40.000 + spese d'asta (imposta registro 9% seconda casa = ~€8.500, o 2% prima casa = ~€1.900) + eventuale amianto da smaltire. Il costo reale all'acquisto si avvicina a €130.000-160.000 prima di qualsiasi ristrutturazione dell'abitativo. L'immobile è edificato presumibilmente a metà '800 con aggiunte anni '70-'80, struttura in muratura portante con mattoni pieni, volte a crociera nella parte più antica. Zona non in espansione (San Giovanni in Croce ~1.500 abitanti), mercato immobiliare locale con liquidità ridotta e vendibilità futura 'discreta' secondo la stessa CTU. IL RISCHIO PRINCIPALE E BLOCCANTE è la locazione in corso: senza conoscere la scadenza del contratto l'acquirente non sa quando potrà disporre dell'immobile. Verificare URGENTEMENTE (prima dell'asta) la scadenza del contratto di locazione (Allegato Q non pubblicato integralmente). Se il contratto scade entro 12 mesi, il rischio diventa gestibile; se residuano 3-4 anni di locazione, l'operazione perde ulteriore attrattività economica. Secondariamente, la discrepanza 72 mq del portale vs 327,50 mq CTU deve essere chiarita con il custode giudiziario prima del deposito dell'offerta: potrebbe trattarsi di un errore di inserimento dati, ma in caso contrario l'analisi economica cambia radicalmente. Perizia depositata 10/10/2024: recente e aggiornata, metodologia MCA su due compravendite locali (2022 e 2024), affidabile.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416255" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/787428f6a1c9fb34a2ceded7f45800ba/2347205-B?cd=true" target="_blank">📄 2347205 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/3f33eaba1d339a6c7cbb51102427e63f/2347204-B?cd=true" target="_blank">📄 2347204 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/c747940fafe73fe59eed18833efb79fe/2146470-C?cd=true" target="_blank">📄 2146470 c perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/37f2591fd3e6d31d5a5d48b7e84ae810/2146471-C?cd=true" target="_blank">📄 2146471 C</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/787428f6a1c9fb34a2ceded7f45800ba/2347205-B?cd=true" target="_blank">📄 2347205 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/3f33eaba1d339a6c7cbb51102427e63f/2347204-B?cd=true" target="_blank">📄 2347204 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/c747940fafe73fe59eed18833efb79fe/2146470-C?cd=true" target="_blank">📄 2146470 c perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/37f2591fd3e6d31d5a5d48b7e84ae810/2146471-C?cd=true" target="_blank">📄 2146471 C</a> </div>
             </div>
         </details>
     </div>
@@ -423,6 +451,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via TRENTO , 27</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2415710</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415710" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#8b1a1a">🔴 SCONSIGLIATO</div>
                 </div>
                 <div class="lotto-meta">
@@ -446,10 +475,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Nessuna: l'immobile non fa parte di un condominio.</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Il conto economico dell'operazione è fortemente negativo: prezzo base 18.500€ + sanatoria stimata ~15.000€ + bonifica amianto stimata ~5.000-10.000€ + ristrutturazione completa ~80.000-115.000€ + spese d'asta e trasferimento ~2.000-3.000€ = investimento totale stimato 120.000-162.000€, a fronte di un valore di mercato post-intervento difficilmente superiore a 40.000-50.000€ in un mercato stagnante. La classe energetica G richiede interventi significativi sull'involucro e sull'impianto. L'immobile è ante 1967 in muratura portante con solaio in laterocemento e orditura del tetto in legno: eventuali interventi strutturali (adeguamento sismico, risanamento murature umide) potrebbero aggiungersi ai costi. L'unico scenario plausibile di convenienza sarebbe un utilizzo personale con capacità di eseguire lavori in economia e con prospettiva di lunghissimo periodo, accettando un mercato di rivendita quasi inesistente.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415710" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/811e781259b8d65967612c7f879b9ff4/2347162-B?cd=true" target="_blank">📄 2347162 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ccb97d49a9dc9df77c33a180fdd2d51b/2347161-B?cd=true" target="_blank">📄 2347161 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/31cc0f827d7598154208d116a13b5cac/2347165-B?cd=true" target="_blank">📄 2347165 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/5d9c2dc7b3360d4ebe6ed16ab77663bb/2347166-B?cd=true" target="_blank">📄 2347166 B</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/c101cd31b4220c57a32c38e50a46d3af/2347163-B?cd=true" target="_blank">📄 2347163 B</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/811e781259b8d65967612c7f879b9ff4/2347162-B?cd=true" target="_blank">📄 2347162 b avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ccb97d49a9dc9df77c33a180fdd2d51b/2347161-B?cd=true" target="_blank">📄 2347161 b ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/31cc0f827d7598154208d116a13b5cac/2347165-B?cd=true" target="_blank">📄 2347165 b perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/5d9c2dc7b3360d4ebe6ed16ab77663bb/2347166-B?cd=true" target="_blank">📄 2347166 B</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/c101cd31b4220c57a32c38e50a46d3af/2347163-B?cd=true" target="_blank">📄 2347163 B</a> </div>
             </div>
         </details>
     </div>
@@ -459,6 +485,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Via CASELLE, 63</div><div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 144/2025 Rif. #B2415835</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415835" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#8b1a1a">🔴 SCONSIGLIATO</div>
                 </div>
                 <div class="lotto-meta">
@@ -482,10 +509,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Nessuna (immobile non in condominio, confermato dalla perizia CTU al punto 13)</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Il compendio presenta una combinazione di fattori sfavorevoli raramente riscontrabile insieme: prezzo base pari al valore di vendita forzosa (zero sconto), stato di abbandono totale con inaccessibilità fisica di parte degli immobili, costi di ristrutturazione stimabili in 5-8 volte il prezzo d'acquisto, collocazione in zona agricola a bassissima domanda (Cingia de' Botti: ~1.200 abitanti, 21 km da Cremona, senza sbocco su direttrici principali), e vincolo urbanistico di ambito agricolo che limita fortemente la destinazione d'uso residenziale per non-imprenditori agricoli. La superficie indicata sul portale aste (72 mq) è un dato palesemente errato che potrebbe trarre in inganno: il compendio reale è molto più esteso ma questo non è un vantaggio data la necessità di ristrutturare tutto. L'unico scenario in cui l'operazione potrebbe avere senso è quello di un imprenditore agricolo già operante nella zona, interessato al recupero rurale con accesso a incentivi specifici (es. PSR Lombardia), con capacità di autocostruzione/ristrutturazione e orizzonte temporale di 5-10 anni. Per un privato acquirente ordinario, l'operazione è economicamente irrazionale.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2415835" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/00a9cdff3b98953b8fb7f615f6352e07/2346052-D?cd=true" target="_blank">📄 2346052 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/8b13f923f7d7b5df9752b81681aa4b83/2346051-D?cd=true" target="_blank">📄 2346051 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/7ba33863a1f8a710c1699a97a3f92172/2346054-D?cd=true" target="_blank">📄 2346054 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/e6032ce9df4789524d0ce3fd20e0eb54/2346055-D?cd=true" target="_blank">📄 2346055 D</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/2e68f2bf081077474d34d4e59e7aa988/2346053-D?cd=true" target="_blank">📄 2346053 D</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/00a9cdff3b98953b8fb7f615f6352e07/2346052-D?cd=true" target="_blank">📄 2346052 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/8b13f923f7d7b5df9752b81681aa4b83/2346051-D?cd=true" target="_blank">📄 2346051 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/7ba33863a1f8a710c1699a97a3f92172/2346054-D?cd=true" target="_blank">📄 2346054 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/e6032ce9df4789524d0ce3fd20e0eb54/2346055-D?cd=true" target="_blank">📄 2346055 D</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/2e68f2bf081077474d34d4e59e7aa988/2346053-D?cd=true" target="_blank">📄 2346053 D</a> </div>
             </div>
         </details>
     </div>
@@ -495,6 +519,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Vicolo Pozzo, 1</div><div class="lotto-subtitle">Lotto 2 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416316</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416316" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#8b1a1a">🔴 SCONSIGLIATO</div>
                 </div>
                 <div class="lotto-meta">
@@ -518,10 +543,7 @@
                     <div><strong>🏢 Spese condominiali:</strong> Non disponibili: il CTU segnala espressamente di non aver potuto reperire informazioni su amministratore di condominio e spese pregresse. Rischio arretrati non quantificabile.</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Il prezzo base di €18.417 (pari a 263 €/mq) sembra appetibile, ma il costo totale realistico è: €18.417 (base asta) + €2.500 (oneri/spese stimate CTU) + €2.532 (sanatoria + sanzione) + €42.000-63.000 (ristrutturazione completa) = €65.000-86.000 totali, ben oltre il valore di mercato stimato dell'immobile ristrutturato (350-600 €/mq x 70 mq = €24.500-42.000). L'operazione è in perdita certa. Edificio anni '50-'60, classe energetica G (313 KWH/mq/anno): adeguamento energetico minimo richiede cappotto o sostituzione serramenti con ulteriori costi. L'assenza di agibilità e la conformità urbanistica negativa rappresentano ostacoli seri per locazione e futura rivendita. Isola Dovarese (circa 1.200 abitanti) ha un mercato immobiliare quasi inesistente: il CTU stesso giudica la vendibilità 'DISCRETA' citando esplicitamente come fattori negativi la mancanza di autorimessa, le opere di ristrutturazione necessarie e la particolare situazione del mercato attuale. Sconsigliato anche come prima casa per i costi di adeguamento sproporzionati al valore finale.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416316" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true" target="_blank">📄 2346019 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true" target="_blank">📄 2346017 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true" target="_blank">📄 2346018 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/00cce276db85be0c55cc5041b59529e2/2238966-B?cd=true" target="_blank">📄 2238966 B</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/acca0e5efafc618a3749d5394d6c6f30/2238967-B?cd=true" target="_blank">📄 2238967 B</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true" target="_blank">📄 2346019 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true" target="_blank">📄 2346017 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true" target="_blank">📄 2346018 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/00cce276db85be0c55cc5041b59529e2/2238966-B?cd=true" target="_blank">📄 2238966 B</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/acca0e5efafc618a3749d5394d6c6f30/2238967-B?cd=true" target="_blank">📄 2238967 B</a> </div>
             </div>
         </details>
     </div>
@@ -531,6 +553,7 @@
             <summary class="lotto-summary">
                 <div class="lotto-header">
                     <div class="lotto-titolo"><div class="lotto-via">Vicolo Pozzo, 1</div><div class="lotto-subtitle">Lotto 1 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416313</div></div>
+                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416313" target="_blank" onclick="event.stopPropagation()">🔗 Scheda</a>
                     <div class="badge" style="background:#8b1a1a">🔴 SCONSIGLIATO</div>
                 </div>
                 <div class="lotto-meta">
@@ -554,16 +577,13 @@
                     <div><strong>🏢 Spese condominiali:</strong> Non quantificate: il CTU dichiara espressamente di non aver reperito informazioni sull'amministratore di condominio né sugli eventuali arretrati. Rischio arretrati ultimi 2 anni a carico dell'acquirente non eliminabile.</div>
                 </div>
                 <div class="sezione note"><strong>📝 Note:</strong> Il problema centrale non è l'acquisto in sé ma la matematica dell'investimento: prezzo base €15.855 + ristrutturazione completa stimata €25.000-42.000 + sanatoria €2.500 + spese d'asta (imposta registro 9% seconda casa = €1.426, o 2% prima casa = €317) + eventuali arretrati condominiali = costo totale realistico €45.000-62.000. Il valore di mercato a Isola Dovarese post-ristrutturazione stimato dal CTU è €350/mq x 60 mq = €21.000: il ritorno sull'investimento è strutturalmente negativo. L'immobile può avere senso SOLO come prima abitazione per chi vuole risiedere stabilmente a Isola Dovarese e partecipa all'asta aggiudicandosi il prezzo base senza rilanci. Edificio anni 50-60, piano terra (umidità da verificare). La discrepanza tra la superficie indicata nell'annuncio (72 mq) e quella della perizia (60,40 mq) va chiarita prima di formulare qualsiasi offerta: se i 72 mq non trovano riscontro catastale, potrebbe indicare superfici non accatastate.</div>
-                <div class="lotto-footer">
-                    <a class="btn-link" href="https://www.portaleaste.com/Aste/Detail/B2416313" target="_blank">🔗 Scheda completa</a>
-                    <a class="pdf-link" href="https://documents.astalegale.net/file/2/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true" target="_blank">📄 2346019 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true" target="_blank">📄 2346017 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true" target="_blank">📄 2346018 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ffc5ba7fd33788ce5bdd77ca69625eae/2238965-B?cd=true" target="_blank">📄 2238965 B</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/13187beed859d95dff02b06f3ecc7103/2238958-B?cd=true" target="_blank">📄 2238958 B</a> 
-                </div>
+                <div class="lotto-footer"><a class="pdf-link" href="https://documents.astalegale.net/file/2/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true" target="_blank">📄 2346019 d avviso di vendita</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true" target="_blank">📄 2346017 d ordinanza</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true" target="_blank">📄 2346018 d perizia</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/ffc5ba7fd33788ce5bdd77ca69625eae/2238965-B?cd=true" target="_blank">📄 2238965 B</a> <a class="pdf-link" href="https://documents.astalegale.net/file/2/13187beed859d95dff02b06f3ecc7103/2238958-B?cd=true" target="_blank">📄 2238958 B</a> </div>
             </div>
         </details>
     </div>
 
 <footer>
-  Generato automaticamente · 08/05/2026 06:21 ·
+  Generato automaticamente · 08/05/2026 10:02 ·
   Fonte: portaleaste.com (Tribunale di Cremona) ·
   Analisi: Claude AI (Anthropic) ·
   ⚠️ Non costituisce consulenza legale o finanziaria.

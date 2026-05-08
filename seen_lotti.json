@@ -1533,5 +1533,206 @@
       "note_aggiuntive": "Il prezzo base di €77.760 può sembrare attraente in termini assoluti, ma è del tutto ingannevole: il costo per rendere agibile e abitabile l'intero compendio è stimabile in almeno 300.000-500.000 €, portando l'investimento totale a 380.000-580.000 € per un immobile in zona a domanda quasi nulla. L'APE classe G del corpo colonico principale (sub. 503) indica un consumo energetico di 427 kWh/mq/anno, praticamente irrecuperabile senza demolizione e ricostruzione. L'immobile potrebbe avere interesse esclusivamente per un soggetto con fondi propri abbondanti, progetto specifico (agriturismo, cascina di lusso) e orizzonte temporale di 5-10 anni, consapevole del rischio di illiquidità. Per un acquirente privato ordinario è sconsigliato. ALERT CRITICO: verificare assolutamente l'Allegato 4 (Ispezione Ipotecaria) prima di qualsiasi offerta, poiché le ipoteche non sono quantificate nei documenti forniti. La superficie di 72 mq indicata nell'annuncio è un errore macroscopico (reale: ~367 mq commerciali solo per il sub. 502)."
     },
     "data_analisi": "2026-05-08"
+  },
+  "astalegale_B2416316": {
+    "id": "astalegale_B2416316",
+    "source": "astalegale",
+    "titolo": "Vicolo Pozzo, 1 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416316",
+    "indirizzo": "",
+    "comune": "Isola Dovarese",
+    "prezzo_base": 18417.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2416316",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true",
+      "https://documents.astalegale.net/file/0/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true",
+      "https://documents.astalegale.net/file/0/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true",
+      "https://documents.astalegale.net/file/0/00cce276db85be0c55cc5041b59529e2/2238966-B?cd=true",
+      "https://documents.astalegale.net/file/0/acca0e5efafc618a3749d5394d6c6f30/2238967-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2416316_doc1.pdf",
+      "output/pdf/astalegale_B2416316_doc2.pdf",
+      "output/pdf/astalegale_B2416316_doc3.pdf",
+      "output/pdf/astalegale_B2416316_doc4.pdf",
+      "output/pdf/astalegale_B2416316_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2346019 d avviso di vendita",
+      "2346017 d ordinanza",
+      "2346018 d perizia",
+      "2238966 b documento con foto",
+      "2238967 b dati catastali"
+    ],
+    "descrizione": "Appartamento al piano terra con vano scala comune (map. 84 sub. 502) e cortile comune (map. 84 sub 501-map. 83/503). I locali adibiti ad abitazione sono così disposti: ingresso, soggiorno, cottura, bagno, pranzo ed una camera da letto. La superficie commerciale è di mq. 70,16. L'unità immobiliare oggetto di perizia Lotto 2 è un'abitazione situata in una zona residenziale del Comune di Isola Dovarese (CR), disposta al piano terra, edificata negli anni 50-60, la tipologia costruttiva utilizzata è ",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al piano terra di 70 mq a Isola Dovarese (CR), edificato anni '50-'60, in discreto stato ma disabitato da tempo e bisognoso di ristrutturazione completa (impianti assenti o obsoleti, classe G). Prezzo base di €18.417 su un valore CTU di €24.556, con sconto del 25% sul già basso valore peritale stimato a soli 350 €/mq. Immobile libero, con difformità urbanistiche sanabili a costi contenuti.",
+      "comune_effettivo": "Isola Dovarese",
+      "dati_catastali": "Foglio 5, Mappale 83 sub. 501 + Mappale 94 sub. 501, Categoria A/3, Classe 1, Consistenza 4 vani, Superficie catastale 71 mq, Rendita €165,27. Parti comuni: vano scala Foglio 5 Map. 84 sub. 502; cortile comune Foglio 5 Map. 83 sub. 503 e Map. 84 sub. 501",
+      "superficie_mq": 70,
+      "prezzo_al_mq": 263,
+      "prezzo_mercato_stimato": "350-550 €/mq (Isola Dovarese, da ristrutturare; valori OMI 400-600 €/mq per abitazioni tipo economico in stato normale)",
+      "sconto_percentuale": "25% sul valore CTU (€24.556); circa 40-50% rispetto al valore di mercato reale stimato post-ristrutturazione, ma il margine lordo è minimo data la necessità di intervento completo",
+      "anomalie": [
+        "Conformità urbanistica indicata come 'NO' nella scheda sintetica: l'immobile presenta una diversa distribuzione interna degli spazi rispetto ai titoli edilizi depositati in comune, con imprecisioni ed errori grafici nelle tavole.",
+        "Il servizio igienico del Lotto 2 non rispetta la superficie minima di 4,00 mq prevista dalla normativa vigente: necessario ampliamento obbligatorio.",
+        "Il CTU ha dovuto aggiornare la planimetria catastale per 'lievi difformità' tramite DOCFA: la regolarità catastale è stata ripristinata ma quella urbanistica è ancora da sanare.",
+        "Agibilità assente: non risulta certificato di agibilità/abitabilità, con problemi per mutuo e successiva rivendita.",
+        "Errore identificativo nell'atto di pignoramento: il cortile comune risultava indicato come Foglio 5 Map. 83 sub. 504 anziché sub. 503; il CTU ha corretto, ma segnala imprecisione negli atti.",
+        "Non è stato possibile reperire informazioni sulla presenza di un amministratore di condominio né sulle spese condominiali pregresse, nemmeno tramite l'Istituto Vendite Giudiziarie.",
+        "Impianto elettrico risalente all'epoca costruttiva (anni '50-'60): non a norma, da rifare integralmente. Impianto di riscaldamento e condizionamento assenti."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Valore assoluto molto basso e mercato illiquido",
+          "dettaglio": "Il valore CTU è di soli €24.556 e il prezzo base €18.417: si tratta di un immobile in un piccolo comune della provincia di Cremona (circa 1.200 abitanti) con mercato immobiliare molto ridotto e scarsa liquidità. La rivendita futura potrebbe essere estremamente difficile, con tempi lunghi e prezzi depressi. Il CTU stesso giudica la vendibilità 'discreta' citando esplicitamente la 'particolare situazione del mercato immobiliare attuale'."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Costo ristrutturazione sproporzionato al valore",
+          "dettaglio": "L'immobile richiede ristrutturazione completa (impianti, bagno, serramenti, intonaci, classe energetica G). Costo minimo stimato: €30.000-50.000 (circa €430-700/mq). Sommando prezzo base + spese d'asta + ristrutturazione si supera abbondantemente il valore di mercato post-intervento, rendendo l'investimento in perdita certa se l'obiettivo è la rivendita."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Difformità urbanistica e bagno sotto superficie minima",
+          "dettaglio": "La distribuzione interna non corrisponde ai titoli edilizi e il bagno è sotto i 4 mq minimi. Richiede CILA/SCIA in sanatoria (€1.500 pratica + €1.032 sanzione minima) e contestuale progetto di ampliamento del bagno. Sanabile ma obbligatorio prima di qualsiasi futura compravendita o mutuo."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Assenza agibilità",
+          "dettaglio": "Nessun certificato di agibilità presente. Non è possibile ottenere un mutuo sull'immobile né rivenderlo facilmente senza regolarizzazione. L'ottenimento dell'agibilità richiederà la previa sanatoria urbanistica e la realizzazione degli impianti a norma, con costi e tempi aggiuntivi (6-12 mesi)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù passive e patti speciali",
+          "dettaglio": "L'immobile è gravato da servitù di passaggio pedonale e carraio, servitù di scarico acque e tubazioni sotterranee a favore di terzi, con oneri di manutenzione ripartiti per quote. Questi vincoli sono permanenti e limitano la piena disponibilità dell'immobile; la manutenzione del cortile comune è a carico paritetico dell'acquirente."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali pregresse sconosciute",
+          "dettaglio": "Il CTU non ha potuto verificare l'esistenza di un amministratore di condominio né l'entità di eventuali arretrati. L'acquirente risponde degli arretrati degli ultimi 2 anni (art. 63 disp. att. c.c.): rischio non quantificabile ma da mettere a budget."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Occupazione",
+          "dettaglio": "Entrambe le UIU risultano libere all'atto del sopralluogo: nessuna procedura di sgombero necessaria, immissione in possesso immediata."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Dalla ricerca effettuata non risultano altre ipoteche o trascrizioni successive a quanto riportato nel certificato notarile allegato agli atti. Non vengono citati importi ipotecari specifici nel documento: il creditore procedente è PENELOPE SPV s.r.l. (cessionario di credito). Verificare l'Allegato F (ispezione ipotecaria) prima dell'offerta.",
+        "spese_condominiali": "Non determinabili: il CTU dichiara espressamente di non aver potuto reperire informazioni sulla presenza di amministratore di condominio né su eventuali spese pregresse. Rischio arretrati ultimi 2 anni non quantificabile.",
+        "altri_oneri": "Servitù attive e passive di passaggio pedonale e carraio (androne Via Cairoli), servitù di scarico acque piovane e tubazioni sotterranee nel cortile comune, patto speciale di manutenzione cortile comune al 50% tra acquirente e condomini, patto di manutenzione portone Via Cairoli per 1/3 a carico acquirente. Servitù passiva per tubazione interrata ditta terza che attraversa il cortile."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "presenti sanabili: diversa distribuzione interna degli spazi rispetto ai titoli edilizi (concessioni 1971-1972); bagno sotto la superficie minima di 4 mq (necessario ampliamento). Sanatoria tramite CILA/SCIA stimata €1.500 + sanzione minima €1.032; ampliamento bagno da progettare e realizzare contestualmente alla ristrutturazione.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Isola Dovarese è un comune di circa 1.200 abitanti a ~30 km da Cremona e ~25 km da Mantova: mercato immobiliare quasi inesistente, scarsa domanda, tempi di vendita molto lunghi. L'immobile anni '50-'60 ha classe energetica G (313 KWh/mq anno), zero impianti, serramenti in legno con vetro singolo: un acquirente che voglia abitarci deve preventivare €35.000-50.000 di lavori, portando il costo totale all'ingresso (prezzo + spese asta ~12% + ristrutturazione + sanatoria) a circa €55.000-75.000, cifra non recuperabile sul mercato locale. L'unico scenario in cui l'acquisto può avere senso è quello di chi cerca una residenza primaria a bassissimo costo in un piccolo centro rurale, senza prospettive di rivalutazione e disposto a sostenere i costi di ristrutturazione come spesa pura, non come investimento. L'assenza di garage (citata come fattore negativo dalla perizia) penalizza ulteriormente la rivendibilità. Perizia depositata ottobre 2025, quindi recente e affidabile."
+    },
+    "data_analisi": "2026-05-08"
+  },
+  "astalegale_B2416313": {
+    "id": "astalegale_B2416313",
+    "source": "astalegale",
+    "titolo": "Vicolo Pozzo, 1 - Lotto 1 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416313",
+    "indirizzo": "",
+    "comune": "Isola Dovarese",
+    "prezzo_base": 15855.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2416313",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true",
+      "https://documents.astalegale.net/file/0/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true",
+      "https://documents.astalegale.net/file/0/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true",
+      "https://documents.astalegale.net/file/0/ffc5ba7fd33788ce5bdd77ca69625eae/2238965-B?cd=true",
+      "https://documents.astalegale.net/file/0/13187beed859d95dff02b06f3ecc7103/2238958-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2416313_doc1.pdf",
+      "output/pdf/astalegale_B2416313_doc2.pdf",
+      "output/pdf/astalegale_B2416313_doc3.pdf",
+      "output/pdf/astalegale_B2416313_doc4.pdf",
+      "output/pdf/astalegale_B2416313_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2346019 d avviso di vendita",
+      "2346017 d ordinanza",
+      "2346018 d perizia",
+      "2238965 b documento con foto",
+      "2238958 b dati catastali"
+    ],
+    "descrizione": "Appartamento al piano terra con vano scala comune (mapp. 84 sub. 502) e cortile comune (mapp. 84 sub. 501-map. 83/503). I locali adibiti ad abitazione sono così disposti: ingresso, soggiorno, cucina, bagno, una camera da letto ed uno studiolo. La superficie commerciale è di mq. 60,40=. L'unità immobiliare oggetto di perizia Lotto 1 è un'abitazione situata in una zona residenziale del Comune di Isola Dovarese (CR), disposta al piano terra, edificata negli anni 50-60, la tipologia costruttiva util",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al piano terra di 60,40 mq commerciali (non 72 mq come indicato nel bando) in Vicolo Pozzo 1, comune di Isola Dovarese (CR), edificio anni '50-'60, disabitato da tempo e necessitante ristrutturazione integrale. Prezzo base di €15.855 su un valore CTU di €21.140, con impianti assenti o obsoleti, classe energetica G e difformità urbanistiche sanabili a costo contenuto.",
+      "comune_effettivo": "Isola Dovarese",
+      "dati_catastali": "Foglio 5, Mappale 84, Sub. 503, Categoria A/3, Classe 1 – Rendita €165,27; Parti comuni: vano scala Foglio 5 Map. 84 sub. 502 (non censibile); cortile comune Foglio 5 Map. 83 sub. 503 + Map. 84 sub. 501 (non censibili)",
+      "superficie_mq": 60,
+      "prezzo_al_mq": 264,
+      "prezzo_mercato_stimato": "400-600 €/mq (Isola Dovarese, piccolo comune provincia Cremona, abitazione di tipo economico da ristrutturare)",
+      "sconto_percentuale": "47% sul valore CTU (€21.140); circa 51-56% rispetto alla fascia bassa di mercato (400-500 €/mq)",
+      "anomalie": [
+        "Superficie indicata nel bando asta (72 mq) non coincide con la superficie commerciale CTU (60,40 mq): differenza del 19%, potenziale errore nel bando o inclusione impropria di parti comuni non pertinenziali.",
+        "Conformità urbanistica indicata come 'NO' nella scheda sintetica: l'immobile presenta diversa distribuzione interna degli spazi rispetto ai titoli edilizi depositati, con imprecisioni ed errori grafici nelle tavole comunali.",
+        "Agibilità/abitabilità assente: certificato non presente, circostanza rilevante per futura rivendita o locazione.",
+        "Nell'atto di pignoramento il cortile comune è indicato come Foglio 5 Map. 83 sub. 504, ma il CTU ha corretto in sub. 503: errore nell'atto di pignoramento che potrebbe generare complicazioni nel decreto di trasferimento.",
+        "Il perito segnala l'impossibilità di reperire informazioni su amministratore di condominio e spese condominiali pregresse, anche tramite l'Istituto Vendite Giudiziarie.",
+        "Impianto elettrico risalente all'epoca costruttiva (anni '50-'60), impianto di riscaldamento e condizionamento assenti: l'unità è di fatto priva di impianti funzionanti."
+      ],
+      "rischi": [
+        {
+          "livello": "🟡",
+          "tipo": "Difformità urbanistica sanabile",
+          "dettaglio": "L'immobile presenta distribuzione interna difforme dai titoli edilizi. Il CTU stima la sanatoria tramite CILA o SCIA in €1.500 + sanzione minima €1.032, quindi circa €2.500 totali. Il rischio è gestibile ma va espletata la pratica prima di future compravendite o locazioni regolari."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Assenza di agibilità",
+          "dettaglio": "Il certificato di agibilità non è presente. Ostacola la locazione regolare e complica future vendite; per ottenerlo dopo ristrutturazione occorre collaudo e SCIA agibilità (costo stimato €1.000-2.000 tra tecnico e oneri). Non blocca l'acquisto ma va messo in conto."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali arretrate sconosciute",
+          "dettaglio": "Il perito non ha potuto accertare la presenza di un amministratore né l'entità degli arretrati condominiali. L'acquirente risponde degli arretrati degli ultimi 2 anni (art. 63 disp. att. c.c.): rischio economico non quantificabile, stimabile prudenzialmente in alcune centinaia di euro dato il contesto di piccolo stabile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Costo ristrutturazione elevato rispetto al valore",
+          "dettaglio": "L'immobile necessita rifacimento completo di bagno, nuovi impianti (elettrico, idrico-sanitario, riscaldamento assente), sostituzione serramenti, tinteggiatura. Stima conservativa: €30.000-45.000 (500-750 €/mq su 60 mq). Il costo totale post-ristrutturazione (€45.000-61.000) potrebbe avvicinarsi o superare il valore di mercato finale stimato (€24.000-36.000), rendendo l'operazione economicamente rischiosa salvo uso personale."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù e patti speciali gravanti",
+          "dettaglio": "L'immobile è gravato da servitù attive e passive multiple: passaggio su androne e cortile comuni, tubazione di scarico sottostante il cortile con oneri di manutenzione condivisi. La manutenzione del portone su Via Cairoli è ripartita per 1/3 a carico dell'acquirente. Oneri ricorrenti non quantificati precisamente."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Classe energetica G e assenza riscaldamento",
+          "dettaglio": "Classe G con 352,80 KWh/mq·anno è la peggiore possibile. Non esiste impianto di riscaldamento né condizionamento: installare ex novo un impianto (es. pompa di calore + distribuzione) comporta €8.000-15.000 aggiuntivi. Le normative europee (EPBD) prevedono obbligo di miglioramento della classe energetica entro il 2030-2033, con impatti significativi su chi acquista oggi."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Valore di mercato locale molto depresso",
+          "dettaglio": "Isola Dovarese è un piccolo comune della bassa cremonese con liquidità del mercato immobiliare molto ridotta. I comparabili OMI indicano 400-600 €/mq per abitazioni economiche in stato normale; da ristrutturare il valore reale è 300-450 €/mq. Il CTU stesso adotta 350 €/mq. Il potenziale di rivalutazione post-ristrutturazione è limitato e i tempi di rivendita possono essere molto lunghi."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Dalla ricerca effettuata non risultano altre ipoteche o trascrizioni successive a quanto riportato nel certificato notarile. Non sono segnalate ipoteche attive residue nel documento CTU.",
+        "spese_condominiali": "Non determinabili: il perito non ha reperito informazioni sull'amministratore né sugli arretrati. Stimare prudenzialmente fino a 2 anni di arretrati a carico dell'acquirente. Quota mensile non quantificabile.",
+        "altri_oneri": "Servitù attiva di passaggio su androne (map. 85 sub. 501) e cortile (map. 574); servitù passiva per tubazione interrata di terzi nel cortile comune; patto speciale di manutenzione cortile comune al 50% con altri condomini; manutenzione portone Via Cairoli per 1/3 a carico dell'acquirente. Oneri/spese stimati dal CTU: €2.500 circa."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti sanabili: diversa distribuzione interna degli spazi rispetto ai titoli edilizi depositati (concessioni 1971-1972), con imprecisioni nelle tavole grafiche. Per il Lotto 2 si segnala anche servizio igienico non conforme alla superficie minima di 4,00 mq. Sanatoria stimata: CILA o SCIA €1.500 + sanzione minima €1.032 = circa €2.500 totali per il lotto 1.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE CRITICA SUL CALCOLO ECONOMICO: prezzo base €15.855 + spese asta/tasse stimate €2.000-3.000 + ristrutturazione completa €35.000-50.000 + sanatoria €2.500 + agibilità €1.500 = costo totale stimato €56.000-72.000. Il valore di mercato post-ristrutturazione a Isola Dovarese difficilmente supera €30.000-36.000 (60 mq × 500-600 €/mq in ottimo stato). L'operazione è in PERDITA economica se finalizzata alla rivendita. Ha senso SOLO come abitazione principale con forte sconto soggettivo sul costo-opportunità o come investimento a lunghissimo termine. La perizia è recente (valutazione marzo 2025, giuramento gennaio 2025): i valori sono aggiornati. Immobile edificato anni '50-'60, struttura in muratura di laterizio con solai in latero-cemento: struttura presumibilmente solida ma vetusta. Altezza interna Lotto 1: H=3,00 m (buona). Nessuna autorimessa disponibile. Il bando riporta il comune come 'Cremona' ma l'immobile è a Isola Dovarese, comune diverso e con mercato immobiliare significativamente più debole: verificare attentamente prima di partecipare."
+    },
+    "data_analisi": "2026-05-08"
   }
 }

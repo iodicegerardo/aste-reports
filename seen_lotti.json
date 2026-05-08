@@ -1342,5 +1342,196 @@
       "note_aggiuntive": "ATTENZIONE CRITICA: Prima di qualsiasi valutazione economica è indispensabile chiarire se l'asta vende il 100% dell'immobile o solo la quota di 2/6 pignorata (la perizia è ambigua su questo punto fondamentale). La superficie di 72 mq indicata nell'avviso è palesemente errata rispetto ai 327,50 mq commerciali della perizia: verificare obbligatoriamente l'avviso di vendita ufficiale. I costi aggiuntivi certi post-aggiudicazione sono: demolizione abusi €16.000 + amianto (da quantificare) + regolarizzazione agibilità (da quantificare) + sgombero inquilino (tempi incerti) + ristrutturazione impianti e classe energetica (€30.000-60.000 stimati). Edificio costruito metà '800 con rimaneggiamenti anni '79/'80; struttura portante in muratura con solai presumibilmente latero-cemento e volte a crociera nella parte antica. Il prezzo base di €94.669 appare basso in valore assoluto ma nasconde obblighi di spesa certi per almeno €30.000-80.000 aggiuntivi, azzerando o annullando lo sconto apparente. La perizia è depositata il 10/10/2024 con sopralluogo marzo 2024: sufficientemente recente. Per un acquirente privato orientato all'abitazione propria il rischio è inaccettabile per la combinazione di abusi non sanabili, assenza di agibilità e occupazione con locazione in corso."
     },
     "data_analisi": "2026-05-08"
+  },
+  "astalegale_B2415710": {
+    "id": "astalegale_B2415710",
+    "source": "astalegale",
+    "titolo": "Via TRENTO , 27 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2415710",
+    "indirizzo": "",
+    "comune": "Grontardo",
+    "prezzo_base": 18500.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2415710",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/811e781259b8d65967612c7f879b9ff4/2347162-B?cd=true",
+      "https://documents.astalegale.net/file/0/ccb97d49a9dc9df77c33a180fdd2d51b/2347161-B?cd=true",
+      "https://documents.astalegale.net/file/0/31cc0f827d7598154208d116a13b5cac/2347165-B?cd=true",
+      "https://documents.astalegale.net/file/0/5d9c2dc7b3360d4ebe6ed16ab77663bb/2347166-B?cd=true",
+      "https://documents.astalegale.net/file/0/c101cd31b4220c57a32c38e50a46d3af/2347163-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2415710_doc1.pdf",
+      "output/pdf/astalegale_B2415710_doc2.pdf",
+      "output/pdf/astalegale_B2415710_doc3.pdf",
+      "output/pdf/astalegale_B2415710_doc4.pdf",
+      "output/pdf/astalegale_B2415710_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2347162 b avviso di vendita",
+      "2347161 b ordinanza",
+      "2347165 b perizia",
+      "2347166 b documento con foto",
+      "2347163 b planimetria"
+    ],
+    "descrizione": "Trattasi di casa a cortina nel centro di Grontardo (CR), dotata di cortile e rustico antistante su due livelli: l'ingresso avviene dal cancello al civico n. 27 di via Trento che non pare avere una concessione di passo carraio. Dal cortile si accede al portico e, con una scala esterna mobile, al fienile; dalla porta d'accesso al fabbricato principale invece si accede al soggiorno, successivamente alla cucina ed infine al bagno. \nDall'antibagno parte la scala interna che conduce al piano primo: la",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa a cortina su due livelli nel centro di Grontardo (CR), composta da abitazione principale con cortile, portico e fienile rustico. Immobile libero, in stato manutentivo scarso con impianti quasi del tutto assenti, opere abusive presenti e classe energetica G. Prezzo base di 18.500€ molto basso ma la zona è caratterizzata da mercato stagnante e il valore reale è modesto.",
+      "comune_effettivo": "Grontardo",
+      "dati_catastali": "Foglio 9, Particelle 161 e 162 graffate, nessun subalterno, Categoria A/4, Classe 1, Consistenza 5,5 vani, Superficie catastale totale 104 mq (escluso aree scoperte 101 mq), Rendita 142,03 €, via Trento n. 10 (indirizzo catastale) / n. 27 (indirizzo effettivo)",
+      "superficie_mq": 142,
+      "prezzo_al_mq": 130,
+      "prezzo_mercato_stimato": "400-600 €/mq (comune rurale provincia Cremona, mercato stagnante, immobile da ristrutturare completamente)",
+      "sconto_percentuale": "54% rispetto al valore di mercato stimato dal CTU (20.500€); lo sconto sul prezzo base rispetto al valore CTU è circa 10%, ma il valore CTU stesso riflette già un mercato stagnante e un immobile da ristrutturare integralmente",
+      "anomalie": [
+        "Irregolarità catastale: la planimetria catastale non corrisponde allo stato di fatto (portico non censito come autorimessa); verranno detratti 70,00€ di diritti catastali e spese tecniche dal valore di mercato per la regolarizzazione",
+        "Irregolarità edilizia: la Concessione Edilizia n.220/1982 non è conforme per l'apertura dell'ultima stanza al piano primo (balcone); il Permesso di Costruire n.23/2004 non risulta ultimato",
+        "Indirizzo catastale (via Trento n.10) diverso dall'indirizzo effettivo (via Trento n.27): già segnalato dal CTU come disallineamento da regolarizzare",
+        "Superficie indicata nell'annuncio (72 mq) gravemente discordante dalla superficie commerciale CTU (142 mq) e da quella catastale (104 mq): dato dell'annuncio probabilmente errato o riferito alla sola superficie principale",
+        "Passo carraio del cancello di accesso al civico 27 privo di concessione: servitù di passaggio non regolamentata",
+        "Presenza di rifiuti urbani nel cortile e sotto il portico (smaltimento stimato 1.500€) e sospetta presenza di lastre di eternit/amianto sul fienile (mapp.162): costo bonifica non ancora quantificato con certezza",
+        "Permesso di Costruire 2004 non ultimato: titolo edilizio decaduto, opere parzialmente eseguite senza fine lavori né agibilità per quella parte"
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Amianto/Eternit",
+          "dettaglio": "Il CTU segnala ipotizzabile presenza di lastre di eternit sul fienile (mapp.162) a confine ovest, classificata come rifiuto speciale pericoloso. La bonifica amianto ha costi variabili ma potenzialmente elevati (3.000-15.000€ a seconda della quantità), richiede ditta specializzata e autorizzazioni specifiche; non è possibile quantificare con certezza prima dell'acquisto."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Mercato stagnante e illiquidità",
+          "dettaglio": "Il CTU attribuisce esplicitamente un giudizio di vendibilità scarso per la sostanziale stagnazione del mercato immobiliare in zona. Grontardo è un piccolo comune rurale senza servizi significativi: la rivendita futura sarà difficile e i tempi lunghi, rendendo l'investimento speculativo quasi impossibile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Opere abusive sanabili",
+          "dettaglio": "Presenza di difformità edilizie rispetto ai titoli abilitativi (balcone/apertura ultima stanza piano primo da concessione 1982; P.d.C. 2004 non ultimato). Il CTU ritiene le opere sanabili con costo stimato totale di circa 14.960€ (sanzione pecuniaria, diritti, spese tecniche, rimoz. tettoia, parapetti, ponteggio, nuovo manto, smaltimento rifiuti), ma con avvertenza che la stima è condizionata al buon esito della sanatoria e a futuri cambiamenti normativi."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Impianti assenti",
+          "dettaglio": "L'impianto termico è completamente inesistente (nessuna caldaia, nessun radiatore), l'impianto elettrico è in fase di ristrutturazione (funzionalità non verificata), quello idro-sanitario non completato. Il costo di rifacimento completo degli impianti è stimabile in 20.000-35.000€ per una unità di questa dimensione."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca LO.SE.RI. non rinnovata",
+          "dettaglio": "L'ipoteca legale LO.SE.RI. Spa (Agenzia Riscossione, iscritta 2005, capitale 13.803€, totale 27.606€) non risulta rinnovata dopo vent'anni: il CTU stesso segnala che si attende notifica ex art.498 cpc al creditore. Formalmente sarà cancellata con il decreto di trasferimento, ma l'iter potrebbe subire rallentamenti procedurali."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Stato manutentivo scarso / Umidità strutturale",
+          "dettaglio": "Umidità di risalita alla base dei muri, infiltrazioni di acqua piovana dal tetto con distacchi di intonaco, impermeabilizzazione balcone compromessa. La struttura è in muratura portante ante 1967: una ristrutturazione completa è necessaria con costi stimabili in 700-1.000€/mq sulla superficie principale (70.000-100.000€ totali)."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Occupazione",
+          "dettaglio": "L'immobile è libero e non occupato da alcun titolo, verificato dalla Direzione Provinciale dell'Agenzia delle Entrate. Nessun conduttore né occupante abusivo: la disponibilità è immediata dopo l'aggiudicazione."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "1) Ipoteca volontaria SANPAOLO I.M.I. S.P.A. iscritta 21/09/2004, rinnovata 31/07/2024, capitale garantito 55.000€, totale complessivo 110.000€ (su quota 1/2 ciascuno dei due coniugi esecutati) - SARÀ CANCELLATA. 2) Ipoteca legale LO.SE.RI. S.p.a. iscritta 04/04/2005, capitale 13.803€, totale 27.606€ (su quota 1/2) - SARÀ CANCELLATA (iscrizione non rinnovata, in attesa di notifica). Tutte le ipoteche saranno cancellate con il decreto di trasferimento.",
+        "spese_condominiali": "Nessuna: l'immobile non fa parte di un condominio.",
+        "altri_oneri": "Pignoramento BMW Financial Services S.P.A. trascritto 06/04/2007 (quota 1/1 in comunione legale) - sarà cancellato. Pignoramento PENELOPE SPV S.R.L. trascritto 20/06/2025 (atto originante la presente procedura, quota 1/2 ciascuno) - sarà cancellato. Nessuna servitù, censo o livello risultante dai registri. Vincolo urbanistico: Nucleo di Antica Formazione (P.G.T. tav.C5) con obbligo di deroga per futuri interventi straordinari al piano primo."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti sanabili: 1) Apertura/ampliamento finestre e costruzione balcone ultima stanza piano primo non conformi alla Concessione Edilizia 1982; 2) Permesso di Costruire n.23/2004 non ultimato (lavori di straordinaria manutenzione). Costo stimato sanatoria totale circa 14.960€ (sanzione 1.032€ + diritti segreteria 250€ + spese tecniche 7.612€ + rimoz. tettoia amianto 2.440€ + parapetti 780€ + ponteggio 606€ + nuovo manto 628€ + smaltimento rifiuti 1.500€), con avvertenza del CTU che la stima è soggetta a incertezze normative e strutturali.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Immobile ante 01/09/1967, muratura portante, solaio in laterocemento, orditura tetto in legno. Classe energetica G (312,88 kWh/m²anno): adeguamento energetico obbligatorio per futura vendita comporterà costi aggiuntivi. Il prezzo base di 18.500€ è oggettivamente basso in termini assoluti, ma il costo di ristrutturazione completa (impianti + abusi + amianto + struttura) è stimabile in 80.000-120.000€, portando il costo totale a 100.000-140.000€ per un immobile in un comune con mercato stagnante e valore di mercato CTU di soli 20.500€. Il reale vantaggio economico è quindi quasi nullo o negativo per chi vuole rivenderlo; ha senso solo per chi intende abitarci a lungo termine accettando un investimento totale sproporzionato rispetto ai valori locali. La sospetta presenza di amianto sul fienile è il principale elemento di incertezza non quantificabile prima dell'acquisto."
+    },
+    "data_analisi": "2026-05-08"
+  },
+  "astalegale_B2415835": {
+    "id": "astalegale_B2415835",
+    "source": "astalegale",
+    "titolo": "Via CASELLE, 63 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 144/2025 Rif. #B2415835",
+    "indirizzo": "",
+    "comune": "Cingia dè Botti",
+    "prezzo_base": 77760.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2415835",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/00a9cdff3b98953b8fb7f615f6352e07/2346052-D?cd=true",
+      "https://documents.astalegale.net/file/0/8b13f923f7d7b5df9752b81681aa4b83/2346051-D?cd=true",
+      "https://documents.astalegale.net/file/0/7ba33863a1f8a710c1699a97a3f92172/2346054-D?cd=true",
+      "https://documents.astalegale.net/file/0/e6032ce9df4789524d0ce3fd20e0eb54/2346055-D?cd=true",
+      "https://documents.astalegale.net/file/0/2e68f2bf081077474d34d4e59e7aa988/2346053-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2415835_doc1.pdf",
+      "output/pdf/astalegale_B2415835_doc2.pdf",
+      "output/pdf/astalegale_B2415835_doc3.pdf",
+      "output/pdf/astalegale_B2415835_doc4.pdf",
+      "output/pdf/astalegale_B2415835_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2346052 d avviso di vendita",
+      "2346051 d ordinanza",
+      "2346054 d perizia",
+      "2346055 d documento con foto",
+      "2346053 d certificazione energetica"
+    ],
+    "descrizione": "Il compendio immobiliare è composto principalmente da una casa padronale disposta su due piani oltre soffitta, con annesse due case coloniche. \nLa casa padronale è stata oggetto di adeguamento igienico sanitario in forza di concessione edilizia N. 41/94 del 24.10.1994.\nL’abitazione sviluppantesi su due piani è dotata di riscaldamento autonomo con stufa a legna collegata a radiatori, la casa è in completo stato di abbandono. \nCompletano il compendio immobiliare i porticati, la tettoia e la stalla",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Compendio rurale in Cingia dè Botti (CR) composto da casa padronale su due piani con soffitta e due case coloniche con annessi agricoli (stalle, porticati, tettoia), per una superficie catastale totale di circa 780 mq lordi. L'immobile è in completo stato di abbandono e inabitabile, con cedimenti strutturali alla copertura e presenza di rifiuti. Il prezzo base indicato nel lotto (€77.760) coincide con il valore di vendita forzosa stimato dal CTU, ma la superficie di 72 mq indicata nell'annuncio è gravemente errata rispetto alla perizia.",
+      "comune_effettivo": "Cingia dè Botti",
+      "dati_catastali": "Foglio 11, Particella 270 - Sub. 501 (bene comune non censibile, piano T); Sub. 502 (A/3 cl.2, 11 vani, 411 mq, rendita €414,71, piani T-1-2); Sub. 503 (A/4 cl.1, 4 vani, 102 mq, rendita €109,49, piani T-1); Sub. 504 (C/6 cl.1, 188 mq, rendita €291,28, piani T-1); Sub. 505 (A/4 cl.1, 4 vani, 79 mq, rendita €109,49, piani T-1). Area di sedime particella 270 ente urbano 1.567 mq.",
+      "superficie_mq": 367,
+      "prezzo_al_mq": 212,
+      "prezzo_mercato_stimato": "400-650 €/mq (compendi rurali da ristrutturare in comuni della bassa cremonese oltre 20 km dal capoluogo, con scarsa domanda e dinamiche di mercato molto deboli)",
+      "sconto_percentuale": "40-50% rispetto al range di mercato stimato per compendi analoghi in zona, ma il valore assoluto è limitato dall'elevatissimo costo di ristrutturazione necessario",
+      "anomalie": [
+        "GRAVE: La superficie indicata nell'annuncio d'asta è 72 mq, del tutto falsa e fuorviante: la perizia CTU indica una superficie commerciale ponderata di 367 mq per il solo sub. 502, e un compendio totale di oltre 576 mq lordi tra tutti i subalterni residenziali, più 188 mq di C/6. Questo errore nell'annuncio può trarre in inganno i potenziali offerenti.",
+        "Il comune indicato nell'annuncio è 'Cremona', ma l'immobile si trova a Cingia dè Botti (CR), comune distinto a 21 km dal capoluogo: errore di geolocalizzazione nell'annuncio che distorce qualsiasi comparazione di mercato.",
+        "Il CTU dichiara regolarità urbanistica ed edilizia, ma non produce licenza edilizia originale: l'edificio è anteriore al 01/09/1967 (ante-1967) e al PdF del 1974, quindi esente da titolo abilitativo. La concessione n. 41/94 riguarda solo l'adeguamento igienico-sanitario. La situazione è formalmente corretta ma il cambio d'uso o futuri interventi in zona agricola (PGT Art. 15) saranno soggetti a forti limitazioni.",
+        "Presenza di rifiuti segnalata dal CTU con impossibilità di escludere rifiuti pericolosi o speciali in alcune zone non accessibili: rischio di costi di bonifica non quantificati.",
+        "Le APE indicano classi molto diverse tra i corpi di fabbrica: classe C (sub. 502, abitazione principale), classe G (sub. 503) e classe F (sub. 505). Le unità coloniche hanno prestazioni energetiche pessime, con costi di adeguamento molto elevati.",
+        "Il CTU non ha potuto accedere alle zone dei porticati e della stalla per pericolo di crollo del tetto: lo stato effettivo di queste strutture è sostanzialmente ignoto e non valorizzato in modo attendibile."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Stato strutturale critico e costi di ristrutturazione elevatissimi",
+          "dettaglio": "L'immobile è inabitabile e inagibile: la copertura presenta cedimenti strutturali multipli per infiltrazioni d'acqua, i solai sono in legno (presumibilmente degradati), i porticati sono pericolanti. Una ristrutturazione completa del compendio (casa padronale + coloniche + annessi) richiederà verosimilmente 700-1.200 €/mq sulla superficie lorda utile, stimando un costo minimo di 300.000-500.000 € per rendere agibile l'intero compendio. Il costo di ristrutturazione supera ampiamente il prezzo d'acquisto."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Destinazione urbanistica agricola (PGT Art. 15)",
+          "dettaglio": "Il compendio ricade in 'ambito agricolo' ai sensi del PGT di Cingia dè Botti Art. 15 Piano delle Regole. Questo implica forti restrizioni agli interventi edilizi: il recupero abitativo è generalmente consentito per i manufatti esistenti ma con limitazioni volumetriche e d'uso; nuove costruzioni praticamente escluse. Qualsiasi progetto di recupero deve essere preventivamente verificato con il Comune per escludere vincoli ostativi."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Mercato illiquido e bassissima domanda",
+          "dettaglio": "Cingia dè Botti ha una densità abitativa di 84 ab/kmq (dati 2007, in ulteriore calo), dinamiche socioeconomiche definite dallo stesso CTU 'poco vivaci', e il territorio è classificato come 'pianura irrigua a bassa densità'. La rivendita futura del compendio, anche ristrutturato, è incerta e potrebbe richiedere molti anni. Il potenziale di rivalutazione è molto limitato."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Presenza di rifiuti potenzialmente pericolosi",
+          "dettaglio": "Il CTU segnala esplicitamente l'impossibilità di escludere rifiuti pericolosi o speciali nelle zone non accessibili (stalle, porticati). I costi di bonifica ambientale, se confermati, possono variare da poche migliaia a decine di migliaia di euro a seconda della tipologia (amianto, oli, solventi). Richiedere sopralluogo tecnico prima di partecipare."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Valutazione CTU potenzialmente ottimistica",
+          "dettaglio": "Il CTU applica 150 €/mq su superfici commerciali ponderate, ma questa stima per un compendio in zona a domanda bassissima e in stato di totale abbandono appare generosa. Il valore reale di mercato per un acquirente privato che deve poi sostenere 300.000-500.000 € di ristrutturazione potrebbe essere sensibilmente inferiore. Il prezzo base d'asta coincide con il valore di vendita forzosa, il che riduce il margine di sconto reale."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Dati non esplicitati nel testo della perizia trasmessa; l'Allegato n. 4 'Ispezione Ipotecaria' è elencato ma non disponibile nel documento fornito. Impossibile determinare importo e tipologia delle ipoteche: VERIFICA OBBLIGATORIA prima di partecipare.",
+        "spese_condominiali": "Nessuna (immobile non in condominio)",
+        "altri_oneri": "Nessun censo, livello o uso civico segnalato dal CTU. Verificare l'ispezione ipotecaria completa (Allegato 4 non disponibile)."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Nessuno rilevato: il CTU dichiara regolarità catastale, urbanistica ed edilizia. L'edificio è ante-1967, esente da titolo abilitativo. La concessione n. 41/94 copre l'adeguamento igienico-sanitario. Tuttavia la destinazione agricola del PGT pone limiti severi ai futuri interventi.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Il prezzo base di €77.760 può sembrare attraente in termini assoluti, ma è del tutto ingannevole: il costo per rendere agibile e abitabile l'intero compendio è stimabile in almeno 300.000-500.000 €, portando l'investimento totale a 380.000-580.000 € per un immobile in zona a domanda quasi nulla. L'APE classe G del corpo colonico principale (sub. 503) indica un consumo energetico di 427 kWh/mq/anno, praticamente irrecuperabile senza demolizione e ricostruzione. L'immobile potrebbe avere interesse esclusivamente per un soggetto con fondi propri abbondanti, progetto specifico (agriturismo, cascina di lusso) e orizzonte temporale di 5-10 anni, consapevole del rischio di illiquidità. Per un acquirente privato ordinario è sconsigliato. ALERT CRITICO: verificare assolutamente l'Allegato 4 (Ispezione Ipotecaria) prima di qualsiasi offerta, poiché le ipoteche non sono quantificate nei documenti forniti. La superficie di 72 mq indicata nell'annuncio è un errore macroscopico (reale: ~367 mq commerciali solo per il sub. 502)."
+    },
+    "data_analisi": "2026-05-08"
   }
 }

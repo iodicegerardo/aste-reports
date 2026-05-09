@@ -3,6 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#2c5282">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Aste CR">
+<link rel="apple-touch-icon" href="./icon-192.png">
 <title>Aste Cremona — 2026-05-09</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
@@ -305,9 +311,114 @@
     .filtri-bar { padding: 0.6rem 0.75rem; gap: 0.4rem; }
     .contatore-visibili { margin-left: 0; width: 100%; text-align: center; }
   }
+  /* ── Preferiti ── */
+  .btn-preferito {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.2rem;
+    height: 2.2rem;
+    border: none;
+    border-radius: 6px;
+    background: rgba(44,82,130,0.08);
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: background 0.2s, transform 0.15s;
+    flex-shrink: 0;
+  }
+  .btn-preferito:hover { background: rgba(44,82,130,0.18); }
+  .btn-preferito.is-preferito { color: #e67e22; background: rgba(230,126,34,0.12); }
+  .btn-preferito.is-preferito:hover { background: rgba(230,126,34,0.22); }
+  #sezione-preferiti {
+    display: none;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: white;
+    border: 2px solid #2c5282;
+    border-radius: 10px;
+  }
+  #sezione-preferiti.visible { display: block; }
+  #sezione-preferiti h2 {
+    font-family: 'Playfair Display', serif;
+    color: #2c5282;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+  #lista-preferiti { list-style: none; }
+  #lista-preferiti li {
+    padding: 0.35rem 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  #lista-preferiti li:last-child { border-bottom: none; }
+  .pref-remove {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #8b1a1a;
+    font-size: 0.85rem;
+    padding: 0;
+    min-height: 44px;
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  /* ── Banner iOS install ── */
+  #ios-install-banner {
+    display: none;
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% - 2rem);
+    max-width: 420px;
+    background: #2c5282;
+    color: white;
+    border-radius: 12px;
+    padding: 0.85rem 1rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+    z-index: 1000;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    gap: 0.75rem;
+    align-items: center;
+  }
+  #ios-install-banner.visible { display: flex; }
+  #ios-install-banner .banner-icon { font-size: 1.5rem; flex-shrink: 0; }
+  #ios-install-banner .banner-text { flex: 1; }
+  #ios-install-banner .banner-text strong { display: block; margin-bottom: 0.15rem; }
+  #ios-install-banner .banner-close {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.3rem;
+    cursor: pointer;
+    padding: 0.25rem;
+    opacity: 0.75;
+    flex-shrink: 0;
+    min-height: 44px;
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #ios-install-banner .banner-close:hover { opacity: 1; }
 </style>
 </head>
 <body>
+<div id="ios-install-banner" role="alert">
+  <span class="banner-icon">&#127968;</span>
+  <div class="banner-text">
+    <strong>Aggiungi alla schermata Home</strong>
+    Tocca &#9991; poi &ldquo;Aggiungi a schermata Home&rdquo;
+  </div>
+  <button class="banner-close" aria-label="Chiudi" onclick="chiudiBannerIOS()">&#10005;</button>
+</div>
 <header>
   <h1>&#127961; Aste Immobiliari — Cremona</h1>
   <div class="subtitle">Report giornaliero &middot; Zona: Cremona e dintorni &middot; Fonti: portaleaste.com &middot; astalegale.net</div>
@@ -321,6 +432,11 @@
   <div class="stat-box"><div class="num" style="color:#444">1</div><div class="lbl">&#9898; Senza giudizio</div></div>
 </div>
 
+<div id="sezione-preferiti">
+  <h2>&#11088; Lotti preferiti</h2>
+  <ul id="lista-preferiti"></ul>
+</div>
+
 
 
 <div class="filtri-bar" id="filtri-bar">
@@ -329,6 +445,7 @@
   <button data-filter="🟡" onclick="setFiltro(this,'🟡')">🟡 Con cautela</button>
   <button data-filter="🔴" onclick="setFiltro(this,'🔴')">🔴 Sconsigliati</button>
   <button data-filter="⚪" onclick="setFiltro(this,'⚪')">⚪ Senza giudizio</button>
+  <button id="btn-filtro-preferiti" data-filter="preferiti" onclick="setFiltro(this,'preferiti')">&#11088; Preferiti</button>
   <div class="filtri-prezzo">
     <label for="prezzo-max">Max &euro;</label>
     <input type="number" id="prezzo-max" placeholder="es. 80000" min="0" step="5000" oninput="aggiornaFiltri()">
@@ -362,6 +479,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 162/2024 Rif. #B2416411</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416411" onclick="togglePreferito(this,'portaleaste_B2416411',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416411" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -408,6 +526,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 164/2025 Rif. #B2415630</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2415630" onclick="togglePreferito(this,'portaleaste_B2415630',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2415630" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -454,6 +573,7 @@
                         <div class="lotto-subtitle">Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2405015" onclick="togglePreferito(this,'portaleaste_B2405015',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2405015" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#444" title="N/D">⚪</span>
                     </div>
@@ -500,6 +620,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 107/2023 Rif. #B2416272</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416272" onclick="togglePreferito(this,'portaleaste_B2416272',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416272" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -546,6 +667,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 98/2025 Rif. #B2416340</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416340" onclick="togglePreferito(this,'portaleaste_B2416340',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416340" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -592,6 +714,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Contenzioso civile 149/2025 Rif. #B2416255</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416255" onclick="togglePreferito(this,'portaleaste_B2416255',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416255" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -638,6 +761,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2415710</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2415710" onclick="togglePreferito(this,'portaleaste_B2415710',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2415710" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -684,6 +808,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 144/2025 Rif. #B2415835</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2415835" onclick="togglePreferito(this,'portaleaste_B2415835',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2415835" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -730,6 +855,7 @@
                         <div class="lotto-subtitle">Lotto 2 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416316</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416316" onclick="togglePreferito(this,'portaleaste_B2416316',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416316" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -776,6 +902,7 @@
                         <div class="lotto-subtitle">Lotto 1 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416313</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416313" onclick="togglePreferito(this,'portaleaste_B2416313',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416313" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -822,6 +949,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 139/2025 Rif. #B2416341</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="portaleaste_B2416341" onclick="togglePreferito(this,'portaleaste_B2416341',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.portaleaste.com/Aste/Detail/B2416341" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -868,6 +996,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 139/2025 Rif. #B2416341</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2416341" onclick="togglePreferito(this,'astalegale_B2416341',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2416341" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -914,6 +1043,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 107/2023 Rif. #B2416272</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2416272" onclick="togglePreferito(this,'astalegale_B2416272',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2416272" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -960,6 +1090,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 98/2025 Rif. #B2416340</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2416340" onclick="togglePreferito(this,'astalegale_B2416340',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2416340" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -1006,6 +1137,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Contenzioso civile 149/2025 Rif. #B2416255</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2416255" onclick="togglePreferito(this,'astalegale_B2416255',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2416255" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -1052,6 +1184,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2415710</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2415710" onclick="togglePreferito(this,'astalegale_B2415710',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2415710" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -1098,6 +1231,7 @@
                         <div class="lotto-subtitle">Lotto Unico - Tribunale di Cremona - Esecuzioni civili 144/2025 Rif. #B2415835</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2415835" onclick="togglePreferito(this,'astalegale_B2415835',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2415835" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -1144,6 +1278,7 @@
                         <div class="lotto-subtitle">Lotto 2 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416316</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2416316" onclick="togglePreferito(this,'astalegale_B2416316',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2416316" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#8b1a1a" title="SCONSIGLIATO">🔴</span>
                     </div>
@@ -1190,6 +1325,7 @@
                         <div class="lotto-subtitle">Lotto 1 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416313</div>
                     </div>
                     <div class="lotto-header-right">
+                        <button class="btn-preferito" data-lotto-id="astalegale_B2416313" onclick="togglePreferito(this,'astalegale_B2416313',event)" aria-label="Aggiungi ai preferiti">&#9734;</button>
                         <a class="icon-link" href="https://www.astalegale.net/Aste/Detail/B2416313" target="_blank" onclick="event.stopPropagation()">&#128279;</a>
                         <span class="dot-badge" style="background:#7a5c00" title="PROCEDERE CON CAUTELA">🟡</span>
                     </div>
@@ -1224,7 +1360,7 @@
 </div>
 
 <footer>
-  Generato automaticamente &middot; 09/05/2026 08:17 &middot;
+  Generato automaticamente &middot; 09/05/2026 08:23 &middot;
   Fonti: portaleaste.com &middot; astalegale.net (Tribunale di Cremona) &middot;
   Analisi: Claude AI (Anthropic) &middot;
   &#9888;&#65039; Non costituisce consulenza legale o finanziaria.
@@ -1243,35 +1379,154 @@
     btn.classList.add('active');
     aggiornaFiltri();
   };
+  function _sortCards(cards, sortMode) {
+    if (!sortMode) return;
+    var container = document.getElementById('lotti-container');
+    var vis = cards.filter(function(c) { return c.style.display !== 'none'; });
+    vis.sort(function(a, b) {
+      if (sortMode === 'data-asc')    return (a.dataset.dataAsta||'9999').localeCompare(b.dataset.dataAsta||'9999');
+      if (sortMode === 'data-desc')   return (b.dataset.dataAsta||'').localeCompare(a.dataset.dataAsta||'');
+      if (sortMode === 'prezzo-asc')  return parseInt(a.dataset.prezzo,10) - parseInt(b.dataset.prezzo,10);
+      if (sortMode === 'prezzo-desc') return parseInt(b.dataset.prezzo,10) - parseInt(a.dataset.prezzo,10);
+      if (sortMode === 'sconto-desc') return parseInt(b.dataset.sconto,10) - parseInt(a.dataset.sconto,10);
+      return 0;
+    });
+    vis.forEach(function(card) { container.appendChild(card); });
+  }
   window.aggiornaFiltri = function() {
     var prezzoMax = parseInt(document.getElementById('prezzo-max').value, 10) || 0;
     var sortMode = document.getElementById('sort-sel').value;
     var cards = getCards();
-    var container = document.getElementById('lotti-container');
     var visibili = 0;
-    cards.forEach(function(card) {
-      var okColore = filtroColore === 'tutti' || card.dataset.colore === filtroColore;
-      var prezzo = parseInt(card.dataset.prezzo, 10) || 0;
-      var okPrezzo = prezzoMax === 0 || prezzo <= prezzoMax;
-      var mostra = okColore && okPrezzo;
-      card.style.display = mostra ? '' : 'none';
-      if (mostra) visibili++;
-    });
-    if (sortMode) {
-      var vis = cards.filter(function(c) { return c.style.display !== 'none'; });
-      vis.sort(function(a, b) {
-        if (sortMode === 'data-asc')    return (a.dataset.dataAsta||'9999').localeCompare(b.dataset.dataAsta||'9999');
-        if (sortMode === 'data-desc')   return (b.dataset.dataAsta||'').localeCompare(a.dataset.dataAsta||'');
-        if (sortMode === 'prezzo-asc')  return parseInt(a.dataset.prezzo,10) - parseInt(b.dataset.prezzo,10);
-        if (sortMode === 'prezzo-desc') return parseInt(b.dataset.prezzo,10) - parseInt(a.dataset.prezzo,10);
-        if (sortMode === 'sconto-desc') return parseInt(b.dataset.sconto,10) - parseInt(a.dataset.sconto,10);
-        return 0;
+    if (filtroColore === 'preferiti') {
+      var prefs = _loadPreferiti();
+      cards.forEach(function(card) {
+        var btn = card.querySelector('.btn-preferito');
+        var id = btn ? btn.dataset.lottoId : '';
+        var okPref = id && !!prefs[id];
+        var prezzo = parseInt(card.dataset.prezzo, 10) || 0;
+        var okPrezzo = prezzoMax === 0 || prezzo <= prezzoMax;
+        var mostra = okPref && okPrezzo;
+        card.style.display = mostra ? '' : 'none';
+        if (mostra) visibili++;
       });
-      vis.forEach(function(card) { container.appendChild(card); });
+    } else {
+      cards.forEach(function(card) {
+        var okColore = filtroColore === 'tutti' || card.dataset.colore === filtroColore;
+        var prezzo = parseInt(card.dataset.prezzo, 10) || 0;
+        var okPrezzo = prezzoMax === 0 || prezzo <= prezzoMax;
+        var mostra = okColore && okPrezzo;
+        card.style.display = mostra ? '' : 'none';
+        if (mostra) visibili++;
+      });
     }
+    _sortCards(cards, sortMode);
     document.getElementById('contatore-visibili').textContent =
       visibili + ' lotti visibili su ' + cards.length;
   };
+
+  /* ── Preferiti ─────────────────────────────────────────────── */
+  var PREF_KEY = 'aste_preferiti_v1';
+  function _loadPreferiti() {
+    try { return JSON.parse(localStorage.getItem(PREF_KEY) || '{}'); }
+    catch(e) { return {}; }
+  }
+  function _savePreferiti(prefs) {
+    try { localStorage.setItem(PREF_KEY, JSON.stringify(prefs)); } catch(e) {}
+  }
+  function _renderSezPreferiti() {
+    var prefs = _loadPreferiti();
+    var ids = Object.keys(prefs);
+    var sezione = document.getElementById('sezione-preferiti');
+    var lista = document.getElementById('lista-preferiti');
+    if (!sezione || !lista) return;
+    lista.innerHTML = '';
+    if (ids.length === 0) { sezione.classList.remove('visible'); return; }
+    sezione.classList.add('visible');
+    ids.forEach(function(id) {
+      var li = document.createElement('li');
+      var rmBtn = document.createElement('button');
+      rmBtn.className = 'pref-remove';
+      rmBtn.setAttribute('aria-label', 'Rimuovi dai preferiti');
+      rmBtn.textContent = '✕';
+      rmBtn.onclick = function() {
+        var p = _loadPreferiti();
+        delete p[id];
+        _savePreferiti(p);
+        var cardBtn = document.querySelector('.btn-preferito[data-lotto-id="' + id + '"]');
+        if (cardBtn) { cardBtn.classList.remove('is-preferito'); cardBtn.innerHTML = '&#9734;'; cardBtn.setAttribute('aria-label','Aggiungi ai preferiti'); }
+        _renderSezPreferiti();
+        if (filtroColore === 'preferiti') aggiornaFiltri();
+      };
+      li.appendChild(rmBtn);
+      li.appendChild(document.createTextNode(prefs[id] || id));
+      lista.appendChild(li);
+    });
+  }
+  function _syncStarButtons() {
+    var prefs = _loadPreferiti();
+    document.querySelectorAll('.btn-preferito').forEach(function(btn) {
+      var id = btn.dataset.lottoId;
+      if (prefs[id]) {
+        btn.classList.add('is-preferito');
+        btn.innerHTML = '&#9733;';
+        btn.setAttribute('aria-label', 'Rimuovi dai preferiti');
+      } else {
+        btn.classList.remove('is-preferito');
+        btn.innerHTML = '&#9734;';
+        btn.setAttribute('aria-label', 'Aggiungi ai preferiti');
+      }
+    });
+  }
+  window.togglePreferito = function(btn, lottoId, e) {
+    if (e) e.stopPropagation();
+    var prefs = _loadPreferiti();
+    if (prefs[lottoId]) {
+      delete prefs[lottoId];
+    } else {
+      var card = btn.closest('.lotto-card');
+      var via = card ? (card.querySelector('.lotto-via') || {}).textContent : lottoId;
+      prefs[lottoId] = (via || lottoId).trim().slice(0, 80);
+    }
+    _savePreferiti(prefs);
+    _syncStarButtons();
+    _renderSezPreferiti();
+    if (filtroColore === 'preferiti') aggiornaFiltri();
+  };
+
+  /* ── Service Worker ─────────────────────────────────────────── */
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('./sw.js', { scope: './' })
+        .catch(function(err) { console.warn('[PWA] SW non registrato:', err); });
+    });
+  }
+
+  /* ── Android install prompt ─────────────────────────────────── */
+  window.addEventListener('beforeinstallprompt', function(e) { e.preventDefault(); });
+
+  /* ── iOS install banner ─────────────────────────────────────── */
+  function _isIOS() { return /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.MSStream; }
+  function _isStandalone() { return ('standalone' in navigator) && navigator.standalone; }
+  window.chiudiBannerIOS = function() {
+    var b = document.getElementById('ios-install-banner');
+    if (b) b.classList.remove('visible');
+    try { localStorage.setItem('ios_banner_v1', '1'); } catch(e) {}
+  };
+
+  /* ── Init ───────────────────────────────────────────────────── */
+  document.addEventListener('DOMContentLoaded', function() {
+    _syncStarButtons();
+    _renderSezPreferiti();
+    if (_isIOS() && !_isStandalone()) {
+      try { if (!localStorage.getItem('ios_banner_v1')) {
+        setTimeout(function() {
+          var b = document.getElementById('ios-install-banner');
+          if (b) b.classList.add('visible');
+        }, 1500);
+      } } catch(e) {}
+    }
+  });
 })();
 </script>
 </body>

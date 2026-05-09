@@ -18,6 +18,10 @@ There is no code to run here. All content is generated and pushed automatically 
 | `index.html` | Latest HTML report (overwritten on every run) |
 | `report_YYYY-MM-DD.html` | Dated copy of each run's report |
 | `seen_lotti.json` | Deduplication registry — dict keyed by lotto ID, value is full lotto data + `data_analisi` field |
+| `manifest.json` | Web App Manifest per installabilità PWA (nome, icone, colore tema) |
+| `sw.js` | Service Worker (network-first caching, offline fallback sull'ultimo report) |
+| `icon-192.png` | App icon 192×192 px per Android Chrome e home screen |
+| `icon-512.png` | App icon 512×512 px per splash screen PWA |
 
 ## Report Features
 
@@ -41,6 +45,19 @@ The `aste_daily.yml` workflow in `iodicegerardo/aste` runs **daily at 08:00 UTC*
    - `index.html` ← `output/report_YYYY-MM-DD.html`
    - `report_YYYY-MM-DD.html` ← same file
    - `seen_lotti.json` ← updated registry
+   - `manifest.json` ← `static/manifest.json` from `aste` repo
+   - `sw.js` ← `static/sw.js` from `aste` repo
+   - `icon-192.png`, `icon-512.png` ← generati da `generate_icons.py` a build-time
+
+## PWA Assets
+
+Questo repo ospita anche i file statici necessari per la PWA (Sprint 2):
+
+- **`manifest.json`** — dichiara nome, icone, `theme_color: "#2c5282"`, `start_url: "./"` e `scope: "./"` (percorsi relativi obbligatori perché il sito vive su `/aste-reports/`)
+- **`sw.js`** — service worker con strategia network-first: aggiorna la cache ad ogni visita online, serve l'ultima versione in cache quando offline
+- **`icon-192.png`** / **`icon-512.png`** — icone PNG con sfondo blu `#2c5282` e glifo "A" crema; generate da `generate_icons.py` in `iodicegerardo/aste` ad ogni run CI
+
+Non modificare questi file direttamente — vengono sovrascritti ad ogni deploy. Apporta le modifiche in `iodicegerardo/aste`.
 
 ## seen_lotti.json Format
 

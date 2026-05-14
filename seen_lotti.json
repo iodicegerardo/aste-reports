@@ -1734,5 +1734,395 @@
       "note_aggiuntive": "ATTENZIONE CRITICA SUL CALCOLO ECONOMICO: prezzo base €15.855 + spese asta/tasse stimate €2.000-3.000 + ristrutturazione completa €35.000-50.000 + sanatoria €2.500 + agibilità €1.500 = costo totale stimato €56.000-72.000. Il valore di mercato post-ristrutturazione a Isola Dovarese difficilmente supera €30.000-36.000 (60 mq × 500-600 €/mq in ottimo stato). L'operazione è in PERDITA economica se finalizzata alla rivendita. Ha senso SOLO come abitazione principale con forte sconto soggettivo sul costo-opportunità o come investimento a lunghissimo termine. La perizia è recente (valutazione marzo 2025, giuramento gennaio 2025): i valori sono aggiornati. Immobile edificato anni '50-'60, struttura in muratura di laterizio con solai in latero-cemento: struttura presumibilmente solida ma vetusta. Altezza interna Lotto 1: H=3,00 m (buona). Nessuna autorimessa disponibile. Il bando riporta il comune come 'Cremona' ma l'immobile è a Isola Dovarese, comune diverso e con mercato immobiliare significativamente più debole: verificare attentamente prima di partecipare."
     },
     "data_analisi": "2026-05-08"
+  },
+  "portaleaste_B2417121": {
+    "id": "portaleaste_B2417121",
+    "source": "portaleaste",
+    "titolo": "Via Fornace, 10 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 19/2023 Rif. #B2417121",
+    "indirizzo": "",
+    "comune": "Vescovato",
+    "prezzo_base": 17718.75,
+    "data_asta": "08/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2417121",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/0913de7da28da8a6a17d493380c7f3ea/2355687-B?cd=true",
+      "https://documents.astalegale.net/file/2/2d5ac8269021b3908f8953403bcc937b/2355685-B?cd=true",
+      "https://documents.astalegale.net/file/2/19758b176bf7b2dc2b2b687546bfeca9/2355686-B?cd=true",
+      "https://documents.astalegale.net/file/2/3fae9936e042ea3ffe45b8e4e7f0ea2b/2009230-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2417121_doc1.pdf",
+      "output/pdf/portaleaste_B2417121_doc2.pdf",
+      "output/pdf/portaleaste_B2417121_doc3.pdf",
+      "output/pdf/portaleaste_B2417121_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2355687 b avviso di vendita",
+      "2355685 b ordinanza",
+      "2355686 b perizia",
+      "2009230 c perizia"
+    ],
+    "descrizione": "L’unità immobiliare è composta da ingresso, soggiorno e zona pranzo cuocivivande, cortiletto con rustico ed orto esclusivo al piano terra, due camere, disimpegno ed un bagno con  una terrazza e fienile posto al piano primo, una stanza e due soffitte al piano secondo con accesso da Via Fornace. \nClasse energetica G con fabbisogno termico per la climatizzazione invernale pari a 434,51 kWh/mqanno.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 17.718,75 - Data asta: 08/09/2026 - 16:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Porzione di fabbricato su tre livelli (PT/P1/P2) in vecchia corte a Vescovato (CR), via Fornace 10, in pessime condizioni manutentive generali che richiedono ristrutturazione completa. Il prezzo base di €17.719 rappresenta uno sconto significativo rispetto al valore CTU di €56.000, ma l'immobile è in comune rurale piccolo con mercato illiquido e richiede investimento rilevante per essere abitabile.",
+      "comune_effettivo": "Vescovato",
+      "dati_catastali": "Foglio 6, mappale 59 graffato ai mappali 58 e 52, categoria A/4, classe 2, vani 7,5, superficie catastale 141 mq, rendita €193,67 - Via Fornace n.10 piano T-1-2",
+      "superficie_mq": 155,
+      "prezzo_al_mq": 114,
+      "prezzo_mercato_stimato": "400-600 €/mq (comune provinciale <5.000 ab., immobile da ristrutturare integralmente)",
+      "sconto_percentuale": "68% rispetto al valore CTU di €56.000; circa 60-70% rispetto alla stima di mercato indipendente (500 €/mq x 155 mq = ~€77.500)",
+      "anomalie": [
+        "Il prezzo base dell'asta (€17.719) è pari al 31,6% del valore di stima CTU (€56.000): riduzione drastica che indica aste precedenti andate deserte e forte deprezzamento progressivo.",
+        "La superficie indicata nell'avviso d'asta (72 mq) diverge significativamente dalla superficie commerciale CTU (155,39 mq) e dalla superficie catastale (141 mq): discrepanza superiore al 50%, da chiarire prima di partecipare.",
+        "Il comune indicato nei dati lotto è 'Cremona' mentre la perizia CTU localizza inequivocabilmente l'immobile a Vescovato (CR): errore nell'annuncio che può generare confusione nella valutazione del mercato di riferimento.",
+        "Presenza di più ipoteche giudiziali (almeno 5 iscrizioni rilevate in perizia, tutte oscurate): gli importi totali non sono leggibili nei documenti forniti, impedendo la verifica della copertura da parte del prezzo base.",
+        "Il rustico sul retro è descritto come 'in mattoni con tetto in legno in pessime condizioni e inagibile': elemento strutturale degradato che potrebbe comportare costi di demolizione o consolidamento non quantificati.",
+        "L'impianto di riscaldamento è a stufe a gas autonome con caldaia senza libretto: impianto non a norma che richiede sostituzione integrale prima dell'utilizzo.",
+        "Gas non allacciato alla rete pubblica: costo di allacciamento da quantificare (stimabile tra €3.000 e €8.000 a seconda della distanza dalla rete)."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Ipoteche giudiziali multiple opache",
+          "dettaglio": "Risultano almeno 5 ipoteche giudiziali iscritte sull'immobile (pag. 17 perizia), tutte con importi oscurati. Non è possibile verificare se il prezzo base copra il totale delle iscrizioni. Se il ricavato dell'asta non copre le ipoteche pregresse, si pone il problema della distribuzione: consultare obbligatoriamente l'avviso di vendita e il piano di riparto prima di partecipare."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Stato manutentivo pessimo / costo ristrutturazione",
+          "dettaglio": "Praticamente ogni elemento dell'immobile è in pessime condizioni (impianti, serramenti, pavimenti, pareti, bagni, tetto rustico). Il CTU stesso definisce necessaria una 'manutenzione straordinaria completa'. Stimando 800-1.000 €/mq su ~132 mq calpestabili, il costo di ristrutturazione è tra €105.000 e €132.000, portando il costo totale dell'operazione a €120.000-150.000 contro un valore post-ristrutturazione di ~€70.000-80.000: operazione in perdita."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Classe energetica G e assenza gas di rete",
+          "dettaglio": "Con 434,51 kWh/mq/anno l'immobile è nella classe peggiore: gestione energetica insostenibile con i costi attuali. La normativa europea (direttiva EPBD) impone adeguamenti progressivi agli edifici residenziali in classe F/G. Il gas non è allacciato alla rete, rendendo necessario un nuovo impianto termico completo (pompa di calore o allacciamento gas con caldaia: €8.000-20.000)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido in comune piccolo",
+          "dettaglio": "Vescovato conta circa 3.900 abitanti, è un piccolo comune della pianura cremonese. La domanda immobiliare è limitata e i tempi di rivendita molto lunghi. Il CTU stesso segnala 'mercato in fase di stallo': difficile recuperare l'investimento in caso di rivendita, adatta solo per uso personale stabile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Discrepanza superficie annuncio/perizia",
+          "dettaglio": "I 72 mq indicati nell'annuncio non corrispondono né ai 141 mq catastali né ai 155 mq commerciali CTU. Potrebbe trattarsi della sola superficie calpestabile dell'unità principale escludendo accessori, ma va verificato prima di formulare un'offerta per evitare sorprese sul bene effettivamente aggiudicato."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità catastale e urbanistica",
+          "dettaglio": "Il CTU conferma la conformità catastale e l'edificio ante-1967 con condoni edilizi già perfezionati: nessuna irregolarità urbanistica residua da sanare. Questo aspetto è positivo e riduce i rischi legali post-acquisto."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Presenti almeno 5 ipoteche giudiziali iscritte a carico dell'esecutato (rilevate in sezione 5.5 perizia, pag. 17): tutti gli importi sono oscurati nei documenti pubblicati. Natura: ipoteche giudiziali da decreti ingiuntivi. Necessario richiedere visura ipotecaria aggiornata tramite cancelleria o conservatoria prima di partecipare.",
+        "spese_condominiali": "Non applicabile: trattasi di fabbricato in corte con parti comuni ex art. 1117 c.c. ma non risulta condominio formale. Verificare eventuali quote di spese comuni con i comproprietari delle parti comuni.",
+        "altri_oneri": "Pignoramento immobiliare trascritto (citato in perizia). Accettazione tacita di eredità trascritta (Gianluppi Marco rep. 19672/14022 del 22/11/2011). Nessun gravame da censo, livello o uso civico rilevato."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "nessuno rilevato - immobile edificato ante-1967, condoni edilizi presentati e regolarizzati, conformità catastale verificata dal CTU; nessuna irregolarità urbanistica residua da sanare",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "L'operazione è economicamente svantaggiosa per un acquirente privato: il prezzo base di €17.719 sembra appetibile ma il costo di ristrutturazione completa (stimato €105.000-132.000) porta il totale dell'investimento a circa €125.000-150.000, ben oltre il valore di mercato post-ristrutturazione in un comune di 3.900 abitanti (stimato €65.000-80.000). Il prezzo base così basso (terza o ulteriore asta andata deserta) riflette esattamente questa antieconomicità. Unico scenario sensato: acquirente che vuole un'abitazione principale in zona a prezzi ultra-contenuti, capace di eseguire in proprio gran parte dei lavori, con budget disponibile per la ristrutturazione e accettando la perdita di valore sull'investimento. Prima di qualsiasi partecipazione è indispensabile: 1) ottenere visura ipotecaria aggiornata per quantificare le ipoteche; 2) chiarire la discrepanza di superficie (72 vs 155 mq); 3) consultare il piano di riparto/avviso vendita integrale. La perizia CTU è del 2023 (sopralluogo maggio 2023), quindi aggiornata. Anno costruzione: ante-1967."
+    },
+    "data_analisi": "2026-05-14"
+  },
+  "portaleaste_B2416369": {
+    "id": "portaleaste_B2416369",
+    "source": "portaleaste",
+    "titolo": "Via E. Toti , 24  - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 175/2021 Rif. #B2416369",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 98600.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416369",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/416904380c46e85da06e37b7018abf11/2355602-B?cd=true",
+      "https://documents.astalegale.net/file/2/549ca8716eb12aff55ebc4c70d19bca7/2355601-B?cd=true",
+      "https://documents.astalegale.net/file/2/029a52743e00df9469fc7e92a9aaaacb/2355604-B?cd=true",
+      "https://documents.astalegale.net/file/2/2e3d3f4a5e7ce8e5ec5a648eddf8e6fd/2355605-B?cd=true",
+      "https://documents.astalegale.net/file/2/0bec81be5840e493ca465542336a4e49/2355603-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2416369_doc1.pdf",
+      "output/pdf/portaleaste_B2416369_doc2.pdf",
+      "output/pdf/portaleaste_B2416369_doc3.pdf",
+      "output/pdf/portaleaste_B2416369_doc4.pdf",
+      "output/pdf/portaleaste_B2416369_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2355602 b avviso di vendita",
+      "2355601 b ordinanza",
+      "2355604 b perizia",
+      "2355605 b documento con foto",
+      "2355603 b certificazione energetica"
+    ],
+    "descrizione": "Piena proprietà di unità immobiliare composta da appartamento, cantina e box posta al terzo piano del Condominio Toti 24. Si compone di ingresso con scala comunicante all'appartamento al piano superiore, bagno privo di doccia, cucina abitabile, ed un grande locale divisibile per ottenere due stanze da letto doppie. APE con scadenza 21/01/2036 classe energetica G, EP gl. nren 371,77 kWh/mqa.  - Tipologia: Abitazione di tipo civile - Prezzo: € 98.600,00 - Data asta: 21/07/2026 - 17:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al terzo piano con cantina e box (sub. 504 + sub. 8) in via Enrico Toti 24, Cremona, quartiere 'Po' (prima periferia). Immobile degli anni '60, stato manutentivo discreto ma con regolarità edilizia assente (opere abusive rilevate) e situazione catastale complessa a seguito di divisione giudiziale. Il prezzo base offre uno sconto reale limitato rispetto al valore di mercato corretto al netto dei costi di regolarizzazione.",
+      "comune_effettivo": "Cremona",
+      "dati_catastali": "Fg. 99, Part. 181, Sub. 504 - cat. A2, cl. 4 (appartamento, sup. catastale totale 133 mq, escluse aree scoperte 126 mq); Fg. 99, Part. 181, Sub. 8 - cat. C6, cl. 2 (box/autorimessa, sup. catastale 18 mq)",
+      "superficie_mq": 146,
+      "prezzo_al_mq": 675,
+      "prezzo_mercato_stimato": "800-1.100 €/mq (prima periferia Cremona, immobile anni '60 da aggiornare, classe G)",
+      "sconto_percentuale": "circa 15-25% rispetto al valore di mercato lordo (116.000 € CTU); sconto reale ulteriormente ridotto dai costi di regolarizzazione stimati ~10.677 € già detratti nella perizia per ottenere 98.637 €",
+      "anomalie": [
+        "Regolarità edilizia ASSENTE: la perizia CTU dichiara esplicitamente 'REGOLARITA' EDILIZIA: NO' e conferma la presenza di opere abusive (difformità nel layout interno e spostamento porta garage rispetto alla concessione edilizia originale del 1963 e all'autorizzazione del 1991).",
+        "L'aggiudicatario dovrà obbligatoriamente presentare, con delega della proprietà confinante (sub. 505, terzo estraneo), una CILA di frazionamento con conseguente SCIA di agibilità: questa necessità di cooperazione di un terzo è un elemento di incertezza procedurale non trascurabile.",
+        "Il sub. 23 originale è stato diviso in sub. 504 (oggetto dell'asta) e sub. 505 (assegnato a terzi, NON in vendita): l'ultimo stato legittimo dell'immobile contempla ancora le due unità unite, il che rende indispensabile la pratica di frazionamento.",
+        "Domanda giudiziale trascritta NON cancellabile (art. XVIII perizia): domanda di divisione giudiziale trascritta il 22/04/2024 ancora pendente, relativa ai beni nella consistenza individuata con part. 181/23 e 181/8, che potrebbe generare complicazioni o contestazioni successive al trasferimento.",
+        "Presenza storica di amianto segnalata: residui di lastre, camini e canne fumarie nel sottotetto condominiale (parti comuni); non quantificato il costo di bonifica, che grava potenzialmente sui millesimi condominiali.",
+        "Il diritto oggetto di espropriazione era 'piena proprietà 1/1 divisa in usufrutto 1/1 e nuda proprietà 1/1': la struttura proprietaria era complessa (donazione con riserva di usufrutto vitalizio), ora risolta dal decreto divisionale del 08/07/2025, ma con un comproprietario residente all'estero (Lussemburgo), elemento che potrebbe complicare eventuali comunicazioni future.",
+        "La superficie indicata nell'avviso d'asta (72 mq) è gravemente discordante rispetto alla superficie commerciale CTU (146 mq) e alla superficie catastale principale (126 mq netti): dato probabilmente riferito alla sola superficie principale ridimensionata, ma genera confusione e richiede chiarimento prima di fare offerta.",
+        "Assenza di certificato di conformità degli impianti elettrico e idro-sanitario: entrambi necessari per la SCIA di agibilità, con costi stimati di 400 € + 300 € per le dichiarazioni di rispondenza."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abuso edilizio e obbligo di CILA+SCIA con terzo",
+          "dettaglio": "L'immobile NON è regolare dal punto di vista edilizio. La sanatoria richiede una CILA di frazionamento e SCIA di agibilità che necessitano della collaborazione del proprietario del sub. 505 (terzo estraneo all'asta). Se tale soggetto non collabora, la pratica è bloccata. I costi stimati dalla CTU superano i 10.000 € (sanzioni, diritti, spese tecniche, dichiarazioni impianti, divisione fisica), ma senza la cooperazione del confinante il costo diventa imprevedibile o addirittura non ottenibile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Domanda giudiziale pendente non cancellabile",
+          "dettaglio": "Risulta trascritta una domanda giudiziale di divisione (22/04/2024) che non sarà cancellata con il decreto di trasferimento. Sebbene la divisione sia già stata eseguita con decreto del 08/07/2025, la trascrizione potrebbe generare incertezze nella catena dei titoli o contestazioni future; è necessaria verifica legale approfondita prima dell'offerta."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario/debitore",
+          "dettaglio": "L'immobile è occupato dal debitore e dalla moglie. Non risultano contratti di locazione registrati (confermato dall'Agenzia delle Entrate). Lo sgombero avviene tramite decreto del GE: i tempi tipici sono 3-9 mesi, ma con un nucleo familiare residente i tempi possono allungarsi. Impatto: impossibilità di utilizzo/locazione immediata dopo l'aggiudicazione."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca giudiziaria elevata",
+          "dettaglio": "Ipoteca giudiziaria iscritta il 27/05/2021 per un capitale garantito di 500.000 € (totale garantito 100.000 € per la quota 1/2 di proprietà), oltre a pignoramento per 506.285,10 € di credito. L'importo del debito supera di gran lunga il prezzo base d'asta, ma le ipoteche e i pignoramenti anteriori si estinguono con la vendita forzata: l'acquirente non ne risponde. Tuttavia, il fatto che il debito sia così elevato rispetto al valore dell'immobile suggerisce che il creditore abbia interesse a rilanci minimi, riducendo il vantaggio per l'acquirente privato."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e impianti datati",
+          "dettaglio": "APE classe G (371,77 kWh/m²a), il peggior rating possibile. Il sistema di riscaldamento è a radiatori originali con caldaia tipo C. Per adeguare la prestazione energetica a standard moderni (almeno classe D per incentivi) sarebbero necessari interventi significativi (cappotto, sostituzione impianto): costo stimato 15.000-30.000 € almeno, non inclusi nei 10.677 € di regolarizzazione della CTU."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Amianto nelle parti comuni",
+          "dettaglio": "Presenza accertata di manufatti in amianto nel sottotetto condominiale (lastre, camini, canne fumarie). La bonifica è a carico del condominio e incide sui millesimi futuri: la quota dell'aggiudicatario è 77,83/1000 (71,50 appartamento + 6,33 box). Costo bonifica condominiale non quantificato; potrebbe generare spese straordinarie rilevanti nei prossimi anni."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Spese condominiali arretrate",
+          "dettaglio": "Il bilancio consuntivo 2024 certifica tutte le spese pagate: nessun arretrato condominiale rilevato. La spesa annua ordinaria è circa 1.400-1.750 €/anno (circa 116-146 €/mese), nella norma per un condominio di quel tipo. L'acquirente risponde degli ultimi 2 anni per legge, ma il rischio è minimo."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca giudiziaria iscritta il 27/05/2021 (Reg. Gen. 5095, Reg. Part. 703) a favore di creditore con sede a Milano (C.F. 10901920966), a garanzia di un capitale di 500.000 €, per un totale complessivo di 100.000 € sulla quota 1/2 di proprietà dei beni pignorati. Sarà cancellata con il decreto di trasferimento.",
+        "spese_condominiali": "Nessun arretrato rilevato (bilancio 2024 con tutte spese pagate). Spesa ordinaria annua stimata 1.400-1.750 €/anno (circa 120-145 €/mese) sulla quota di 77,83 millesimi.",
+        "altri_oneri": "Pignoramento trascritto il 02/11/2021 per 506.285,10 € oltre interessi (sarà cancellato). Annotazione per restrizione trascritta il 16/12/2025 (sarà cancellata). Domanda giudiziale di divisione trascritta il 22/04/2024 (NON sarà cancellata con il decreto di trasferimento - verificare impatto residuo). Nessun censo, livello o uso civico rilevato."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Presenti sanabili (con incertezza): difformità edilizie rispetto alla concessione n. 6A/1963 e all'autorizzazione del 02/12/1991 (layout interno modificato, spostamento porta garage). La sanatoria richiede SCIA con condono ex art. 34 DPR 380/2001 (sanzione pecuniaria 1.032 €) più CILA di frazionamento e SCIA di agibilità obbligatorie, con costi tecnici totali stimati dalla CTU in circa 10.677 € (inclusa separazione fisica dall'unità confinante). CRITICITÀ: la CILA di frazionamento richiede la cooperazione del proprietario del sub. 505 (terzo), rendendo la sanatoria condizionata a fattori esterni non controllabili dall'acquirente.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Edificio anni '60, telaio in c.a. e tamponamenti in muratura, stato manutentivo discreto (ristrutturazione anni '90, pavimenti in gres e marmo). L'immobile è più grande di quanto indicato nell'avviso (146 mq commerciali vs 72 mq pubblicizzati): verificare attentamente il bando prima di fare offerta. Lo sconto effettivo sul valore di mercato corretto è modesto (~15%): considerando i costi certi di regolarizzazione (10.677 €), i costi probabili di adeguamento energetico (15.000-30.000 €) e l'incertezza sulla cooperazione del confinante per la CILA, il margine si riduce sensibilmente. La vendibilità futura sarà condizionata alla risoluzione di tutte le difformità. Giudizio di vendibilità 'scarso' anche secondo la CTU stessa. Partecipare solo se si dispone di budget aggiuntivo di almeno 20.000-40.000 € per regolarizzazioni e adeguamenti, e solo dopo aver verificato legalmente lo stato della domanda giudiziale pendente."
+    },
+    "data_analisi": "2026-05-14"
+  },
+  "astalegale_B2417121": {
+    "id": "astalegale_B2417121",
+    "source": "astalegale",
+    "titolo": "Via Fornace, 10 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 19/2023 Rif. #B2417121",
+    "indirizzo": "",
+    "comune": "Vescovato",
+    "prezzo_base": 17718.75,
+    "data_asta": "08/09/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2417121",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/0913de7da28da8a6a17d493380c7f3ea/2355687-B?cd=true",
+      "https://documents.astalegale.net/file/0/2d5ac8269021b3908f8953403bcc937b/2355685-B?cd=true",
+      "https://documents.astalegale.net/file/0/19758b176bf7b2dc2b2b687546bfeca9/2355686-B?cd=true",
+      "https://documents.astalegale.net/file/0/3fae9936e042ea3ffe45b8e4e7f0ea2b/2009230-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2417121_doc1.pdf",
+      "output/pdf/astalegale_B2417121_doc2.pdf",
+      "output/pdf/astalegale_B2417121_doc3.pdf",
+      "output/pdf/astalegale_B2417121_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2355687 b avviso di vendita",
+      "2355685 b ordinanza",
+      "2355686 b perizia",
+      "2009230 c perizia"
+    ],
+    "descrizione": "L’unità immobiliare è composta da ingresso, soggiorno e zona pranzo cuocivivande, cortiletto con rustico ed orto esclusivo al piano terra, due camere, disimpegno ed un bagno con  una terrazza e fienile posto al piano primo, una stanza e due soffitte al piano secondo con accesso da Via Fornace. \nClasse energetica G con fabbisogno termico per la climatizzazione invernale pari a 434,51 kWh/mqanno.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 17.718,75 - Data asta: 08/09/2026 - 16:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Porzione di fabbricato residenziale su tre livelli (PT, P1, P2) a Vescovato (CR), comune di circa 3.900 abitanti a pochi km da Cremona, inserita in vecchie corti mai ristrutturate. Immobile in pessime condizioni manutentive globali, necessita ristrutturazione completa per essere abitabile. Il prezzo base di €17.719 è estremamente basso ma riflette lo stato disastroso dell'immobile e il mercato locale stagnante; potenziale speculativo condizionato all'entità dei costi di recupero.",
+      "comune_effettivo": "Vescovato",
+      "dati_catastali": "Foglio 6, mappale 59 graffato ai mappali 58 e 52, categoria A/4, classe 2, vani 7,5, superficie catastale 141 mq, rendita €193,67, Via Fornace n. 10, piano T-1-2",
+      "superficie_mq": 155,
+      "prezzo_al_mq": 114,
+      "prezzo_mercato_stimato": "500-700 €/mq (Vescovato, comune provincia CR entro 15 km da Cremona, da ristrutturare completamente)",
+      "sconto_percentuale": "78-84% rispetto al valore di mercato stimato dal CTU (€56.000) e rispetto ai valori di zona",
+      "anomalie": [
+        "La superficie indicata nel bando d'asta è 72 mq, ma la perizia CTU riporta superficie lorda 132 mq e superficie commerciale complessiva 155,39 mq: discrepanza rilevante (>50%) tra dato pubblicato e perizia, da chiarire prima di partecipare.",
+        "Il prezzo base d'asta (€17.719) corrisponde a circa il 31,6% del valore di mercato stimato dal CTU (€56.000) e al 31,6% del prezzo di vendita forzata (€56.000 - 10% = già incluso nella stima CTU a €56.000 dopo abbattimento): si tratta con ogni probabilità di un'asta successiva alla prima con ribassi applicati.",
+        "La titolarità proviene da successione del 1982 con rinuncia a quota di comproprietà nel 2021: storia proprietaria complessa, verificare assenza di altri eredi o pretese su quote.",
+        "Presenza di 5 ipoteche giudiziali iscritte a carico dell'esecutato (tutte da decreti ingiuntivi): gli importi sono oscurati nella perizia pubblicata, rendendo impossibile verificare se il prezzo base copra il debito ipotecario.",
+        "Impianto di riscaldamento a stufe a gas senza allacciamento alla rete gas: l'immobile non è allacciato alla rete del gas, quindi il riscaldamento attuale è di fatto non funzionante regolarmente.",
+        "Il rustico sul retro ha tetto in legno in pessime condizioni e risulta inagibile: componente inclusa nel compendio ma inutilizzabile allo stato attuale."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Ipoteche multiple con importi non verificabili",
+          "dettaglio": "La perizia elenca 5 ipoteche giudiziali più pignoramento immobiliare, ma tutti gli importi sono oscurati nel documento pubblicato. Non è possibile verificare se il prezzo base (€17.719) copra anche solo parzialmente i debiti iscritti. Se le ipoteche superano il ricavato d'asta, i creditori potrebbero non essere soddisfatti ma le ipoteche si estinguono comunque con la vendita forzata; tuttavia il prezzo anormalmente basso suggerisce aste precedenti deserte e debiti ingenti. Impatto: acquisto potenzialmente vantaggioso ma con incertezza sul contesto debitorio totale."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Stato di conservazione pessimo / costi ristrutturazione elevati",
+          "dettaglio": "Il CTU descrive esplicitamente l'immobile come necessitante 'completa ristrutturazione per essere abitato': tutti gli impianti (elettrico, idraulico, riscaldamento), serramenti, pavimenti, intonaci, bagni e tetto del rustico sono in pessime condizioni. Su 155 mq commerciali, una ristrutturazione completa a 700-1.000 €/mq comporta un costo stimato di €108.000-155.000, rendendo il costo totale dell'operazione (acquisto + ristrutturazione) di €125.000-173.000, superiore al valore di mercato post-ristrutturazione stimabile in €70.000-90.000. Il margine economico è negativo o nullo."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Discrepanza superficie bando vs perizia",
+          "dettaglio": "Il bando indica 72 mq ma la perizia CTU riporta 132 mq lordi e 155 mq commerciali. Potrebbe trattarsi di un errore nel bando (solo superficie abitativa senza accessori), ma va verificato: se si acquista solo una quota o una parte dell'immobile, la valutazione cambia radicalmente. Rischio basso in termini di nullità (la perizia è il documento ufficiale), ma causa incertezza sulla consistenza reale del lotto."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Gas non allacciato alla rete",
+          "dettaglio": "L'immobile non è allacciato alla rete del gas cittadino; il riscaldamento è affidato a stufe a gas autonome in pessime condizioni. L'allacciamento alla rete (se disponibile in zona) o l'installazione di un sistema alternativo (pompa di calore, pellet) comporta costi aggiuntivi stimati in €5.000-15.000. La classe energetica G con 434,51 kWh/mq·anno richiederà comunque interventi di riqualificazione energetica per rendere l'immobile vendibile in futuro."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato locale stagnante",
+          "dettaglio": "Il CTU stesso nota che 'il mercato immobiliare nel Comune è in una fase di stallo'. Vescovato è un comune di 3.900 abitanti con liquidità di mercato limitata: i tempi di rivendita post-ristrutturazione potrebbero essere molto lunghi (2-5 anni), con rischio di immobilizzo del capitale investito. Non adatto a chi cerca una exit rapida."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità catastale e urbanistica",
+          "dettaglio": "Il CTU conferma piena conformità catastale e urbanistica: immobile costruito ante 1967 con condoni edilizi presentati, nessuna irregolarità da sanare. Nessun vincolo paesaggistico o idrogeologico rilevato. Questo è l'unico elemento nettamente positivo della perizia."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "5 ipoteche giudiziali iscritte a carico dell'esecutato (tutte derivanti da decreti ingiuntivi) più 1 pignoramento immobiliare: gli importi specifici sono oscurati nella perizia pubblicata e non verificabili dal documento disponibile. Tutte si estinguono con la vendita forzata ex art. 586 c.p.c.",
+        "spese_condominiali": "non disponibile - l'immobile è inserito in un edificio con cortile comune (mappale 49 comune); eventuali arretrati condominiali degli ultimi 2 anni restano a carico dell'acquirente ex art. 63 disp. att. c.c. Importo non quantificabile.",
+        "altri_oneri": "Pignoramento immobiliare presente (elencato tra le formalità); nessun censo, livello o uso civico rilevato; diritti di comproprietà sulle parti comuni ex art. 1117 c.c. compresi nella vendita."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "nessuno rilevato - immobile costruito ante 1967, condoni edilizi presentati e accettati, conformità urbanistica confermata dal CTU dopo verifica presso Ufficio Tecnico Comunale di Vescovato. Nessuna irregolarità da sanare.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE CRITICA: Lo sconto apparente è elevatissimo (>70% sul valore CTU di €56.000) ma la ristrutturazione completa necessaria costerà verosimilmente €100.000-150.000, portando il costo totale ben oltre il valore finale dell'immobile ristrutturato in un mercato stagnante. L'operazione ha senso SOLO per chi: (a) dispone di manodopera propria a costi ridotti, (b) intende abitarvi personalmente a lungo termine senza necessità di rivendita rapida, o (c) è un operatore professionale con economie di scala. Per un privato standard l'operazione è economicamente in perdita. Classe energetica G (434,51 kWh/mq·anno): adeguamento a normativa futura EU richiederà investimenti aggiuntivi. Perizia datata 2023, valori di mercato ancora attuali. Verificare URGENTEMENTE gli importi delle 5 ipoteche giudiziali prima di partecipare, anche tramite visura ipocatastale autonoma. L'immobile è libero e disabitato, il proprietario risulta residente altrove: nessun problema di sgombero."
+    },
+    "data_analisi": "2026-05-14"
+  },
+  "astalegale_B2416369": {
+    "id": "astalegale_B2416369",
+    "source": "astalegale",
+    "titolo": "Via E. Toti , 24  - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 175/2021 Rif. #B2416369",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 98600.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2416369",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/416904380c46e85da06e37b7018abf11/2355602-B?cd=true",
+      "https://documents.astalegale.net/file/0/549ca8716eb12aff55ebc4c70d19bca7/2355601-B?cd=true",
+      "https://documents.astalegale.net/file/0/029a52743e00df9469fc7e92a9aaaacb/2355604-B?cd=true",
+      "https://documents.astalegale.net/file/0/2e3d3f4a5e7ce8e5ec5a648eddf8e6fd/2355605-B?cd=true",
+      "https://documents.astalegale.net/file/0/0bec81be5840e493ca465542336a4e49/2355603-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2416369_doc1.pdf",
+      "output/pdf/astalegale_B2416369_doc2.pdf",
+      "output/pdf/astalegale_B2416369_doc3.pdf",
+      "output/pdf/astalegale_B2416369_doc4.pdf",
+      "output/pdf/astalegale_B2416369_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2355602 b avviso di vendita",
+      "2355601 b ordinanza",
+      "2355604 b perizia",
+      "2355605 b documento con foto",
+      "2355603 b certificazione energetica"
+    ],
+    "descrizione": "Piena proprietà di unità immobiliare composta da appartamento, cantina e box posta al terzo piano del Condominio Toti 24. Si compone di ingresso con scala comunicante all'appartamento al piano superiore, bagno privo di doccia, cucina abitabile, ed un grande locale divisibile per ottenere due stanze da letto doppie. APE con scadenza 21/01/2036 classe energetica G, EP gl. nren 371,77 kWh/mqa.  - Tipologia: Abitazione di tipo civile - Prezzo: € 98.600,00 - Data asta: 21/07/2026 - 17:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al 3° piano con cantina e box auto in via Enrico Toti 24, Cremona (quartiere Po, prima periferia), stimato €116.000 dalla CTU con prezzo base €98.600. L'immobile presenta irregolarità edilizie confermate (abusi su box e cantina), necessità di CILA di frazionamento con SCIA di agibilità obbligatoria a carico dell'aggiudicatario, classe energetica G e struttura condominiale anni '60 senza ascensore.",
+      "comune_effettivo": "Cremona",
+      "dati_catastali": "Foglio 99, Particella 181, Sub. 504, Categoria A2, Classe 4, Consistenza 5,5 vani, Sup. catastale totale 133 mq (escluse aree scoperte 126 mq), Rendita €596,51; Pertinenza box: Fg. 99, Part. 181, Sub. 8, Categoria C6, Classe 2, Consistenza 18 mq, Rendita €57,64",
+      "superficie_mq": 146,
+      "prezzo_al_mq": 675,
+      "prezzo_mercato_stimato": "800-1.100 €/mq (prima periferia Cremona, immobile da ristrutturare/regolarizzare, anni '60)",
+      "sconto_percentuale": "22% rispetto al valore CTU (€116.000); circa 25-35% rispetto al mercato libero, ma il valore reale netto scende considerando i costi obbligatori di regolarizzazione stimati in oltre €15.000",
+      "anomalie": [
+        "Irregolarità edilizia accertata dalla CTU: appartamento NON regolare dal punto di vista edilizio per difformità rispetto all'ultima autorizzazione (ex art. 26 L. 47/1985 del 02/12/1991); spostamento porta garage di circa un metro rispetto al disegno autorizzato.",
+        "L'ultimo stato legittimo dell'immobile coincide ancora con le due unità unite (sub. 504 + sub. 505): l'aggiudicatario è OBBLIGATO a presentare CILA di frazionamento con SCIA di agibilità con delega del proprietario confinante (sub. 505), che è un terzo estraneo alla procedura.",
+        "Superficie commerciale CTU pari a 146 mq contro i 72 mq indicati nel bando d'asta: la superficie nel bando è probabilmente riferita alla sola superficie calpestabile netta dell'appartamento (senza pertinenze e senza applicare i coefficienti commerciali), generando confusione per il potenziale acquirente.",
+        "Domanda giudiziale trascritta (22/04/2024) relativa al giudizio di divisione NON sarà cancellata con il decreto di trasferimento: vincolo residuale da monitorare.",
+        "Probabile presenza di amianto nelle parti comuni (lastre, camini, canne fumarie nel sottotetto), segnalata nella perizia con campionamento positivo eseguito dall'amministratore precedente.",
+        "Assenza di certificato di conformità degli impianti elettrico e idraulico: i certificati dovranno essere prodotti per la richiesta di agibilità, con costi stimati €400 (elettrico) + €300 (idraulico) più eventuali adeguamenti impiantistici.",
+        "Camino aperto nel locale principale non a norma: andrà messo a norma o murato.",
+        "Infiltrazioni d'acqua visibili sulla soletta dei balconi e ai cassonetti delle tapparelle: intervento di impermeabilizzazione necessario.",
+        "APE in classe G (EP 371,77 kWh/m²a): costi di adeguamento energetico molto elevati per raggiungere classi superiori."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Obbligo CILA/SCIA con delega terzo proprietario",
+          "dettaglio": "L'aggiudicatario deve presentare CILA di frazionamento e SCIA di agibilità con il concorso obbligatorio del proprietario del sub. 505 (terzo estraneo alla procedura, residente in Lussemburgo). Se il proprietario del 505 non collabora, l'iter è bloccato. I costi minimi stimati dalla CTU sono circa €2.850 (diritti + spese tecniche CILA+agibilità) più €550-770 per opere di divisione fisica, più eventuali adeguamenti impiantistici: totale stimato €4.000-7.000, ma con tempi e incertezza legati alla disponibilità del confinante."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Irregolarità edilizia con sanatoria obbligatoria",
+          "dettaglio": "La CTU conferma irregolarità edilizie su box e cantina, sanabili con SCIA in sanatoria art. 34-ter DPR 380/2001. Costo stimato: sanzione pecuniaria €1.032 + diritti segreteria €140 + spese tecniche €1.649 = circa €2.821 totali. La sanatoria è soggetta a buon esito discrezionale del RUP comunale e a eventuali modifiche normative: non è garantita al 100%."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario/debitore",
+          "dettaglio": "L'immobile è occupato dal debitore esecutato e dalla moglie, senza contratti di locazione registrati (confermato dalla CTU). Lo sgombero avverrà tramite decreto del giudice dell'esecuzione post-aggiudicazione: tempi tipici 3-9 mesi, con possibile resistenza. Nessun diritto di prelazione o titolo locativo ostativo."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca giudiziale elevata rispetto al prezzo base",
+          "dettaglio": "Ipoteca giudiziale iscritta per €500.000 (capitale garantito) con debito originario di €506.285,10 oltre interessi. Il prezzo base di €98.600 è di gran lunga inferiore al credito garantito: l'ipoteca si estingue con la vendita forzata ex art. 586 c.p.c., ma il creditore non sarà integralmente soddisfatto. Rischio teorico nullo per l'acquirente post-decreto di trasferimento, ma da verificare che non vi siano contestazioni procedurali."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Domanda giudiziale non cancellabile",
+          "dettaglio": "La domanda giudiziale trascritta il 22/04/2024 (giudizio di divisione) NON sarà cancellata con il decreto di trasferimento. Non blocca l'acquisto ma può generare incertezze future sulla titolarità o sull'uso dell'immobile; richiede verifica legale approfondita prima di partecipare."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Amianto nelle parti comuni",
+          "dettaglio": "Campionamento positivo ad amianto nel sottotetto condominiale (lastre, camini, canne fumarie). Non riguarda direttamente l'unità privata, ma comporta obblighi di bonifica condominiale futuri con costi a ripartire secondo millesimi (quota acquirente: 71,50/1000 per appartamento + 6,33/1000 per box). Costo bonifica condominiale non quantificabile senza perizia specifica."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Spese condominiali arretrate",
+          "dettaglio": "Il bilancio consuntivo 2024 risulta completamente pagato; non risultano arretrati condominiali a carico dell'unità. Spese annue correnti circa €1.400-1.750/anno (rata mensile stimata €117-146). L'acquirente risponde degli arretrati degli ultimi 2 anni ma il rischio appare contenuto."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca giudiziale iscritta il 27/05/2021 per capitale garantito €500.000, totale complessivo €100.000 (come da iscrizione), in forza di decreto ingiuntivo n. 403/2021 del Tribunale di Cremona, a favore di creditore con sede a Milano (C.F. 10901920966). Il credito originario del pignoramento ammonta a €506.285,10 oltre interessi. L'ipoteca sarà cancellata con il decreto di trasferimento.",
+        "spese_condominiali": "Nessun arretrato rilevato (bilancio 2024 saldato). Spesa annua corrente stimata €1.400-1.750 (circa €117-146/mese); nessuna spesa straordinaria deliberata.",
+        "altri_oneri": "Domanda giudiziale trascritta il 22/04/2024 (giudizio di divisione) NON cancellabile con il decreto di trasferimento. Nessun censo, livello o uso civico rilevato. Nessuna servitù attiva o passiva rilevata. Vincolo regolamento condominiale (all. 07)."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Presenti sanabili: difformità edilizie su box (spostamento porta di circa 1 metro) e cantina rispetto all'ultima autorizzazione rilasciata; sanatoria tramite SCIA art. 34-ter DPR 380/2001 con sanzione pecuniaria stimata €1.032 + diritti €140 + spese tecniche €1.649 = circa €2.821. Obbligo aggiuntivo di CILA di frazionamento con SCIA di agibilità (costo stimato ulteriori €2.850-5.000) con necessità di coinvolgere il proprietario del sub. 505.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Edificio anni '60 in c.a. con tamponamenti in muratura, stato manutentivo discreto, ristrutturazione interna anni '90 (pavimenti in grès e marmo), senza ascensore (tecnicamente non installabile). Classe energetica G (EP 371,77 kWh/m²a): adeguamento energetico oneroso se richiesto. Contesto di prima periferia Cremona (quartiere Po), tessuto urbano consolidato. Il valore CTU al netto di tutti i costi di regolarizzazione scende a circa €105.367 (€116.044 - €10.677 di adeguamenti già dedotti dalla CTU); il prezzo base di €98.600 rappresenta uno sconto reale modesto (~6% sul valore netto CTU). Tenendo conto dei costi aggiuntivi obbligatori post-aggiudicazione (sanatoria box/cantina €2.821 + CILA/SCIA frazionamento €2.850-5.000 min + adeguamenti impianti €700-1.000 stimati + sgombero + eventuali infiltrazioni balconi), il costo totale dell'operazione supera facilmente €105.000-110.000, azzerando lo sconto reale rispetto al valore di mercato. Il rischio più critico è la necessità della collaborazione del proprietario del sub. 505 (residente in Lussemburgo) per la CILA/SCIA obbligatoria: in caso di mancata cooperazione, l'immobile non potrà ottenere l'agibilità come unità autonoma. Consigliato sopralluogo approfondito e consulenza legale sullo stato della domanda giudiziale non cancellabile prima di partecipare."
+    },
+    "data_analisi": "2026-05-14"
   }
 }

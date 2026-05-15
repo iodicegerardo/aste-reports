@@ -2124,5 +2124,199 @@
       "note_aggiuntive": "Edificio anni '60 in c.a. con tamponamenti in muratura, stato manutentivo discreto, ristrutturazione interna anni '90 (pavimenti in grès e marmo), senza ascensore (tecnicamente non installabile). Classe energetica G (EP 371,77 kWh/m²a): adeguamento energetico oneroso se richiesto. Contesto di prima periferia Cremona (quartiere Po), tessuto urbano consolidato. Il valore CTU al netto di tutti i costi di regolarizzazione scende a circa €105.367 (€116.044 - €10.677 di adeguamenti già dedotti dalla CTU); il prezzo base di €98.600 rappresenta uno sconto reale modesto (~6% sul valore netto CTU). Tenendo conto dei costi aggiuntivi obbligatori post-aggiudicazione (sanatoria box/cantina €2.821 + CILA/SCIA frazionamento €2.850-5.000 min + adeguamenti impianti €700-1.000 stimati + sgombero + eventuali infiltrazioni balconi), il costo totale dell'operazione supera facilmente €105.000-110.000, azzerando lo sconto reale rispetto al valore di mercato. Il rischio più critico è la necessità della collaborazione del proprietario del sub. 505 (residente in Lussemburgo) per la CILA/SCIA obbligatoria: in caso di mancata cooperazione, l'immobile non potrà ottenere l'agibilità come unità autonoma. Consigliato sopralluogo approfondito e consulenza legale sullo stato della domanda giudiziale non cancellabile prima di partecipare."
     },
     "data_analisi": "2026-05-14"
+  },
+  "portaleaste_B2417970": {
+    "id": "portaleaste_B2417970",
+    "source": "portaleaste",
+    "titolo": "Via Dosso, 7 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 8/2024 Rif. #B2417970",
+    "indirizzo": "",
+    "comune": "Grumello Cremonese ed Uniti",
+    "prezzo_base": 95625.0,
+    "data_asta": "22/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2417970",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/9edc8368d2a6b552d7d2455111a04292/2358601-C?cd=true",
+      "https://documents.astalegale.net/file/2/993b9d72cebf80a91000c2cbb1d3a987/2358600-C?cd=true",
+      "https://documents.astalegale.net/file/2/95758351668b544964a2dd780a3e5e61/2021803-C?cd=true",
+      "https://documents.astalegale.net/file/2/db2aea5b4f9d9402ff39d8b76a390704/2112468-B?cd=true",
+      "https://documents.astalegale.net/file/2/71c523c1b16270509c73cc4f87d5ad31/2021801-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2417970_doc1.pdf",
+      "output/pdf/portaleaste_B2417970_doc2.pdf",
+      "output/pdf/portaleaste_B2417970_doc3.pdf",
+      "output/pdf/portaleaste_B2417970_doc4.pdf",
+      "output/pdf/portaleaste_B2417970_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2358601 c avviso di vendita",
+      "2358600 c ordinanza",
+      "2021803 c perizia",
+      "2112468 b documento con foto",
+      "2021801 c certificazione energetica"
+    ],
+    "descrizione": "Il predetto si trova nella periferia sud-est del comune di Grumello Cremonese ed Uniti (CR), in via Dosso n.7 e consiste in una villa singola di mq 210, di due piani fuori terra, costruita nell’anno 1971 - con accessori ed area cortilizia in proprietà - eretta su un lotto di terreno di circa 960 mq.\nLe condizioni manutentive dell’immobile sono prevalentemente buone tranne che al piano terra dove il locale “taverna” è in condizioni mediocri ed il bagno da rifare.\nI serramenti al piano terra sono ",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Villa singola unifamiliare del 1971 su due piani (210 mq catastali, lotto 960 mq) in zona periferica di Grumello Cremonese ed Uniti, a 15 km da Cremona. Immobile occupato dall'esecutata con figli minori, con significative difformità edilizie sanabili ma costose (€63.638), classe energetica G e prezzo base di €95.625 rispetto a un valore lordo di mercato stimato €240.000. Lo sconto apparente è molto elevato ma deve essere letto al netto dei costi di sanatoria, liberazione e adeguamento.",
+      "comune_effettivo": "Grumello Cremonese ed Uniti",
+      "dati_catastali": "Foglio 24, Particella 55, Subalterno 3 – Categoria A/2, Classe 4, Vani 11, Rendita €624,91 – Comune di Grumello Cremonese ed Uniti (codice E217) – Piano T-1 – Via Dosso n. 7",
+      "superficie_mq": 210,
+      "prezzo_al_mq": 455,
+      "prezzo_mercato_stimato": "650-900 €/mq (comune provincia Cremona entro 15 km, zona periferica con scarsi servizi e calo demografico)",
+      "sconto_percentuale": "40% sul valore lordo CTU (€240.000); sconto reale netto post-sanatoria: circa 16% sul valore netto CTU di €170.000; considerando sanatoria + ristrutturazione necessaria lo sconto effettivo si riduce ulteriormente",
+      "anomalie": [
+        "Variazione catastale effettuata dal CTU il 10/02/2025 durante la procedura: l'ex autorimessa C/6 (mq 17) è stata fusa con l'unità abitativa A/2, generando la nuova particella 55/3 – il dato catastale è stato allineato allo stato di fatto abusivo, non a quello autorizzato",
+        "Il portale d'asta indica superficie 72 mq e comune 'Cremona': entrambi i dati sono ERRATI rispetto alla perizia CTU che indica 210 mq (senza aree esterne) e comune Grumello Cremonese ed Uniti – grave incongruenza informativa nel bando",
+        "Piano terra non conforme alla licenza edilizia n. 263/71: altezza interna innalzata da ml 2,40 a ml 2,70, rendendo abitabile un piano originariamente accessorio (+114 mq SLP, +305 mc di volume non autorizzati)",
+        "Ex autorimessa C/6 tamponata internamente e trasformata in camera da letto senza alcun titolo edilizio",
+        "Veranda al primo piano parzialmente chiusa con tamponamento in muratura e vetrata in alluminio incorporata nella cucina (+6 mq SLP, +19,8 mc non autorizzati)",
+        "Fabbricato accessorio esterno (ex pollai/ripostigli) privo di qualsiasi concessione o autorizzazione edilizia, parzialmente pericolante: il CTU ne prevede la demolizione obbligatoria",
+        "Voltura catastale non eseguita per 6 anni dopo il decesso del de cuius (2019-2025): il CTU ha dovuto provvedere d'ufficio in corso di perizia",
+        "APE redatto ex novo dal CTU durante la procedura in quanto assente: l'immobile era privo di certificazione energetica al momento del pignoramento"
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da esecutata con figli minori",
+          "dettaglio": "L'immobile è occupato dall'esecutata e dalla sua famiglia con minori. La presenza di minori rende il rilascio dell'immobile potenzialmente molto più complesso e lento: il giudice dell'esecuzione può subordinare la liberazione forzata a provvedimenti di tutela dei minori coinvolgendo servizi sociali e tribunale per i minorenni. I tempi reali di sgombero possono superare 18-24 mesi dall'aggiudicazione, con possibili opposizioni e interlocuzioni con più autorità giudiziarie."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Difformità edilizie – costi sanatoria elevati e incertezza esito",
+          "dettaglio": "Il CTU quantifica i costi di sanatoria in €63.638 (oblazione doppia €43.338, demolizione accessori €8.000, progetto €12.000, diritti €300). Tuttavia il CTU stesso avverte che la valutazione è 'orientativa e previsionale' e che l'ufficio tecnico comunale non ha ancora rilasciato un parere definitivo: l'esito della SCIA alternativa al PdC non è garantito. Se la sanatoria non fosse accettata, le difformità non sanabili impedirebbero future vendite e ipoteche. Costo minimo stimato €63.638, ma potenzialmente superiore."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G – costi di adeguamento",
+          "dettaglio": "EPgl,nren = 521,66 kWh/m²a, classe G (la peggiore). L'immobile del 1971 ha serramenti con vetri semplici su entrambi i piani, cassonetti non isolati, assenza di isolamento di facciata e sottotetto con macchie di muffa accertate. Per raggiungere standard minimi di efficienza (classe E/D) si stima un intervento sull'involucro opaco con pay-back 12 anni secondo l'APE. Costo stimato isolamento facciata + sostituzione serramenti: €20.000-40.000 aggiuntivi."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido – scarsa rivalutazione",
+          "dettaglio": "Grumello Cremonese ed Uniti conta 1.748 abitanti con calo demografico del 10% nel decennio 2004-2024. Il CTU dichiara impossibile applicare il metodo MCA per assenza di comparabili recenti di ville singole, utilizzando un comparabile del 2019. Il mercato è definito 'medio/basso' con scarsi trasporti pubblici. La rivendita futura sarà difficile e i tempi lunghi, con rischio di deprezzamento ulteriore."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Bagno piano terra e locale taverna in pessime condizioni",
+          "dettaglio": "Il CTU descrive il bagno del piano terra con tazza WC con braga di scarico rotta, doccia dismessa, serramento in ferro arrugginito: richiede rifacimento completo. La taverna è in condizioni mediocri e priva di riscaldamento. Stima costo rifacimento bagno PT + interventi piano terra: €8.000-15.000."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteca giudiziale contenuta",
+          "dettaglio": "L'unica ipoteca iscritta è giudiziale a favore di IFIS NPL Spa per €56.611 (a garanzia di €54.404,63), iscritta nel 2019. Il prezzo base di €95.625 la copre ampiamente e si estinguerà con l'aggiudicazione. Non vi sono ipoteche volontarie bancarie né altri creditori ipotecari concorrenti rilevati."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca giudiziale derivante da decreto ingiuntivo iscritta il 19/04/2019 ai nn. 3428/477 per €56.611,13 (a garanzia di €54.404,63) a favore di IFIS NPL Spa (creditore procedente). Nessun'altra ipoteca risultante dalla perizia.",
+        "spese_condominiali": "Nessuna: immobile unifamiliare, non costituisce condominio.",
+        "altri_oneri": "Pignoramento trascritto il 01/02/2024 ai nn. 758/592 a favore di IFIS NPL Investing Spa. Nessun privilegio fiscale, servitù o censo emerso dalla perizia. Fabbricato accessorio esterno da demolire a carico dell'acquirente (costo stimato €8.000)."
+      },
+      "occupazione": "occupato da terzi (esecutata con figli minori, senza titolo dopo aggiudicazione)",
+      "abusi_edilizi": "Presenti sanabili (con incertezza): 1) Piano terra – innalzamento solaio interpiano da ml 2,40 a ml 2,70 con trasformazione di locali accessori in abitabili (+114 mq SLP, +305 mc): sanabile con SCIA alternativa al PdC, oblazione stimata €43.638; 2) Ex autorimessa trasformata in camera da letto senza titolo; 3) Veranda al 1° piano chiusa e inglobata nella cucina (+6 mq); 4) Fabbricato accessorio esterno (ex pollai) privo di concessione: NON sanabile per ragioni economiche e tecniche (sanatoria sismica, accordo confinanti), prevista demolizione obbligatoria. Costo totale stimato sanatoria + demolizione: €63.638.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Il prezzo base di €95.625 sembra appetibile rispetto al valore lordo CTU di €240.000, ma il calcolo reale per l'acquirente è ben diverso: prezzo base €95.625 + sanatoria €63.638 + rifacimento bagno/taverna PT €12.000 + adeguamento energetico minimo €25.000 + spese asta/registro ~€10.000 = costo totale stimato €206.000, pari a circa €981/mq su 210 mq, ben al di sopra dei valori OMI della zona (€650-900/mq). Lo sconto reale è quindi minimo o nullo una volta computati tutti i costi. L'immobile è costruito nel 1971, struttura in laterizio con orizzontamenti in latero-cemento, generalmente solida ma datata. La caldaia Chaffoteaux è del 2018 (libretto 2022), unico impianto recente. L'accesso avviene tramite ponte/tombinatura sulla roggia Malcorrente. Il fattore determinante che rende l'operazione rischiosa è la combinazione di: occupazione con minori (tempi liberazione imprevedibili), sanatoria di esito non garantito, mercato illiquido e costi di regolarizzazione che erodono quasi interamente il vantaggio di prezzo. Consigliabile solo a investitori con piena disponibilità finanziaria, tolleranza al rischio e orizzonte temporale di almeno 3-4 anni, dopo verifica diretta presso il Comune di Grumello sull'accettabilità della SCIA in sanatoria."
+    },
+    "data_analisi": "2026-05-15"
+  },
+  "astalegale_B2417970": {
+    "id": "astalegale_B2417970",
+    "source": "astalegale",
+    "titolo": "Via Dosso, 7 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 8/2024 Rif. #B2417970",
+    "indirizzo": "",
+    "comune": "Grumello Cremonese ed Uniti",
+    "prezzo_base": 95625.0,
+    "data_asta": "22/09/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2417970",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/9edc8368d2a6b552d7d2455111a04292/2358601-C?cd=true",
+      "https://documents.astalegale.net/file/0/993b9d72cebf80a91000c2cbb1d3a987/2358600-C?cd=true",
+      "https://documents.astalegale.net/file/0/95758351668b544964a2dd780a3e5e61/2021803-C?cd=true",
+      "https://documents.astalegale.net/file/0/db2aea5b4f9d9402ff39d8b76a390704/2112468-B?cd=true",
+      "https://documents.astalegale.net/file/0/71c523c1b16270509c73cc4f87d5ad31/2021801-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2417970_doc1.pdf",
+      "output/pdf/astalegale_B2417970_doc2.pdf",
+      "output/pdf/astalegale_B2417970_doc3.pdf",
+      "output/pdf/astalegale_B2417970_doc4.pdf",
+      "output/pdf/astalegale_B2417970_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2358601 c avviso di vendita",
+      "2358600 c ordinanza",
+      "2021803 c perizia",
+      "2112468 b documento con foto",
+      "2021801 c certificazione energetica"
+    ],
+    "descrizione": "Il predetto si trova nella periferia sud-est del comune di Grumello Cremonese ed Uniti (CR), in via Dosso n.7 e consiste in una villa singola di mq 210, di due piani fuori terra, costruita nell’anno 1971 - con accessori ed area cortilizia in proprietà - eretta su un lotto di terreno di circa 960 mq.\nLe condizioni manutentive dell’immobile sono prevalentemente buone tranne che al piano terra dove il locale “taverna” è in condizioni mediocri ed il bagno da rifare.\nI serramenti al piano terra sono ",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Villa unifamiliare di 210 mq su due piani (1971) in zona periferica di Grumello Cremonese ed Uniti (CR), su lotto di 960 mq con cortile. Immobile con significative difformità urbanistiche sanabili ma costose (€63.638), occupato dall'esecutata con minori, classe energetica G. Prezzo base €95.625 su valore netto CTU di €170.000: sconto nominale del 44% sul valore netto, ma i costi di sanatoria e liberazione riducono il vantaggio reale.",
+      "comune_effettivo": "Grumello Cremonese ed Uniti",
+      "dati_catastali": "Foglio 24, Particella 55, Subalterno 3 – Categoria A/2, Classe 4, Consistenza 11 vani, Superficie totale mq 248 (senza aree esterne mq 210), Rendita €624,91 – Via Dosso n.7, Piano T-1. Variazione catastale del 11/02/2025 (fusione ex sub 501 A/2 + ex sub 502 C/6 in unica unità 55/3).",
+      "superficie_mq": 210,
+      "prezzo_al_mq": 456,
+      "prezzo_mercato_stimato": "650-900 €/mq (comune provincia Cremona entro 15 km, zona periferica agricola con scarsi servizi e calo demografico; OMI zona B: min 650, max 900, media 775 €/mq)",
+      "sconto_percentuale": "37% sul valore lordo CTU (€240.000); 44% sul valore netto CTU post-sanatoria (€170.000). Rispetto al mercato stimato (media 775 €/mq su 210 mq = ~€163.000 solo abitazione, ~€240.000 incluso cortile e pertinenze), lo sconto reale sul prezzo base è circa il 60% del lordo, ma aggiungendo i costi certi di sanatoria (€63.638) e quelli probabili di ristrutturazione/liberazione, il costo totale stimato si attesta tra €175.000 e €200.000, con sconto effettivo sul mercato del 17-27%.",
+      "anomalie": [
+        "Difformità urbanistica principale: il piano terra è stato realizzato con altezza interna di 2,70 m invece dei 2,40 m autorizzati dalla Licenza Edilizia n.263/71, trasformando di fatto locali accessori in superficie abitabile (+114 mq s.l.p. e +305 mc di volume non autorizzati).",
+        "Al piano primo: accorpamento non autorizzato del terrazzino nella cucina (+6 mq s.l.p., +19,8 mc) e chiusura con vetrata in alluminio di due lati del terrazzo – modifica di prospetto non autorizzata.",
+        "Fabbricati accessori esterni (vecchi pollai/ripostigli) privi di qualsiasi titolo edilizio, in pessimo stato e pericolanti: il CTU prevede la loro demolizione obbligatoria (costo stimato €8.000) poiché la sanatoria risulterebbe antieconomica e richiederebbe accordo con confinanti.",
+        "La superficie indicata nell'annuncio d'asta (72 mq) è gravemente errata rispetto alla perizia CTU (210 mq catastali senza aree esterne, 248 mq totali): discrepanza di oltre il 190% che configura un errore materiale nella pubblicità dell'asta da verificare prima di partecipare.",
+        "Voltura catastale eseguita solo il 10/02/2025 dal CTU, poiché l'immobile risultava ancora intestato al de cuius (deceduto nel 2019): la successione era rimasta non trascritta per oltre 5 anni, con accettazione di eredità accertata giudizialmente solo il 24/07/2023.",
+        "Il cambio di destinazione d'uso dell'ex autorimessa C/6 (sub 502) in vano abitativo (camera da letto) è stato regolarizzato catastalmente nel febbraio 2025 ma non risulta ancora sanato urbanisticamente con apposito titolo abilitativo.",
+        "Presenza di macchie di muffa al soffitto della cucina del piano primo, indice di scarso isolamento del solaio di sottotetto.",
+        "Il bagno al piano terra è in pessime condizioni (braga WC che perde, doccia dismessa, serramento in ferro arrugginito): richiede rifacimento completo."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da esecutata con minori",
+          "dettaglio": "L'immobile è abitato dall'esecutata (co-proprietaria per 1/2) con i propri familiari inclusi minori. La presenza di minori complica e prolunga la procedura di liberazione: il giudice deve valutare l'interesse dei minori prima di emettere decreto di rilascio. I tempi stimati sono 12-24 mesi dall'aggiudicazione, con possibile ulteriore dilazione in caso di ricorso. Costi legali e di procedura stimati €3.000-8.000."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Difformità urbanistiche e costi sanatoria",
+          "dettaglio": "La sanatoria è dichiarata necessaria dal CTU con costi certi stimati in €63.638 (oblazione €43.338, diritti €300, demolizione accessori €8.000, onorari tecnici €12.000). Il CTU stesso avverte che i valori sono orientativi e soggetti a variazioni all'esito dell'istruttoria comunale. Esiste il rischio che il Comune non accetti la SCIA alternativa al PdC e richieda ulteriori adempimenti o maggiori oneri. La sanatoria deve essere completata prima di qualsiasi futura vendita dell'immobile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e vetustà impianti",
+          "dettaglio": "Classe G con EPgl,nren 521,66 kWh/m²anno, costruzione 1971, serramenti in ferro/legno con vetri semplici su entrambi i piani, nessun isolamento termico. Il solo intervento raccomandato dall'APE (coibentazione pareti perimetrali) ha un payback di 12,2 anni e porta in classe F. Un adeguamento energetico accettabile richiede investimenti stimati €30.000-50.000 (coibentazione + sostituzione serramenti + eventuale aggiornamento caldaia). Caldaia Chaffoteaux del 2018 (25 kW) ancora funzionante."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato immobiliare debole in zona",
+          "dettaglio": "Grumello Cremonese ed Uniti conta 1.748 abitanti con calo demografico del 10% nel decennio 2004-2024. Il CTU segnala un mercato medio/basso, assenza di comparabili recenti per ville singole, scarsi collegamenti con trasporto pubblico. La rivendita futura sarà lenta e a prezzi compressi: potenziale di rivalutazione basso, liquidità dell'investimento ridotta."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Errata superficie in pubblicità asta",
+          "dettaglio": "La superficie indicata nell'annuncio (72 mq) è palesemente errata rispetto alla perizia CTU (210 mq). Questo potrebbe indicare un errore nel bando d'asta che va verificato prima della partecipazione presso la cancelleria del Tribunale o il delegato alla vendita. Non ha impatto sul valore ma può causare confusione e attirare offerenti non informati."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteca giudiziale contenuta",
+          "dettaglio": "L'unica formalità pregiudizievole è un'ipoteca giudiziale di €56.611,13 (a garanzia di €54.404,63) iscritta da IFIS NPL Spa nel 2019 – lo stesso creditore procedente. Il prezzo base (€95.625) copre abbondantemente l'ipoteca e questa si estinguerà automaticamente con la vendita forzata. Nessuna ipoteca di terzi rilevata nel ventennio."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca Giudiziale da Decreto Ingiuntivo, iscritta il 19/04/2019 (nn. 3428/477 Conservatoria Cremona), importo iscritto €56.611,13 a garanzia di €54.404,63, a favore di IFIS NPL Spa (creditore procedente). Nessuna altra ipoteca rilevata nel ventennio.",
+        "spese_condominiali": "Nessuna: immobile unifamiliare non in condominio.",
+        "altri_oneri": "Verbale di pignoramento trascritto il 01/02/2024 (nn. 758/592) a favore di IFIS NPL Investing Spa. Nessun altro privilegio fiscale, servitù attiva/passiva, censo o vincolo reale emerso dagli atti."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Presenti sanabili (con riserva): (1) Piano terra: innalzamento solaio interpiano da ml 2,40 a ml 2,70 autorizzati, trasformazione locali accessori in abitabili (+114 mq s.l.p., +305 mc), sanabile con SCIA alternativa al PdC – oblazione stimata €43.638; (2) Piano primo: accorpamento terrazzo in cucina (+6 mq) e chiusura vetrata terrazzo, sanabile unitamente; (3) Fabbricati accessori esterni (pollai/ripostigli) privi di titolo edilizio, pericolanti, da demolire obbligatoriamente (€8.000). Costo totale sanatoria stimato dal CTU: €63.638. Attenzione: il CTU avverte esplicitamente che i valori sono orientativi e che la sanabilità definitiva dipende dall'esito dell'istruttoria comunale.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Il prezzo base di €95.625 rappresenta uno sconto nominale del 44% sul valore netto CTU (€170.000), ma il costo reale totale comprende: sanatoria €63.638 (obbligatoria e non rinviabile per future vendite), ristrutturazione bagno piano terra + interventi manutentivi minimo €15.000-25.000, liberazione immobile (potenzialmente 12-24 mesi con minori presenti, costi legali €3.000-8.000), eventuale adeguamento energetico €30.000-50.000. Il costo all-in stimato è quindi €175.000-235.000, con uno sconto reale rispetto al mercato del 2-27% – insufficiente a compensare i rischi e le complessità. L'immobile potrebbe essere interessante solo per chi intende abitarci in prima persona (risparmio sulle tasse di registro) e ha le competenze/risorse per gestire la sanatoria e l'attesa per la liberazione. Anno costruzione: 1971. Zona climatica E. Accesso tramite ponte/tombinatura su roggia Malcorrente. Nessun vincolo paesaggistico/idrogeologico emerso. Distanza da Cremona: ~15 km. Servizi di base presenti nel comune (scuole fino a 1° grado, farmacia, posta, banche). Trasporto pubblico carente."
+    },
+    "data_analisi": "2026-05-15"
   }
 }

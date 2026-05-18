@@ -2318,5 +2318,201 @@
       "note_aggiuntive": "Il prezzo base di €95.625 rappresenta uno sconto nominale del 44% sul valore netto CTU (€170.000), ma il costo reale totale comprende: sanatoria €63.638 (obbligatoria e non rinviabile per future vendite), ristrutturazione bagno piano terra + interventi manutentivi minimo €15.000-25.000, liberazione immobile (potenzialmente 12-24 mesi con minori presenti, costi legali €3.000-8.000), eventuale adeguamento energetico €30.000-50.000. Il costo all-in stimato è quindi €175.000-235.000, con uno sconto reale rispetto al mercato del 2-27% – insufficiente a compensare i rischi e le complessità. L'immobile potrebbe essere interessante solo per chi intende abitarci in prima persona (risparmio sulle tasse di registro) e ha le competenze/risorse per gestire la sanatoria e l'attesa per la liberazione. Anno costruzione: 1971. Zona climatica E. Accesso tramite ponte/tombinatura su roggia Malcorrente. Nessun vincolo paesaggistico/idrogeologico emerso. Distanza da Cremona: ~15 km. Servizi di base presenti nel comune (scuole fino a 1° grado, farmacia, posta, banche). Trasporto pubblico carente."
     },
     "data_analisi": "2026-05-15"
+  },
+  "portaleaste_B2418328": {
+    "id": "portaleaste_B2418328",
+    "source": "portaleaste",
+    "titolo": "Frazione Castelponzone - Via Storta, 3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 33/2023 Rif. #B2418328",
+    "indirizzo": "",
+    "comune": "Scandolara Ravara",
+    "prezzo_base": 21001.46,
+    "data_asta": "15/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2418328",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/3d5907fbe06e4c37be391198eaf67f00/2360067-B?cd=true",
+      "https://documents.astalegale.net/file/2/c5d768a18a30d6f2563955907c4c2510/2360066-B?cd=true",
+      "https://documents.astalegale.net/file/2/ac74bf5d5b7d067e2320e4379bd6ea35/1526324-D?cd=true",
+      "https://documents.astalegale.net/file/2/70663c7d10319781c67fe627c0f85bd6/1526325-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2418328_doc1.pdf",
+      "output/pdf/portaleaste_B2418328_doc2.pdf",
+      "output/pdf/portaleaste_B2418328_doc3.pdf",
+      "output/pdf/portaleaste_B2418328_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2360067 b avviso di vendita",
+      "2360066 b ordinanza",
+      "1526324 d perizia",
+      "1526325 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di un’abitazione posta su due piani fuori terra con annessa area cortilizia e porticato.\nL’abitazione disposta su due piani fuori terra è costituita da: ingresso con vano scale, cucina abitabile, zona pranzo e soggiorno, al piano primo vi è un disimpegno che collega due stanze da letto matrimoniali, ripostiglio e bagno, il tutto con annesso un portico ed area cortilizia.\nPer i beni identificati al fg. 5 mapp. 237 subalterno 503 e stato redatto\nAPE codice identificativo 1909200004",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa autonoma su due piani fuori terra con portico e area cortilizia, ubicata nella frazione rurale di Castelponzone (comune di Scandolara Ravara, CR), anno di costruzione ante 1945, discreto stato conservativo ma con evidenti problemi di umidità e impianti obsoleti. Il prezzo base di €21.001 appare estremamente basso rispetto al valore di stima CTU di €118.000, ma l'immobile è occupato da terzo non identificato e la vendibilità è giudicata 'scarsa' dal perito.",
+      "comune_effettivo": "Scandolara Ravara",
+      "dati_catastali": "Foglio 5, Mappale 237, Subalterno 503, Categoria A/2, Classe 4, Rendita €464,81 (abitazione); Foglio 5, Mappale 495, Subalterno 501 (portico annesso) - Comune di Scandolara Ravara (CR)",
+      "superficie_mq": 182,
+      "prezzo_al_mq": 115,
+      "prezzo_mercato_stimato": "450-650 €/mq (Scandolara Ravara, zona residenziale paese, stato normale, dati OMI 2023)",
+      "sconto_percentuale": "97% rispetto al valore CTU (€118.000); ~83% rispetto al valore di mercato minimo OMI (450 €/mq × 182 mq ≈ €81.900). Attenzione: il prezzo base di €21.001 è probabilmente il risultato di riduzioni successive e riflette la scarsa vendibilità dell'immobile.",
+      "anomalie": [
+        "La superficie indicata nel bando d'asta (72 mq) è gravemente difforme dalla superficie commerciale CTU (181,91 mq) e dalla superficie catastale (178 mq totali, 170 mq escluse aree scoperte): divario superiore al 100%, segnale di dati pubblicitari errati o riferiti alla sola superficie principale senza pertinenze.",
+        "Assenza totale del certificato di agibilità/abitabilità: la ricerca comunale ha dato esito negativo. L'immobile è privo di questo documento fondamentale, il che complica future vendite, locazioni e accesso a mutui.",
+        "La copertura del tetto principale e del portico è in lastre di fibrocemento contenente presumibilmente amianto (fibrocemento ondulato): rimozione obbligatoria con oneri significativi.",
+        "Impianti non certificati: nessuna certificazione di conformità degli impianti elettrico, idraulico e di riscaldamento (caldaia tipo B vetusta, anno installazione 1970 da APE). Tutti gli impianti sono da considerarsi non a norma e da rifare.",
+        "Anno costruzione ante 1945 (APE indica 1930-1945): edificio in muratura pesante senza isolamento termico, strutturalmente datato.",
+        "La perizia CTU utilizza un unico comparabile (prezzo richiesto, non atto di compravendita reale) per la stima di mercato, con nota esplicita che 'non sono stati reperiti atti di compravendita negli ultimi 18 mesi nel medesimo segmento': metodologia valutativa debole, valore di stima da considerare indicativo.",
+        "Il prezzo base €21.001 è significativamente inferiore al valore CTU €118.000 (stiamo probabilmente ad un'asta ridotta al ribasso): verificare il numero di esperimenti precedenti e le riduzioni applicate."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da terzi non identificati",
+          "dettaglio": "Al momento del sopralluogo CTU (09/2023) l'immobile era occupato da persona non identificata (presumibilmente il figlio della proprietaria-debitrice, nato 1989). Non risulta contratto di locazione registrato né titolo formale. La liberazione richiede decreto di rilascio del giudice dell'esecuzione post-aggiudicazione: tempi stimati 6-18 mesi, con possibili resistenze. Rischio di danni all'immobile durante il periodo di occupazione."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Amianto nella copertura",
+          "dettaglio": "Il tetto principale e il portico hanno copertura in lastre di fibrocemento identificate come probabilmente contenenti amianto. La bonifica è obbligatoria per legge prima di qualsiasi ristrutturazione: costo stimato rimozione e smaltimento 3.000-8.000€ per una superficie di questa entità, oltre all'obbligo di rifacimento completo del manto di copertura (ulteriori 15.000-30.000€ per tetto e portico)."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza agibilità/abitabilità",
+          "dettaglio": "Nessun certificato di agibilità reperibile. Senza questo documento l'immobile non può essere affittato regolarmente, non può essere oggetto di mutuo ipotecario da parte dell'acquirente, e le future compravendite saranno difficoltose. Il rilascio del certificato richiede la regolarizzazione di tutti gli impianti e potenzialmente interventi strutturali: costi e tempi incerti (stima minima 5.000-15.000€ in onorari e pratiche, più eventuali adeguamenti)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti obsoleti",
+          "dettaglio": "APE classe F (282,19 kWh/mq anno), caldaia anno 1970 tipo B (non più conforme alle norme), impianto elettrico senza certificazione. Un adeguamento energetico minimo (isolamento involucro + nuova caldaia + impianti) richiederebbe 30.000-60.000€ su una superficie di 165 mq. La direttiva europea Case Green impone progressivi obblighi di adeguamento energetico entro 2030-2033."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Bassa vendibilità e mercato illiquido",
+          "dettaglio": "Il CTU stesso giudica la vendibilità 'scarsa': nessun atto di compravendita comparabile negli ultimi 18 mesi nella zona, mercato con domanda privata molto ridotta. Scandolara Ravara è un piccolo comune con scarsi servizi, difficile rivendita futura. L'investimento è difficilmente liquidabile in tempi brevi senza significative perdite."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Umidità e stato manutentivo carente",
+          "dettaglio": "Le fotografie mostrano evidenti macchie di umidità e distacchi di intonaco nelle camere da letto e in altri locali. Il soggiorno è in stato di abbandono. Costo stimato per risanamento umidità e rifacimento finiture interne: 10.000-20.000€ aggiuntivi rispetto alla ristrutturazione ordinaria."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca rilevata: l'ispezione ipotecaria (Allegato E, data 04/01/2024, periodo 20/03/2023-04/01/2024) riporta 'non è stato reperito nessun immobile a fronte dei dati della richiesta'. L'ispezione per dati anagrafici del soggetto debitore riporta anch'essa esito negativo. Attenzione: l'ispezione copre solo il periodo informatizzato; il creditore procedente è Leviticus SPV Srl (cessionario di crediti).",
+        "spese_condominiali": "Nessuna: l'edificio non appartiene ad alcun condominio. Nessun arretrato condominiale.",
+        "altri_oneri": "Nessun pignoramento, privilegio fiscale, servitù o vincolo reale emerso dalla documentazione. Verificare eventuali debiti tributari/IMU pregressi non rilevati dall'ispezione ipotecaria."
+      },
+      "occupazione": "occupato da terzi (senza titolo formale accertato - presumibilmente figlio della proprietaria-debitrice)",
+      "abusi_edilizi": "nessuno rilevato: il CTU ha accertato la corrispondenza dello stato dei luoghi con le pratiche edilizie depositate (concessione 1987, DIA 1990, DIA 1999, DIA 2004). Conformità catastale e urbanistica confermate. La pratica DIA 2004 risulta regolarmente collaudata.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Il prezzo base di €21.001 offre uno sconto teorico eccezionale sul valore CTU (€118.000), ma il contesto presenta complessità operative rilevanti. Il costo reale di acquisto va stimato in: prezzo aggiudicazione + imposta registro (9% se seconda casa, ~1.890€ sul prezzo base) + spese procedura (~2.500-5.000€) + rimozione amianto (5.000-10.000€) + rifacimento impianti (20.000-30.000€) + risanamento umidità (10.000-15.000€) + eventuale pratica agibilità (5.000-15.000€) = investimento totale minimo stimato €65.000-100.000 per un immobile che vale €81.000-118.000 a lavori completati, in un mercato illiquido. L'operazione è conveniente solo per chi ha capacità operative proprie (impresa edile) e tolleranza alle incertezze della liberazione dell'immobile (potenzialmente 12-18 mesi). Per un acquirente privato senza esperienza specifica, i rischi operativi e i tempi di attesa rendono l'operazione borderline. La superficie indicata nel portale (72 mq) è errata: la superficie commerciale reale è circa 182 mq. Anno di costruzione 1930-1945. Il comune di Scandolara Ravara dista circa 20 km da Cremona città, con servizi molto limitati."
+    },
+    "data_analisi": "2026-05-18"
+  },
+  "astalegale_B2418328": {
+    "id": "astalegale_B2418328",
+    "source": "astalegale",
+    "titolo": "Frazione Castelponzone - Via Storta, 3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 33/2023 Rif. #B2418328",
+    "indirizzo": "",
+    "comune": "Scandolara Ravara",
+    "prezzo_base": 21001.46,
+    "data_asta": "15/09/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2418328",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/3d5907fbe06e4c37be391198eaf67f00/2360067-B?cd=true",
+      "https://documents.astalegale.net/file/0/c5d768a18a30d6f2563955907c4c2510/2360066-B?cd=true",
+      "https://documents.astalegale.net/file/0/ac74bf5d5b7d067e2320e4379bd6ea35/1526324-D?cd=true",
+      "https://documents.astalegale.net/file/0/70663c7d10319781c67fe627c0f85bd6/1526325-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2418328_doc1.pdf",
+      "output/pdf/astalegale_B2418328_doc2.pdf",
+      "output/pdf/astalegale_B2418328_doc3.pdf",
+      "output/pdf/astalegale_B2418328_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2360067 b avviso di vendita",
+      "2360066 b ordinanza",
+      "1526324 d perizia",
+      "1526325 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di un’abitazione posta su due piani fuori terra con annessa area cortilizia e porticato.\nL’abitazione disposta su due piani fuori terra è costituita da: ingresso con vano scale, cucina abitabile, zona pranzo e soggiorno, al piano primo vi è un disimpegno che collega due stanze da letto matrimoniali, ripostiglio e bagno, il tutto con annesso un portico ed area cortilizia.\nPer i beni identificati al fg. 5 mapp. 237 subalterno 503 e stato redatto\nAPE codice identificativo 1909200004",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa autonoma su 2 piani fuori terra con portico e area cortilizia, ubicata nella piccola frazione di Castelponzone (comune di Scandolara Ravara, CR), anno di costruzione 1930-1945, stato discreto ma con evidenti problemi di umidità e muffa alle pareti. Il prezzo base di €21.001 è estremamente basso rispetto al valore stimato dal CTU di €118.000, il che riflette verosimilmente riduzioni successive all'asta per mancanza di offerte; interesse potenziale come investimento a basso prezzo in zona rurale, ma con criticità sull'occupazione e sulla liquidità futura.",
+      "comune_effettivo": "Scandolara Ravara",
+      "dati_catastali": "Foglio 5, Mappale 237, Subalterno 503, Categoria A/2, Classe 4 (abitazione); Foglio 5, Mappale 495, Subalterno 501 (portico). Rendita catastale €464,81, consistenza 7,5 vani.",
+      "superficie_mq": 182,
+      "prezzo_al_mq": 115,
+      "prezzo_mercato_stimato": "450-650 €/mq (Scandolara Ravara, zona residenziale normale, dati OMI 2023)",
+      "sconto_percentuale": "97% sul valore CTU (€118.000); circa 78-83% sul valore OMI minimo stimato (450-650 €/mq × 182 mq = €82.000-118.000)",
+      "anomalie": [
+        "La superficie indicata nel bando d'asta (72 mq) è gravemente difforme dalla superficie commerciale calcolata dal CTU (181,91 mq) e dalla superficie catastale totale (178 mq): discrepanza superiore al 150%, probabilmente errore nel bando o uso di superficie netta non commerciale. Verificare il bando originale prima di fare offerta.",
+        "Assenza di certificato di abitabilità/agibilità: il CTU attesta esplicitamente che non è stata reperita alcuna documentazione di abitabilità presso il Comune di Scandolara Ravara. Questo impedisce la regolare locazione e complica future vendite.",
+        "Certificazione impianti assente: la scheda CTU riporta 'No' alla voce 'Certificazione impianti'. La caldaia è di tipo B (vetusta, installata nel 1970 secondo APE), non a norma per le attuali normative sulla sicurezza gas.",
+        "Copertura in fibrocemento contenente probabile amianto: sia la copertura dell'edificio principale che quella del portico sono descritte dal CTU come lastre di fibrocemento 'contenente amianto'. La bonifica è obbligatoria per legge e ha costi significativi (stimabili in €5.000-15.000 a seconda dell'estensione).",
+        "L'ispezione ipotecaria (Allegato E) evidenzia che nel periodo antecedente al 02/01/1975 potrebbero esistere formalità non validate; tuttavia per il periodo 1997-2024 nessuna ipoteca è risultata iscritta sul mappale 237 sub 503. Occorre cautela sul periodo pre-1975.",
+        "Il prezzo base di €21.001 è drammaticamente inferiore al valore CTU di €118.000 (82% di sconto): indica che l'asta è al ribasso avanzato dopo numerosi tentativi deserti, segnale di scarsa domanda di mercato per questa tipologia in questa zona.",
+        "La pianta allegata alla pratica edilizia del 1990 riporta ancora una 'cantina' al piano terra, mentre lo stato attuale del CTU non menziona cantina tra i locali: possibile variazione non documentata della destinazione d'uso interna."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da terzi senza titolo identificato",
+          "dettaglio": "Al momento del sopralluogo (07/09/2023) l'immobile risultava occupato da persona non identificata (secondo informazioni della figlia della proprietaria, occupato dal figlio). Non è stato prodotto alcun contratto di locazione o comodato. L'acquirente dovrà richiedere il decreto di liberazione al giudice dell'esecuzione: procedura che richiede tipicamente 6-18 mesi e comporta costi legali di €2.000-5.000, oltre all'impossibilità di prendere possesso dell'immobile nell'immediato."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Amianto nelle coperture",
+          "dettaglio": "Il CTU descrive esplicitamente lastre di fibrocemento 'probabilmente in amianto' sul tetto dell'edificio e 'contenente amianto' sul portico. La bonifica è obbligatoria ai sensi del D.Lgs 81/2008 e della L. 257/1992: costo stimato €8.000-20.000 a seconda dello stato delle lastre (incapsulamento vs rimozione e smaltimento in discarica autorizzata). Senza bonifica, l'immobile non è commerciabile né locabile in sicurezza."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza agibilità",
+          "dettaglio": "Nessun certificato di abitabilità/agibilità presente né reperibile presso il Comune. Senza agibilità l'immobile non può essere locato né venduto facilmente a terzi; l'ottenimento richiede perizia tecnica, eventuale adeguamento degli impianti e pratica comunale (costo stimato €3.000-8.000, tempi 6-18 mesi), con rischio che emergano difformità bloccanti."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Caldaia tipo B vetusta e impianti non certificati",
+          "dettaglio": "La caldaia è di tipo B (a camera aperta), installata nel 1970 secondo l'APE: questo tipo di apparecchio è vietato nelle nuove installazioni e la sua presenza in ambienti non adeguatamente ventilati costituisce rischio CO. La sostituzione con caldaia a condensazione è necessaria: costo stimato €2.500-4.500. L'impianto elettrico non è certificato e data la vetustà dell'edificio (anni '30-'45 con ristrutturazioni anni '90) è probabile che non sia a norma CEI 64-8: rifacimento stimato €3.000-6.000."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e inefficienza strutturale",
+          "dettaglio": "APE classe F con 282,19 kWh/mq anno: muratura pesante senza isolamento termico, tipica di edifici degli anni '30-'45. I consumi di riscaldamento saranno molto elevati (gas naturale 3.408 mc/anno stimati). Un intervento di cappotto esterno per raggiungere la classe E costerebbe €15.000-25.000 ma è difficoltoso su edificio in zona 'Residenziale A1 - centro storico' per vincoli estetici."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Scarsa vendibilità e liquidità del bene",
+          "dettaglio": "Il CTU giudica la vendibilità 'SCARSA': il mercato immobiliare di Scandolara Ravara è stagnante (prezzi 0% di variazione 2022-2023), concorrenza monopolistica ristretta, nessun trasferimento comparabile negli ultimi 18 mesi. L'investimento presenta elevato rischio di illiquidità: difficoltà di rivendita a prezzo di mercato in tempi brevi."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Umidità e muffa strutturale",
+          "dettaglio": "Le foto (camere da letto) mostrano gravi infiltrazioni d'acqua con distacco di intonaco e muffa estesa sulle pareti perimetrali: probabile umidità di risalita da fondazioni senza guaina impermeabilizzante. Il trattamento richiede interventi invasivi (iniezione di resine o barriera chimica): costo stimato €5.000-15.000 oltre al rifacimento degli intonaci interni (€3.000-8.000)."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità urbanistica e catastale",
+          "dettaglio": "Il CTU attesta la corrispondenza dello stato dei luoghi alle planimetrie catastali e alle pratiche edilizie depositate. Nessun abuso edilizio rilevato, nessuna opera da sanare. Questo è un fattore positivo che riduce il rischio di problemi al trasferimento."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca iscritta risultante dall'ispezione ipotecaria del 04/01/2024 (periodo verificato 1997-2024). Attenzione: il periodo antecedente al 02/01/1975 non è completamente validato nella banca dati informatizzata.",
+        "spese_condominiali": "Nessuna: l'edificio non appartiene ad alcun condominio (casa autonoma).",
+        "altri_oneri": "Pignoramento immobiliare in corso (procedura 33/2023 RGE Tribunale Cremona, creditore procedente Leviticus SPV Srl). Nessun privilegio fiscale o servitù segnalati dalla perizia. Nessuna causa in corso rilevata."
+      },
+      "occupazione": "occupato da terzi (senza titolo - figlio della proprietaria debitrice, persona non identificata al sopralluogo)",
+      "abusi_edilizi": "nessuno rilevato",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Anno di costruzione 1930-1945 (APE). Il prezzo base di €21.001 è eccezionalmente basso (82% sotto il valore CTU di €118.000) e riflette riduzioni successive per aste deserte: il bene ha scarsa domanda strutturale. Il budget realistico per rendere l'immobile abitabile e a norma deve includere: bonifica amianto (€10.000-20.000) + sostituzione caldaia e impianti (€6.000-11.000) + trattamento umidità (€8.000-23.000) + ottenimento agibilità (€3.000-8.000) + liberazione da occupanti (€2.000-5.000 legali) = totale interventi necessari stimati €29.000-67.000, per un costo complessivo acquisto+interventi di €50.000-88.000. Questo rimane comunque significativamente inferiore al valore OMI minimo (€82.000-118.000). L'investimento è interessante solo per chi accetta: 1) lunghi tempi di liberazione (6-18 mesi), 2) uso personale in zona rurale a ~25 km da Cremona, 3) capacità tecnica di gestire la bonifica amianto. Non adatto come investimento da reddito per la scarsissima domanda locativa in questa zona. La discrepanza di superficie nel bando (72 mq vs 182 mq reali) DEVE essere chiarita con il delegato prima della partecipazione."
+    },
+    "data_analisi": "2026-05-18"
   }
 }

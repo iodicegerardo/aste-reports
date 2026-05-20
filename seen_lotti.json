@@ -2514,5 +2514,322 @@
       "note_aggiuntive": "Anno di costruzione 1930-1945 (APE). Il prezzo base di €21.001 è eccezionalmente basso (82% sotto il valore CTU di €118.000) e riflette riduzioni successive per aste deserte: il bene ha scarsa domanda strutturale. Il budget realistico per rendere l'immobile abitabile e a norma deve includere: bonifica amianto (€10.000-20.000) + sostituzione caldaia e impianti (€6.000-11.000) + trattamento umidità (€8.000-23.000) + ottenimento agibilità (€3.000-8.000) + liberazione da occupanti (€2.000-5.000 legali) = totale interventi necessari stimati €29.000-67.000, per un costo complessivo acquisto+interventi di €50.000-88.000. Questo rimane comunque significativamente inferiore al valore OMI minimo (€82.000-118.000). L'investimento è interessante solo per chi accetta: 1) lunghi tempi di liberazione (6-18 mesi), 2) uso personale in zona rurale a ~25 km da Cremona, 3) capacità tecnica di gestire la bonifica amianto. Non adatto come investimento da reddito per la scarsissima domanda locativa in questa zona. La discrepanza di superficie nel bando (72 mq vs 182 mq reali) DEVE essere chiarita con il delegato prima della partecipazione."
     },
     "data_analisi": "2026-05-18"
+  },
+  "portaleaste_B2417242": {
+    "id": "portaleaste_B2417242",
+    "source": "portaleaste",
+    "titolo": "Via Rizzo , 6 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 207/2024 Rif. #B2417242",
+    "indirizzo": "",
+    "comune": "Pizzighettone",
+    "prezzo_base": 63750.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2417242",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/edec834a50b384c44677aefe2c1c4077/2363222-B?cd=true",
+      "https://documents.astalegale.net/file/2/c1e8a3982ebda88e1c12d3fde3ccd66f/2363221-B?cd=true",
+      "https://documents.astalegale.net/file/2/33665b996781eb37eab4437db7a81eb4/2197236-B?cd=true",
+      "https://documents.astalegale.net/file/2/4bfa93c72908ae933cae47cef6eb8447/2197233-B?cd=true",
+      "https://documents.astalegale.net/file/2/77e688a937388c6bf6ae4c9cfee104fa/2197234-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2417242_doc1.pdf",
+      "output/pdf/portaleaste_B2417242_doc2.pdf",
+      "output/pdf/portaleaste_B2417242_doc3.pdf",
+      "output/pdf/portaleaste_B2417242_doc4.pdf",
+      "output/pdf/portaleaste_B2417242_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2363222 b avviso di vendita",
+      "2363221 b ordinanza",
+      "2197236 b perizia",
+      "2197233 b documento con foto",
+      "2197234 b dati catastali"
+    ],
+    "descrizione": "Piena proprietà di appartamento sposto al secondo piano di edificio condominiale composto da ingresso-soggiorno, cucina, disimpegno, bagno, due camere, due balconi e autorimessa posta al piano sottostrada.  - Tipologia: Abitazione di tipo civile - Prezzo: € 63.750,00 - Data asta: 23/07/2026 - 16:40",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento di 4 locali al piano secondo con box singolo al piano S1, in palazzina condominiale anni '80 in zona residenziale di Pizzighettone (CR), in discreto stato conservativo. Il CTU stima il valore di mercato a €85.000 e il prezzo base d'asta è €63.750, con uno sconto teorico del 25% sul valore periziato. L'immobile è libero, regolare urbanisticamente e senza ipoteche iscritte, ma presenta classe energetica G e spese condominiali arretrate.",
+      "comune_effettivo": "Pizzighettone",
+      "dati_catastali": "Appartamento: Foglio 21, mappale 555, subalterno 19, categoria A/3, classe 5, 5,5 vani, 89 mq, rendita €340,86. Autorimessa: Foglio 21, mappale 555, subalterno 34, categoria C/6, classe 5, 16 mq, rendita €25,62",
+      "superficie_mq": 88,
+      "prezzo_al_mq": 724,
+      "prezzo_mercato_stimato": "650-1.050 €/mq (zona residenziale Pizzighettone, stato normale, dati OMI 2024 S2)",
+      "sconto_percentuale": "25% sul valore CTU (€85.000); circa 20-30% sulla fascia bassa del mercato OMI (€650-1.050/mq)",
+      "anomalie": [
+        "La perizia CTU riporta una superficie commerciale di 87,57 mq (box incluso al 50%), mentre il bando d'asta indica 72 mq: discrepanza di circa 18% che potrebbe indicare un calcolo diverso della superficie o un errore nell'annuncio; verificare prima di partecipare.",
+        "I dati catastali nella scheda riepilogativa inizialmente riportavano 83 mq per l'appartamento (piano 2), mentre i dati aggiornati indicano 89 mq: il CTU ha proceduto ad aggiornamento planimetrico nel maggio 2025, confermando la non corrispondenza delle vecchie planimetrie con lo stato di fatto per entrambe le UIU.",
+        "APE con data 12/10/2016, valida fino al 12/10/2026: tecnicamente ancora valida ma prossima alla scadenza, classe G (302,58 kWh/mq anno), indice di inefficienza energetica elevata.",
+        "Il comparabile utilizzato per la valutazione è un solo atto di compravendita (quota 1/2 di appartamento simile venduta a €45.000, proiettata a €90.000 per l'intero): la base comparativa è molto ristretta e il CTU stesso lo segnala, rendendo la stima di €85.000 poco robusta.",
+        "Spese condominiali arretrate al 30/06/2024 di €4.516,16: importo significativo rispetto al valore dell'immobile, l'acquirente risponde degli ultimi 2 anni per legge (art. 63 disp. att. c.c.)."
+      ],
+      "rischi": [
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e impianti datati",
+          "dettaglio": "L'immobile è classificato in classe G con 302,58 kWh/mq/anno: costi energetici elevati e obblighi di adeguamento progressivi per le direttive europee (EPBD). L'impianto elettrico risale all'epoca di costruzione (1981) e la caldaia è descritta come 'datata': probabili interventi su impianti per €8.000-15.000, più eventuale cappotto/sostituzione infissi per efficientamento termico (€15.000-30.000 per intervento completo)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali arretrate",
+          "dettaglio": "Arretrati condominiali di €4.516,16 al 30/06/2024: l'acquirente in asta risponde solidalmente per gli arretrati degli ultimi 2 anni (art. 63 disp. att. c.c.), quindi potenzialmente esposizione per l'intero importo. Spese annue ordinarie di soli €550, onere contenuto a regime."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Liquidità del mercato di Pizzighettone",
+          "dettaglio": "Il CTU segnala espressamente che è stato reperito un solo atto comparabile negli ultimi 18 mesi, definendo il mercato come 'concorrenza monopolistica ristretta' con prezzi stazionari. La rivendibilità futura è incerta e i tempi di collocazione potrebbero essere lunghi (12-24 mesi), riducendo il vantaggio dello sconto."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Regolarità urbanistica e catastale",
+          "dettaglio": "Conformità urbanistica e catastale confermate dal CTU dopo aggiornamento planimetrico eseguito nel maggio 2025. Nessun abuso edilizio rilevato, abitabilità regolare (1997), nessuna sanatoria necessaria."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Assenza di ipoteche e gravami",
+          "dettaglio": "L'ispezione ipotecaria del 01/07/2025 non ha rilevato note pregiudizievoli sugli immobili. Nessuna ipoteca, nessun pignoramento aggiuntivo, nessuna causa in corso: situazione molto pulita sul fronte dei gravami."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca rilevata (ispezione ipotecaria telematica del 01/07/2025 negativa)",
+        "spese_condominiali": "Arretrati al 30/06/2024: €4.516,16 (a carico acquirente per gli ultimi 2 anni ex art. 63 disp. att. c.c.); spese ordinarie annue: €550,00 (millesimi 52)",
+        "altri_oneri": "Nessuno rilevato; nessuna causa in corso, nessuna servitù o vincolo segnalati"
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "nessuno rilevato (corrispondenza confermata dal CTU per appartamento e box con le pratiche edilizie depositate al Comune di Pizzighettone; aggiornamento planimetrico eseguito nel maggio 2025)",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Anno di costruzione 1981, abitabilità 1987, riscaldamento autonomo a gas (caldaia datata da sostituire), impianto elettrico originale, serramenti in legno con doppio vetro da sostituire. La perizia è recentissima (data valutazione 25/07/2025, sopralluogo 18/02/2025), quindi i valori sono aggiornati. Il prezzo base di €63.750 corrisponde a circa €724/mq commerciale, inferiore al range OMI di Pizzighettone (€650-1.050/mq stato normale): lo sconto è reale ma non eccezionale, attestandosi intorno al 25% sul valore CTU. Attenzione alla discrepanza tra la superficie indicata nel bando (72 mq) e quella commerciale della perizia (87,57 mq): verificare con il delegato alle vendite quale superficie sia corretta prima di offrire. Immobile adatto come prima casa per chi lavora nell'area Cremona-Pizzighettone o come investimento a basso rendimento; da escludere per chi cerca un'operazione speculativa rapida per la scarsa liquidità del mercato locale."
+    },
+    "data_analisi": "2026-05-20"
+  },
+  "portaleaste_B2415607": {
+    "id": "portaleaste_B2415607",
+    "source": "portaleaste",
+    "titolo": "Frazione Pellegra - Via Villa Battaglia, 11 - Lotto Unico - Tribunale di Cremona - Procedure concorsuali / Fallimentare 65/2015 Rif. #B2415607",
+    "indirizzo": "",
+    "comune": "Castelleone",
+    "prezzo_base": 99500.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415607",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/651445c6dd24807c843a088ccd834a7b/2362940-B?cd=true",
+      "https://documents.astalegale.net/file/2/ae9e5c05a144e6946774797ba9dbf772/2362981-B?cd=true",
+      "https://documents.astalegale.net/file/2/4f8c75c4fd72c7ef4a2a07d84569ba22/2362982-B?cd=true",
+      "https://documents.astalegale.net/file/2/1ae543a00f3bfd5de55525770c9bc752/2362941-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2415607_doc1.pdf",
+      "output/pdf/portaleaste_B2415607_doc2.pdf",
+      "output/pdf/portaleaste_B2415607_doc3.pdf",
+      "output/pdf/portaleaste_B2415607_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2362940 b avviso di vendita",
+      "2362981 b perizia",
+      "2362982 b documento con foto",
+      "2362941 b certificazione energetica"
+    ],
+    "descrizione": "Grande abitazione su tre livelli con porzioni al rustico in ampliamento non ultimate, tra cui box pertinenziale. Grandi giardini esclusivi su fronte e retro. - Tipologia: Abitazione di tipo civile - Prezzo: € 99.500,00 - Data asta: 23/07/2026 - 10:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Grande abitazione su tre livelli (ex case coloniche) in frazione Pellegra di Castelleone (CR), circa 3 km dal centro, con box pertinenziale e ampi giardini esclusivi. L'immobile presenta numerosi abusi edilizi sia sanabili che non sanabili, impianti non a norma e porzioni ancora al rustico; la perizia CTU è molto recente (settembre 2025) e aggiornata. Il prezzo base di €99.500 appare competitivo sul valore stimato dal CTU (€117.000), ma la superficie reale è ben superiore ai 72 mq indicati nell'annuncio, e i costi di regolarizzazione e demolizione sono significativi.",
+      "comune_effettivo": "Castelleone",
+      "dati_catastali": "Foglio 31, Mappale 41, Sub. 501 (cat. A7, classe 4, 19 vani, sup. catastale 529 mq) e Sub. 502 (cat. C6, classe 3, 42 mq, sup. catastale 47 mq) - Comune di Castelleone (CR)",
+      "superficie_mq": 529,
+      "prezzo_al_mq": 188,
+      "prezzo_mercato_stimato": "220-400 €/mq (frazione rurale di Castelleone, immobile da ristrutturare/regolarizzare con ampie pertinenze; CTU stima €220,50/mq con metodo del costo di costruzione deprezzato)",
+      "sconto_percentuale": "15% sul valore CTU (€117.000); rispetto a un valore di mercato autonomamente stimabile a €130.000-150.000 considerando la superficie reale e lo stato, lo sconto effettivo è del 15-33%, ma i costi di regolarizzazione (≥€51.000) erodono significativamente il vantaggio",
+      "anomalie": [
+        "La superficie indicata nell'annuncio (72 mq) è gravemente divergente dalla superficie catastale reale (529 mq sub. 501 + 47 mq sub. 502): probabile errore nell'annuncio o riferimento a sola superficie catastale di una sub-unità precedente; la superficie totale del mappale unificato è di 2.926 mq lordi.",
+        "La perizia CTU è stata incaricata nel 2016 ma continuamente aggiornata fino al 15/09/2025 a causa di complessità catastali e cause di usucapione: la stima finale è aggiornata, ma la storia procedurale decennale segnala straordinaria complessità dell'immobile.",
+        "Presenza di abusi edilizi NON sanabili con obbligo di demolizione a carico dell'aggiudicatario: piscina, portico a confine (mapp. 34-42-139), locale attrezzi con bagno sul mapp. 34, torretta non autorizzata sul mapp. 41 - costi demolizione stimati €16.847,40.",
+        "Concessione Edilizia n. 31/1988 mai ultimata e priva di richiesta di certificato di agibilità: l'intero edificio ampliato non ha agibilità.",
+        "Numerose difformità catastali sostanziali: mapp. 44 e 140 demoliti senza denuncia, ampliamenti verso nord non registrati, mancata fusione catastale delle particelle originarie mai eseguita fino agli aggiornamenti del 2025.",
+        "Mancanza formale di accettazione dell'eredità per un passaggio di proprietà (successione 1975): la catena di provenienza presenta un'anomalia formale.",
+        "La comproprietà del muretto di cinta con il mapp. 33 risulta da scrittura privata del 1992 non registrata né trascritta: vincolo reale di dubbia opponibilità.",
+        "Presenza potenziale di amianto/eternit nel manto di copertura non verificabile tecnicamente: rischio di bonifica ambientale a costi indeterminati.",
+        "Alcuni vani (soggiorno, seconda camera doppia, grande camera padronale, bagno privato mansarda) non rispettano i requisiti minimi di R.A.I. (1/8) e altezza minima (2,70 m / 2,40 m): il bagno in mansarda può essere destinato solo a ripostiglio.",
+        "Tutti gli impianti (riscaldamento, elettrico, idrico-sanitario) sono privi di certificazione di conformità e non rispondono alla normativa vigente."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abusi edilizi non sanabili con obbligo di demolizione",
+          "dettaglio": "Piscina, portico a confine ovest, locale attrezzi con bagno e torretta sul mapp. 41 devono essere obbligatoriamente demoliti in quanto ricadenti in zona agricola E1 (non sanabili). Il CTU stima i costi di demolizione in €16.847,40, ma avverte che la verifica statica per la futura agibilità è a costo indeterminato e che potrebbero emergere ulteriori oneri. L'aggiudicatario dovrà eseguire queste demolizioni e successivi aggiornamenti catastali prima di poter ottenere qualsiasi titolo abitativo."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di agibilità e impianti non a norma",
+          "dettaglio": "La C.E. 31/1988 non è mai stata ultimata e non è stata mai richiesta l'agibilità: l'intero edificio è tecnicamente privo di abitabilità formale. Tutti gli impianti (elettrico, riscaldamento, idrico-sanitario) sono privi di certificazione; la caldaia è dismessa e l'impianto elettrico dovrà essere completamente rifatto. Il costo per ottenere l'agibilità richiede: sanatoria (€34.520,93), demolizioni (€16.847,40), rifacimento impianti (stimabile €30.000-50.000), verifica statica strutturale (costo non determinabile): totale stimabile €80.000-100.000 aggiuntivi."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Complessità catastale e urbanistica straordinaria",
+          "dettaglio": "Dopo 9 anni di attività peritale (2016-2025), la situazione catastale è stata parzialmente sanata con aggiornamenti DOCFA e tipo mappale del 2025, ma residuano operazioni catastali post-demolizione a carico dell'aggiudicatario (tipo mappale in deroga). La perizia stessa avverte che non si possono dare certezze sulla sanatoria per condizioni imprevedibili sull'impianto elettrico e per la verifica statica. Rischio di ulteriori sorprese in fase esecutiva."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da vedova del fallito",
+          "dettaglio": "L'immobile è attualmente occupato dalla vedova del titolare della ditta fallita (deceduto il 27/11/2021). Non vi sono contratti di locazione registrati (confermato da AdE). Trattandosi di occupazione senza titolo contrattuale, la liberazione richiede decreto del giudice: stimabile 6-18 mesi, con possibile resistenza. La vedova risiede nell'immobile come residenza familiare, il che può aumentare la conflittualità procedurale."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca volontaria residua",
+          "dettaglio": "Ipoteca volontaria a favore di Banca Popolare di Crema iscritta nel 2008 per €500.000 totali complessivi (capitale €250.000 al 5,586% per 10 anni). La durata del mutuo era 10 anni dal 2007, quindi teoricamente scaduto nel 2017, ma l'iscrizione ipotecaria resta formalmente attiva fino a cancellazione. In procedura fallimentare, l'ipoteca si estinguerà con il decreto di trasferimento, ma va verificato che il prezzo base (€99.500) sia considerato sufficiente dalla procedura per soddisfare o purgare il creditore ipotecario."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Possibile presenza amianto/eternit",
+          "dettaglio": "Il CTU non ha potuto escludere la presenza di fibrocemento-amianto nel manto di copertura, nelle canne fumarie o in tubazioni, dato il periodo di ristrutturazione (anni '80-'90). Una bonifica amianto su una copertura di questa dimensione può costare €10.000-30.000 e richiede ditte specializzate con autorizzazioni specifiche."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Causa usucapione risolta favorevolmente",
+          "dettaglio": "La sentenza di usucapione n. 582/2024 del Tribunale di Cremona, trascritta l'08/01/2025, ha riconosciuto al fallimento la proprietà dei mappali 35-43-141 e del mapp. 44 precedentemente intestati al nonno del fallito: il titolo di proprietà è ora consolidato e non vi sono terzi rivendicanti diritti sui beni oggetto di asta."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca volontaria di €500.000 complessivi (capitale €250.000 al 5,586% per 10 anni) iscritta l'11/01/2008 a favore di Banca Popolare di Crema S.p.A. (C.F. 04114050968); con annotazione di sospensione rate del 15/09/2014. Si estinguerà con il decreto di trasferimento in sede fallimentare.",
+        "spese_condominiali": "Nessuna: l'immobile non fa parte di un condominio.",
+        "altri_oneri": "Atto giudiziario di fallimento trascritto il 29/02/2016 e aggiornamento del 04/08/2025 (originante la procedura concorsuale, non opponibile all'acquirente). Comproprietà muretto di cinta con mapp. 33 da scrittura privata non registrata del 1992 (vincolo reale di dubbia opponibilità). Obblighi di demolizione di opere non sanabili a carico dell'aggiudicatario (piscina, portico, torretta, locale attrezzi). Operazioni catastali post-demolizione a carico dell'aggiudicatario."
+      },
+      "occupazione": "occupato da terzi (vedova del fallito deceduto, senza titolo contrattuale registrato)",
+      "abusi_edilizi": "Presenti sanabili e non sanabili. SANABILI (costo oneri amministrativi €34.520,93 + opere edilizie per adeguamento igienico-sanitario): ampliamenti su mapp. 41, 42, 43, 152 rispetto alla C.E. 31/1988; chiusura soffitta a camera; lastre solari in copertura; difformità interne su R.A.I. e altezze (derogabili con interventi edilizi). NON SANABILI (demolizione obbligatoria, costo €16.847,40): piscina tra mapp. 139 e 35, portico a confine ovest su mapp. 34-42-139 (zona agricola E1), locale attrezzi con bagno su mapp. 34, torretta non autorizzata su mapp. 41. Ulteriori interventi obbligatori: arretramento parapetti terrazza a piano primo e copertura (1,5 m lineari) per rispetto distanze da confine (art. 905 c.c.), oppure convenzione con vicino.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "L'immobile è una grande villa rurale su tre livelli con giardini e box, potenzialmente attraente per chi cerca una proprietà isolata con spazi generosi in provincia di Cremona. Tuttavia, il costo reale all'acquirente è: €99.500 (prezzo base) + €34.521 (sanatoria amministrativa) + €16.847 (demolizioni obbligatorie) + €30.000-50.000 (rifacimento impianti) + €10.000-30.000 (possibile bonifica amianto) + costi legali per liberazione (€3.000-8.000) + verifica statica strutturale (costo indeterminato, ma potenzialmente elevata su edificio modificato più volte) = totale stimato €194.000-238.000 minimi, contro un valore di mercato post-regolarizzazione stimato dal CTU di €117.000. Il valore CTU di €220,50/mq risulta già comprensivo delle detrazioni per oneri di regolarizzazione: il prezzo reale all'acquirente supera quindi il valore di mercato stimato. Classe energetica D (APE del 11/07/2025). L'immobile è privo di agibilità e non è abitabile legalmente nell'immediato. La perizia stessa giudica la vendibilità 'sufficiente' motivandola con ubicazione isolata e necessità di demolizioni. La scarsità di comparabili nella zona (solo 2 compravendite negli ultimi 2 anni, di bassa metratura) rende il valore di stima poco affidabile sul mercato. Tempi stimati per rendere l'immobile agibile: 2-4 anni considerando iter sanatoria, demolizioni, rifacimento impianti, verifica statica e liberazione dall'occupante."
+    },
+    "data_analisi": "2026-05-20"
+  },
+  "astalegale_B2417242": {
+    "id": "astalegale_B2417242",
+    "source": "astalegale",
+    "titolo": "Via Rizzo , 6 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 207/2024 Rif. #B2417242",
+    "indirizzo": "",
+    "comune": "Pizzighettone",
+    "prezzo_base": 63750.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2417242",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/edec834a50b384c44677aefe2c1c4077/2363222-B?cd=true",
+      "https://documents.astalegale.net/file/0/c1e8a3982ebda88e1c12d3fde3ccd66f/2363221-B?cd=true",
+      "https://documents.astalegale.net/file/0/33665b996781eb37eab4437db7a81eb4/2197236-B?cd=true",
+      "https://documents.astalegale.net/file/0/4bfa93c72908ae933cae47cef6eb8447/2197233-B?cd=true",
+      "https://documents.astalegale.net/file/0/77e688a937388c6bf6ae4c9cfee104fa/2197234-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2417242_doc1.pdf",
+      "output/pdf/astalegale_B2417242_doc2.pdf",
+      "output/pdf/astalegale_B2417242_doc3.pdf",
+      "output/pdf/astalegale_B2417242_doc4.pdf",
+      "output/pdf/astalegale_B2417242_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2363222 b avviso di vendita",
+      "2363221 b ordinanza",
+      "2197236 b perizia",
+      "2197233 b documento con foto",
+      "2197234 b dati catastali"
+    ],
+    "descrizione": "Piena proprietà di appartamento sposto al secondo piano di edificio condominiale composto da ingresso-soggiorno, cucina, disimpegno, bagno, due camere, due balconi e autorimessa posta al piano sottostrada.  - Tipologia: Abitazione di tipo civile - Prezzo: € 63.750,00 - Data asta: 23/07/2026 - 16:40",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento di 4 locali al piano secondo con autorimessa annessa, in palazzina condominiale del 1981 a Pizzighettone (CR), zona residenziale semicentrale. Immobile libero, conformità urbanistica e catastale verificate, classe energetica G. Prezzo base di €63.750 su valore peritale di €85.000, con sconto del 25% circa rispetto alla stima CTU e potenziale interesse per uso abitativo o investimento in piccolo centro.",
+      "comune_effettivo": "Pizzighettone",
+      "dati_catastali": "Appartamento: Foglio 21, mappale 555, subalterno 19, cat. A/3, classe 5, 5,5 vani, 89 mq, rendita €340,86. Autorimessa: Foglio 21, mappale 555, subalterno 34, cat. C/6, classe 5, 16 mq, rendita €25,62",
+      "superficie_mq": 88,
+      "prezzo_al_mq": 724,
+      "prezzo_mercato_stimato": "650-1.050 €/mq (Pizzighettone, zona residenziale, abitazioni civili stato normale - fonte OMI 2024 S2)",
+      "sconto_percentuale": "18% sul valore CTU (€85.000); rispetto al valore OMI medio di zona (~850 €/mq x 88 mq = ~€74.800) lo sconto reale è circa il 15%",
+      "anomalie": [
+        "La perizia CTU rileva NON CORRISPONDENZA tra stato di fatto e vecchia planimetria catastale sia per l'appartamento sia per il box-autorimessa: il CTU ha provveduto all'aggiornamento catastale (variazione del 06/05/2025), quindi la regolarizzazione è già stata eseguita in corso di perizia.",
+        "L'APE ha data 12/10/2016 con validità fino a 12/10/2026: è ancora formalmente valido ma prossimo alla scadenza (ottobre 2026), quindi l'acquirente dovrà prevederne il rinnovo a breve.",
+        "La superficie indicata nel bando d'asta (72 mq) non coincide con la superficie commerciale della perizia CTU (87,57 mq incluso box); la superficie catastale dell'appartamento è 89 mq e quella dell'autorimessa 16 mq. Questa discrepanza va verificata prima dell'offerta.",
+        "Comune indicato nel bando d'asta come 'Cremona' ma l'immobile si trova a Pizzighettone (CR): errore nell'annuncio che può ridurre la visibilità e la concorrenza all'asta.",
+        "Il CTU ha reperito un solo comparabile di compravendita negli ultimi 18 mesi: il mercato di Pizzighettone è molto illiquido, con scarsa profondità di mercato e difficoltà di rivendita futura."
+      ],
+      "rischi": [
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e impianti datati",
+          "dettaglio": "Classe G con 302,58 kWh/mq/anno, caldaia a gas 'ormai datata', impianto elettrico risalente al 1981. Costo stimato per adeguamento impianti e miglioramento energetico: €10.000-25.000 a seconda del livello di intervento scelto; non urgente ma penalizzante per future vendite/locazioni e per i costi energetici correnti."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido e bassa rivalutazione",
+          "dettaglio": "Pizzighettone è un comune di circa 6.500 abitanti con mercato stazionario (saggio 0,00% OMI) e un solo comparabile reperibile negli ultimi 18 mesi. L'investimento ha scarsa prospettiva di rivalutazione e tempi di rivendita lunghi; adatto prevalentemente all'acquisto per uso diretto."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali arretrate",
+          "dettaglio": "Debito condominiale maturato al 30/06/2024 pari a €4.516,16, a carico dell'acquirente per gli ultimi 2 anni (art. 63 disp. att. c.c.). L'importo è gestibile ma va sommato al prezzo di aggiudicazione nel calcolo del costo totale effettivo."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità urbanistica e catastale",
+          "dettaglio": "Il CTU ha verificato la corrispondenza con le pratiche edilizie comunali: nessun abuso rilevato, nessuna sanatoria necessaria. Le difformità catastali preesistenti sono già state regolarizzate dal CTU nel corso della perizia (maggio 2025)."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Assenza di ipoteche e gravami",
+          "dettaglio": "L'ispezione ipotecaria telematica del 01/07/2025 non ha rilevato note pregiudizievoli né ipoteche iscritte sugli immobili. Nessun rischio di mancata copertura ipotecaria."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca rilevata dall'ispezione ipotecaria telematica del 01/07/2025",
+        "spese_condominiali": "Arretrati al 30/06/2024: €4.516,16 (a carico acquirente per quota biennale ex art. 63 disp. att. c.c.); spese ordinarie annue: €550,00 (millesimi 52 per appartamento + box accorpati)",
+        "altri_oneri": "Nessuno: nessuna trascrizione pregiudizievole successiva alla certificazione notarile, nessuna causa in corso, nessun vincolo reale rilevato"
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Nessuno rilevato: il CTU ha accertato la corrispondenza dello stato dei luoghi con le pratiche edilizie depositate agli atti comunali per entrambe le UIU (appartamento e autorimessa). Non necessita sanatoria.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Anno di costruzione 1981, anno abitabilità 1987; riscaldamento autonomo a gas (caldaia da sostituire), serramenti in legno con doppio vetro da revisionare o sostituire, pavimenti gres-parquet in discreto stato. L'immobile è libero e non richiede tempi di sgombero. Lo sconto reale sul mercato OMI di zona è contenuto (~15%), rendendo l'acquisto economicamente meno vantaggioso rispetto ad aste con sconti maggiori; il prezzo base di €63.750 porta il costo totale stimato (arretrati condominio + adeguamento impianti minimi) a circa €72.000-85.000, annullando quasi completamente lo sconto rispetto al valore peritale di €85.000. Prima di offrire: verificare la discrepanza di superficie (72 mq annuncio vs 87,57 mq perizia), richiedere conferma al custode giudiziario e valutare un sopralluogo diretto per lo stato degli impianti."
+    },
+    "data_analisi": "2026-05-20"
+  },
+  "astalegale_B2415607": {
+    "id": "astalegale_B2415607",
+    "source": "astalegale",
+    "titolo": "Frazione Pellegra - Via Villa Battaglia, 11 - Lotto Unico - Tribunale di Cremona - Procedure concorsuali / Fallimentare 65/2015 Rif. #B2415607",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 99500.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.astalegale.net/Aste/Detail/B2415607",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/0/651445c6dd24807c843a088ccd834a7b/2362940-B?cd=true",
+      "https://documents.astalegale.net/file/0/ae9e5c05a144e6946774797ba9dbf772/2362981-B?cd=true",
+      "https://documents.astalegale.net/file/0/4f8c75c4fd72c7ef4a2a07d84569ba22/2362982-B?cd=true",
+      "https://documents.astalegale.net/file/0/1ae543a00f3bfd5de55525770c9bc752/2362941-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/astalegale_B2415607_doc1.pdf",
+      "output/pdf/astalegale_B2415607_doc2.pdf",
+      "output/pdf/astalegale_B2415607_doc3.pdf",
+      "output/pdf/astalegale_B2415607_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2362940 b avviso di vendita",
+      "2362981 b perizia",
+      "2362982 b documento con foto",
+      "2362941 b certificazione energetica"
+    ],
+    "descrizione": "Grande abitazione su tre livelli con porzioni al rustico in ampliamento non ultimate, tra cui box pertinenziale. Grandi giardini esclusivi su fronte e retro. - Tipologia: Abitazione di tipo civile - Prezzo: € 99.500,00 - Data asta: 23/07/2026 - 10:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbDgxtp4uYuBug144DRJN'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-20"
   }
 }

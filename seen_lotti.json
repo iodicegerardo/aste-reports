@@ -1,6 +1,6 @@
 {
-  "B2416411": {
-    "id": "B2416411",
+  "portaleaste_B2416411": {
+    "id": "portaleaste_B2416411",
     "titolo": "Via Sebenico - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 162/2024 Rif. #B2416411",
     "indirizzo": "",
     "comune": "Cremona",
@@ -85,10 +85,12 @@
       "giudizio_colore": "🔴",
       "note_aggiuntive": "Edificio dei primi anni del '900, struttura portante in mattoni pieni dichiarata sana dal CTU ma con solai in legno originali, copertura parzialmente ceduta e finiture completamente da rifare. Il dato superficie nel bando (72 mq) è errato rispetto alla perizia (102 mq calpestabili, 174 mq commerciali): verificare il bando d'asta definitivo. La perizia è recente (sopralluogo marzo 2025, asta luglio 2026) quindi i valori sono aggiornati. Il problema fondamentale è economico: acquisto a €71.000 + ristrutturazione totale €70.000-125.000 + smaltimento amianto €5.000-15.000 + spese d'asta/imposte €3.000-7.000 = investimento totale €149.000-218.000 per un immobile che in zona Bonemerse post-ristrutturazione varrebbe al massimo €100.000-130.000. L'operazione ha senso solo per chi intende abitarci stabilmente e considera il delta come costo della personalizzazione, con piena consapevolezza del mercato illiquido della zona."
     },
-    "data_analisi": "2026-05-04"
+    "data_analisi": "2026-05-04",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416411"
   },
-  "B2415630": {
-    "id": "B2415630",
+  "portaleaste_B2415630": {
+    "id": "portaleaste_B2415630",
     "titolo": "Via Piave, 5 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 164/2025 Rif. #B2415630",
     "indirizzo": "",
     "comune": "Cremona",
@@ -176,6 +178,1382 @@
       "giudizio_colore": "🟡",
       "note_aggiuntive": "ATTENZIONE CRITICA: il prezzo base (€43.408) coincide esattamente con il valore in vendita forzata del CTU, che è già al netto dei costi di bonifica amianto (€24.350) e sanatoria (€7.200). Aggiungendo questi oneri obbligatori al prezzo base si arriva a €75.000-80.000, praticamente pari al valore lordo di mercato stimato dal CTU: lo sconto reale per l'acquirente è quindi minimo o nullo. Costruita nel 1968, ristrutturata parzialmente nel 2004, classe energetica G. Il vincolo NAF limita le possibilità di ampliamento. La superficie di 72 mq indicata sul portale è fuorviante (probabilmente solo piano primo): la superficie commerciale reale è 158,80 mq secondo CTU. Prima di offrire, è indispensabile calcolare il budget totale: prezzo base + bonifica eternit (~€29.700 IVA) + sanatoria (€7.200) + sgombero/spese legali (~€3.000) + spese d'asta e imposte (~€3.000-5.000) + ristrutturazione almeno parziale (minimo €30.000-50.000) = totale realistico €115.000-140.000 per un immobile con valore di mercato lordo di €79.781 in un comune illiquido."
     },
-    "data_analisi": "2026-05-04"
+    "data_analisi": "2026-05-04",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2415630"
+  },
+  "portaleaste_B2405015": {
+    "id": "portaleaste_B2405015",
+    "titolo": "Via Cattaneo 6 - Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Fallimentare 8/2021 Rif. #B2405015",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 90000.0,
+    "data_asta": "07/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2405015",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/bdcf5664136fcab4a0c989120bdee0d2/2342440-D?cd=true",
+      "https://documents.astalegale.net/file/2/58b4be4b561566c1ec8582e96b48b3ad/2342441-D?cd=true",
+      "https://documents.astalegale.net/file/2/2705d5bd94e563ba911417e02ed82209/2250566-B?cd=true",
+      "https://documents.astalegale.net/file/2/bf882b9107a087f5104b2a6e11c93a69/2250567-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2405015_doc1.pdf",
+      "output/pdf/B2405015_doc2.pdf",
+      "output/pdf/B2405015_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2342440 d avviso di vendita",
+      "2342441 d ordinanza",
+      "2250566 b perizia"
+    ],
+    "descrizione": "PIENA PROPRIETÀ di una villa indipendente sviluppata su due piani fuori terra edificata su un lotto di superficie di 570 mq. L’abitazione, della superficie complessiva di mq 140 circa, si compone, al piano terra, da soggiorno, cucina, bagno e locale accessorio mentre, al piano primo, da due camere, bagno e balcone. Compongono altresì l’immobile una porzione adibita a locale accessori, un portico ed un giardino.L’immobile è in discreto stato di conservazione ed è attualmente libero da persone e d",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CahzvwLo1jyvjTnNDXRvg'}",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-04",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2405015"
+  },
+  "portaleaste_B2416272": {
+    "id": "portaleaste_B2416272",
+    "titolo": "Via Livelli Inferiori, 1 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 107/2023 Rif. #B2416272",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 22781.25,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416272",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/6aea6f755caa1f327f3aac2d6ff7d7f9/2348536-B?cd=true",
+      "https://documents.astalegale.net/file/2/b876b5420fae29dbd346a02b4d2ac35c/2348535-B?cd=true",
+      "https://documents.astalegale.net/file/2/8b9fed4b4d2c91435f82b6d98dfc9d9c/2348537-B?cd=true",
+      "https://documents.astalegale.net/file/2/fa71ddc2d90c5f04b6276c603e6113b8/2348538-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416272_doc1.pdf",
+      "output/pdf/B2416272_doc2.pdf",
+      "output/pdf/B2416272_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2348536 b avviso di vendita",
+      "2348535 b ordinanza",
+      "2348537 b perizia"
+    ],
+    "descrizione": "Gli immobili sono situati area golenale agricola chiusa. Edificati prima del 1967 si costituiscono di un immobile principale di semplice architettura e privo di segni distintivi, rustici edificati nella parte posteriore delimitanti il cortile ed un corpo di fabbrica adiacente all’edificio principale contenente un’autorimessa. Nella parte ad est sorgeva un magazzino, quasi interamente demolito dal maltempo che ha riservato il perimetro costituito da un muro basso utilizzato come recinto per il be",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Edificio residenziale su tre livelli (PT+P1+P2) con autorimessa e area agricola di circa 2.600 mq, ubicato a Motta Baluffi (CR), piccolo comune a circa 25 km da Cremona in zona golenale agricola vincolata. Stato manutentivo sufficiente per l'abitazione, scarso per l'autorimessa, con necessità di interventi ordinari. Il prezzo base d'asta (€22.781) è drasticamente inferiore al valore di vendita forzata stimato dal CTU (€54.000) e ancor più al valore di libero mercato (€64.000), ma l'ubicazione rurale periferica, il vincolo golenale inedificabile e l'occupazione da parte dell'esecutato con famiglia ne limitano significativamente l'attrattività commerciale.",
+      "dati_catastali": "Fg. 10, mapp. 52 (Terreno); Fg. 10, mapp. 50; Fg. 10, mapp. 51 sub. 501 e mapp. 122 sub. 501 (Cat. A/3, Cl. 2, Supf. cat. 238 mq totale escluse aree scoperte, consistenza 9 vani, rendita €395,09, PT P1 P2); Fg. 10, mapp. 51 sub. 502 (Cat. C/6, consistenza 32 mq - autorimessa); Fg. 10, mapp. 123 (Cat. C/2, consistenza 65 mq - edificio quasi completamente demolito)",
+      "superficie_mq": 242,
+      "prezzo_al_mq": 94,
+      "prezzo_mercato_stimato": "250-400 €/mq (comune rurale periferico >20 km da Cremona, zona golenale vincolata, mercato illiquido)",
+      "sconto_percentuale": "64% rispetto al valore di libero mercato CTU (€64.000); il prezzo base di €22.781 appare anomalmente basso rispetto alla stima CTU di €54.000 in vendita forzata, probabile riduzione da aste deserte precedenti",
+      "anomalie": [
+        "Il prezzo base indicato nel lotto (€22.781) è inferiore del 58% rispetto al valore di vendita forzata stimato dal CTU (€54.000): probabile ribasso da aste deserte precedenti, segnale di scarso interesse del mercato.",
+        "La superficie indicata nel lotto (72 mq) è gravemente difforme dalla superficie lorda residenziale rilevata dal CTU (241,80 mq abitazione + 39 mq autorimessa): il dato del portale è probabilmente errato o si riferisce solo alla superficie catastale netta di un subalterno.",
+        "Il magazzino catastato come C/2 (mapp. 123, 65 mq) risulta quasi completamente demolito ma ancora iscritto al catasto: situazione da regolarizzare con aggiornamento catastale (DOCFA) a carico dell'acquirente.",
+        "Assenza del titolo abilitativo edilizio originario (costruzione ante 1967 in ambito rurale): conforme per legge ma privo di agibilità/abitabilità formale; l'acquirente dovrà valutare se ottenere il certificato di agibilità per future compravendite.",
+        "Le certificazioni di conformità degli impianti non sono state reperite: impianti potenzialmente non a norma (elettrico, idrico-sanitario), con costi di adeguamento da stimare.",
+        "Serramenti interni al P2 risultavano smontati al momento del sopralluogo: possibile asportazione di beni da parte dell'occupante durante la procedura."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Vincolo urbanistico golenale inedificabile",
+          "dettaglio": "L'immobile ricade in zona agricola golenale chiusa con fascia di rispetto extra-golenale (PTPR E3), classificata come zona R - ambito di rispetto inedificabile. Sono ammessi solo ampliamenti fino al 20% del volume esistente per gli edifici residenziali preesistenti; nessuna nuova costruzione è possibile. Questo vincolo comprime drasticamente le possibilità di valorizzazione, rende l'immobile commercialmente illiquido e ne deprime il valore a lungo termine. Non sanabile, intrinseco alla localizzazione."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Ubicazione e mercato illiquido",
+          "dettaglio": "Motta Baluffi è un piccolo comune con popolazione inferiore a 700 abitanti, a 25 km da Cremona, in contesto agricolo isolato. La vendibilità è giudicata 'discreta' dalla stessa CTU. Il mercato immobiliare locale è praticamente inesistente, con pochissime transazioni di riferimento, rendendo molto difficile la rivendita futura. Il ribasso del prezzo rispetto alla stima CTU suggerisce aste precedenti andate deserte."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario con famiglia",
+          "dettaglio": "L'immobile è stabilmente occupato dall'esecutato insieme a convivente e due figli minorenni. Pur non essendoci contratti di locazione, la presenza di minori può rendere la procedura di liberazione più delicata e allungare i tempi. È necessario decreto del giudice dell'esecuzione per lo sgombero: stimare 6-18 mesi e possibili tensioni, con costi legali di €2.000-5.000."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Rischio alluvionale/esondazione",
+          "dettaglio": "L'area è inserita nella fascia B del PAI (fascia di esondazione del Po), 'discretamente difese dalle maggiori piene'. Il rischio idrogeologico è strutturale e non eliminabile: possibili danni da alluvione, costi assicurativi elevati, difficoltà di ottenere mutui ipotecari su questa tipologia di immobile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Impianti non certificati e stato autorimessa",
+          "dettaglio": "Nessuna certificazione di conformità degli impianti disponibile (elettrico, gas, idrico-sanitario). L'autorimessa è in condizioni scarse con finiture incomplete e basculanti da sostituire. I costi di adeguamento impiantistico e manutenzione straordinaria sono stimabili in €15.000-30.000 totali per portare l'immobile a standard abitativo moderno."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità urbanistica ed edilizia",
+          "dettaglio": "Il compendio risulta conforme agli atti edilizi; la costruzione ante 1967 in ambito rurale non richiede titolo abilitativo. Non sono state riscontrate opere abusive da sanare. Le coperture in amianto sono già state rimosse. Situazione urbanistica pulita, salvo necessità di aggiornamento catastale per il magazzino demolito (costo stimato DOCFA: €800-1.500)."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Presente pignoramento immobiliare trascritto a Cremona (data e importo parzialmente oscurati nella perizia). Non emergono ulteriori ipoteche volontarie dall'ispezione ipotecaria del 15/01/2024. Il pignoramento si estinguerà con la vendita forzata.",
+        "spese_condominiali": "Non applicabile: non si tratta di condominio.",
+        "altri_oneri": "Nessun censo, livello o uso civico rilevato. Nessun vincolo storico-artistico. Vincolo paesaggistico-ambientale PTPR E3 (zona golenale) che limita le possibilità edificatorie: resta a carico dell'acquirente come vincolo reale non eliminabile."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "nessuno rilevato - il compendio risulta conforme agli atti edilizi; la costruzione ante 1967 in ambito rurale è conforme per legge senza necessità di titolo abilitativo. Da regolarizzare solo l'aggiornamento catastale del magazzino (mapp. 123) quasi completamente demolito.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Nonostante lo sconto nominale molto elevato (prezzo base €22.781 vs valore CTU €64.000), il contesto complessivo scoraggia l'acquisto per un privato: l'immobile si trova in un comune rurale isolato a 25 km da Cremona, in zona golenale inedificabile con rischio alluvionale strutturale, il che lo rende praticamente invendibile sul mercato aperto. La stessa CTU giudica la vendibilità 'discreta' e il ribasso significativo del prezzo base rispetto alla stima di vendita forzata (€54.000) suggerisce aste già andate deserte. L'edificio è ante 1967, con solai probabilmente in latero-cemento, impianti non certificati, classe energetica non comunicata nel documento (APE presente fino al 2027 ma classe non specificata - probabile F o G data l'epoca). Aggiungendo i costi di liberazione (6-18 mesi), adeguamento impianti (€15.000-30.000), regolarizzazione catastale magazzino demolito (€1.000-2.000), spese d'asta e imposte di registro (circa €2.000-3.000 sul prezzo di aggiudicazione), il costo totale reale si avvicina rapidamente al valore di mercato locale, annullando il vantaggio apparente. Unico scenario plausibile: acquisto da parte di soggetto che vuole una casa rurale in zona golenale per uso agricolo/ricreativo personale, senza necessità di rivendita futura, con disponibilità liquida per ristrutturazione e tolleranza alle lungaggini di sgombero."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416272"
+  },
+  "portaleaste_B2416340": {
+    "id": "portaleaste_B2416340",
+    "titolo": "Via SONZOGNO , 3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 98/2025 Rif. #B2416340",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 55000.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416340",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/a0c6c4ebe438dbc85997b6fcfd1a8e6d/2348506-B?cd=true",
+      "https://documents.astalegale.net/file/2/ed68ab2919db827df3adebe774ac55e7/2348505-B?cd=true",
+      "https://documents.astalegale.net/file/2/58c5170dd914f6705b31d8ce6b1a04ea/2348507-B?cd=true",
+      "https://documents.astalegale.net/file/2/12ab8f02cce45f767dcfec543620318c/2348508-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416340_doc1.pdf",
+      "output/pdf/B2416340_doc2.pdf",
+      "output/pdf/B2416340_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2348506 b avviso di vendita",
+      "2348505 b ordinanza",
+      "2348507 b perizia"
+    ],
+    "descrizione": "L’immobile è situato all’interno del centro storico del paese ed è composto da un appartamento disposto su due piani. Al piano primo si trova un accesso da pianerottolo della scala ad uso esclusivo che immette direttamente nel soggiorno con zona dedicata a cucina, disimpegno da cui si accede a due camere da letto, bagno e terrazza coperta con ondulina trasparente. Al secondo piano, sempre con accesso da pianerottolo della scala si trovano i locali del sottotetto ad uso abitativo senza i requisit",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento su due livelli (P1+sottotetto P2) a Casalbuttano ed Uniti (CR), centro storico, circa 183 mq catastali (8,5 vani) ma solo ~182 mq commerciali stimati dal CTU a 333,95 €/mq. Stato manutentivo scarso, problemi strutturali all'impianto idrico, sottotetto P2 privo dei requisiti igienico-sanitari (altezze insufficienti). Prezzo base coincide esattamente con il valore di vendita forzata del CTU, quindi sconto sull'aggiudicazione minimo rispetto al valore di mercato stimato dal perito.",
+      "dati_catastali": "Foglio 12, Mappale 313, Subalterno 5, Categoria A/2, Classe 4, Vani 8,5 - Comune di Casalbuttano ed Uniti (CR)",
+      "superficie_mq": 182,
+      "prezzo_al_mq": 302,
+      "prezzo_mercato_stimato": "500-800 €/mq (centro storico Casalbuttano ed Uniti, comune ~4.000 ab., circa 20 km da Cremona, da ristrutturare)",
+      "sconto_percentuale": "circa 25-40% rispetto al valore di mercato della zona (range ampio per illiquidità del mercato locale), ma solo ~10% rispetto al valore libero mercato CTU (€61.000); il prezzo base è già il valore di vendita forzata",
+      "anomalie": [
+        "Il piano secondo (sottotetto) è adibito ad uso abitativo ma NON soddisfa i requisiti igienico-sanitari minimi: altezza media inferiore a 2,40 mt e superfici finestrate insufficienti per aerazione e illuminazione. La C.E. in sanatoria n. 319/1987 ha sanato la destinazione d'uso ma NON la non-regolarità igienico-sanitaria, pertanto il P2 deve essere considerato soffitta e non abitazione dal punto di vista igienico-sanitario.",
+        "La cucina al P2 è accatastata come 'lavanderia': difformità tra uso effettivo e destinazione catastale, anche se il CTU dichiara regolarità catastale complessiva.",
+        "Il bagno ha gravi problemi all'impianto di scarico con perdite che raggiungono il piano sottostante di altra proprietà: rischio di contenzioso con condomini/vicini e costi di riparazione non quantificati nella perizia.",
+        "Superficie commerciale utilizzata dal CTU (circa 182 mq a 333,95 €/mq) appare incongruente con i soli 8,5 vani catastali e lo stato di fatto descritto; la scheda riporta 72 mq nel bando d'asta, dato fortemente discordante dalla superficie CTU (~182 mq): chiarire quale superficie sia quella effettivamente calpestabile.",
+        "L'edificio è in 'Ambiti dei nuclei di antica formazione' nel PGT: possibili vincoli sugli interventi di recupero e ristrutturazione che potrebbero limitare la libertà progettuale.",
+        "La sopraelevazione degli anni '70 (latero-cemento) è coperta da C.E. 391/1977 ma la regolarità igienico-sanitaria del piano risultante non è mai stata sanata definitivamente."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Non abitabilità P2 per requisiti igienico-sanitari",
+          "dettaglio": "Il piano secondo è legittimo dal punto di vista edilizio-urbanistico ma NON igienico-sanitario: altezze insufficienti (<2,40 mt) e superfici finestrate inadeguate. Non può essere utilizzato come abitazione conforme; eventuali lavori di adeguamento (sopraelevazione del tetto o abbassamento del solaio) in zona di antica formazione potrebbero essere non autorizzabili o molto costosi (stimabili 30.000-80.000€). Questo impatta direttamente il valore reale dell'immobile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario (esecutato e coniuge)",
+          "dettaglio": "L'immobile è occupato dall'esecutata e dal marito in regime di comunione legale. Non risultano contratti di locazione. Lo sgombero richiederà decreto del giudice dell'esecuzione post-aggiudicazione; i tempi tipici sono 3-9 mesi. Rischio di resistenza all'abbandono dell'abitazione principale."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Stato manutentivo scarso e impianti da rifare",
+          "dettaglio": "Umidità diffusa, infiltrazioni dalla copertura, impianto scarico bagno con perdite verso altra proprietà, serramenti in legno con vetro singolo, impianti tecnologici da mettere a norma. Costo di ristrutturazione stimabile tra 40.000-80.000€ (220-440 €/mq su ~182 mq), che sommato al prezzo base porta l'investimento totale a 95.000-135.000€."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Illiquidità del mercato immobiliare locale",
+          "dettaglio": "Casalbuttano ed Uniti è un comune di piccole dimensioni (~4.000 ab.) con mercato immobiliare molto illiquido. Le tre compravendite comparabili citate dal CTU (70.000€, 95.000€, 110.000€) riguardano immobili con pertinenze e autorimesse; la rivendita futura potrebbe richiedere anni e a prezzi non garantiti."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F",
+          "dettaglio": "APE classe F valido fino al 28/08/2029. Adeguamento energetico (cappotto, infissi, impianto) necessario per rispettare le future normative europee EPBD; costo stimato 15.000-30.000€ aggiuntivi."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteche e vincoli",
+          "dettaglio": "Dalla perizia risulta che le formalità che resteranno a carico dell'acquirente sono assenti ('non risultano vincoli diretti sull'immobile'). Esistono formalità che saranno cancellate (ipoteca e pignoramento). Nessun onere condominiale arretrato (non è un condominio)."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Presente almeno un'ipoteca (visibile nella sezione 'Formalità che saranno cancellate', creditore con sede a Roma - verosimilmente istituto bancario) e trascrizione del pignoramento immobiliare: entrambi si cancelleranno con la vendita forzata. Importo esatto non leggibile per oscuramento nel documento.",
+        "spese_condominiali": "Nessuna: il compendio non risulta parte di un condominio.",
+        "altri_oneri": "Trascrizione del pignoramento immobiliare a favore del creditore procedente (Tribunale di Cremona): verrà cancellata. Nessun censo, livello, uso civico o servitù risultante dagli atti."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Nessuno rilevato formalmente dal CTU. Tuttavia, il sottotetto P2 è stato trasformato in abitazione con C.E. in sanatoria n. 319/1987, ma permane la non-regolarità igienico-sanitaria (altezze insufficienti) che impedisce la classificazione come unità abitativa conforme: situazione legittima urbanisticamente ma problematica funzionalmente e ai fini della commerciabilità come 'appartamento su due piani'.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE CRITICA: la superficie indicata nel bando d'asta (72 mq) è gravemente discordante dalla superficie commerciale utilizzata dal CTU per la stima (circa 182 mq a 333,95 €/mq); prima di qualsiasi offerta è indispensabile chiarire questo dato accedendo alla planimetria catastale allegata. L'immobile si trova nel centro storico di Casalbuttano, circa 20 km da Cremona, con scarsa attrattività per un acquirente non locale. Il CTU stesso definisce il giudizio sulla vendibilità 'discreto'. L'investimento totale realistico (55.000€ base + 50.000-80.000€ ristrutturazione + 5.000-8.000€ spese d'asta) porterebbe a 110.000-143.000€, vicino ai valori di mercato delle compravendite comparabili (70.000-110.000€), rendendo il margine molto ridotto. Consigliato sopralluogo approfondito e consulenza tecnica prima dell'offerta, con particolare attenzione alla verifica delle altezze reali del P2 e ai costi di riparazione dell'impianto idrico-fognario."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416340"
+  },
+  "portaleaste_B2416255": {
+    "id": "portaleaste_B2416255",
+    "titolo": "Via Corte Guazzona, 5 - Lotto Unico - Tribunale di Cremona - Contenzioso civile 149/2025 Rif. #B2416255",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 94668.75,
+    "data_asta": "17/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416255",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/787428f6a1c9fb34a2ceded7f45800ba/2347205-B?cd=true",
+      "https://documents.astalegale.net/file/2/3f33eaba1d339a6c7cbb51102427e63f/2347204-B?cd=true",
+      "https://documents.astalegale.net/file/2/c747940fafe73fe59eed18833efb79fe/2146470-C?cd=true",
+      "https://documents.astalegale.net/file/2/37f2591fd3e6d31d5a5d48b7e84ae810/2146471-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416255_doc1.pdf",
+      "output/pdf/B2416255_doc2.pdf",
+      "output/pdf/B2416255_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2347205 b avviso di vendita",
+      "2347204 b ordinanza",
+      "2146470 c perizia"
+    ],
+    "descrizione": "Unità immobiliare ingresso principale (accesso carrabile e pedonale) o via Filanda n. 2 (ingresso secondario pedonale). Trattasi di unità immobiliare ad uso abitativo con locali accessori ed autorimessa. Edificio di tipo unifamiliare, caratterizzato da ampi spazi, interni ed esterni, costituito da tre piani fuori terra. Al piano terra è composto da cucina, soggiorno, salotto, un ripostiglio, il vano scala che conduce al piano superiore adiacente a quest’ultimo e diviso da un muro senza accesso d",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Edificio unifamiliare a San Giovanni in Croce (CR), via Corte Guazzona 5, su tre piani fuori terra con locali accessori, autorimessa e giardino/cortile, superficie commerciale 327,50 mq. Il prezzo base di €94.669 appare estremamente ridotto rispetto al valore di mercato CTU (€207.200), ma l'immobile è occupato da inquilino con contratto di locazione in corso e presenta fabbricati accessori non concessionati da demolire obbligatoriamente. La superficie indicata nel lotto (72 mq) è gravemente discordante dai 327,50 mq commerciali della perizia: probabile errore del portale o riferimento a una sola unità catastale.",
+      "dati_catastali": "Foglio 7, mappale 259 sub.502 (A/3, classe 3, graffato a mapp. 318/501, 260/501, 261/501, 262/501); mappale 262 sub.502 (C/2, classe 2); mappale 260 sub.503 graffato a 262 sub.504 (C/2, classe 2); mappale 260 sub.502 (C/2, classe 2); mappale 262 sub.503 (C/6, classe 2). Conformità catastale: sì. Nota: la planimetria del mapp. 262 sub.503 (C/6) corrisponde ancora alla vecchia scheda mapp. 260 sub.4, aggiornato solo il tipo mappale e non la planimetria.",
+      "superficie_mq": 328,
+      "prezzo_al_mq": 289,
+      "prezzo_mercato_stimato": "500-750 €/mq (San Giovanni in Croce, comune ~1.500 ab. entro 20 km da Cremona, zona non in espansione, edificio da ristrutturare con abusi da demolire)",
+      "sconto_percentuale": "48-62% rispetto al valore di mercato stimato per la zona; lo sconto rispetto al valore CTU in vendita forzata (€168.300) è del 44%",
+      "anomalie": [
+        "GRAVE DISCREPANZA DI SUPERFICIE: il portale aste indica 72 mq mentre la perizia CTU certifica 327,50 mq commerciali (superficie catastale abitazione sola: 286 mq). Probabile errore del portale ma da verificare assolutamente prima di partecipare.",
+        "FABBRICATI ACCESSORI NON CONCESSIONATI (ABUSO EDILIZIO NON SANABILE): i locali accessori identificati al Fg. 7 mapp. 260 sub.503 e una porzione del sub.502 sono stati realizzati senza titoli abilitativi e il Comune di San Giovanni in Croce ha confermato che non sono sanabili: obbligo di demolizione con costo stimato €16.000.",
+        "ASSENZA TOTALE DI AGIBILITÀ/ABITABILITÀ: dalle ricerche comunali non sono emersi documenti di agibilità o abitabilità dell'immobile, che è privo di questo requisito essenziale.",
+        "INCONGRUENZA TRA ATTO DI PIGNORAMENTO E DATI CATASTALI ATTUALI: il pignoramento era stato eseguito sui vecchi dati catastali (antecedenti al dicembre 2019); la CTU ha dovuto richiedere nuova certificazione notarile per includere il mappale 262 sub.502 (C/2) inizialmente omesso. Sanata dalla nuova certificazione del Notaio Tiecco.",
+        "PLANIMETRIA CATASTALE NON AGGIORNATA per il mapp. 262 sub.503 (C/6): corrisponde ancora alla vecchia scheda del mapp. 260 sub.4, con aggiornamento solo del tipo mappale ma non della planimetria depositata.",
+        "ANNOTAMENTO DI INEFFICACIA PARZIALE sulla donazione del 02/08/2013 (2/6 di proprietà), emesso dal Tribunale di Cremona il 13/10/2017 e annotato il 21/12/2017: segnale di possibili contenziosi pregressi sulla titolarità.",
+        "IMMOBILE LOCATO con contratto di affitto in corso al momento del sopralluogo (01/03/2024): il conduttore era presente e l'immobile risultava arredato e abitato. Scadenza del contratto e condizioni non specificate nella perizia disponibile.",
+        "SERVITÙ PRESENTE sull'immobile (rimandata all'atto di acquisto 1977, Allegato F): natura e contenuto della servitù non dettagliati nella perizia, da verificare.",
+        "POSSIBILE PRESENZA DI AMIANTO nelle coperture dei fabbricati accessori (tetto in onduline): la CTU segnala che andrà verificato e correttamente smaltito se presente.",
+        "ACCESSO SECONDARIO DA VIA FILANDA 12 NON ISPEZIONABILE al sopralluogo: le chiavi non erano disponibili, quindi parte della proprietà non è stata verificata direttamente."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da inquilino con contratto registrato",
+          "dettaglio": "L'immobile risulta locato a un conduttore con contratto di locazione registrato (Allegato Q). Il conduttore ha diritto di restare fino alla scadenza naturale del contratto; la vendita forzata non risolve automaticamente il contratto se anteriore al pignoramento. I tempi di liberazione dipendono dalla scadenza contrattuale (non indicata) e possono essere di 1-4+ anni; il conduttore potrebbe esercitare diritto di prelazione. Impatto diretto sul possesso e sulla disponibilità dell'immobile post-aggiudicazione."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Abusi edilizi non sanabili con obbligo di demolizione",
+          "dettaglio": "I locali accessori (mapp. 260 sub.503 e porzione sub.502) sono stati realizzati senza concessione e il Comune ha confermato che non sono sanabili: obbligo di demolizione certificato dalla CTU. Costo stimato €16.000 (lavori + SCIA + nuovo accatastamento). La mancata demolizione espone l'acquirente a sanzioni amministrative e impossibilità di futura rivendita o ipoteca. Rischio concreto e certo, non evitabile."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di agibilità/abitabilità",
+          "dettaglio": "Nessun documento di agibilità o abitabilità è stato reperito presso il Comune. Senza agibilità l'immobile non può essere oggetto di contratto di locazione legale post-acquisto, né di mutuo ipotecario per l'acquirente, né di vendita regolare futura senza sanatoria. Ottenere l'agibilità postuma richiede verifica di conformità strutturale, impiantistica e urbanistica: tempi e costi incerti, potenzialmente elevati (stima €5.000-20.000+ in funzione degli adeguamenti necessari)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Annotamento di inefficacia parziale su donazione 2013",
+          "dettaglio": "Sulla donazione di 2/6 di proprietà del 2013 risulta un annotamento di inefficacia parziale emesso dal Tribunale di Cremona nel 2017. Potrebbe indicare un'azione revocatoria parzialmente accolta da parte di creditori. Sebbene il pignoramento sembri esteso all'intero lotto (nuova certificazione notarile Tiecco lo conferma), questo precedente merita approfondimento con un legale prima di partecipare."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti da adeguare",
+          "dettaglio": "Classe energetica F (APE del 30/12/2016, valido fino al 30/12/2026). Riscaldamento con sole stufe a legna, nessun impianto centralizzato. Adeguamento energetico minimo (caldaia, isolamento) stimabile in €15.000-40.000 a seconda dell'intervento scelto. Gli impianti tecnologici presenti (elettrico, idrico, fognario) non risultano certificati a norma."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù non identificata",
+          "dettaglio": "La perizia segnala la presenza di una servitù (rinvio all'atto 1977) senza specificarne natura, ampiezza e soggetto beneficiario. Potrebbe trattarsi di servitù di passaggio (esiste un corridoio di collegamento tra cortili di cui uno non di proprietà). Da esaminare l'atto del 1977 prima dell'asta per escludere limitazioni significative all'uso della proprietà."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Stato manutentivo dei fabbricati accessori",
+          "dettaglio": "I fabbricati accessori (autorimessa e locali annessi) versano in stato fatiscente con cedimento della copertura, possibile amianto nelle onduline, cortile ammalorato da rifacimento. Le aree esterne necessitano di risistemazione complessiva. Costi aggiuntivi stimabili in €10.000-25.000 oltre ai €16.000 di demolizione obbligatoria."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteche e trascrizioni pregiudizievoli",
+          "dettaglio": "La CTU non rileva ipoteche o trascrizioni pregiudizievoli successive alla certificazione notarile del Notaio Tiecco. Nessun onere condominiale arretrato. Il quadro degli oneri reali appare pulito, il che è un fattore positivo rispetto ad altre aste."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca risultante dalla ricerca effettuata successivamente alla certificazione notarile del Notaio Niccolò Tiecco. Non sono indicate ipoteche specifiche con importi nella perizia.",
+        "spese_condominiali": "Nessuna (immobile unifamiliare, nessun condominio, nessun arretrato rilevato)",
+        "altri_oneri": "Servitù presente (natura non specificata, rimando all'atto 1977); annotamento di inefficacia parziale sulla donazione 2013 (Tribunale Cremona, Rep. 1898/2016, annotato 21/12/2017). Obbligo di demolizione dei fabbricati accessori non concessionati (costo €16.000) che grava sull'acquirente."
+      },
+      "occupazione": "occupato da terzi (con titolo - contratto di locazione registrato in corso)",
+      "abusi_edilizi": "Presenti NON SANABILI: i locali accessori identificati al Fg. 7 mapp. 260 sub.503 e una porzione del sub.502 sono stati realizzati senza titoli abilitativi e il Comune di San Giovanni in Croce ha confermato che non sono sanabili. Obbligo di demolizione con costo stimato dalla CTU in €16.000 comprensivo di lavori (€13.435), SCIA (€1.000), diritti di segreteria (€50) e nuovo accatastamento (€1.500). La C.E. n.457/1979 riguardava solo bagno al P.1 e garage, non i locali accessori che risultano quindi privi di qualsiasi titolo.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Lo sconto sul valore CTU in vendita forzata (€168.300) è significativo (44%), ma il prezzo base di €94.669 deve essere depurato dei costi certi e immediati: demolizione obbligatoria €16.000 + adeguamento energetico/impiantistico stimato €20.000-40.000 + spese d'asta (imposta registro 9% seconda casa = ~€8.500, o 2% prima casa = ~€1.900) + eventuale amianto da smaltire. Il costo reale all'acquisto si avvicina a €130.000-160.000 prima di qualsiasi ristrutturazione dell'abitativo. L'immobile è edificato presumibilmente a metà '800 con aggiunte anni '70-'80, struttura in muratura portante con mattoni pieni, volte a crociera nella parte più antica. Zona non in espansione (San Giovanni in Croce ~1.500 abitanti), mercato immobiliare locale con liquidità ridotta e vendibilità futura 'discreta' secondo la stessa CTU. IL RISCHIO PRINCIPALE E BLOCCANTE è la locazione in corso: senza conoscere la scadenza del contratto l'acquirente non sa quando potrà disporre dell'immobile. Verificare URGENTEMENTE (prima dell'asta) la scadenza del contratto di locazione (Allegato Q non pubblicato integralmente). Se il contratto scade entro 12 mesi, il rischio diventa gestibile; se residuano 3-4 anni di locazione, l'operazione perde ulteriore attrattività economica. Secondariamente, la discrepanza 72 mq del portale vs 327,50 mq CTU deve essere chiarita con il custode giudiziario prima del deposito dell'offerta: potrebbe trattarsi di un errore di inserimento dati, ma in caso contrario l'analisi economica cambia radicalmente. Perizia depositata 10/10/2024: recente e aggiornata, metodologia MCA su due compravendite locali (2022 e 2024), affidabile."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416255"
+  },
+  "portaleaste_B2415710": {
+    "id": "portaleaste_B2415710",
+    "titolo": "Via TRENTO , 27 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2415710",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 18500.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415710",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/811e781259b8d65967612c7f879b9ff4/2347162-B?cd=true",
+      "https://documents.astalegale.net/file/2/ccb97d49a9dc9df77c33a180fdd2d51b/2347161-B?cd=true",
+      "https://documents.astalegale.net/file/2/31cc0f827d7598154208d116a13b5cac/2347165-B?cd=true",
+      "https://documents.astalegale.net/file/2/5d9c2dc7b3360d4ebe6ed16ab77663bb/2347166-B?cd=true",
+      "https://documents.astalegale.net/file/2/c101cd31b4220c57a32c38e50a46d3af/2347163-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2415710_doc1.pdf",
+      "output/pdf/B2415710_doc2.pdf",
+      "output/pdf/B2415710_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2347162 b avviso di vendita",
+      "2347161 b ordinanza",
+      "2347165 b perizia"
+    ],
+    "descrizione": "Trattasi di casa a cortina nel centro di Grontardo (CR), dotata di cortile e rustico antistante su due livelli: l'ingresso avviene dal cancello al civico n. 27 di via Trento che non pare avere una concessione di passo carraio. Dal cortile si accede al portico e, con una scala esterna mobile, al fienile; dalla porta d'accesso al fabbricato principale invece si accede al soggiorno, successivamente alla cucina ed infine al bagno. \nDall'antibagno parte la scala interna che conduce al piano primo: la",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa a cortina su due livelli con cortile e rustico/fienile nel centro di Grontardo (CR), comune di circa 1.500 abitanti a ~20 km da Cremona. Immobile libero, in stato manutentivo scarso, con abusi edilizi presenti e parzialmente sanabili, amianto probabile, impianto termico assente e classe energetica G. Il prezzo base di 18.500€ è estremamente basso ma riflette un valore di mercato già molto contenuto per la zona e gli oneri di riqualificazione totale.",
+      "dati_catastali": "Foglio 9, Particelle 161 e 162 graffate, nessun subalterno (unità non in condominio), Categoria A/4, Classe 1, consistenza 5,5 vani, superficie catastale totale 104 mq (escluso aree scoperte 101 mq), Rendita 142,03 €. Irregolarità catastale rilevata (portico non conforme alla scheda catastale vigente).",
+      "superficie_mq": 142,
+      "prezzo_al_mq": 130,
+      "prezzo_mercato_stimato": "500-700 €/mq (comune rurale provincia Cremona, mercato stagnante, stato degradato) - valore di mercato CTU 20.500€ pari a circa 144 €/mq commerciale",
+      "sconto_percentuale": "10% circa rispetto al valore di mercato CTU (20.500€); lo sconto reale è minimo considerando i costi di sanatoria e ristrutturazione stimati tra 14.960€ (solo oneri perizia) e oltre 80.000-100.000€ per ristrutturazione completa",
+      "anomalie": [
+        "Irregolarità catastale confermata: la planimetria catastale non corrisponde allo stato di fatto (portico non regolare); detratti 70€ dal valore di mercato per diritti catastali e spese tecniche.",
+        "Irregolarità edilizia confermata: Concessione Edilizia 1982 non conforme per apertura finestre e costruzione balcone al piano primo; Permesso di Costruire 2004 NON ultimato, con conseguenti abusi residui da sanare.",
+        "Presenza probabile di amianto: eternit ipotizzato nel manto di copertura del fienile (mapp. 162) e nelle canne fumarie/tubazioni del fabbricato principale (mapp. 161); bonifica obbligatoria con costi da quantificare.",
+        "Accesso carraio senza concessione di passo carraio: il cancello di ingresso al civico 27 non risulta avere titolo per passo carraio, potenziale problema per utilizzo del cortile.",
+        "Permesso di Costruire 2004 non ultimato: il titolo edilizio non è stato portato a completamento, con incertezza sullo stato autorizzativo delle opere eseguite nel 2004 e conseguenti costi di sanatoria per le difformità.",
+        "Superficie indicata nel bando d'asta (72 mq) incongruente con la superficie commerciale CTU (142 mq) e catastale (104 mq): probabile errore nel bando che riporta solo la superficie principale parziale."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Amianto probabile",
+          "dettaglio": "La CTU segnala la probabile presenza di lastre di eternit nel fienile (mapp. 162) e non esclude la presenza nelle canne fumarie/tubazioni del fabbricato principale. La bonifica da amianto è obbligatoria per legge prima di qualsiasi intervento edilizio: costo stimabile tra 3.000€ e 10.000€+ a seconda dell'estensione effettiva, con necessità di ditta specializzata e smaltimento in discarica autorizzata. L'incertezza sull'entità rende difficile preventivare l'intervento."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Ristrutturazione integrale obbligatoria",
+          "dettaglio": "Impianto termico completamente assente (no caldaia, no radiatori), impianti elettrico e idro-sanitario da verificare/rifare, infiltrazioni d'acqua dal tetto con distacchi di intonaco, umidità di risalita diffusa, balcone non impermeabilizzato, stato manutentivo 'scarso'. Costo ristrutturazione completa stimabile 700-1.000€/mq su ~114 mq principali = 80.000-115.000€, portando il costo totale a 100.000-135.000€ per un immobile con valore di mercato finale non superiore a 30.000-40.000€."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Abusi edilizi sanabili con costi certi",
+          "dettaglio": "La CTU stima i costi di sanatoria in circa 14.960€ (sanzione PDC 1.032€, spese tecniche 7.612€, rifacimento tettoia 21 mq con bonifica amianto 2.440€, parapetti, ponteggio, nuovo manto, smaltimento rifiuti). Tuttavia la CTU avverte esplicitamente che tali costi sono stimati senza pareri preventivi e potrebbero aumentare per cambiamenti normativi, interpretazioni del RUP e condizioni impreviste sull'impianto elettrico e sulla struttura per l'agibilità."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Permesso di Costruire 2004 non ultimato",
+          "dettaglio": "Il titolo edilizio del 2004 non risulta ultimato: ciò comporta che le opere previste ma non completate siano in sanatoria parziale e che ogni futuro intervento straordinario richieda preventivamente la regolarizzazione. Rischio di iter burocratico complesso presso il Comune di Grontardo con tempi incerti (6-18 mesi)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato immobiliare stagnante",
+          "dettaglio": "La stessa CTU definisce il giudizio di vendibilità 'scarso' per la sostanziale stagnazione del mercato in zona. Grontardo è un comune rurale di piccole dimensioni senza servizi significativi; la liquidabilità dell'investimento è molto bassa e i tempi di rivendita potrebbero essere pluriennali con forte rischio di svalutazione ulteriore."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteche cancellabili",
+          "dettaglio": "Le ipoteche iscritte (Sanpaolo IMI 110.000€, LO.SE.RI. 27.606€) e i pignoramenti si estinguono con il decreto di trasferimento. L'ipoteca LO.SE.RI. non risulta rinnovata dopo vent'anni ma è in attesa di notifica ex art. 498 cpc: non costituisce rischio per l'acquirente poiché verrà cancellata nella procedura."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "1) Ipoteca volontaria a favore di SANPAOLO I.M.I. S.P.A. (ora Intesa Sanpaolo), iscritta 21/09/2004, capitale garantito 55.000€, totale complessivo 110.000€ - rinnovata il 31/07/2024; sarà cancellata con il decreto di trasferimento. 2) Ipoteca legale ex art. 77 DPR 602/1973 a favore di LO.SE.RI. S.p.a., iscritta 04/04/2005, capitale 13.803€, totale 27.606€ - non rinnovata dopo vent'anni, in attesa di notifica ex art. 498 cpc; sarà cancellata. Tutte le formalità saranno cancellate con il decreto di trasferimento.",
+        "spese_condominiali": "Nessuna: l'immobile non fa parte di un condominio.",
+        "altri_oneri": "Pignoramento BMW Financial Services Italia S.p.A. trascritto 06/04/2007 (verrà cancellato). Pignoramento Penelope SPV S.R.L. trascritto 20/06/2025 - atto originante la presente procedura (verrà cancellato). Rifiuti urbani presenti nel cortile e sotto il portico: smaltimento stimato 1.500€ detratto già dal valore CTU. Nessun vincolo paesaggistico, ambientale o condominiale."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti sanabili (con riserve): 1) Difformità da Concessione Edilizia 1982 per apertura finestre e costruzione balcone al piano primo - sanabile per parziale difformità al titolo abilitativo, sanzione stimata 1.032€; 2) Permesso di Costruire 2004 non ultimato con difformità residue; costo totale stimato sanatoria circa 14.960€ secondo CTU, ma con avvertenza esplicita di possibili aumenti non preventivabili. Si raccomanda perizia tecnica indipendente prima di partecipare.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Il conto economico dell'operazione è fortemente negativo: prezzo base 18.500€ + sanatoria stimata ~15.000€ + bonifica amianto stimata ~5.000-10.000€ + ristrutturazione completa ~80.000-115.000€ + spese d'asta e trasferimento ~2.000-3.000€ = investimento totale stimato 120.000-162.000€, a fronte di un valore di mercato post-intervento difficilmente superiore a 40.000-50.000€ in un mercato stagnante. La classe energetica G richiede interventi significativi sull'involucro e sull'impianto. L'immobile è ante 1967 in muratura portante con solaio in laterocemento e orditura del tetto in legno: eventuali interventi strutturali (adeguamento sismico, risanamento murature umide) potrebbero aggiungersi ai costi. L'unico scenario plausibile di convenienza sarebbe un utilizzo personale con capacità di eseguire lavori in economia e con prospettiva di lunghissimo periodo, accettando un mercato di rivendita quasi inesistente."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2415710"
+  },
+  "portaleaste_B2415835": {
+    "id": "portaleaste_B2415835",
+    "titolo": "Via CASELLE, 63 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 144/2025 Rif. #B2415835",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 77760.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415835",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/00a9cdff3b98953b8fb7f615f6352e07/2346052-D?cd=true",
+      "https://documents.astalegale.net/file/2/8b13f923f7d7b5df9752b81681aa4b83/2346051-D?cd=true",
+      "https://documents.astalegale.net/file/2/7ba33863a1f8a710c1699a97a3f92172/2346054-D?cd=true",
+      "https://documents.astalegale.net/file/2/e6032ce9df4789524d0ce3fd20e0eb54/2346055-D?cd=true",
+      "https://documents.astalegale.net/file/2/2e68f2bf081077474d34d4e59e7aa988/2346053-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2415835_doc1.pdf",
+      "output/pdf/B2415835_doc2.pdf",
+      "output/pdf/B2415835_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2346052 d avviso di vendita",
+      "2346051 d ordinanza",
+      "2346054 d perizia"
+    ],
+    "descrizione": "Il compendio immobiliare è composto principalmente da una casa padronale disposta su due piani oltre soffitta, con annesse due case coloniche. \nLa casa padronale è stata oggetto di adeguamento igienico sanitario in forza di concessione edilizia N. 41/94 del 24.10.1994.\nL’abitazione sviluppantesi su due piani è dotata di riscaldamento autonomo con stufa a legna collegata a radiatori, la casa è in completo stato di abbandono. \nCompletano il compendio immobiliare i porticati, la tettoia e la stalla",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Compendio rurale a Cingia de' Botti (CR, 21 km da Cremona) composto da casa padronale su due piani con soffitta (sub.502, ~294 mq calpestabili), due case coloniche (sub.503 e sub.505), rimessa/garage (sub.504) e bene comune non censibile, per una superficie totale catastale di circa 780 mq lordi su area di sedime di 1.567 mq. L'intero compendio è in stato di completo abbandono, inabitabile e inagibile, con cedimenti strutturali gravi alla copertura. Il prezzo base corrisponde già al valore di vendita forzosa stimato dal CTU (€77.760), il che azzera qualsiasi sconto reale rispetto alla perizia.",
+      "dati_catastali": "Foglio 11, Particella 270: Sub.501 (Piano T, bene comune non censibile); Sub.502 (Piano T-1-2, cat. A/3 cl.2, 11 vani, 411 mq, rendita €414,71); Sub.503 (Piano T-1, cat. A/4 cl.1, 4 vani, 102 mq, rendita €109,49); Sub.504 (Piano T-1, cat. C/6 cl.1, 188 mq, rendita €291,28); Sub.505 (Piano T-1, cat. A/4 cl.1, 4 vani, 79 mq, rendita €109,49). Area di sedime particella 270 ente urbano 1.567 mq.",
+      "superficie_mq": 576,
+      "prezzo_al_mq": 135,
+      "prezzo_mercato_stimato": "150-250 €/mq (compendi rurali da ristrutturare integralmente, bassa pianura cremonese, comune <1.500 ab., zona a bassa domanda)",
+      "sconto_percentuale": "0% rispetto al valore di vendita forzosa CTU; circa 10% rispetto al valore di mercato CTU di €86.400; nessuno sconto reale per l'acquirente",
+      "anomalie": [
+        "La superficie indicata nel portale aste (72 mq) è gravemente errata e fuorviante: la perizia CTU certifica superfici catastali totali di 780 mq lordi (411+102+188+79 mq) e una superficie commerciale ponderata di circa 576 mq equivalenti. Il dato '72 mq' è probabilmente riferito a un solo vano o a un errore di inserimento e non rappresenta il bene reale.",
+        "Il prezzo base d'asta (€77.760) coincide esattamente con il valore di vendita forzosa stimato dal CTU, eliminando qualsiasi margine di sconto strutturale a favore dell'acquirente rispetto alla perizia.",
+        "La perizia CTU (datata 18/03/2026) descrive cedimenti strutturali gravi alla copertura dei portici/stalla (lato nord e ovest) con porzioni pericolanti: il CTU stesso non ha potuto accedere fisicamente a quelle aree per motivi di sicurezza, utilizzando il drone. Il costo reale di ristrutturazione non è quantificato nella perizia.",
+        "Presenza confermata di rifiuti con possibile presenza di rifiuti pericolosi o speciali non verificabile a causa dell'inaccessibilità di alcune zone: costo di bonifica ignoto e potenzialmente significativo.",
+        "L'immobile ricade in 'ambito agricolo' (PGT Cingia de' Botti, Piano delle Regole, art. 15): cambio di destinazione d'uso verso residenza o attività non agricole potrebbe essere limitato o vietato, riducendo fortemente le opzioni di valorizzazione.",
+        "Tre APE distinte con classi energetiche G (sub.503, 427 kWh/mq anno), F (sub.505, 318 kWh/mq anno) e C (sub.502, 128 kWh/mq anno): due unità su tre sono in classe G o F, con costi di adeguamento energetico potenzialmente molto elevati.",
+        "La proprietà risulta divisa in due quote (80/100 e 20/100): benché entrambe vengano vendute in lotto unico, occorre verificare che entrambe le quote siano effettivamente pignorate e trasferite con il decreto, altrimenti si rischierebbe di acquistare solo la quota maggioritaria."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Stato conservativo critico e costi di ristrutturazione",
+          "dettaglio": "L'intero compendio è inabitabile e inagibile con cedimenti strutturali alla copertura lignea, solai in legno deteriorati e infiltrazioni massive. Una ristrutturazione completa su ~576 mq commerciali al costo minimo di 700-1.000 €/mq porta a un investimento aggiuntivo stimato tra €400.000 e €576.000, portando il costo totale tra €480.000 e €654.000 per un immobile in zona a domanda bassissima: il recupero economico dell'investimento è altamente improbabile."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Destinazione d'uso agricola e limitazioni urbanistiche",
+          "dettaglio": "L'immobile ricade in ambito agricolo ai sensi del PGT vigente. In Lombardia, gli immobili in zona agricola possono essere recuperati a uso residenziale solo da imprenditori agricoli o con procedure complesse di cambio destinazione d'uso soggette a discrezionalità comunale. Un acquirente privato non agricoltore potrebbe non poter ottenere il cambio d'uso, azzerando il potenziale di valorizzazione o rivendita a prezzi residenziali."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di sconto reale e illiquidità del mercato",
+          "dettaglio": "Il prezzo base coincide con il valore di vendita forzosa CTU (€77.760), senza alcun ribasso. Il CTU stesso stima il valore di mercato a soli €86.400 in un comune con densità di 84 ab/kmq e dinamiche socioeconomiche 'poco vivaci': la rivendita anche dopo ristrutturazione completa è estremamente incerta. Il rischio di rimanere con un immobile invendibile o da svendere è molto elevato."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Rifiuti potenzialmente pericolosi",
+          "dettaglio": "Il CTU segnala espressamente che non è possibile escludere la presenza di rifiuti pericolosi o speciali in alcune zone inaccessibili. La bonifica da amianto (tetti in eternit frequenti nei fabbricati rurali pre-1994) o da altri rifiuti speciali può costare tra €10.000 e €50.000+ a seconda della tipologia e quantità, ed è obbligatoria prima di qualsiasi intervento edilizio."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classi energetiche G e F su due subalterni",
+          "dettaglio": "Sub.503 (classe G) e sub.505 (classe F) richiedono interventi di efficientamento energetico obbligatori per la futura commerciabilità, con costi aggiuntivi stimati in €15.000-40.000 per unità a seconda degli interventi necessari su impianti, cappotto e infissi."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca e informazioni creditore",
+          "dettaglio": "La procedura è promossa da MAIOR SPV S.R.L. tramite mandataria BANCA REGIONALE EUROPEA S.P.A.: si tratta di un credito ceduto a un veicolo SPV (acquisto di NPL), il che è normale ma richiede verifica dell'esatto importo dell'ipoteca dall'ispezione ipotecaria (Allegato 4 non visualizzato integralmente). Le ipoteche si estinguono con il trasferimento, ma occorre che il prezzo le copra."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Procedura promossa da MAIOR SPV S.R.L. / BANCA REGIONALE EUROPEA S.P.A.: importo esatto non riportato nella perizia disponibile (rinviato ad Allegato 4 - Ispezione Ipotecaria non allegato integralmente). Da verificare obbligatoriamente prima dell'asta.",
+        "spese_condominiali": "Nessuna (immobile non in condominio, confermato dalla perizia CTU al punto 13)",
+        "altri_oneri": "Nessun censo, livello o uso civico (confermato CTU punto 12). Nessun diritto di terzi (CTU punto 7). Presenza rifiuti con possibile componente pericolosa: onere di smaltimento a carico dell'acquirente, costo non quantificato."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Nessuno rilevato: il CTU dichiara regolarità catastale, urbanistica ed edilizia (punti 8-11). L'edificio è anteriore al 01/09/1967 e al Programma di Fabbricazione del 1974, quindi non necessitava di titolo abilitativo. L'unico intervento successivo (concessione n.41/94) è regolarmente titolato.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Il compendio presenta una combinazione di fattori sfavorevoli raramente riscontrabile insieme: prezzo base pari al valore di vendita forzosa (zero sconto), stato di abbandono totale con inaccessibilità fisica di parte degli immobili, costi di ristrutturazione stimabili in 5-8 volte il prezzo d'acquisto, collocazione in zona agricola a bassissima domanda (Cingia de' Botti: ~1.200 abitanti, 21 km da Cremona, senza sbocco su direttrici principali), e vincolo urbanistico di ambito agricolo che limita fortemente la destinazione d'uso residenziale per non-imprenditori agricoli. La superficie indicata sul portale aste (72 mq) è un dato palesemente errato che potrebbe trarre in inganno: il compendio reale è molto più esteso ma questo non è un vantaggio data la necessità di ristrutturare tutto. L'unico scenario in cui l'operazione potrebbe avere senso è quello di un imprenditore agricolo già operante nella zona, interessato al recupero rurale con accesso a incentivi specifici (es. PSR Lombardia), con capacità di autocostruzione/ristrutturazione e orizzonte temporale di 5-10 anni. Per un privato acquirente ordinario, l'operazione è economicamente irrazionale."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2415835"
+  },
+  "portaleaste_B2416316": {
+    "id": "portaleaste_B2416316",
+    "titolo": "Vicolo Pozzo, 1 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416316",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 18417.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416316",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true",
+      "https://documents.astalegale.net/file/2/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true",
+      "https://documents.astalegale.net/file/2/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true",
+      "https://documents.astalegale.net/file/2/00cce276db85be0c55cc5041b59529e2/2238966-B?cd=true",
+      "https://documents.astalegale.net/file/2/acca0e5efafc618a3749d5394d6c6f30/2238967-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416316_doc1.pdf",
+      "output/pdf/B2416316_doc2.pdf",
+      "output/pdf/B2416316_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2346019 d avviso di vendita",
+      "2346017 d ordinanza",
+      "2346018 d perizia"
+    ],
+    "descrizione": "Appartamento al piano terra con vano scala comune (map. 84 sub. 502) e cortile comune (map. 84 sub 501-map. 83/503). I locali adibiti ad abitazione sono così disposti: ingresso, soggiorno, cottura, bagno, pranzo ed una camera da letto. La superficie commerciale è di mq. 70,16. L'unità immobiliare oggetto di perizia Lotto 2 è un'abitazione situata in una zona residenziale del Comune di Isola Dovarese (CR), disposta al piano terra, edificata negli anni 50-60, la tipologia costruttiva utilizzata è ",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al piano terra di 70,16 mq a Isola Dovarese (CR), non a Cremona città come indicato nell'annuncio, edificato anni '50-'60 in discreto stato ma da ristrutturare completamente. Immobile libero, con difformità urbanistiche sanabili, assenza di agibilità e classe energetica G: potenziale d'acquisto condizionato dal contesto di mercato periferico e dai costi di ristrutturazione.",
+      "dati_catastali": "Foglio 5, Mappale 83 sub. 501 + Mappale 94 sub. 501, Categoria A/3, Classe 1, Consistenza 4 vani, Superficie catastale 71,00 mq; Parti comuni: vano scala (Foglio 5 map. 84 sub. 502) e cortile comune (Foglio 5 map. 83 sub. 503 + map. 84 sub. 501)",
+      "superficie_mq": 70,
+      "prezzo_al_mq": 263,
+      "prezzo_mercato_stimato": "350-600 €/mq (Isola Dovarese, comune provincia Cremona, edificio anni '50-'60 da ristrutturare)",
+      "sconto_percentuale": "25-56% rispetto al range di mercato stimato; circa 47% rispetto al valore CTU di 350 €/mq (valore perizia €24.556)",
+      "anomalie": [
+        "Il comune reale è Isola Dovarese (CR), non Cremona città come riportato nell'annuncio di vendita: il mercato immobiliare locale è significativamente più debole e i valori €/mq sono molto inferiori a quelli cremonesi.",
+        "Conformità urbanistica indicata come 'NO' nella scheda sintetica: l'immobile presenta diversa distribuzione interna degli spazi rispetto ai titoli edilizi depositati, con imprecisioni grafiche nelle tavole comunali.",
+        "Il servizio igienico di Lotto 2 non rispetta la superficie minima di 4,00 mq e necessita di ampliamento obbligatorio per la sanatoria.",
+        "Agibilità assente: il certificato di agibilità non è presente, condizione che impedisce l'uso regolare dell'immobile e complica eventuali future vendite o locazioni.",
+        "Errore identificativo del cortile comune nell'atto di pignoramento: corretto è Foglio 5 Map. 83 sub. 503 e non sub. 504; il CTU ha già segnalato la correzione.",
+        "La planimetria catastale presentava lievi difformità, aggiornate dal CTU tramite DOCFA: la regolarizzazione è avvenuta ma la situazione urbanistica rimane non conforme.",
+        "Non è stato possibile reperire informazioni su amministratore di condominio e spese condominiali pregresse, nemmeno tramite l'Istituto Vendite Giudiziarie.",
+        "Superficie catastale (71,00 mq) e superficie commerciale perizia (70,16 mq) sostanzialmente allineate, ma la superficie indicata nell'annuncio (72 mq) presenta una lieve discrepanza non giustificata."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Mercato illiquido in comune periferico",
+          "dettaglio": "Isola Dovarese è un piccolo comune della provincia di Cremona con mercato immobiliare molto limitato. Il CTU stesso ha individuato solo 2 immobili comparabili con prezzi di richiesta di 300-302 €/mq, inferiori al valore OMI minimo (400 €/mq per tipo economico). La rivendita futura sarà difficile e i tempi di collocazione molto lunghi; l'immobile ha scarsa liquidità come investimento."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di agibilità",
+          "dettaglio": "Il certificato di agibilità non è presente. Senza agibilità l'immobile non può essere locato regolarmente né venduto facilmente a terzi. Ottenere l'agibilità richiede la regolarizzazione urbanistica completa (sanatoria CILA/SCIA + ampliamento bagno), collaudo impianti a norma e probabile sopralluogo comunale: tempi stimati 6-18 mesi, costi aggiuntivi oltre alla sanatoria."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Costi di ristrutturazione elevati rispetto al valore",
+          "dettaglio": "L'immobile necessita di ristrutturazione completa: nuovi impianti elettrico, idrico-sanitario, termico (riscaldamento assente), rifacimento bagno con ampliamento, sostituzione serramenti, rasatura e tinteggiatura. Stimando 600-900 €/mq su 70 mq, il costo di ristrutturazione è 42.000-63.000 €, pari a 1,7-2,6 volte il prezzo base d'asta: il costo totale (acquisto + ristrutturazione) supera abbondantemente il valore di mercato attuale."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Difformità urbanistica e bagno sottodimensionato",
+          "dettaglio": "La diversa distribuzione interna degli spazi richiede sanatoria CILA o SCIA (costo stimato €1.500 + sanzione minima €1.032). Il bagno è inferiore ai 4 mq minimi di legge e deve essere fisicamente ampliato prima o contestualmente alla sanatoria: intervento strutturale aggiuntivo stimabile in 3.000-8.000 € a seconda della soluzione adottata."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali pregresse ignote",
+          "dettaglio": "Il CTU non ha potuto reperire informazioni su eventuali arretrati condominiali. L'acquirente risponde degli ultimi 2 anni di spese (art. 63 disp. att. c.c.): dato il lungo periodo di disabitazione dell'immobile, potrebbero esservi arretrati non quantificati. Verificare obbligatoriamente prima dell'asta."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù passive multiple",
+          "dettaglio": "Gravano sull'immobile diverse servitù passive: tubazione di scarico sottostante il cortile comune, uso della corte comune da parte di terzi con scala fissa in ferro, scarico acque piovane con cunetta aperta. La manutenzione del cortile è a metà carico dell'acquirente e del portone carraio su Via Cairoli per 1/3: oneri ricorrenti non quantificati."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Occupazione",
+          "dettaglio": "Entrambe le UIU risultano libere al sopralluogo CTU: nessuna procedura di sgombero necessaria, presa di possesso immediata dopo il decreto di trasferimento."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Dalla ricerca risultano non presenti altre ipoteche o trascrizioni successive alla certificazione notariale riportata nel certificato. Nessuna ipoteca rilevata nei documenti forniti.",
+        "spese_condominiali": "Non disponibili: il CTU segnala espressamente di non aver potuto reperire informazioni su amministratore di condominio e spese pregresse. Rischio arretrati non quantificabile.",
+        "altri_oneri": "Servitù attive e passive multiple (passaggio pedonale e carraio su androne map. 85 sub.501 e cortile map.574; tubazione scarico sottostante cortile comune; scala fissa in ferro su corte comune). Patti speciali di manutenzione pro-quota del cortile e del portone carraio. Servitù passiva per tubazione interrata da terza ditta che attraversa il cortile."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti sanabili: diversa distribuzione interna degli spazi rispetto ai titoli edilizi (concessioni 1971-1972); bagno con superficie inferiore al minimo di legge (4,00 mq) che richiede ampliamento fisico obbligatorio. Sanatoria tramite CILA o SCIA in sanatoria con costo stimato €1.500 + sanzione minima €1.032. Il CTU ha già aggiornato la planimetria catastale per lievi difformità tramite DOCFA.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Il prezzo base di €18.417 (pari a 263 €/mq) sembra appetibile, ma il costo totale realistico è: €18.417 (base asta) + €2.500 (oneri/spese stimate CTU) + €2.532 (sanatoria + sanzione) + €42.000-63.000 (ristrutturazione completa) = €65.000-86.000 totali, ben oltre il valore di mercato stimato dell'immobile ristrutturato (350-600 €/mq x 70 mq = €24.500-42.000). L'operazione è in perdita certa. Edificio anni '50-'60, classe energetica G (313 KWH/mq/anno): adeguamento energetico minimo richiede cappotto o sostituzione serramenti con ulteriori costi. L'assenza di agibilità e la conformità urbanistica negativa rappresentano ostacoli seri per locazione e futura rivendita. Isola Dovarese (circa 1.200 abitanti) ha un mercato immobiliare quasi inesistente: il CTU stesso giudica la vendibilità 'DISCRETA' citando esplicitamente come fattori negativi la mancanza di autorimessa, le opere di ristrutturazione necessarie e la particolare situazione del mercato attuale. Sconsigliato anche come prima casa per i costi di adeguamento sproporzionati al valore finale."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416316"
+  },
+  "portaleaste_B2416313": {
+    "id": "portaleaste_B2416313",
+    "titolo": "Vicolo Pozzo, 1 - Lotto 1 - Tribunale di Cremona - Esecuzioni civili 43/2024 Rif. #B2416313",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 15855.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416313",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/c2a931c0abc3c7c19885bc32329c4c0b/2346019-D?cd=true",
+      "https://documents.astalegale.net/file/2/cebf3302745e0906c64b8e3b0ce5114f/2346017-D?cd=true",
+      "https://documents.astalegale.net/file/2/983792b19b301ab55976e52fb84dcbfb/2346018-D?cd=true",
+      "https://documents.astalegale.net/file/2/ffc5ba7fd33788ce5bdd77ca69625eae/2238965-B?cd=true",
+      "https://documents.astalegale.net/file/2/13187beed859d95dff02b06f3ecc7103/2238958-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416313_doc1.pdf",
+      "output/pdf/B2416313_doc2.pdf",
+      "output/pdf/B2416313_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2346019 d avviso di vendita",
+      "2346017 d ordinanza",
+      "2346018 d perizia"
+    ],
+    "descrizione": "Appartamento al piano terra con vano scala comune (mapp. 84 sub. 502) e cortile comune (mapp. 84 sub. 501-map. 83/503). I locali adibiti ad abitazione sono così disposti: ingresso, soggiorno, cucina, bagno, una camera da letto ed uno studiolo. La superficie commerciale è di mq. 60,40=. L'unità immobiliare oggetto di perizia Lotto 1 è un'abitazione situata in una zona residenziale del Comune di Isola Dovarese (CR), disposta al piano terra, edificata negli anni 50-60, la tipologia costruttiva util",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al piano terra di 60,40 mq commerciali a Isola Dovarese (CR), edificato anni 50-60, in discreto stato ma con necessità di ristrutturazione completa (impianti, bagno, serramenti). Prezzo base di €15.855 su un valore CTU di €21.140, con mercato locale molto debole (350 €/mq stimato dal perito). L'immobile è libero e le difformità sono sanabili a basso costo, ma il potenziale di rivalutazione è limitatissimo in un comune di provincia con scarsa liquidità.",
+      "dati_catastali": "Foglio 5, Mappale 84, Subalterno 503, Categoria A/3, Classe 1 - Consistenza 4 vani, Sup. Cat. 60 mq, Rendita €165,27. Parti comuni: vano scala (Fg.5 Map.84 sub.502) e cortile comune (Fg.5 Map.83 sub.503 e Map.84 sub.501).",
+      "superficie_mq": 60,
+      "prezzo_al_mq": 264,
+      "prezzo_mercato_stimato": "300-500 €/mq (Isola Dovarese, comune ~3.000 ab., provincia Cremona, da ristrutturare)",
+      "sconto_percentuale": "25% rispetto al valore CTU (€21.140); circa 35-40% rispetto alla fascia alta di mercato locale stimata (500 €/mq), ma il mercato locale è talmente ristretto che trovare un acquirente futuro a prezzi superiori è incerto",
+      "anomalie": [
+        "Conformità urbanistica indicata come 'NO' nella scheda sintetica: l'immobile presenta una diversa distribuzione interna degli spazi rispetto ai titoli edilizi depositati in Comune, con imprecisioni ed errori grafici nelle tavole progettuali.",
+        "Agibilità assente: nessun certificato di agibilità/abitabilità presente per questa unità immobiliare, elemento che complica future compravendite o locazioni.",
+        "Errore nell'atto di pignoramento: il cortile comune è identificato come Fg.5 Map.83 sub.504 invece del corretto sub.503; il CTU ha segnalato la difformità ma occorre verificare la corretta rettifica formale nel decreto di trasferimento.",
+        "Superficie indicata nell'annuncio (72 mq) non corrisponde alla superficie commerciale della perizia (60,40 mq): discrepanza del 19% che supera la soglia di allerta del 10%; la superficie catastale è 60 mq. Verificare l'origine del dato 72 mq.",
+        "Il CTU dichiara di non aver reperito informazioni sull'amministratore di condominio né sulle spese condominiali pregresse, lasciando un rischio economico non quantificato (art.63 disp.att.c.c.: acquirente risponde degli ultimi 2 anni di arretrati).",
+        "Classe energetica G (352,80 kWh/mq·anno): la peggiore in assoluto, con futuri obblighi normativi europei di riqualificazione energetica che potrebbero imporre interventi costosi."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Scarsa liquidità del mercato",
+          "dettaglio": "Isola Dovarese è un comune di circa 3.000 abitanti a bassa domanda immobiliare. Il CTU stesso giudica la vendibilità 'DISCRETA' e cita come fattore negativo la 'particolare situazione del mercato immobiliare attuale'. Rivendere o affittare l'immobile dopo la ristrutturazione sarà difficile e i tempi potrebbero essere molto lunghi (anni). Il rischio di un investimento illiquido è elevato."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ristrutturazione obbligatoria completa",
+          "dettaglio": "Impianto elettrico d'epoca, nessun riscaldamento, nessun condizionamento, serramenti in legno con vetro singolo, bagno da rifare. Costo stimato ristrutturazione: €25.000-42.000 (700-1.200 €/mq su 35-40 mq effettivi), portando il costo totale a €40.000-58.000 contro un valore di mercato di €18.000-30.000: rischio di capital loss certa."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Difformità urbanistica e assenza agibilità",
+          "dettaglio": "Distribuzione interna difforme dai titoli edilizi. Sanabile con CILA/SCIA in sanatoria: costo pratica €1.500 + sanzione minima €1.032. L'assenza di agibilità è un ostacolo per future locazioni e vendite; ottenerla richiederà il completamento della sanatoria urbanistica e probabilmente una perizia asseverata aggiuntiva (€500-1.500)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali pregresse sconosciute",
+          "dettaglio": "Il CTU non ha trovato l'amministratore di condominio né dati sugli arretrati. L'acquirente risponde solidalmente degli arretrati degli ultimi 2 anni (art.63 disp.att.c.c.). Importo non quantificabile ma potenzialmente significativo su immobile disabitato da tempo."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Servitù passive e patti speciali",
+          "dettaglio": "Presenza di servitù passive (tubazione di terzi nel cortile comune), obbligo di manutenzione del cortile e del portone di Via Cairoli per 1/3 a carico dell'acquirente, servitù di passaggio sull'androne. Comportano oneri economici ricorrenti e limitazioni d'uso del cortile non eliminabili."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Errore identificativo nell'atto di pignoramento",
+          "dettaglio": "Il cortile comune è citato con subalterno errato (504 invece di 503) nell'atto di pignoramento. Il CTU ha segnalato la correzione ma occorre verificare che il decreto di trasferimento recepisca la rettifica corretta per evitare problemi alla trascrizione."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Classe energetica G",
+          "dettaglio": "Classe G con 352,80 kWh/mq·anno impone futuri interventi di efficientamento energetico (cappotto, infissi, impianto riscaldamento). Costi stimati €8.000-15.000 per portarla almeno in classe D-E, ma in un'ottica di ristrutturazione totale sono già inclusi nei costi di intervento."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Dalla ricerca effettuata non risultano iscrizioni pregiudizievoli o ipoteche successive alla certificazione notarile. Il creditore procedente è PENELOPE SPV s.r.l. (veicolo di cartolarizzazione crediti). Non sono indicati importi di ipoteche specifiche nei documenti forniti: verificare l'Allegato F (ispezione ipotecaria) prima dell'offerta.",
+        "spese_condominiali": "Non quantificate: il CTU dichiara espressamente di non aver reperito informazioni sull'amministratore di condominio né sugli eventuali arretrati. Rischio arretrati ultimi 2 anni a carico dell'acquirente non eliminabile.",
+        "altri_oneri": "Servitù attiva di passaggio su androne (map.85 sub.501) e cortile (map.574); servitù passiva per tubazione di terzi nel cortile comune; obbligo di manutenzione pro-quota del cortile comune (50%) e del portone di Via Cairoli (33,3%); patti speciali di compravendita trasmissibili all'acquirente."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti sanabili: diversa distribuzione interna degli spazi rispetto ai titoli edilizi depositati in Comune, con imprecisioni nelle tavole progettuali. Sanatoria tramite CILA o SCIA: costo pratica €1.500 + sanzione minima €1.032. Per il Lotto 2 (non oggetto di questa analisi) è segnalato anche il bagno sottodimensionato (<4 mq), problema non esplicitato per il Lotto 1 ma da verificare.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "Il problema centrale non è l'acquisto in sé ma la matematica dell'investimento: prezzo base €15.855 + ristrutturazione completa stimata €25.000-42.000 + sanatoria €2.500 + spese d'asta (imposta registro 9% seconda casa = €1.426, o 2% prima casa = €317) + eventuali arretrati condominiali = costo totale realistico €45.000-62.000. Il valore di mercato a Isola Dovarese post-ristrutturazione stimato dal CTU è €350/mq x 60 mq = €21.000: il ritorno sull'investimento è strutturalmente negativo. L'immobile può avere senso SOLO come prima abitazione per chi vuole risiedere stabilmente a Isola Dovarese e partecipa all'asta aggiudicandosi il prezzo base senza rilanci. Edificio anni 50-60, piano terra (umidità da verificare). La discrepanza tra la superficie indicata nell'annuncio (72 mq) e quella della perizia (60,40 mq) va chiarita prima di formulare qualsiasi offerta: se i 72 mq non trovano riscontro catastale, potrebbe indicare superfici non accatastate."
+    },
+    "data_analisi": "2026-05-07",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416313"
+  },
+  "portaleaste_B2416341": {
+    "id": "portaleaste_B2416341",
+    "titolo": "Via Brescia, 33/C - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 139/2025 Rif. #B2416341",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 93000.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416341",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/ddbea4fc787c89ee31a60b2c771600e5/2350417-B?cd=true",
+      "https://documents.astalegale.net/file/2/b7f22a317381a6f79dae87050cc25456/2350416-B?cd=true",
+      "https://documents.astalegale.net/file/2/addd239d5683d800aa60f6d136201e3b/2350418-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/B2416341_doc1.pdf",
+      "output/pdf/B2416341_doc2.pdf",
+      "output/pdf/B2416341_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2350417 b avviso di vendita",
+      "2350416 b ordinanza",
+      "2350418 b perizia"
+    ],
+    "descrizione": "Abitazione semi-indipendente sviluppantesi su tre livelli, così composta: locale cucina-pranzo con antistante portico al piano terra - due camere, disimpegno e bagno al piano primo - due locali sottotetto e disimpegno al piano secondo, con annessa area pertinenziale esclusiva adibita a cortile e giardino (retrostante l’abitazione) su cui insiste un corpo accessorio ad un piano fuori terra adibito a servizio igienico e locale rustico-ripostiglio. - Tipologia: Abitazione di tipo civile - Prezzo: €",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Abitazione semi-indipendente su tre livelli (piano terra, primo e sottotetto) con portico, corte esclusiva e corpo accessorio rustico, in zona semiperiferica di Crema (quartiere San Bernardino), costruzione ante 1960. L'immobile presenta abusi edilizi in parte sanabili e in parte non sanabili con obblighi di demolizione, classe energetica F e necessità di revisione impianti. Il prezzo base corrisponde al valore di vendita forzata stimato dal CTU, quindi lo sconto reale è sul valore di mercato lordo (€120.000), non sul prezzo base.",
+      "dati_catastali": "Foglio 27, Mappale 100 (graffato con mappali 67 e 74), Subalterno 8, Categoria A/3, Classe 1, Comune di Crema (CR)",
+      "superficie_mq": 138,
+      "prezzo_al_mq": 674,
+      "prezzo_mercato_stimato": "750-900 €/mq (zona semiperiferica Crema, San Bernardino, immobili da ristrutturare/stato mediocre); il CTU ha determinato un valore di mercato lordo di €120.000 pari a ~870 €/mq su sup. commerciale 138 mq, poi deprezzato a €107.000 (€775/mq) dopo deduzioni per irregolarità",
+      "sconto_percentuale": "13% sul valore di mercato netto CTU (€107.000); 22% sul valore lordo CTU (€120.000). Attenzione: la superficie indicata nel portale (72 mq) è errata rispetto alla perizia (138 mq commerciali), il che gonfia artificialmente il prezzo al mq apparente.",
+      "anomalie": [
+        "La superficie indicata nel portale aste (72 mq) non corrisponde a quella della perizia CTU (128 mq catastali, 138 mq commerciali): divergenza del 91%, probabilmente il portale riporta solo la superficie di un piano o la superficie netta abitativa parziale. Verificare prima dell'offerta.",
+        "Opere abusive non sanabili presenti: (1) portichetto in legno sul retro già oggetto di ordinanza di demolizione comunale del 19/10/2011 mai eseguita - obbligo di demolire persistente; (2) ampliamento del corpo accessorio rustico (da 20 mq consentiti a 30 mq realizzati) in zona 'Verde privato' PGT - non sanabile, obbligo di demolizione parziale.",
+        "Difformità catastali rilevate su tutti e tre i piani (parete demolita piano terra, scala a chiocciola non indicata, tavolato divisorio sottotetto, wc abusivo sottotetto): richiedono DOCFA e nuova planimetria successivamente alla sanatoria edilizia, costo stimato €1.500.",
+        "Le tavole progettuali allegate alla DIA 2002 (ultima pratica edilizia) riportano misure discordanti con lo stato di fatto rilevato: incoerenza documentale che complica la sanatoria.",
+        "Immobile classificato nel PGT di Crema come 'Ambiti di valore paesaggistico ambientale ed ecologico' (art. 22.2 NTA): l'area pertinenziale ricade in 'Verde privato' art. 22.4, il che limita ulteriormente la sanabilità degli abusi e potrebbe imporre vincoli su futuri interventi.",
+        "Controsoffitto al piano primo con altezza interna ridotta a 2,45 m (non idonea per civile abitazione): da rimuovere, non sanabile.",
+        "Rapporti aeroilluminanti non conformi al Regolamento locale di igiene ai piani terra e primo: richiedono interventi compensativi (elementi di arredo fisso o sostituzione serramenti).",
+        "Ipoteca volontaria del 2009 per €284.000 (capitale €142.000) a favore di Intesa Sanpaolo: il valore totale iscritto (€284.000) è quasi il triplo del prezzo base (€93.000) e più del doppio del valore di mercato CTU (€107.000). Anche se si cancella con il decreto di trasferimento, segnala un'esposizione debitoria storica molto elevata rispetto al valore reale del bene."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abuso edilizio non sanabile con obbligo di demolizione",
+          "dettaglio": "Sussistono due opere non sanabili con obbligo di demolizione: il portichetto in legno (soggetto a ordinanza comunale già emessa nel 2011, mai eseguita, con rischio di sanzione amministrativa a carico del nuovo proprietario) e l'ampliamento del rustico in zona Verde privato. Il comune potrebbe rieseguire o sanzionare. Costo demolizioni stimato dal CTU €4.000 totali, ma l'acquirente eredita anche la posizione debitoria verso il Comune per l'ordinanza inevasa. Impatto: riduzione del valore effettivo e obbligo legale non eludibile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Abuso edilizio sanabile - costi e tempi",
+          "dettaglio": "Le difformità interne sanabili (distribuzione piano terra, rapporti aeroilluminanti, tavolato sottotetto) richiedono pratica in sanatoria: costo stimato CTU €4.500 per diritti e spese tecniche + €1.500 per rimozione controsoffitto e wc sottotetto. Totale oneri regolarizzazione: €10.000 (già dedotti dal CTU nel calcolo del valore di mercato). Tempi stimati: 6-12 mesi per ottenere i titoli in sanatoria dal Comune di Crema."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Vincolo paesaggistico/urbanistico su area pertinenziale",
+          "dettaglio": "L'area cortile e il corpo rustico ricadono in zona 'Verde privato' (art. 22.4 NTA PGT) con parametri edificatori molto restrittivi (UF 0,03 mq/mq, Q 20%). Qualsiasi futuro intervento sull'area esterna sarà fortemente limitato. Non impedisce il trasferimento ma riduce le potenzialità di valorizzazione e rende non sanabili le opere già realizzate in eccesso."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti da verificare",
+          "dettaglio": "Classe F (215,64 kWh/mq anno): consumi energetici elevati, obbligo di adeguamento in caso di ristrutturazione significativa o compravendita futura. Impianto di riscaldamento autonomo a condensazione con distribuzione a parete in condizioni 'scarso'; serramenti esterni in legno in condizioni 'scarso'. Costo stimato per adeguamento energetico minimo (impianto + serramenti): €8.000-15.000 aggiuntivi non inclusi nella perizia."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Infiltrazioni d'acqua dal tetto (non verificate)",
+          "dettaglio": "Il CTU segnala 'probabili infiltrazioni di acqua dal tetto, non verificate' al sottotetto; il manto di copertura (tegole) è in condizioni 'scarso' e l'isolamento è assente. Rischio concreto di intervento urgente sul tetto post-acquisto con costo non quantificato (stima orientativa rifacimento copertura parziale: €5.000-15.000). Trattandosi di acquisto senza garanzia per vizi, l'acquirente non ha tutele."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteca elevata - si cancella con decreto trasferimento",
+          "dettaglio": "Ipoteca volontaria Intesa Sanpaolo per €284.000 totali iscritti: si cancella automaticamente con il decreto di trasferimento ai sensi dell'art. 586 c.p.c., indipendentemente dal fatto che il ricavato la copra parzialmente. Nessun rischio diretto per l'acquirente, ma conferma l'alto indebitamento pregresso dei debitori."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Occupazione da terzi - già liberato",
+          "dettaglio": "Immobile formalmente libero da persone dal 30/01/2026 (relazione di avvenuta liberazione depositata dal Custode IVG di Crema). Il contratto di locazione originario (2015-2019, poi rinnovatosi) era già stato dichiarato non opponibile alla procedura. Nessun rischio di sgombero residuo."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca volontaria da mutuo fondiario iscritta il 28/05/2009 (nn.1780/8647) a favore di INTESA SANPAOLO SPA: capitale €142.000, totale ipoteca iscritta €284.000. Si cancellerà con il decreto di trasferimento. Pignoramento trascritto il 18/09/2025 a favore di ANDOR SPV SRL (creditore procedente): si estingue con la vendita.",
+        "spese_condominiali": "Nessuna: trattasi di abitazione semi-indipendente in corte senza amministratore di condominio formalmente costituito. Non risultano arretrati condominiali.",
+        "altri_oneri": "Ordinanza di demolizione comunale del 19/10/2011 (Prot. 2011/00387) per portichetto abusivo: mai eseguita, rimane a carico dell'acquirente l'obbligo di demolizione. Vincolo urbanistico PGT 'Verde privato' sull'area pertinenziale (art. 22.4 NTA): limita interventi futuri sull'area esterna. Nessun censo, livello o uso civico."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "Presenti, in parte sanabili e in parte non sanabili. SANABILI (€4.500 + €1.500): difformità distributive interne (parete demolita piano terra, tavolato sottotetto), problemi aeroilluminanti ai piani terra e primo. NON SANABILI con obbligo di demolizione: (1) portichetto in legno sul retro (ordinanza comunale 2011 inevasa, costo demolizione €1.000); (2) ampliamento corpo rustico da 20 a 30 mq in zona Verde privato PGT (costo demolizione parziale €3.000). Costo complessivo regolarizzazione stimato dal CTU: €10.000.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "ATTENZIONE SUPERFICIE: Il portale indica 72 mq mentre la perizia certifica 138 mq commerciali (128 mq catastali); utilizzare sempre il dato CTU per valutazioni comparative. Lo sconto reale sul valore di mercato lordo CTU (€120.000) è del 22%, che scende al 13% sul valore netto dopo deduzioni (€107.000): borderline per il giudizio 🟢. Il prezzo base coincide esattamente con il valore di vendita forzata CTU (€93.000), quindi non c'è ulteriore sconto rispetto alla perizia. Fabbricato ante 1960, ultimo intervento 2002: impianti e strutture da verificare attentamente. Zona San Bernardino di Crema: posizione semiperiferica con buona accessibilità, vicinanza al Canale Vacchelli, mercato di nicchia per abitazioni in corte. Potenziale di rivalutazione modesto data la tipologia e i vincoli urbanistici. Costo totale stimato post-acquisto per messa a norma: €10.000 (regolarizzazione) + €8.000-15.000 (impianti/serramenti) + €5.000-15.000 (copertura, se necessario) = €23.000-40.000 aggiuntivi. Valore finale realizzabile stimato €107.000 al netto delle regolarizzazioni già scontate dal CTU. L'acquirente dovrebbe puntare all'aggiudicazione a non più di €85.000-88.000 per avere un margine adeguato rispetto ai costi certi di regolarizzazione e ai rischi residui (tetto, impianti)."
+    },
+    "data_analisi": "2026-05-08",
+    "source": "portaleaste",
+    "portaleaste_ref": "B2416341"
+  },
+  "portaleaste_B2417121": {
+    "id": "portaleaste_B2417121",
+    "source": "portaleaste",
+    "titolo": "Via Fornace, 10 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 19/2023 Rif. #B2417121",
+    "indirizzo": "",
+    "comune": "Vescovato",
+    "prezzo_base": 17718.75,
+    "data_asta": "08/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2417121",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/0913de7da28da8a6a17d493380c7f3ea/2355687-B?cd=true",
+      "https://documents.astalegale.net/file/2/2d5ac8269021b3908f8953403bcc937b/2355685-B?cd=true",
+      "https://documents.astalegale.net/file/2/19758b176bf7b2dc2b2b687546bfeca9/2355686-B?cd=true",
+      "https://documents.astalegale.net/file/2/3fae9936e042ea3ffe45b8e4e7f0ea2b/2009230-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2417121_doc1.pdf",
+      "output/pdf/portaleaste_B2417121_doc2.pdf",
+      "output/pdf/portaleaste_B2417121_doc3.pdf",
+      "output/pdf/portaleaste_B2417121_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2355687 b avviso di vendita",
+      "2355685 b ordinanza",
+      "2355686 b perizia",
+      "2009230 c perizia"
+    ],
+    "descrizione": "L’unità immobiliare è composta da ingresso, soggiorno e zona pranzo cuocivivande, cortiletto con rustico ed orto esclusivo al piano terra, due camere, disimpegno ed un bagno con  una terrazza e fienile posto al piano primo, una stanza e due soffitte al piano secondo con accesso da Via Fornace. \nClasse energetica G con fabbisogno termico per la climatizzazione invernale pari a 434,51 kWh/mqanno.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 17.718,75 - Data asta: 08/09/2026 - 16:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Porzione di fabbricato su tre livelli (PT/P1/P2) in vecchia corte a Vescovato (CR), via Fornace 10, in pessime condizioni manutentive generali che richiedono ristrutturazione completa. Il prezzo base di €17.719 rappresenta uno sconto significativo rispetto al valore CTU di €56.000, ma l'immobile è in comune rurale piccolo con mercato illiquido e richiede investimento rilevante per essere abitabile.",
+      "comune_effettivo": "Vescovato",
+      "dati_catastali": "Foglio 6, mappale 59 graffato ai mappali 58 e 52, categoria A/4, classe 2, vani 7,5, superficie catastale 141 mq, rendita €193,67 - Via Fornace n.10 piano T-1-2",
+      "superficie_mq": 155,
+      "prezzo_al_mq": 114,
+      "prezzo_mercato_stimato": "400-600 €/mq (comune provinciale <5.000 ab., immobile da ristrutturare integralmente)",
+      "sconto_percentuale": "68% rispetto al valore CTU di €56.000; circa 60-70% rispetto alla stima di mercato indipendente (500 €/mq x 155 mq = ~€77.500)",
+      "anomalie": [
+        "Il prezzo base dell'asta (€17.719) è pari al 31,6% del valore di stima CTU (€56.000): riduzione drastica che indica aste precedenti andate deserte e forte deprezzamento progressivo.",
+        "La superficie indicata nell'avviso d'asta (72 mq) diverge significativamente dalla superficie commerciale CTU (155,39 mq) e dalla superficie catastale (141 mq): discrepanza superiore al 50%, da chiarire prima di partecipare.",
+        "Il comune indicato nei dati lotto è 'Cremona' mentre la perizia CTU localizza inequivocabilmente l'immobile a Vescovato (CR): errore nell'annuncio che può generare confusione nella valutazione del mercato di riferimento.",
+        "Presenza di più ipoteche giudiziali (almeno 5 iscrizioni rilevate in perizia, tutte oscurate): gli importi totali non sono leggibili nei documenti forniti, impedendo la verifica della copertura da parte del prezzo base.",
+        "Il rustico sul retro è descritto come 'in mattoni con tetto in legno in pessime condizioni e inagibile': elemento strutturale degradato che potrebbe comportare costi di demolizione o consolidamento non quantificati.",
+        "L'impianto di riscaldamento è a stufe a gas autonome con caldaia senza libretto: impianto non a norma che richiede sostituzione integrale prima dell'utilizzo.",
+        "Gas non allacciato alla rete pubblica: costo di allacciamento da quantificare (stimabile tra €3.000 e €8.000 a seconda della distanza dalla rete)."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Ipoteche giudiziali multiple opache",
+          "dettaglio": "Risultano almeno 5 ipoteche giudiziali iscritte sull'immobile (pag. 17 perizia), tutte con importi oscurati. Non è possibile verificare se il prezzo base copra il totale delle iscrizioni. Se il ricavato dell'asta non copre le ipoteche pregresse, si pone il problema della distribuzione: consultare obbligatoriamente l'avviso di vendita e il piano di riparto prima di partecipare."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Stato manutentivo pessimo / costo ristrutturazione",
+          "dettaglio": "Praticamente ogni elemento dell'immobile è in pessime condizioni (impianti, serramenti, pavimenti, pareti, bagni, tetto rustico). Il CTU stesso definisce necessaria una 'manutenzione straordinaria completa'. Stimando 800-1.000 €/mq su ~132 mq calpestabili, il costo di ristrutturazione è tra €105.000 e €132.000, portando il costo totale dell'operazione a €120.000-150.000 contro un valore post-ristrutturazione di ~€70.000-80.000: operazione in perdita."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Classe energetica G e assenza gas di rete",
+          "dettaglio": "Con 434,51 kWh/mq/anno l'immobile è nella classe peggiore: gestione energetica insostenibile con i costi attuali. La normativa europea (direttiva EPBD) impone adeguamenti progressivi agli edifici residenziali in classe F/G. Il gas non è allacciato alla rete, rendendo necessario un nuovo impianto termico completo (pompa di calore o allacciamento gas con caldaia: €8.000-20.000)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido in comune piccolo",
+          "dettaglio": "Vescovato conta circa 3.900 abitanti, è un piccolo comune della pianura cremonese. La domanda immobiliare è limitata e i tempi di rivendita molto lunghi. Il CTU stesso segnala 'mercato in fase di stallo': difficile recuperare l'investimento in caso di rivendita, adatta solo per uso personale stabile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Discrepanza superficie annuncio/perizia",
+          "dettaglio": "I 72 mq indicati nell'annuncio non corrispondono né ai 141 mq catastali né ai 155 mq commerciali CTU. Potrebbe trattarsi della sola superficie calpestabile dell'unità principale escludendo accessori, ma va verificato prima di formulare un'offerta per evitare sorprese sul bene effettivamente aggiudicato."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Conformità catastale e urbanistica",
+          "dettaglio": "Il CTU conferma la conformità catastale e l'edificio ante-1967 con condoni edilizi già perfezionati: nessuna irregolarità urbanistica residua da sanare. Questo aspetto è positivo e riduce i rischi legali post-acquisto."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Presenti almeno 5 ipoteche giudiziali iscritte a carico dell'esecutato (rilevate in sezione 5.5 perizia, pag. 17): tutti gli importi sono oscurati nei documenti pubblicati. Natura: ipoteche giudiziali da decreti ingiuntivi. Necessario richiedere visura ipotecaria aggiornata tramite cancelleria o conservatoria prima di partecipare.",
+        "spese_condominiali": "Non applicabile: trattasi di fabbricato in corte con parti comuni ex art. 1117 c.c. ma non risulta condominio formale. Verificare eventuali quote di spese comuni con i comproprietari delle parti comuni.",
+        "altri_oneri": "Pignoramento immobiliare trascritto (citato in perizia). Accettazione tacita di eredità trascritta (Gianluppi Marco rep. 19672/14022 del 22/11/2011). Nessun gravame da censo, livello o uso civico rilevato."
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "nessuno rilevato - immobile edificato ante-1967, condoni edilizi presentati e regolarizzati, conformità catastale verificata dal CTU; nessuna irregolarità urbanistica residua da sanare",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "L'operazione è economicamente svantaggiosa per un acquirente privato: il prezzo base di €17.719 sembra appetibile ma il costo di ristrutturazione completa (stimato €105.000-132.000) porta il totale dell'investimento a circa €125.000-150.000, ben oltre il valore di mercato post-ristrutturazione in un comune di 3.900 abitanti (stimato €65.000-80.000). Il prezzo base così basso (terza o ulteriore asta andata deserta) riflette esattamente questa antieconomicità. Unico scenario sensato: acquirente che vuole un'abitazione principale in zona a prezzi ultra-contenuti, capace di eseguire in proprio gran parte dei lavori, con budget disponibile per la ristrutturazione e accettando la perdita di valore sull'investimento. Prima di qualsiasi partecipazione è indispensabile: 1) ottenere visura ipotecaria aggiornata per quantificare le ipoteche; 2) chiarire la discrepanza di superficie (72 vs 155 mq); 3) consultare il piano di riparto/avviso vendita integrale. La perizia CTU è del 2023 (sopralluogo maggio 2023), quindi aggiornata. Anno costruzione: ante-1967."
+    },
+    "data_analisi": "2026-05-14",
+    "portaleaste_ref": "B2417121"
+  },
+  "portaleaste_B2416369": {
+    "id": "portaleaste_B2416369",
+    "source": "portaleaste",
+    "titolo": "Via E. Toti , 24  - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 175/2021 Rif. #B2416369",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 98600.0,
+    "data_asta": "21/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2416369",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/416904380c46e85da06e37b7018abf11/2355602-B?cd=true",
+      "https://documents.astalegale.net/file/2/549ca8716eb12aff55ebc4c70d19bca7/2355601-B?cd=true",
+      "https://documents.astalegale.net/file/2/029a52743e00df9469fc7e92a9aaaacb/2355604-B?cd=true",
+      "https://documents.astalegale.net/file/2/2e3d3f4a5e7ce8e5ec5a648eddf8e6fd/2355605-B?cd=true",
+      "https://documents.astalegale.net/file/2/0bec81be5840e493ca465542336a4e49/2355603-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2416369_doc1.pdf",
+      "output/pdf/portaleaste_B2416369_doc2.pdf",
+      "output/pdf/portaleaste_B2416369_doc3.pdf",
+      "output/pdf/portaleaste_B2416369_doc4.pdf",
+      "output/pdf/portaleaste_B2416369_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2355602 b avviso di vendita",
+      "2355601 b ordinanza",
+      "2355604 b perizia",
+      "2355605 b documento con foto",
+      "2355603 b certificazione energetica"
+    ],
+    "descrizione": "Piena proprietà di unità immobiliare composta da appartamento, cantina e box posta al terzo piano del Condominio Toti 24. Si compone di ingresso con scala comunicante all'appartamento al piano superiore, bagno privo di doccia, cucina abitabile, ed un grande locale divisibile per ottenere due stanze da letto doppie. APE con scadenza 21/01/2036 classe energetica G, EP gl. nren 371,77 kWh/mqa.  - Tipologia: Abitazione di tipo civile - Prezzo: € 98.600,00 - Data asta: 21/07/2026 - 17:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento al terzo piano con cantina e box (sub. 504 + sub. 8) in via Enrico Toti 24, Cremona, quartiere 'Po' (prima periferia). Immobile degli anni '60, stato manutentivo discreto ma con regolarità edilizia assente (opere abusive rilevate) e situazione catastale complessa a seguito di divisione giudiziale. Il prezzo base offre uno sconto reale limitato rispetto al valore di mercato corretto al netto dei costi di regolarizzazione.",
+      "comune_effettivo": "Cremona",
+      "dati_catastali": "Fg. 99, Part. 181, Sub. 504 - cat. A2, cl. 4 (appartamento, sup. catastale totale 133 mq, escluse aree scoperte 126 mq); Fg. 99, Part. 181, Sub. 8 - cat. C6, cl. 2 (box/autorimessa, sup. catastale 18 mq)",
+      "superficie_mq": 146,
+      "prezzo_al_mq": 675,
+      "prezzo_mercato_stimato": "800-1.100 €/mq (prima periferia Cremona, immobile anni '60 da aggiornare, classe G)",
+      "sconto_percentuale": "circa 15-25% rispetto al valore di mercato lordo (116.000 € CTU); sconto reale ulteriormente ridotto dai costi di regolarizzazione stimati ~10.677 € già detratti nella perizia per ottenere 98.637 €",
+      "anomalie": [
+        "Regolarità edilizia ASSENTE: la perizia CTU dichiara esplicitamente 'REGOLARITA' EDILIZIA: NO' e conferma la presenza di opere abusive (difformità nel layout interno e spostamento porta garage rispetto alla concessione edilizia originale del 1963 e all'autorizzazione del 1991).",
+        "L'aggiudicatario dovrà obbligatoriamente presentare, con delega della proprietà confinante (sub. 505, terzo estraneo), una CILA di frazionamento con conseguente SCIA di agibilità: questa necessità di cooperazione di un terzo è un elemento di incertezza procedurale non trascurabile.",
+        "Il sub. 23 originale è stato diviso in sub. 504 (oggetto dell'asta) e sub. 505 (assegnato a terzi, NON in vendita): l'ultimo stato legittimo dell'immobile contempla ancora le due unità unite, il che rende indispensabile la pratica di frazionamento.",
+        "Domanda giudiziale trascritta NON cancellabile (art. XVIII perizia): domanda di divisione giudiziale trascritta il 22/04/2024 ancora pendente, relativa ai beni nella consistenza individuata con part. 181/23 e 181/8, che potrebbe generare complicazioni o contestazioni successive al trasferimento.",
+        "Presenza storica di amianto segnalata: residui di lastre, camini e canne fumarie nel sottotetto condominiale (parti comuni); non quantificato il costo di bonifica, che grava potenzialmente sui millesimi condominiali.",
+        "Il diritto oggetto di espropriazione era 'piena proprietà 1/1 divisa in usufrutto 1/1 e nuda proprietà 1/1': la struttura proprietaria era complessa (donazione con riserva di usufrutto vitalizio), ora risolta dal decreto divisionale del 08/07/2025, ma con un comproprietario residente all'estero (Lussemburgo), elemento che potrebbe complicare eventuali comunicazioni future.",
+        "La superficie indicata nell'avviso d'asta (72 mq) è gravemente discordante rispetto alla superficie commerciale CTU (146 mq) e alla superficie catastale principale (126 mq netti): dato probabilmente riferito alla sola superficie principale ridimensionata, ma genera confusione e richiede chiarimento prima di fare offerta.",
+        "Assenza di certificato di conformità degli impianti elettrico e idro-sanitario: entrambi necessari per la SCIA di agibilità, con costi stimati di 400 € + 300 € per le dichiarazioni di rispondenza."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abuso edilizio e obbligo di CILA+SCIA con terzo",
+          "dettaglio": "L'immobile NON è regolare dal punto di vista edilizio. La sanatoria richiede una CILA di frazionamento e SCIA di agibilità che necessitano della collaborazione del proprietario del sub. 505 (terzo estraneo all'asta). Se tale soggetto non collabora, la pratica è bloccata. I costi stimati dalla CTU superano i 10.000 € (sanzioni, diritti, spese tecniche, dichiarazioni impianti, divisione fisica), ma senza la cooperazione del confinante il costo diventa imprevedibile o addirittura non ottenibile."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Domanda giudiziale pendente non cancellabile",
+          "dettaglio": "Risulta trascritta una domanda giudiziale di divisione (22/04/2024) che non sarà cancellata con il decreto di trasferimento. Sebbene la divisione sia già stata eseguita con decreto del 08/07/2025, la trascrizione potrebbe generare incertezze nella catena dei titoli o contestazioni future; è necessaria verifica legale approfondita prima dell'offerta."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da proprietario/debitore",
+          "dettaglio": "L'immobile è occupato dal debitore e dalla moglie. Non risultano contratti di locazione registrati (confermato dall'Agenzia delle Entrate). Lo sgombero avviene tramite decreto del GE: i tempi tipici sono 3-9 mesi, ma con un nucleo familiare residente i tempi possono allungarsi. Impatto: impossibilità di utilizzo/locazione immediata dopo l'aggiudicazione."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca giudiziaria elevata",
+          "dettaglio": "Ipoteca giudiziaria iscritta il 27/05/2021 per un capitale garantito di 500.000 € (totale garantito 100.000 € per la quota 1/2 di proprietà), oltre a pignoramento per 506.285,10 € di credito. L'importo del debito supera di gran lunga il prezzo base d'asta, ma le ipoteche e i pignoramenti anteriori si estinguono con la vendita forzata: l'acquirente non ne risponde. Tuttavia, il fatto che il debito sia così elevato rispetto al valore dell'immobile suggerisce che il creditore abbia interesse a rilanci minimi, riducendo il vantaggio per l'acquirente privato."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e impianti datati",
+          "dettaglio": "APE classe G (371,77 kWh/m²a), il peggior rating possibile. Il sistema di riscaldamento è a radiatori originali con caldaia tipo C. Per adeguare la prestazione energetica a standard moderni (almeno classe D per incentivi) sarebbero necessari interventi significativi (cappotto, sostituzione impianto): costo stimato 15.000-30.000 € almeno, non inclusi nei 10.677 € di regolarizzazione della CTU."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Amianto nelle parti comuni",
+          "dettaglio": "Presenza accertata di manufatti in amianto nel sottotetto condominiale (lastre, camini, canne fumarie). La bonifica è a carico del condominio e incide sui millesimi futuri: la quota dell'aggiudicatario è 77,83/1000 (71,50 appartamento + 6,33 box). Costo bonifica condominiale non quantificato; potrebbe generare spese straordinarie rilevanti nei prossimi anni."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Spese condominiali arretrate",
+          "dettaglio": "Il bilancio consuntivo 2024 certifica tutte le spese pagate: nessun arretrato condominiale rilevato. La spesa annua ordinaria è circa 1.400-1.750 €/anno (circa 116-146 €/mese), nella norma per un condominio di quel tipo. L'acquirente risponde degli ultimi 2 anni per legge, ma il rischio è minimo."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca giudiziaria iscritta il 27/05/2021 (Reg. Gen. 5095, Reg. Part. 703) a favore di creditore con sede a Milano (C.F. 10901920966), a garanzia di un capitale di 500.000 €, per un totale complessivo di 100.000 € sulla quota 1/2 di proprietà dei beni pignorati. Sarà cancellata con il decreto di trasferimento.",
+        "spese_condominiali": "Nessun arretrato rilevato (bilancio 2024 con tutte spese pagate). Spesa ordinaria annua stimata 1.400-1.750 €/anno (circa 120-145 €/mese) sulla quota di 77,83 millesimi.",
+        "altri_oneri": "Pignoramento trascritto il 02/11/2021 per 506.285,10 € oltre interessi (sarà cancellato). Annotazione per restrizione trascritta il 16/12/2025 (sarà cancellata). Domanda giudiziale di divisione trascritta il 22/04/2024 (NON sarà cancellata con il decreto di trasferimento - verificare impatto residuo). Nessun censo, livello o uso civico rilevato."
+      },
+      "occupazione": "occupato da proprietario",
+      "abusi_edilizi": "Presenti sanabili (con incertezza): difformità edilizie rispetto alla concessione n. 6A/1963 e all'autorizzazione del 02/12/1991 (layout interno modificato, spostamento porta garage). La sanatoria richiede SCIA con condono ex art. 34 DPR 380/2001 (sanzione pecuniaria 1.032 €) più CILA di frazionamento e SCIA di agibilità obbligatorie, con costi tecnici totali stimati dalla CTU in circa 10.677 € (inclusa separazione fisica dall'unità confinante). CRITICITÀ: la CILA di frazionamento richiede la cooperazione del proprietario del sub. 505 (terzo), rendendo la sanatoria condizionata a fattori esterni non controllabili dall'acquirente.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Edificio anni '60, telaio in c.a. e tamponamenti in muratura, stato manutentivo discreto (ristrutturazione anni '90, pavimenti in gres e marmo). L'immobile è più grande di quanto indicato nell'avviso (146 mq commerciali vs 72 mq pubblicizzati): verificare attentamente il bando prima di fare offerta. Lo sconto effettivo sul valore di mercato corretto è modesto (~15%): considerando i costi certi di regolarizzazione (10.677 €), i costi probabili di adeguamento energetico (15.000-30.000 €) e l'incertezza sulla cooperazione del confinante per la CILA, il margine si riduce sensibilmente. La vendibilità futura sarà condizionata alla risoluzione di tutte le difformità. Giudizio di vendibilità 'scarso' anche secondo la CTU stessa. Partecipare solo se si dispone di budget aggiuntivo di almeno 20.000-40.000 € per regolarizzazioni e adeguamenti, e solo dopo aver verificato legalmente lo stato della domanda giudiziale pendente."
+    },
+    "data_analisi": "2026-05-14",
+    "portaleaste_ref": "B2416369"
+  },
+  "portaleaste_B2417970": {
+    "id": "portaleaste_B2417970",
+    "source": "portaleaste",
+    "titolo": "Via Dosso, 7 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 8/2024 Rif. #B2417970",
+    "indirizzo": "",
+    "comune": "Grumello Cremonese ed Uniti",
+    "prezzo_base": 95625.0,
+    "data_asta": "22/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2417970",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/9edc8368d2a6b552d7d2455111a04292/2358601-C?cd=true",
+      "https://documents.astalegale.net/file/2/993b9d72cebf80a91000c2cbb1d3a987/2358600-C?cd=true",
+      "https://documents.astalegale.net/file/2/95758351668b544964a2dd780a3e5e61/2021803-C?cd=true",
+      "https://documents.astalegale.net/file/2/db2aea5b4f9d9402ff39d8b76a390704/2112468-B?cd=true",
+      "https://documents.astalegale.net/file/2/71c523c1b16270509c73cc4f87d5ad31/2021801-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2417970_doc1.pdf",
+      "output/pdf/portaleaste_B2417970_doc2.pdf",
+      "output/pdf/portaleaste_B2417970_doc3.pdf",
+      "output/pdf/portaleaste_B2417970_doc4.pdf",
+      "output/pdf/portaleaste_B2417970_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2358601 c avviso di vendita",
+      "2358600 c ordinanza",
+      "2021803 c perizia",
+      "2112468 b documento con foto",
+      "2021801 c certificazione energetica"
+    ],
+    "descrizione": "Il predetto si trova nella periferia sud-est del comune di Grumello Cremonese ed Uniti (CR), in via Dosso n.7 e consiste in una villa singola di mq 210, di due piani fuori terra, costruita nell’anno 1971 - con accessori ed area cortilizia in proprietà - eretta su un lotto di terreno di circa 960 mq.\nLe condizioni manutentive dell’immobile sono prevalentemente buone tranne che al piano terra dove il locale “taverna” è in condizioni mediocri ed il bagno da rifare.\nI serramenti al piano terra sono ",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Villa singola unifamiliare del 1971 su due piani (210 mq catastali, lotto 960 mq) in zona periferica di Grumello Cremonese ed Uniti, a 15 km da Cremona. Immobile occupato dall'esecutata con figli minori, con significative difformità edilizie sanabili ma costose (€63.638), classe energetica G e prezzo base di €95.625 rispetto a un valore lordo di mercato stimato €240.000. Lo sconto apparente è molto elevato ma deve essere letto al netto dei costi di sanatoria, liberazione e adeguamento.",
+      "comune_effettivo": "Grumello Cremonese ed Uniti",
+      "dati_catastali": "Foglio 24, Particella 55, Subalterno 3 – Categoria A/2, Classe 4, Vani 11, Rendita €624,91 – Comune di Grumello Cremonese ed Uniti (codice E217) – Piano T-1 – Via Dosso n. 7",
+      "superficie_mq": 210,
+      "prezzo_al_mq": 455,
+      "prezzo_mercato_stimato": "650-900 €/mq (comune provincia Cremona entro 15 km, zona periferica con scarsi servizi e calo demografico)",
+      "sconto_percentuale": "40% sul valore lordo CTU (€240.000); sconto reale netto post-sanatoria: circa 16% sul valore netto CTU di €170.000; considerando sanatoria + ristrutturazione necessaria lo sconto effettivo si riduce ulteriormente",
+      "anomalie": [
+        "Variazione catastale effettuata dal CTU il 10/02/2025 durante la procedura: l'ex autorimessa C/6 (mq 17) è stata fusa con l'unità abitativa A/2, generando la nuova particella 55/3 – il dato catastale è stato allineato allo stato di fatto abusivo, non a quello autorizzato",
+        "Il portale d'asta indica superficie 72 mq e comune 'Cremona': entrambi i dati sono ERRATI rispetto alla perizia CTU che indica 210 mq (senza aree esterne) e comune Grumello Cremonese ed Uniti – grave incongruenza informativa nel bando",
+        "Piano terra non conforme alla licenza edilizia n. 263/71: altezza interna innalzata da ml 2,40 a ml 2,70, rendendo abitabile un piano originariamente accessorio (+114 mq SLP, +305 mc di volume non autorizzati)",
+        "Ex autorimessa C/6 tamponata internamente e trasformata in camera da letto senza alcun titolo edilizio",
+        "Veranda al primo piano parzialmente chiusa con tamponamento in muratura e vetrata in alluminio incorporata nella cucina (+6 mq SLP, +19,8 mc non autorizzati)",
+        "Fabbricato accessorio esterno (ex pollai/ripostigli) privo di qualsiasi concessione o autorizzazione edilizia, parzialmente pericolante: il CTU ne prevede la demolizione obbligatoria",
+        "Voltura catastale non eseguita per 6 anni dopo il decesso del de cuius (2019-2025): il CTU ha dovuto provvedere d'ufficio in corso di perizia",
+        "APE redatto ex novo dal CTU durante la procedura in quanto assente: l'immobile era privo di certificazione energetica al momento del pignoramento"
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da esecutata con figli minori",
+          "dettaglio": "L'immobile è occupato dall'esecutata e dalla sua famiglia con minori. La presenza di minori rende il rilascio dell'immobile potenzialmente molto più complesso e lento: il giudice dell'esecuzione può subordinare la liberazione forzata a provvedimenti di tutela dei minori coinvolgendo servizi sociali e tribunale per i minorenni. I tempi reali di sgombero possono superare 18-24 mesi dall'aggiudicazione, con possibili opposizioni e interlocuzioni con più autorità giudiziarie."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Difformità edilizie – costi sanatoria elevati e incertezza esito",
+          "dettaglio": "Il CTU quantifica i costi di sanatoria in €63.638 (oblazione doppia €43.338, demolizione accessori €8.000, progetto €12.000, diritti €300). Tuttavia il CTU stesso avverte che la valutazione è 'orientativa e previsionale' e che l'ufficio tecnico comunale non ha ancora rilasciato un parere definitivo: l'esito della SCIA alternativa al PdC non è garantito. Se la sanatoria non fosse accettata, le difformità non sanabili impedirebbero future vendite e ipoteche. Costo minimo stimato €63.638, ma potenzialmente superiore."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G – costi di adeguamento",
+          "dettaglio": "EPgl,nren = 521,66 kWh/m²a, classe G (la peggiore). L'immobile del 1971 ha serramenti con vetri semplici su entrambi i piani, cassonetti non isolati, assenza di isolamento di facciata e sottotetto con macchie di muffa accertate. Per raggiungere standard minimi di efficienza (classe E/D) si stima un intervento sull'involucro opaco con pay-back 12 anni secondo l'APE. Costo stimato isolamento facciata + sostituzione serramenti: €20.000-40.000 aggiuntivi."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Mercato illiquido – scarsa rivalutazione",
+          "dettaglio": "Grumello Cremonese ed Uniti conta 1.748 abitanti con calo demografico del 10% nel decennio 2004-2024. Il CTU dichiara impossibile applicare il metodo MCA per assenza di comparabili recenti di ville singole, utilizzando un comparabile del 2019. Il mercato è definito 'medio/basso' con scarsi trasporti pubblici. La rivendita futura sarà difficile e i tempi lunghi, con rischio di deprezzamento ulteriore."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Bagno piano terra e locale taverna in pessime condizioni",
+          "dettaglio": "Il CTU descrive il bagno del piano terra con tazza WC con braga di scarico rotta, doccia dismessa, serramento in ferro arrugginito: richiede rifacimento completo. La taverna è in condizioni mediocri e priva di riscaldamento. Stima costo rifacimento bagno PT + interventi piano terra: €8.000-15.000."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Ipoteca giudiziale contenuta",
+          "dettaglio": "L'unica ipoteca iscritta è giudiziale a favore di IFIS NPL Spa per €56.611 (a garanzia di €54.404,63), iscritta nel 2019. Il prezzo base di €95.625 la copre ampiamente e si estinguerà con l'aggiudicazione. Non vi sono ipoteche volontarie bancarie né altri creditori ipotecari concorrenti rilevati."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca giudiziale derivante da decreto ingiuntivo iscritta il 19/04/2019 ai nn. 3428/477 per €56.611,13 (a garanzia di €54.404,63) a favore di IFIS NPL Spa (creditore procedente). Nessun'altra ipoteca risultante dalla perizia.",
+        "spese_condominiali": "Nessuna: immobile unifamiliare, non costituisce condominio.",
+        "altri_oneri": "Pignoramento trascritto il 01/02/2024 ai nn. 758/592 a favore di IFIS NPL Investing Spa. Nessun privilegio fiscale, servitù o censo emerso dalla perizia. Fabbricato accessorio esterno da demolire a carico dell'acquirente (costo stimato €8.000)."
+      },
+      "occupazione": "occupato da terzi (esecutata con figli minori, senza titolo dopo aggiudicazione)",
+      "abusi_edilizi": "Presenti sanabili (con incertezza): 1) Piano terra – innalzamento solaio interpiano da ml 2,40 a ml 2,70 con trasformazione di locali accessori in abitabili (+114 mq SLP, +305 mc): sanabile con SCIA alternativa al PdC, oblazione stimata €43.638; 2) Ex autorimessa trasformata in camera da letto senza titolo; 3) Veranda al 1° piano chiusa e inglobata nella cucina (+6 mq); 4) Fabbricato accessorio esterno (ex pollai) privo di concessione: NON sanabile per ragioni economiche e tecniche (sanatoria sismica, accordo confinanti), prevista demolizione obbligatoria. Costo totale stimato sanatoria + demolizione: €63.638.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Il prezzo base di €95.625 sembra appetibile rispetto al valore lordo CTU di €240.000, ma il calcolo reale per l'acquirente è ben diverso: prezzo base €95.625 + sanatoria €63.638 + rifacimento bagno/taverna PT €12.000 + adeguamento energetico minimo €25.000 + spese asta/registro ~€10.000 = costo totale stimato €206.000, pari a circa €981/mq su 210 mq, ben al di sopra dei valori OMI della zona (€650-900/mq). Lo sconto reale è quindi minimo o nullo una volta computati tutti i costi. L'immobile è costruito nel 1971, struttura in laterizio con orizzontamenti in latero-cemento, generalmente solida ma datata. La caldaia Chaffoteaux è del 2018 (libretto 2022), unico impianto recente. L'accesso avviene tramite ponte/tombinatura sulla roggia Malcorrente. Il fattore determinante che rende l'operazione rischiosa è la combinazione di: occupazione con minori (tempi liberazione imprevedibili), sanatoria di esito non garantito, mercato illiquido e costi di regolarizzazione che erodono quasi interamente il vantaggio di prezzo. Consigliabile solo a investitori con piena disponibilità finanziaria, tolleranza al rischio e orizzonte temporale di almeno 3-4 anni, dopo verifica diretta presso il Comune di Grumello sull'accettabilità della SCIA in sanatoria."
+    },
+    "data_analisi": "2026-05-15",
+    "portaleaste_ref": "B2417970"
+  },
+  "portaleaste_B2418328": {
+    "id": "portaleaste_B2418328",
+    "source": "portaleaste",
+    "titolo": "Frazione Castelponzone - Via Storta, 3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 33/2023 Rif. #B2418328",
+    "indirizzo": "",
+    "comune": "Scandolara Ravara",
+    "prezzo_base": 21001.46,
+    "data_asta": "15/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2418328",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/3d5907fbe06e4c37be391198eaf67f00/2360067-B?cd=true",
+      "https://documents.astalegale.net/file/2/c5d768a18a30d6f2563955907c4c2510/2360066-B?cd=true",
+      "https://documents.astalegale.net/file/2/ac74bf5d5b7d067e2320e4379bd6ea35/1526324-D?cd=true",
+      "https://documents.astalegale.net/file/2/70663c7d10319781c67fe627c0f85bd6/1526325-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2418328_doc1.pdf",
+      "output/pdf/portaleaste_B2418328_doc2.pdf",
+      "output/pdf/portaleaste_B2418328_doc3.pdf",
+      "output/pdf/portaleaste_B2418328_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2360067 b avviso di vendita",
+      "2360066 b ordinanza",
+      "1526324 d perizia",
+      "1526325 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di un’abitazione posta su due piani fuori terra con annessa area cortilizia e porticato.\nL’abitazione disposta su due piani fuori terra è costituita da: ingresso con vano scale, cucina abitabile, zona pranzo e soggiorno, al piano primo vi è un disimpegno che collega due stanze da letto matrimoniali, ripostiglio e bagno, il tutto con annesso un portico ed area cortilizia.\nPer i beni identificati al fg. 5 mapp. 237 subalterno 503 e stato redatto\nAPE codice identificativo 1909200004",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Casa autonoma su due piani fuori terra con portico e area cortilizia, ubicata nella frazione rurale di Castelponzone (comune di Scandolara Ravara, CR), anno di costruzione ante 1945, discreto stato conservativo ma con evidenti problemi di umidità e impianti obsoleti. Il prezzo base di €21.001 appare estremamente basso rispetto al valore di stima CTU di €118.000, ma l'immobile è occupato da terzo non identificato e la vendibilità è giudicata 'scarsa' dal perito.",
+      "comune_effettivo": "Scandolara Ravara",
+      "dati_catastali": "Foglio 5, Mappale 237, Subalterno 503, Categoria A/2, Classe 4, Rendita €464,81 (abitazione); Foglio 5, Mappale 495, Subalterno 501 (portico annesso) - Comune di Scandolara Ravara (CR)",
+      "superficie_mq": 182,
+      "prezzo_al_mq": 115,
+      "prezzo_mercato_stimato": "450-650 €/mq (Scandolara Ravara, zona residenziale paese, stato normale, dati OMI 2023)",
+      "sconto_percentuale": "97% rispetto al valore CTU (€118.000); ~83% rispetto al valore di mercato minimo OMI (450 €/mq × 182 mq ≈ €81.900). Attenzione: il prezzo base di €21.001 è probabilmente il risultato di riduzioni successive e riflette la scarsa vendibilità dell'immobile.",
+      "anomalie": [
+        "La superficie indicata nel bando d'asta (72 mq) è gravemente difforme dalla superficie commerciale CTU (181,91 mq) e dalla superficie catastale (178 mq totali, 170 mq escluse aree scoperte): divario superiore al 100%, segnale di dati pubblicitari errati o riferiti alla sola superficie principale senza pertinenze.",
+        "Assenza totale del certificato di agibilità/abitabilità: la ricerca comunale ha dato esito negativo. L'immobile è privo di questo documento fondamentale, il che complica future vendite, locazioni e accesso a mutui.",
+        "La copertura del tetto principale e del portico è in lastre di fibrocemento contenente presumibilmente amianto (fibrocemento ondulato): rimozione obbligatoria con oneri significativi.",
+        "Impianti non certificati: nessuna certificazione di conformità degli impianti elettrico, idraulico e di riscaldamento (caldaia tipo B vetusta, anno installazione 1970 da APE). Tutti gli impianti sono da considerarsi non a norma e da rifare.",
+        "Anno costruzione ante 1945 (APE indica 1930-1945): edificio in muratura pesante senza isolamento termico, strutturalmente datato.",
+        "La perizia CTU utilizza un unico comparabile (prezzo richiesto, non atto di compravendita reale) per la stima di mercato, con nota esplicita che 'non sono stati reperiti atti di compravendita negli ultimi 18 mesi nel medesimo segmento': metodologia valutativa debole, valore di stima da considerare indicativo.",
+        "Il prezzo base €21.001 è significativamente inferiore al valore CTU €118.000 (stiamo probabilmente ad un'asta ridotta al ribasso): verificare il numero di esperimenti precedenti e le riduzioni applicate."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Occupazione da terzi non identificati",
+          "dettaglio": "Al momento del sopralluogo CTU (09/2023) l'immobile era occupato da persona non identificata (presumibilmente il figlio della proprietaria-debitrice, nato 1989). Non risulta contratto di locazione registrato né titolo formale. La liberazione richiede decreto di rilascio del giudice dell'esecuzione post-aggiudicazione: tempi stimati 6-18 mesi, con possibili resistenze. Rischio di danni all'immobile durante il periodo di occupazione."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Amianto nella copertura",
+          "dettaglio": "Il tetto principale e il portico hanno copertura in lastre di fibrocemento identificate come probabilmente contenenti amianto. La bonifica è obbligatoria per legge prima di qualsiasi ristrutturazione: costo stimato rimozione e smaltimento 3.000-8.000€ per una superficie di questa entità, oltre all'obbligo di rifacimento completo del manto di copertura (ulteriori 15.000-30.000€ per tetto e portico)."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza agibilità/abitabilità",
+          "dettaglio": "Nessun certificato di agibilità reperibile. Senza questo documento l'immobile non può essere affittato regolarmente, non può essere oggetto di mutuo ipotecario da parte dell'acquirente, e le future compravendite saranno difficoltose. Il rilascio del certificato richiede la regolarizzazione di tutti gli impianti e potenzialmente interventi strutturali: costi e tempi incerti (stima minima 5.000-15.000€ in onorari e pratiche, più eventuali adeguamenti)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica F e impianti obsoleti",
+          "dettaglio": "APE classe F (282,19 kWh/mq anno), caldaia anno 1970 tipo B (non più conforme alle norme), impianto elettrico senza certificazione. Un adeguamento energetico minimo (isolamento involucro + nuova caldaia + impianti) richiederebbe 30.000-60.000€ su una superficie di 165 mq. La direttiva europea Case Green impone progressivi obblighi di adeguamento energetico entro 2030-2033."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Bassa vendibilità e mercato illiquido",
+          "dettaglio": "Il CTU stesso giudica la vendibilità 'scarsa': nessun atto di compravendita comparabile negli ultimi 18 mesi nella zona, mercato con domanda privata molto ridotta. Scandolara Ravara è un piccolo comune con scarsi servizi, difficile rivendita futura. L'investimento è difficilmente liquidabile in tempi brevi senza significative perdite."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Umidità e stato manutentivo carente",
+          "dettaglio": "Le fotografie mostrano evidenti macchie di umidità e distacchi di intonaco nelle camere da letto e in altri locali. Il soggiorno è in stato di abbandono. Costo stimato per risanamento umidità e rifacimento finiture interne: 10.000-20.000€ aggiuntivi rispetto alla ristrutturazione ordinaria."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca rilevata: l'ispezione ipotecaria (Allegato E, data 04/01/2024, periodo 20/03/2023-04/01/2024) riporta 'non è stato reperito nessun immobile a fronte dei dati della richiesta'. L'ispezione per dati anagrafici del soggetto debitore riporta anch'essa esito negativo. Attenzione: l'ispezione copre solo il periodo informatizzato; il creditore procedente è Leviticus SPV Srl (cessionario di crediti).",
+        "spese_condominiali": "Nessuna: l'edificio non appartiene ad alcun condominio. Nessun arretrato condominiale.",
+        "altri_oneri": "Nessun pignoramento, privilegio fiscale, servitù o vincolo reale emerso dalla documentazione. Verificare eventuali debiti tributari/IMU pregressi non rilevati dall'ispezione ipotecaria."
+      },
+      "occupazione": "occupato da terzi (senza titolo formale accertato - presumibilmente figlio della proprietaria-debitrice)",
+      "abusi_edilizi": "nessuno rilevato: il CTU ha accertato la corrispondenza dello stato dei luoghi con le pratiche edilizie depositate (concessione 1987, DIA 1990, DIA 1999, DIA 2004). Conformità catastale e urbanistica confermate. La pratica DIA 2004 risulta regolarmente collaudata.",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Il prezzo base di €21.001 offre uno sconto teorico eccezionale sul valore CTU (€118.000), ma il contesto presenta complessità operative rilevanti. Il costo reale di acquisto va stimato in: prezzo aggiudicazione + imposta registro (9% se seconda casa, ~1.890€ sul prezzo base) + spese procedura (~2.500-5.000€) + rimozione amianto (5.000-10.000€) + rifacimento impianti (20.000-30.000€) + risanamento umidità (10.000-15.000€) + eventuale pratica agibilità (5.000-15.000€) = investimento totale minimo stimato €65.000-100.000 per un immobile che vale €81.000-118.000 a lavori completati, in un mercato illiquido. L'operazione è conveniente solo per chi ha capacità operative proprie (impresa edile) e tolleranza alle incertezze della liberazione dell'immobile (potenzialmente 12-18 mesi). Per un acquirente privato senza esperienza specifica, i rischi operativi e i tempi di attesa rendono l'operazione borderline. La superficie indicata nel portale (72 mq) è errata: la superficie commerciale reale è circa 182 mq. Anno di costruzione 1930-1945. Il comune di Scandolara Ravara dista circa 20 km da Cremona città, con servizi molto limitati."
+    },
+    "data_analisi": "2026-05-18",
+    "portaleaste_ref": "B2418328"
+  },
+  "portaleaste_B2417242": {
+    "id": "portaleaste_B2417242",
+    "source": "portaleaste",
+    "titolo": "Via Rizzo , 6 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 207/2024 Rif. #B2417242",
+    "indirizzo": "",
+    "comune": "Pizzighettone",
+    "prezzo_base": 63750.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2417242",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/edec834a50b384c44677aefe2c1c4077/2363222-B?cd=true",
+      "https://documents.astalegale.net/file/2/c1e8a3982ebda88e1c12d3fde3ccd66f/2363221-B?cd=true",
+      "https://documents.astalegale.net/file/2/33665b996781eb37eab4437db7a81eb4/2197236-B?cd=true",
+      "https://documents.astalegale.net/file/2/4bfa93c72908ae933cae47cef6eb8447/2197233-B?cd=true",
+      "https://documents.astalegale.net/file/2/77e688a937388c6bf6ae4c9cfee104fa/2197234-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2417242_doc1.pdf",
+      "output/pdf/portaleaste_B2417242_doc2.pdf",
+      "output/pdf/portaleaste_B2417242_doc3.pdf",
+      "output/pdf/portaleaste_B2417242_doc4.pdf",
+      "output/pdf/portaleaste_B2417242_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2363222 b avviso di vendita",
+      "2363221 b ordinanza",
+      "2197236 b perizia",
+      "2197233 b documento con foto",
+      "2197234 b dati catastali"
+    ],
+    "descrizione": "Piena proprietà di appartamento sposto al secondo piano di edificio condominiale composto da ingresso-soggiorno, cucina, disimpegno, bagno, due camere, due balconi e autorimessa posta al piano sottostrada.  - Tipologia: Abitazione di tipo civile - Prezzo: € 63.750,00 - Data asta: 23/07/2026 - 16:40",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Appartamento di 4 locali al piano secondo con box singolo al piano S1, in palazzina condominiale anni '80 in zona residenziale di Pizzighettone (CR), in discreto stato conservativo. Il CTU stima il valore di mercato a €85.000 e il prezzo base d'asta è €63.750, con uno sconto teorico del 25% sul valore periziato. L'immobile è libero, regolare urbanisticamente e senza ipoteche iscritte, ma presenta classe energetica G e spese condominiali arretrate.",
+      "comune_effettivo": "Pizzighettone",
+      "dati_catastali": "Appartamento: Foglio 21, mappale 555, subalterno 19, categoria A/3, classe 5, 5,5 vani, 89 mq, rendita €340,86. Autorimessa: Foglio 21, mappale 555, subalterno 34, categoria C/6, classe 5, 16 mq, rendita €25,62",
+      "superficie_mq": 88,
+      "prezzo_al_mq": 724,
+      "prezzo_mercato_stimato": "650-1.050 €/mq (zona residenziale Pizzighettone, stato normale, dati OMI 2024 S2)",
+      "sconto_percentuale": "25% sul valore CTU (€85.000); circa 20-30% sulla fascia bassa del mercato OMI (€650-1.050/mq)",
+      "anomalie": [
+        "La perizia CTU riporta una superficie commerciale di 87,57 mq (box incluso al 50%), mentre il bando d'asta indica 72 mq: discrepanza di circa 18% che potrebbe indicare un calcolo diverso della superficie o un errore nell'annuncio; verificare prima di partecipare.",
+        "I dati catastali nella scheda riepilogativa inizialmente riportavano 83 mq per l'appartamento (piano 2), mentre i dati aggiornati indicano 89 mq: il CTU ha proceduto ad aggiornamento planimetrico nel maggio 2025, confermando la non corrispondenza delle vecchie planimetrie con lo stato di fatto per entrambe le UIU.",
+        "APE con data 12/10/2016, valida fino al 12/10/2026: tecnicamente ancora valida ma prossima alla scadenza, classe G (302,58 kWh/mq anno), indice di inefficienza energetica elevata.",
+        "Il comparabile utilizzato per la valutazione è un solo atto di compravendita (quota 1/2 di appartamento simile venduta a €45.000, proiettata a €90.000 per l'intero): la base comparativa è molto ristretta e il CTU stesso lo segnala, rendendo la stima di €85.000 poco robusta.",
+        "Spese condominiali arretrate al 30/06/2024 di €4.516,16: importo significativo rispetto al valore dell'immobile, l'acquirente risponde degli ultimi 2 anni per legge (art. 63 disp. att. c.c.)."
+      ],
+      "rischi": [
+        {
+          "livello": "🟡",
+          "tipo": "Classe energetica G e impianti datati",
+          "dettaglio": "L'immobile è classificato in classe G con 302,58 kWh/mq/anno: costi energetici elevati e obblighi di adeguamento progressivi per le direttive europee (EPBD). L'impianto elettrico risale all'epoca di costruzione (1981) e la caldaia è descritta come 'datata': probabili interventi su impianti per €8.000-15.000, più eventuale cappotto/sostituzione infissi per efficientamento termico (€15.000-30.000 per intervento completo)."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Spese condominiali arretrate",
+          "dettaglio": "Arretrati condominiali di €4.516,16 al 30/06/2024: l'acquirente in asta risponde solidalmente per gli arretrati degli ultimi 2 anni (art. 63 disp. att. c.c.), quindi potenzialmente esposizione per l'intero importo. Spese annue ordinarie di soli €550, onere contenuto a regime."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Liquidità del mercato di Pizzighettone",
+          "dettaglio": "Il CTU segnala espressamente che è stato reperito un solo atto comparabile negli ultimi 18 mesi, definendo il mercato come 'concorrenza monopolistica ristretta' con prezzi stazionari. La rivendibilità futura è incerta e i tempi di collocazione potrebbero essere lunghi (12-24 mesi), riducendo il vantaggio dello sconto."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Regolarità urbanistica e catastale",
+          "dettaglio": "Conformità urbanistica e catastale confermate dal CTU dopo aggiornamento planimetrico eseguito nel maggio 2025. Nessun abuso edilizio rilevato, abitabilità regolare (1997), nessuna sanatoria necessaria."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Assenza di ipoteche e gravami",
+          "dettaglio": "L'ispezione ipotecaria del 01/07/2025 non ha rilevato note pregiudizievoli sugli immobili. Nessuna ipoteca, nessun pignoramento aggiuntivo, nessuna causa in corso: situazione molto pulita sul fronte dei gravami."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Nessuna ipoteca rilevata (ispezione ipotecaria telematica del 01/07/2025 negativa)",
+        "spese_condominiali": "Arretrati al 30/06/2024: €4.516,16 (a carico acquirente per gli ultimi 2 anni ex art. 63 disp. att. c.c.); spese ordinarie annue: €550,00 (millesimi 52)",
+        "altri_oneri": "Nessuno rilevato; nessuna causa in corso, nessuna servitù o vincolo segnalati"
+      },
+      "occupazione": "libero",
+      "abusi_edilizi": "nessuno rilevato (corrispondenza confermata dal CTU per appartamento e box con le pratiche edilizie depositate al Comune di Pizzighettone; aggiornamento planimetrico eseguito nel maggio 2025)",
+      "giudizio_finale": "PROCEDERE CON CAUTELA",
+      "giudizio_colore": "🟡",
+      "note_aggiuntive": "Anno di costruzione 1981, abitabilità 1987, riscaldamento autonomo a gas (caldaia datata da sostituire), impianto elettrico originale, serramenti in legno con doppio vetro da sostituire. La perizia è recentissima (data valutazione 25/07/2025, sopralluogo 18/02/2025), quindi i valori sono aggiornati. Il prezzo base di €63.750 corrisponde a circa €724/mq commerciale, inferiore al range OMI di Pizzighettone (€650-1.050/mq stato normale): lo sconto è reale ma non eccezionale, attestandosi intorno al 25% sul valore CTU. Attenzione alla discrepanza tra la superficie indicata nel bando (72 mq) e quella commerciale della perizia (87,57 mq): verificare con il delegato alle vendite quale superficie sia corretta prima di offrire. Immobile adatto come prima casa per chi lavora nell'area Cremona-Pizzighettone o come investimento a basso rendimento; da escludere per chi cerca un'operazione speculativa rapida per la scarsa liquidità del mercato locale."
+    },
+    "data_analisi": "2026-05-20",
+    "portaleaste_ref": "B2417242"
+  },
+  "portaleaste_B2415607": {
+    "id": "portaleaste_B2415607",
+    "source": "portaleaste",
+    "titolo": "Frazione Pellegra - Via Villa Battaglia, 11 - Lotto Unico - Tribunale di Cremona - Procedure concorsuali / Fallimentare 65/2015 Rif. #B2415607",
+    "indirizzo": "",
+    "comune": "Castelleone",
+    "prezzo_base": 99500.0,
+    "data_asta": "23/07/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2415607",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/651445c6dd24807c843a088ccd834a7b/2362940-B?cd=true",
+      "https://documents.astalegale.net/file/2/ae9e5c05a144e6946774797ba9dbf772/2362981-B?cd=true",
+      "https://documents.astalegale.net/file/2/4f8c75c4fd72c7ef4a2a07d84569ba22/2362982-B?cd=true",
+      "https://documents.astalegale.net/file/2/1ae543a00f3bfd5de55525770c9bc752/2362941-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2415607_doc1.pdf",
+      "output/pdf/portaleaste_B2415607_doc2.pdf",
+      "output/pdf/portaleaste_B2415607_doc3.pdf",
+      "output/pdf/portaleaste_B2415607_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2362940 b avviso di vendita",
+      "2362981 b perizia",
+      "2362982 b documento con foto",
+      "2362941 b certificazione energetica"
+    ],
+    "descrizione": "Grande abitazione su tre livelli con porzioni al rustico in ampliamento non ultimate, tra cui box pertinenziale. Grandi giardini esclusivi su fronte e retro. - Tipologia: Abitazione di tipo civile - Prezzo: € 99.500,00 - Data asta: 23/07/2026 - 10:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "analisi_ai": {
+      "sintesi": "Grande abitazione su tre livelli (ex case coloniche) in frazione Pellegra di Castelleone (CR), circa 3 km dal centro, con box pertinenziale e ampi giardini esclusivi. L'immobile presenta numerosi abusi edilizi sia sanabili che non sanabili, impianti non a norma e porzioni ancora al rustico; la perizia CTU è molto recente (settembre 2025) e aggiornata. Il prezzo base di €99.500 appare competitivo sul valore stimato dal CTU (€117.000), ma la superficie reale è ben superiore ai 72 mq indicati nell'annuncio, e i costi di regolarizzazione e demolizione sono significativi.",
+      "comune_effettivo": "Castelleone",
+      "dati_catastali": "Foglio 31, Mappale 41, Sub. 501 (cat. A7, classe 4, 19 vani, sup. catastale 529 mq) e Sub. 502 (cat. C6, classe 3, 42 mq, sup. catastale 47 mq) - Comune di Castelleone (CR)",
+      "superficie_mq": 529,
+      "prezzo_al_mq": 188,
+      "prezzo_mercato_stimato": "220-400 €/mq (frazione rurale di Castelleone, immobile da ristrutturare/regolarizzare con ampie pertinenze; CTU stima €220,50/mq con metodo del costo di costruzione deprezzato)",
+      "sconto_percentuale": "15% sul valore CTU (€117.000); rispetto a un valore di mercato autonomamente stimabile a €130.000-150.000 considerando la superficie reale e lo stato, lo sconto effettivo è del 15-33%, ma i costi di regolarizzazione (≥€51.000) erodono significativamente il vantaggio",
+      "anomalie": [
+        "La superficie indicata nell'annuncio (72 mq) è gravemente divergente dalla superficie catastale reale (529 mq sub. 501 + 47 mq sub. 502): probabile errore nell'annuncio o riferimento a sola superficie catastale di una sub-unità precedente; la superficie totale del mappale unificato è di 2.926 mq lordi.",
+        "La perizia CTU è stata incaricata nel 2016 ma continuamente aggiornata fino al 15/09/2025 a causa di complessità catastali e cause di usucapione: la stima finale è aggiornata, ma la storia procedurale decennale segnala straordinaria complessità dell'immobile.",
+        "Presenza di abusi edilizi NON sanabili con obbligo di demolizione a carico dell'aggiudicatario: piscina, portico a confine (mapp. 34-42-139), locale attrezzi con bagno sul mapp. 34, torretta non autorizzata sul mapp. 41 - costi demolizione stimati €16.847,40.",
+        "Concessione Edilizia n. 31/1988 mai ultimata e priva di richiesta di certificato di agibilità: l'intero edificio ampliato non ha agibilità.",
+        "Numerose difformità catastali sostanziali: mapp. 44 e 140 demoliti senza denuncia, ampliamenti verso nord non registrati, mancata fusione catastale delle particelle originarie mai eseguita fino agli aggiornamenti del 2025.",
+        "Mancanza formale di accettazione dell'eredità per un passaggio di proprietà (successione 1975): la catena di provenienza presenta un'anomalia formale.",
+        "La comproprietà del muretto di cinta con il mapp. 33 risulta da scrittura privata del 1992 non registrata né trascritta: vincolo reale di dubbia opponibilità.",
+        "Presenza potenziale di amianto/eternit nel manto di copertura non verificabile tecnicamente: rischio di bonifica ambientale a costi indeterminati.",
+        "Alcuni vani (soggiorno, seconda camera doppia, grande camera padronale, bagno privato mansarda) non rispettano i requisiti minimi di R.A.I. (1/8) e altezza minima (2,70 m / 2,40 m): il bagno in mansarda può essere destinato solo a ripostiglio.",
+        "Tutti gli impianti (riscaldamento, elettrico, idrico-sanitario) sono privi di certificazione di conformità e non rispondono alla normativa vigente."
+      ],
+      "rischi": [
+        {
+          "livello": "🔴",
+          "tipo": "Abusi edilizi non sanabili con obbligo di demolizione",
+          "dettaglio": "Piscina, portico a confine ovest, locale attrezzi con bagno e torretta sul mapp. 41 devono essere obbligatoriamente demoliti in quanto ricadenti in zona agricola E1 (non sanabili). Il CTU stima i costi di demolizione in €16.847,40, ma avverte che la verifica statica per la futura agibilità è a costo indeterminato e che potrebbero emergere ulteriori oneri. L'aggiudicatario dovrà eseguire queste demolizioni e successivi aggiornamenti catastali prima di poter ottenere qualsiasi titolo abitativo."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Assenza di agibilità e impianti non a norma",
+          "dettaglio": "La C.E. 31/1988 non è mai stata ultimata e non è stata mai richiesta l'agibilità: l'intero edificio è tecnicamente privo di abitabilità formale. Tutti gli impianti (elettrico, riscaldamento, idrico-sanitario) sono privi di certificazione; la caldaia è dismessa e l'impianto elettrico dovrà essere completamente rifatto. Il costo per ottenere l'agibilità richiede: sanatoria (€34.520,93), demolizioni (€16.847,40), rifacimento impianti (stimabile €30.000-50.000), verifica statica strutturale (costo non determinabile): totale stimabile €80.000-100.000 aggiuntivi."
+        },
+        {
+          "livello": "🔴",
+          "tipo": "Complessità catastale e urbanistica straordinaria",
+          "dettaglio": "Dopo 9 anni di attività peritale (2016-2025), la situazione catastale è stata parzialmente sanata con aggiornamenti DOCFA e tipo mappale del 2025, ma residuano operazioni catastali post-demolizione a carico dell'aggiudicatario (tipo mappale in deroga). La perizia stessa avverte che non si possono dare certezze sulla sanatoria per condizioni imprevedibili sull'impianto elettrico e per la verifica statica. Rischio di ulteriori sorprese in fase esecutiva."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Occupazione da vedova del fallito",
+          "dettaglio": "L'immobile è attualmente occupato dalla vedova del titolare della ditta fallita (deceduto il 27/11/2021). Non vi sono contratti di locazione registrati (confermato da AdE). Trattandosi di occupazione senza titolo contrattuale, la liberazione richiede decreto del giudice: stimabile 6-18 mesi, con possibile resistenza. La vedova risiede nell'immobile come residenza familiare, il che può aumentare la conflittualità procedurale."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Ipoteca volontaria residua",
+          "dettaglio": "Ipoteca volontaria a favore di Banca Popolare di Crema iscritta nel 2008 per €500.000 totali complessivi (capitale €250.000 al 5,586% per 10 anni). La durata del mutuo era 10 anni dal 2007, quindi teoricamente scaduto nel 2017, ma l'iscrizione ipotecaria resta formalmente attiva fino a cancellazione. In procedura fallimentare, l'ipoteca si estinguerà con il decreto di trasferimento, ma va verificato che il prezzo base (€99.500) sia considerato sufficiente dalla procedura per soddisfare o purgare il creditore ipotecario."
+        },
+        {
+          "livello": "🟡",
+          "tipo": "Possibile presenza amianto/eternit",
+          "dettaglio": "Il CTU non ha potuto escludere la presenza di fibrocemento-amianto nel manto di copertura, nelle canne fumarie o in tubazioni, dato il periodo di ristrutturazione (anni '80-'90). Una bonifica amianto su una copertura di questa dimensione può costare €10.000-30.000 e richiede ditte specializzate con autorizzazioni specifiche."
+        },
+        {
+          "livello": "🟢",
+          "tipo": "Causa usucapione risolta favorevolmente",
+          "dettaglio": "La sentenza di usucapione n. 582/2024 del Tribunale di Cremona, trascritta l'08/01/2025, ha riconosciuto al fallimento la proprietà dei mappali 35-43-141 e del mapp. 44 precedentemente intestati al nonno del fallito: il titolo di proprietà è ora consolidato e non vi sono terzi rivendicanti diritti sui beni oggetto di asta."
+        }
+      ],
+      "oneri": {
+        "ipoteche": "Ipoteca volontaria di €500.000 complessivi (capitale €250.000 al 5,586% per 10 anni) iscritta l'11/01/2008 a favore di Banca Popolare di Crema S.p.A. (C.F. 04114050968); con annotazione di sospensione rate del 15/09/2014. Si estinguerà con il decreto di trasferimento in sede fallimentare.",
+        "spese_condominiali": "Nessuna: l'immobile non fa parte di un condominio.",
+        "altri_oneri": "Atto giudiziario di fallimento trascritto il 29/02/2016 e aggiornamento del 04/08/2025 (originante la procedura concorsuale, non opponibile all'acquirente). Comproprietà muretto di cinta con mapp. 33 da scrittura privata non registrata del 1992 (vincolo reale di dubbia opponibilità). Obblighi di demolizione di opere non sanabili a carico dell'aggiudicatario (piscina, portico, torretta, locale attrezzi). Operazioni catastali post-demolizione a carico dell'aggiudicatario."
+      },
+      "occupazione": "occupato da terzi (vedova del fallito deceduto, senza titolo contrattuale registrato)",
+      "abusi_edilizi": "Presenti sanabili e non sanabili. SANABILI (costo oneri amministrativi €34.520,93 + opere edilizie per adeguamento igienico-sanitario): ampliamenti su mapp. 41, 42, 43, 152 rispetto alla C.E. 31/1988; chiusura soffitta a camera; lastre solari in copertura; difformità interne su R.A.I. e altezze (derogabili con interventi edilizi). NON SANABILI (demolizione obbligatoria, costo €16.847,40): piscina tra mapp. 139 e 35, portico a confine ovest su mapp. 34-42-139 (zona agricola E1), locale attrezzi con bagno su mapp. 34, torretta non autorizzata su mapp. 41. Ulteriori interventi obbligatori: arretramento parapetti terrazza a piano primo e copertura (1,5 m lineari) per rispetto distanze da confine (art. 905 c.c.), oppure convenzione con vicino.",
+      "giudizio_finale": "SCONSIGLIATO",
+      "giudizio_colore": "🔴",
+      "note_aggiuntive": "L'immobile è una grande villa rurale su tre livelli con giardini e box, potenzialmente attraente per chi cerca una proprietà isolata con spazi generosi in provincia di Cremona. Tuttavia, il costo reale all'acquirente è: €99.500 (prezzo base) + €34.521 (sanatoria amministrativa) + €16.847 (demolizioni obbligatorie) + €30.000-50.000 (rifacimento impianti) + €10.000-30.000 (possibile bonifica amianto) + costi legali per liberazione (€3.000-8.000) + verifica statica strutturale (costo indeterminato, ma potenzialmente elevata su edificio modificato più volte) = totale stimato €194.000-238.000 minimi, contro un valore di mercato post-regolarizzazione stimato dal CTU di €117.000. Il valore CTU di €220,50/mq risulta già comprensivo delle detrazioni per oneri di regolarizzazione: il prezzo reale all'acquirente supera quindi il valore di mercato stimato. Classe energetica D (APE del 11/07/2025). L'immobile è privo di agibilità e non è abitabile legalmente nell'immediato. La perizia stessa giudica la vendibilità 'sufficiente' motivandola con ubicazione isolata e necessità di demolizioni. La scarsità di comparabili nella zona (solo 2 compravendite negli ultimi 2 anni, di bassa metratura) rende il valore di stima poco affidabile sul mercato. Tempi stimati per rendere l'immobile agibile: 2-4 anni considerando iter sanatoria, demolizioni, rifacimento impianti, verifica statica e liberazione dall'occupante."
+    },
+    "data_analisi": "2026-05-20",
+    "portaleaste_ref": "B2415607"
   }
 }

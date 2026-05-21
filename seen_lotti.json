@@ -1555,5 +1555,47 @@
     },
     "data_analisi": "2026-05-20",
     "portaleaste_ref": "B2415607"
+  },
+  "portaleaste_B2418955": {
+    "id": "portaleaste_B2418955",
+    "source": "portaleaste",
+    "titolo": "Via Attilio Boldori, 8 - Lotto 4 - Tribunale di Cremona - Procedure concorsuali / Liquidazione giudiziale (CCI) 14/2023 Rif. #B2418955",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 17507.82,
+    "data_asta": "18/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2418955",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/c81e87e4a961728b0d0995a5f2934b72/2364702-B?cd=true",
+      "https://documents.astalegale.net/file/2/cfa685b3696732177054f420710c8365/2364701-B?cd=true",
+      "https://documents.astalegale.net/file/2/47f29444c4bc4f77f3911ad2d911c968/2364695-B?cd=true",
+      "https://documents.astalegale.net/file/2/9ac17fdb9d8c0a7fcedf48bfa6c35642/2364696-B?cd=true",
+      "https://documents.astalegale.net/file/2/c6295dd7fb0c4a8db1471281c7348f05/2364697-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2418955_doc1.pdf",
+      "output/pdf/portaleaste_B2418955_doc2.pdf",
+      "output/pdf/portaleaste_B2418955_doc3.pdf",
+      "output/pdf/portaleaste_B2418955_doc4.pdf",
+      "output/pdf/portaleaste_B2418955_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2364702 b ordinanza",
+      "2364701 b perizia",
+      "2364695 b documento con foto",
+      "2364696 b documento con foto",
+      "2364697 b documento con foto"
+    ],
+    "descrizione": "edificio in linea - Tipologia: Abitazione di tipo civile - Prezzo: € 17.507,82 - Data asta: 18/09/2026 - 10:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2418955",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbFbgCBJARwvjNiFwG4FJ'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-21"
   }
 }

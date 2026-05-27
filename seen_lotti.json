@@ -1592,10 +1592,94 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2418955",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbPEP5CTvW3Yksd8NNgrf'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbSzv4YGpLpiTg2ynqzxE'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-05-25"
+    "data_analisi": "2026-05-27"
+  },
+  "portaleaste_B2419936": {
+    "id": "portaleaste_B2419936",
+    "source": "portaleaste",
+    "titolo": "Via XX Settembre , 29 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 146/2025 Rif. #B2419936",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 29000.0,
+    "data_asta": "10/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2419936",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/255d6e50716314e330e20903aafdd3cf/2371102-C?cd=true",
+      "https://documents.astalegale.net/file/2/4bb5d8b20a7fda9e26bfbf53cec4a73d/2371103-C?cd=true",
+      "https://documents.astalegale.net/file/2/46721d61df6d18a29bfa122aa9c00bfa/2371105-C?cd=true",
+      "https://documents.astalegale.net/file/2/3ec51ae0495422a404b4c1c7a7f01cae/2371106-C?cd=true",
+      "https://documents.astalegale.net/file/2/d3c048825bccd206790ec688a4898ee1/2371107-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2419936_doc1.pdf",
+      "output/pdf/portaleaste_B2419936_doc2.pdf",
+      "output/pdf/portaleaste_B2419936_doc3.pdf",
+      "output/pdf/portaleaste_B2419936_doc4.pdf",
+      "output/pdf/portaleaste_B2419936_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2371102 c avviso di vendita",
+      "2371103 c ordinanza",
+      "2371105 c perizia",
+      "2371106 c documento con foto",
+      "2371107 c documento con foto"
+    ],
+    "descrizione": "In fabbricato condominiale denominato “Condominio del Sole”: piena proprietà di appartamento a uso abitativo sito al secondo piano - composto da ingresso/disimpegno, soggiorno con angolo cottura, bagno, una camera da letto, con balcone – e di garage/autorimessa al piano terreno. Ai descritti beni compete la proporzionale quota di comproprietà indivisa sugli enti comuni dello stabile, area compresa, ai sensi dell’art. 1117 cod. civ.. L’immobile possiede un Attestato di Prestazione Energetica vali",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2419936",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbSzvE8UmRtP4ddtHgmF5'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-27"
+  },
+  "portaleaste_B2419638": {
+    "id": "portaleaste_B2419638",
+    "source": "portaleaste",
+    "titolo": "Via Giuseppe Mazzini , 35 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 67/2024 Rif. #B2419638",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 67996.69,
+    "data_asta": "11/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2419638",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/5174bb40b002467a3da2adb4b3480211/2369299-B?cd=true",
+      "https://documents.astalegale.net/file/2/cfef69c9ebda8e77c5af00c91f05dac1/2369298-B?cd=true",
+      "https://documents.astalegale.net/file/2/06ec344580131abcd3cb85aa7e87aa3d/2369300-B?cd=true",
+      "https://documents.astalegale.net/file/2/9649ed7950f4dc691055eea07a703dbb/2146560-C?cd=true",
+      "https://documents.astalegale.net/file/2/ad8b39accd4c85f760a2f210faabd18b/2146558-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2419638_doc1.pdf",
+      "output/pdf/portaleaste_B2419638_doc2.pdf",
+      "output/pdf/portaleaste_B2419638_doc3.pdf",
+      "output/pdf/portaleaste_B2419638_doc4.pdf",
+      "output/pdf/portaleaste_B2419638_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2369299 b avviso di vendita",
+      "2369298 b ordinanza",
+      "2369300 b perizia",
+      "2146560 c documento con foto",
+      "2146558 c certificazione energetica"
+    ],
+    "descrizione": "Piena proprietà di “Appartamento unifamiliare a cortina fronte strada”, indipendente con ingresso dalla via pubblica denominata Via Giuseppe Mazzini al civico n°27 catastale, ma n°35 sullo stradario Comunale. La casa si sviluppa su due piani fuori terra e un seminterrato ove è ubicata un’antica cantina. Le zone abitabili sono poste al piano terra dove vi è l’ingresso, con la scala che conduce ai piani superiori. Al piano primo entrando dal vano scala si trova il soggiorno/pranzo, cucina e un bag",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2419638",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbSzvPhSn97zR8Wq2M8EN'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-27"
   }
 }

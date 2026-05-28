@@ -1592,11 +1592,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2418955",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbSzv4YGpLpiTg2ynqzxE'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbUtjDQ5efpkjBejCjTjp'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-05-27"
+    "data_analisi": "2026-05-28"
   },
   "portaleaste_B2419936": {
     "id": "portaleaste_B2419936",
@@ -1634,11 +1634,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2419936",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbSzvE8UmRtP4ddtHgmF5'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbUtisP4c3Kj2M5qkVDjx'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-05-27"
+    "data_analisi": "2026-05-28"
   },
   "portaleaste_B2419638": {
     "id": "portaleaste_B2419638",
@@ -1676,10 +1676,91 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2419638",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbSzvPhSn97zR8Wq2M8EN'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbUtj3T3EhuWqgj1EgcY5'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-05-27"
+    "data_analisi": "2026-05-28"
+  },
+  "portaleaste_B2420302": {
+    "id": "portaleaste_B2420302",
+    "source": "portaleaste",
+    "titolo": "Via Lodigiani Lelia, 31 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 104/2025 Rif. #B2420302",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 36450.0,
+    "data_asta": "09/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2420302",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/f18a865e084c2c05da7d48965825fec1/2374103-B?cd=true",
+      "https://documents.astalegale.net/file/2/781399312ec0a2543e7e945380e9fec5/2374102-B?cd=true",
+      "https://documents.astalegale.net/file/2/70683be744458c045537b32ac8290b78/2268262-B?cd=true",
+      "https://documents.astalegale.net/file/2/d9ac347ce02059a496b117e2f092b629/2268265-B?cd=true",
+      "https://documents.astalegale.net/file/2/8f2e1afa7f0048e3010e5a48408ca44e/2268263-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2420302_doc1.pdf",
+      "output/pdf/portaleaste_B2420302_doc2.pdf",
+      "output/pdf/portaleaste_B2420302_doc3.pdf",
+      "output/pdf/portaleaste_B2420302_doc4.pdf",
+      "output/pdf/portaleaste_B2420302_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2374103 b avviso di vendita",
+      "2374102 b ordinanza",
+      "2268262 b perizia",
+      "2268265 b documento con foto",
+      "2268263 b planimetria"
+    ],
+    "descrizione": "Trattasi di compendio immobiliare costituito da:\nporzione di fabbricato ad uso abitativo dislocato su due piani collegati tra loro mediante scala interna e così composti: il piano terra da un locale oltre accessori, il piano primo da due locali; a detta porzione di fabbricato è annessa piccola area cortilizia pertinenziale;\nporzione di fabbricato ad uso non abitativo dislocato su due piani così composti: il piano terra da un box a uso autorimessa privata, il piano primo da un locale di sgombero;",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2420302",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbUtjPakspGxQXECjFMnL'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-28"
+  },
+  "portaleaste_B2419848": {
+    "id": "portaleaste_B2419848",
+    "source": "portaleaste",
+    "titolo": "Via Mentana, 4 - Lotto 1 - Tribunale di Cremona - Esecuzioni civili 117/2021 Rif. #B2419848",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 13704.33,
+    "data_asta": "08/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2419848",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/69b6edd459e57be1529eede1e595fd63/2374046-B?cd=true",
+      "https://documents.astalegale.net/file/2/5becd237347e96e52ab5456cd4cca01b/2374045-B?cd=true",
+      "https://documents.astalegale.net/file/2/61b38f3fdea5312e5a4f3a3d0f01503d/1626217-C?cd=true",
+      "https://documents.astalegale.net/file/2/253bda8b3d483356d028de6be8826227/1616943-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2419848_doc1.pdf",
+      "output/pdf/portaleaste_B2419848_doc2.pdf",
+      "output/pdf/portaleaste_B2419848_doc3.pdf",
+      "output/pdf/portaleaste_B2419848_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2374046 b avviso di vendita",
+      "2374045 b ordinanza",
+      "1626217 c perizia",
+      "1616943 c documento con foto"
+    ],
+    "descrizione": "Vecchio fabbricato a corte chiusa composto dall'abitazione principale con annessi locali accessori pertinenziali, nonché in corpo staccato un fabbricato originariamente destinato a stalla-legnaia e cantina. L'abitazione è composta da tre locali al piano terra e da cinque locali al piano primo, al quale si accede da una scala adiacente all'androne di ingresso sfociante sulla via Mentana.\nClasse energetica G con indice ep gl, nren pari a 403,08 kWh/mq anno - Tipologia: Abitazione di tipo civile - ",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2419848",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbUtjZSqQpyjSLvSrJXV6'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-05-28"
   }
 }

@@ -1685,7 +1685,7 @@
   "portaleaste_B2420302": {
     "id": "portaleaste_B2420302",
     "source": "portaleaste",
-    "titolo": "Via Lodigiani Lelia, 31 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 104/2025 Rif. #B2420302",
+    "titolo": "Via Lodigiani Lelia 31 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 104/2025 Rif. #B2420302",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 36450.0,
@@ -1712,22 +1712,22 @@
       "2268265 b documento con foto",
       "2268263 b planimetria"
     ],
-    "descrizione": "Trattasi di compendio immobiliare costituito da:\nporzione di fabbricato ad uso abitativo dislocato su due piani collegati tra loro mediante scala interna e così composti: il piano terra da un locale oltre accessori, il piano primo da due locali; a detta porzione di fabbricato è annessa piccola area cortilizia pertinenziale;\nporzione di fabbricato ad uso non abitativo dislocato su due piani così composti: il piano terra da un box a uso autorimessa privata, il piano primo da un locale di sgombero;",
+    "descrizione": "Trattasi di compendio immobiliare costituito da: porzione di fabbricato ad uso abitativo dislocato su due piani collegati tra loro mediante scala interna - Tipologia: Abitazione di tipo civile - Prezzo: € 36.450,00 - Data asta: 09/09/2026 - 16:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2420302",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbojamE2jwd6BSFHF1piK'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbsZXnWvuB9s5Wou3DM81'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-07"
+    "data_analisi": "2026-06-09"
   },
   "portaleaste_B2419848": {
     "id": "portaleaste_B2419848",
     "source": "portaleaste",
-    "titolo": "Via Mentana, 4 - Lotto 1 - Tribunale di Cremona - Esecuzioni civili 117/2021 Rif. #B2419848",
+    "titolo": "Via Mentana 4 - Lotto 1 - Tribunale di Cremona - Esecuzioni civili 117/2021 Rif. #B2419848",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 13704.33,
@@ -1751,17 +1751,17 @@
       "1626217 c perizia",
       "1616943 c documento con foto"
     ],
-    "descrizione": "Vecchio fabbricato a corte chiusa composto dall'abitazione principale con annessi locali accessori pertinenziali, nonché in corpo staccato un fabbricato originariamente destinato a stalla-legnaia e cantina. L'abitazione è composta da tre locali al piano terra e da cinque locali al piano primo, al quale si accede da una scala adiacente all'androne di ingresso sfociante sulla via Mentana.\nClasse energetica G con indice ep gl, nren pari a 403,08 kWh/mq anno - Tipologia: Abitazione di tipo civile - ",
+    "descrizione": "Vecchio fabbricato a corte chiusa composto dall'abitazione principale con annessi locali accessori pertinenziali - Tipologia: Abitazione di tipo civile - Prezzo: € 13.704,33 - Data asta: 08/09/2026 - 18:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2419848",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbojavnzjgcancVW95deQ'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbsZXxB7M3TuobqJKZLRY'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-07"
+    "data_analisi": "2026-06-09"
   },
   "portaleaste_B2420352": {
     "id": "portaleaste_B2420352",
@@ -1793,10 +1793,94 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2420352",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbojab6pdFg44KoWf6Mva'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbsZXcWfohhQRiAPoY1Ux'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-07"
+    "data_analisi": "2026-06-09"
+  },
+  "portaleaste_B2420554": {
+    "id": "portaleaste_B2420554",
+    "source": "portaleaste",
+    "titolo": "Via Leonardo Da Vinci , 24 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 75/2025 Rif. #B2420554",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 43000.0,
+    "data_asta": "08/09/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2420554",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/0ef2694570e13ade643b0ce5544a3da7/2384689-C?cd=true",
+      "https://documents.astalegale.net/file/2/ae68fb66a0ef1d7ae7398caf5e5db358/2384688-C?cd=true",
+      "https://documents.astalegale.net/file/2/afb99f4164f574ec118ab515021f1d79/2384692-C?cd=true",
+      "https://documents.astalegale.net/file/2/349d42e2dbebba8a9978b07500d6e29a/2384693-C?cd=true",
+      "https://documents.astalegale.net/file/2/ce0a8a6d2206c273817dc962218e9d15/2384691-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2420554_doc1.pdf",
+      "output/pdf/portaleaste_B2420554_doc2.pdf",
+      "output/pdf/portaleaste_B2420554_doc3.pdf",
+      "output/pdf/portaleaste_B2420554_doc4.pdf",
+      "output/pdf/portaleaste_B2420554_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2384689 c avviso di vendita",
+      "2384688 c ordinanza",
+      "2384692 c perizia",
+      "2384693 c documento con foto",
+      "2384691 c planimetria"
+    ],
+    "descrizione": "Il compendio immobiliare si trova al pianoterra e primo di un fabbricato pluripiano di tipo residenziale condominiale di vecchio impianto, il quale fabbricato è posto in ambito periferico rispetto al centro cittadino ed in prossimità del centro sportivo e della zona industriale.\nL’appartamento di civile abitazione di tipo economico, posto al piano primo, è composto da soggiorno, cucina, due camere da letto, bagno, ripostiglio e balcone. L’appartamento, al suo interno, si presenta in mediocre sta",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2420554",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbsZY7REJCyyYHnSAj6Eq'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-06-09"
+  },
+  "portaleaste_B2420867": {
+    "id": "portaleaste_B2420867",
+    "source": "portaleaste",
+    "titolo": "Via Valle, 13 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 179/2023 Rif. #B2420867",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 53789.06,
+    "data_asta": "01/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2420867",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/0bfbbb2759a48cfca21ceb11b75a207c/2384644-C?cd=true",
+      "https://documents.astalegale.net/file/2/028ccc6197abb9e2d870638ae5f094fe/2384645-C?cd=true",
+      "https://documents.astalegale.net/file/2/6dae8a097c9e2854288e1591e4dbad81/1959850-D?cd=true",
+      "https://documents.astalegale.net/file/2/d054fbf79e03e42f69790f091387404f/1959851-D?cd=true",
+      "https://documents.astalegale.net/file/2/ff876cfd50486b55443302dc51338c84/1959846-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2420867_doc1.pdf",
+      "output/pdf/portaleaste_B2420867_doc2.pdf",
+      "output/pdf/portaleaste_B2420867_doc3.pdf",
+      "output/pdf/portaleaste_B2420867_doc4.pdf",
+      "output/pdf/portaleaste_B2420867_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2384644 c avviso di vendita",
+      "2384645 c ordinanza",
+      "1959850 d perizia",
+      "1959851 d documento con foto",
+      "1959846 d planimetria"
+    ],
+    "descrizione": "Piena proprietà di complesso immobiliare in tipologia cascina a corte chiusa, costituito da una unità immobiliare ad uso residenziale disposta su due livelli (terra e primo) con accessorio rustico (legnaia al piano terra in corpo staccato); da una unità immobiliare ad uso autorimessa; una unità immobiliare ad uso laboratorio su due livelli (terra e primo); una unità immobiliare ad uso deposito (portico in corpo staccato); annesse al complesso sono anche aree scoperte a giardino e cortile. La por",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2420867",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbsZYGcsN1bStuBrKBAfv'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-06-09"
   }
 }

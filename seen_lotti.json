@@ -1835,11 +1835,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2420554",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcPqATy7Ydtt8i3aaQoiN'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcTZrnyNhykMaKupp4kv4'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-25"
+    "data_analisi": "2026-06-27"
   },
   "portaleaste_B2420867": {
     "id": "portaleaste_B2420867",
@@ -1877,11 +1877,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2420867",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcPqAdBVoj1WYFeNgCWUF'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcTZrxC1LrByQp37toHe8'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-25"
+    "data_analisi": "2026-06-27"
   },
   "portaleaste_B2419755": {
     "id": "portaleaste_B2419755",
@@ -1919,11 +1919,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2419755",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcPqAJJC1wJ42EypovuXH'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcTZrdPfg7fxCrVH9rgn7'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-25"
+    "data_analisi": "2026-06-27"
   },
   "portaleaste_B2422167": {
     "id": "portaleaste_B2422167",
@@ -1961,11 +1961,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2422167",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcPqA8iEKZrsKH7BtAQk7'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcTZrTy8YHZ6CLmEv18VL'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-25"
+    "data_analisi": "2026-06-27"
   },
   "portaleaste_B2423409": {
     "id": "portaleaste_B2423409",
@@ -1997,10 +1997,10 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2423409",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcPq9xw7QC5kaLKnPvoGW'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcTZrJS9Cn2DMmZw293zn'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-25"
+    "data_analisi": "2026-06-27"
   }
 }

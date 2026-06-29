@@ -1835,16 +1835,16 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2420554",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcVVW6kQuEkMSWbPbSXmb'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcXYe4fjHKLEDGcBtHYye'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-28"
+    "data_analisi": "2026-06-29"
   },
   "portaleaste_B2420867": {
     "id": "portaleaste_B2420867",
     "source": "portaleaste",
-    "titolo": "Via Valle, 13 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 179/2023 Rif. #B2420867",
+    "titolo": "Via Valle 13 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni civili 179/2023 Rif. #B2420867",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 53789.06,
@@ -1871,17 +1871,17 @@
       "1959851 d documento con foto",
       "1959846 d planimetria"
     ],
-    "descrizione": "Piena proprietà di complesso immobiliare in tipologia cascina a corte chiusa, costituito da una unità immobiliare ad uso residenziale disposta su due livelli (terra e primo) con accessorio rustico (legnaia al piano terra in corpo staccato); da una unità immobiliare ad uso autorimessa; una unità immobiliare ad uso laboratorio su due livelli (terra e primo); una unità immobiliare ad uso deposito (portico in corpo staccato); annesse al complesso sono anche aree scoperte a giardino e cortile. La por",
+    "descrizione": "Piena proprietà di complesso immobiliare in tipologia cascina a corte chiusa, costituito da una unità immobiliare ad uso residenziale disposta su due livelli (terra e primo) con accessorio rustico (legnaia al piano terra in corpo staccato); da una unità immobiliare ad uso autorimessa; una unità immobiliare ad uso laboratorio su due livelli (terra e primo); una unità immobiliare ad uso deposito (portico in corpo staccato); annesse al complesso sono anche aree scoperte a giardino e cortile. - Tipo",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2420867",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcVVWGMN8Y8HHRGyGLyqv'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcXYeEqfPvatnzmtT1E9w'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-28"
+    "data_analisi": "2026-06-29"
   },
   "portaleaste_B2419755": {
     "id": "portaleaste_B2419755",
@@ -1919,11 +1919,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2419755",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcVVVwAhYaC8jCzMz987f'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcXYduRMh3cUCxw8Sz1We'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-28"
+    "data_analisi": "2026-06-29"
   },
   "portaleaste_B2422167": {
     "id": "portaleaste_B2422167",
@@ -1961,11 +1961,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2422167",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcVVVmjRBDVZX63x4xkiT'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcXYdk6XFe2SgfQ176pLE'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-28"
+    "data_analisi": "2026-06-29"
   },
   "portaleaste_B2423409": {
     "id": "portaleaste_B2423409",
@@ -1997,10 +1997,10 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2423409",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcVVVc1moiy144NxKLHLs'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcXYdadkr5JNjxhJbBfSS'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-06-28"
+    "data_analisi": "2026-06-29"
   }
 }

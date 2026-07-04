@@ -1997,10 +1997,169 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2423409",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcexzDhaMKeTBxaoRLGiw'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcgpmPartYCKcPHjUkoUG'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-03"
+    "data_analisi": "2026-07-04"
+  },
+  "portaleaste_B2424972": {
+    "id": "portaleaste_B2424972",
+    "source": "portaleaste",
+    "titolo": "Via Amilcare Ponchielli , 35 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 91/2024 Rif. #B2424972",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 54000.0,
+    "data_asta": "27/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2424972",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/4beea3a6d8334846142aad1f3078b370/2413717-B?cd=true",
+      "https://documents.astalegale.net/file/2/8ea965d2f76e41ab6538771a55e7560c/2413714-B?cd=true",
+      "https://documents.astalegale.net/file/2/687d84179d4bac2d9d5f0c5f143d33ca/2413715-B?cd=true",
+      "https://documents.astalegale.net/file/2/2e3827d552ff1a2c4c8acba8828a8632/2413716-B?cd=true",
+      "https://documents.astalegale.net/file/2/90384e21f1657a2c003fdeb611aa2e33/2273746-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2424972_doc1.pdf",
+      "output/pdf/portaleaste_B2424972_doc2.pdf",
+      "output/pdf/portaleaste_B2424972_doc3.pdf",
+      "output/pdf/portaleaste_B2424972_doc4.pdf",
+      "output/pdf/portaleaste_B2424972_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2413717 b avviso di vendita",
+      "2413714 b ordinanza",
+      "2413715 b perizia",
+      "2413716 b documento con foto",
+      "2273746 c documento con foto"
+    ],
+    "descrizione": "L’unità immobiliare posta al piano primo (part. 63 sub. 511), si sviluppa su un unico livello ed è così suddivisa: soggiorno con angolo cottura, disimpegno, bagno, due camere da letto. Il cespite di cui alla particella 63 sub. 511 presenta internamente le seguenti caratteristiche di finitura: intonaci al civile tinteggiati, pavimentazione zona giorno e zona notte (compreso il disimpegno) in listelli di legno tipo parquet mentre la pavimentazione ed il rivestimento del locale bagno risulta in pia",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2424972",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcgpmZSh2vx3KphToJVLb'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-04"
+  },
+  "portaleaste_B2425117": {
+    "id": "portaleaste_B2425117",
+    "source": "portaleaste",
+    "titolo": "Via Campo, 48 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 134/2025 Rif. #B2425117",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 38000.0,
+    "data_asta": "22/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2425117",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/d66b649169d6e3e6b5b1d4195c9c26a4/2413696-B?cd=true",
+      "https://documents.astalegale.net/file/2/a8caea250a5268a12d95ca298d074591/2413695-B?cd=true",
+      "https://documents.astalegale.net/file/2/feca6ccc63e92c4f33b87206d4876b45/2413697-B?cd=true",
+      "https://documents.astalegale.net/file/2/15c0af0eecce0cc59f04dc2a5004e3a2/2413698-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2425117_doc1.pdf",
+      "output/pdf/portaleaste_B2425117_doc2.pdf",
+      "output/pdf/portaleaste_B2425117_doc3.pdf",
+      "output/pdf/portaleaste_B2425117_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2413696 b avviso di vendita",
+      "2413695 b ordinanza",
+      "2413697 b perizia",
+      "2413698 b documento con foto"
+    ],
+    "descrizione": "Appartamento al piano terra con accesso dalla via campo al n. 48 in attraversamento di giardino comune. Risulta così composta: ingresso da vano scala comune direttamente nel soggiorno da cui si accede alla cucina ed al disimpegno. Dal disimpegno si ha accesso alle 2 camere ed al bagno.\nLa cantina ed il box sono situati al piano interrato e sono accessibili tramite vano scala od accesso carraio comune.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 38.000,00 - Data asta: 22/10/2026 - 10:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2425117",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcgpmjXAnWomeqzwvuLEG'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-04"
+  },
+  "portaleaste_B2424829": {
+    "id": "portaleaste_B2424829",
+    "source": "portaleaste",
+    "titolo": "Via degli Arenili, 4 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 106/2024 Rif. #B2424829",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 93750.0,
+    "data_asta": "20/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2424829",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/7348240b3524b35be2df004e5134bcf3/2413694-B?cd=true",
+      "https://documents.astalegale.net/file/2/b49e6bda62f88f8549188d340faaa395/2413693-B?cd=true",
+      "https://documents.astalegale.net/file/2/73bfff1cf6dc5d0df85ffed8ff40a567/2303153-D?cd=true",
+      "https://documents.astalegale.net/file/2/4d68489f87ac8013683fe23c17af6a2c/2303154-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2424829_doc1.pdf",
+      "output/pdf/portaleaste_B2424829_doc2.pdf",
+      "output/pdf/portaleaste_B2424829_doc3.pdf",
+      "output/pdf/portaleaste_B2424829_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2413694 b avviso di vendita",
+      "2413693 b ordinanza",
+      "2303153 d perizia",
+      "2303154 d documento con foto"
+    ],
+    "descrizione": "Trattasi di appartamento posto al quarto piano, con autorimessa e cantina a piano terra di un condominio, ed è così composto: ingresso, cucina, soggiorno, disimpegno, tre camere da letto, due bagni, ripostiglio e due balconi; completano la proprietà autorimessa e cantina a piano terra. - Tipologia: Abitazione di tipo civile - Prezzo: € 93.750,00 - Data asta: 20/10/2026 - 17:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2424829",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcgpmvvmG7R9eRUbVETDf'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-04"
+  },
+  "portaleaste_B2425337": {
+    "id": "portaleaste_B2425337",
+    "source": "portaleaste",
+    "titolo": "Via Esilde Soldi, 4/B - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 157/2025 Rif. #B2425337",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 63000.0,
+    "data_asta": "20/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2425337",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/6ed3febb9b36ea254a3e4fbb18dc395f/2413680-B?cd=true",
+      "https://documents.astalegale.net/file/2/4e3107bbc6820bcbf25c6c38cf78a508/2413679-B?cd=true",
+      "https://documents.astalegale.net/file/2/52d57a819abfc6d4e2eb94e0d1b908e3/2413681-B?cd=true",
+      "https://documents.astalegale.net/file/2/6795f35fa8655b0cf3bb69eaa3909f1d/2413682-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2425337_doc1.pdf",
+      "output/pdf/portaleaste_B2425337_doc2.pdf",
+      "output/pdf/portaleaste_B2425337_doc3.pdf",
+      "output/pdf/portaleaste_B2425337_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2413680 b avviso di vendita",
+      "2413679 b ordinanza",
+      "2413681 b perizia",
+      "2413682 b documento con foto"
+    ],
+    "descrizione": "Trattasi di un’unità immobiliare a destinazione residenziale, composta da zona giorno con angolo cottura, camera matrimoniale con cabina armadio, camera singola, bagno, ripostiglio e disimpegno. È inoltre presente giardino esclusivo. L’appartamento è sito al piano terra in un contesto condominiale, in corpo di fabbrica posto all’interno di un lotto che si affaccia sulla Via Esilde Soldi, da cui si accede sia a piedi sia con gli automezzi. Il bene risulta essere in sufficienti condizioni di manut",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2425337",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccgpn6aSiN7YfQHnXEknN'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-04"
   }
 }

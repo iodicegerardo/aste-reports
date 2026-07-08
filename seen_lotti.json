@@ -2006,7 +2006,7 @@
   "portaleaste_B2424972": {
     "id": "portaleaste_B2424972",
     "source": "portaleaste",
-    "titolo": "Via Amilcare Ponchielli , 35 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 91/2024 Rif. #B2424972",
+    "titolo": "Via Amilcare Ponchielli  35 - Lotto 2 - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 91/2024 Rif. #B2424972",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 54000.0,
@@ -2016,8 +2016,8 @@
       "https://documents.astalegale.net/file/2/4beea3a6d8334846142aad1f3078b370/2413717-B?cd=true",
       "https://documents.astalegale.net/file/2/8ea965d2f76e41ab6538771a55e7560c/2413714-B?cd=true",
       "https://documents.astalegale.net/file/2/687d84179d4bac2d9d5f0c5f143d33ca/2413715-B?cd=true",
-      "https://documents.astalegale.net/file/2/2e3827d552ff1a2c4c8acba8828a8632/2413716-B?cd=true",
-      "https://documents.astalegale.net/file/2/90384e21f1657a2c003fdeb611aa2e33/2273746-C?cd=true"
+      "https://documents.astalegale.net/file/2/90384e21f1657a2c003fdeb611aa2e33/2273746-C?cd=true",
+      "https://documents.astalegale.net/file/2/2e3827d552ff1a2c4c8acba8828a8632/2413716-B?cd=true"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2424972_doc1.pdf",
@@ -2030,25 +2030,25 @@
       "2413717 b avviso di vendita",
       "2413714 b ordinanza",
       "2413715 b perizia",
-      "2413716 b documento con foto",
-      "2273746 c documento con foto"
+      "2273746 c documento con foto",
+      "2413716 b documento con foto"
     ],
-    "descrizione": "L’unità immobiliare posta al piano primo (part. 63 sub. 511), si sviluppa su un unico livello ed è così suddivisa: soggiorno con angolo cottura, disimpegno, bagno, due camere da letto. Il cespite di cui alla particella 63 sub. 511 presenta internamente le seguenti caratteristiche di finitura: intonaci al civile tinteggiati, pavimentazione zona giorno e zona notte (compreso il disimpegno) in listelli di legno tipo parquet mentre la pavimentazione ed il rivestimento del locale bagno risulta in pia",
+    "descrizione": "L’unità immobiliare posta al piano primo (part. 63 sub. 511), si sviluppa su un unico livello ed è così suddivisa: soggiorno con angolo cottura, disimpegno, bagno, due camere da letto. - Tipologia: Abitazione di tipo civile - Prezzo: € 54.000,00 - Data asta: 27/10/2026 - 17:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2424972",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CckmDQQkCRYGMBUtVTzGA'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQc58LYG1YpALaNGY2p'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-06"
+    "data_analisi": "2026-07-08"
   },
   "portaleaste_B2425117": {
     "id": "portaleaste_B2425117",
     "source": "portaleaste",
-    "titolo": "Via Campo, 48 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 134/2025 Rif. #B2425117",
+    "titolo": "Via Campo 48 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 134/2025 Rif. #B2425117",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 38000.0,
@@ -2072,22 +2072,22 @@
       "2413697 b perizia",
       "2413698 b documento con foto"
     ],
-    "descrizione": "Appartamento al piano terra con accesso dalla via campo al n. 48 in attraversamento di giardino comune. Risulta così composta: ingresso da vano scala comune direttamente nel soggiorno da cui si accede alla cucina ed al disimpegno. Dal disimpegno si ha accesso alle 2 camere ed al bagno.\nLa cantina ed il box sono situati al piano interrato e sono accessibili tramite vano scala od accesso carraio comune.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 38.000,00 - Data asta: 22/10/2026 - 10:30",
+    "descrizione": "Appartamento al piano terra con accesso dalla via campo al n. 48 in attraversamento di giardino comune. - Tipologia: Abitazione di tipo civile - Prezzo: € 38.000,00 - Data asta: 22/10/2026 - 10:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2425117",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CckmDa2C7WFm8WVYeL8j8'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcErj6DzhE1eW6jES5'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-06"
+    "data_analisi": "2026-07-08"
   },
   "portaleaste_B2424829": {
     "id": "portaleaste_B2424829",
     "source": "portaleaste",
-    "titolo": "Via degli Arenili, 4 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 106/2024 Rif. #B2424829",
+    "titolo": "Via degli Arenili 4 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni civili 106/2024 Rif. #B2424829",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 93750.0,
@@ -2111,22 +2111,22 @@
       "2303153 d perizia",
       "2303154 d documento con foto"
     ],
-    "descrizione": "Trattasi di appartamento posto al quarto piano, con autorimessa e cantina a piano terra di un condominio, ed è così composto: ingresso, cucina, soggiorno, disimpegno, tre camere da letto, due bagni, ripostiglio e due balconi; completano la proprietà autorimessa e cantina a piano terra. - Tipologia: Abitazione di tipo civile - Prezzo: € 93.750,00 - Data asta: 20/10/2026 - 17:30",
+    "descrizione": "Trattasi di appartamento posto al quarto piano, con autorimessa e cantina a piano terra di un condominio - Tipologia: Abitazione di tipo civile - Prezzo: € 93.750,00 - Data asta: 20/10/2026 - 17:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2424829",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CckmDjGZhi87a1JFQYdZX'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcQXtuAnzLBS9cWwyX'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-06"
+    "data_analisi": "2026-07-08"
   },
   "portaleaste_B2425337": {
     "id": "portaleaste_B2425337",
     "source": "portaleaste",
-    "titolo": "Via Esilde Soldi, 4/B - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 157/2025 Rif. #B2425337",
+    "titolo": "Via Esilde Soldi 4/B - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 157/2025 Rif. #B2425337",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 63000.0,
@@ -2150,16 +2150,58 @@
       "2413681 b perizia",
       "2413682 b documento con foto"
     ],
-    "descrizione": "Trattasi di un’unità immobiliare a destinazione residenziale, composta da zona giorno con angolo cottura, camera matrimoniale con cabina armadio, camera singola, bagno, ripostiglio e disimpegno. È inoltre presente giardino esclusivo. L’appartamento è sito al piano terra in un contesto condominiale, in corpo di fabbrica posto all’interno di un lotto che si affaccia sulla Via Esilde Soldi, da cui si accede sia a piedi sia con gli automezzi. Il bene risulta essere in sufficienti condizioni di manut",
+    "descrizione": "Trattasi di un’unità immobiliare a destinazione residenziale, composta da zona giorno con angolo cottura, camera matrimoniale con cabina armadio, camera singola, bagno, ripostiglio e disimpegno. - Tipologia: Abitazione di tipo civile - Prezzo: € 63.000,00 - Data asta: 20/10/2026 - 18:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2425337",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CckmDtTTgiaY7BT71Pe6g'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcaF3VBQjCGkmLbhGB'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-06"
+    "data_analisi": "2026-07-08"
+  },
+  "portaleaste_B2423941": {
+    "id": "portaleaste_B2423941",
+    "source": "portaleaste",
+    "titolo": "Viale UMBERTO I, 9/11 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 88/2025 Rif. #B2423941",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 27000.0,
+    "data_asta": "20/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2423941",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/8674d1029119125e0dce8001290a9ecf/2418221-C?cd=true",
+      "https://documents.astalegale.net/file/2/241ed24b452e1bbaf2e24d73b56529c3/2418220-C?cd=true",
+      "https://documents.astalegale.net/file/2/6dc21fc7c675e7c972961abffe69c45a/2268246-B?cd=true",
+      "https://documents.astalegale.net/file/2/ecf47df58d42877144cc227caacd81c8/2268245-B?cd=true",
+      "https://documents.astalegale.net/file/2/c55f7786f74d6012bc3c11ffe53af79c/2268247-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2423941_doc1.pdf",
+      "output/pdf/portaleaste_B2423941_doc2.pdf",
+      "output/pdf/portaleaste_B2423941_doc3.pdf",
+      "output/pdf/portaleaste_B2423941_doc4.pdf",
+      "output/pdf/portaleaste_B2423941_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2418221 c avviso di vendita",
+      "2418220 c ordinanza",
+      "2268246 b perizia",
+      "2268245 b documento con foto",
+      "2268247 b certificazione energetica"
+    ],
+    "descrizione": "Compendio immobiliare costituito da tre unità a destinazione residenziale: n. 1 alloggio su tre livelli fuori terra con annessa soffitta, n. 1 locale magazzino/deposito disposto su due livelli fuori terra e n. 1 autorimessa singola disposta su unico livello fuori terra. L'unità abitativa è composta da: soggiorno, cucina, bagno, vano scala, ballatoio e due camere al piano primo oltre a ballatoio e tre locali soffitta al piano secondo. - Tipologia: Abitazione di tipo civile - Prezzo: € 27.000,00 -",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2423941",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcjvDELDNqfZxesYRV'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-08"
   }
 }

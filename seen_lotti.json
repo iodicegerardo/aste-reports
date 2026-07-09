@@ -2039,11 +2039,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2424972",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQc58LYG1YpALaNGY2p'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcrMStsMYSZRAahG8uS4S'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-08"
+    "data_analisi": "2026-07-09"
   },
   "portaleaste_B2425117": {
     "id": "portaleaste_B2425117",
@@ -2078,11 +2078,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2425117",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcErj6DzhE1eW6jES5'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcrMT4QazRvjBCavJ8ZZ4'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-08"
+    "data_analisi": "2026-07-09"
   },
   "portaleaste_B2424829": {
     "id": "portaleaste_B2424829",
@@ -2117,11 +2117,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2424829",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcQXtuAnzLBS9cWwyX'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcrMTDZW7KCBobvsksF1x'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-08"
+    "data_analisi": "2026-07-09"
   },
   "portaleaste_B2425337": {
     "id": "portaleaste_B2425337",
@@ -2156,16 +2156,16 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2425337",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcaF3VBQjCGkmLbhGB'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcrMTNp7eiHogjr3bE9Sk'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-08"
+    "data_analisi": "2026-07-09"
   },
   "portaleaste_B2423941": {
     "id": "portaleaste_B2423941",
     "source": "portaleaste",
-    "titolo": "Viale UMBERTO I, 9/11 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 88/2025 Rif. #B2423941",
+    "titolo": "Viale UMBERTO I 9/11 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 88/2025 Rif. #B2423941",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 27000.0,
@@ -2174,7 +2174,7 @@
     "pdf_urls": [
       "https://documents.astalegale.net/file/2/8674d1029119125e0dce8001290a9ecf/2418221-C?cd=true",
       "https://documents.astalegale.net/file/2/241ed24b452e1bbaf2e24d73b56529c3/2418220-C?cd=true",
-      "https://documents.astalegale.net/file/2/6dc21fc7c675e7c972961abffe69c45a/2268246-B?cd=true",
+      "https://documents.astalegale.net/file/2/57979167127613575ee76c59e92ce346/2419397-C?cd=true",
       "https://documents.astalegale.net/file/2/ecf47df58d42877144cc227caacd81c8/2268245-B?cd=true",
       "https://documents.astalegale.net/file/2/c55f7786f74d6012bc3c11ffe53af79c/2268247-B?cd=true"
     ],
@@ -2188,20 +2188,20 @@
     "pdf_names": [
       "2418221 c avviso di vendita",
       "2418220 c ordinanza",
-      "2268246 b perizia",
+      "2419397 c perizia",
       "2268245 b documento con foto",
       "2268247 b certificazione energetica"
     ],
-    "descrizione": "Compendio immobiliare costituito da tre unità a destinazione residenziale: n. 1 alloggio su tre livelli fuori terra con annessa soffitta, n. 1 locale magazzino/deposito disposto su due livelli fuori terra e n. 1 autorimessa singola disposta su unico livello fuori terra. L'unità abitativa è composta da: soggiorno, cucina, bagno, vano scala, ballatoio e due camere al piano primo oltre a ballatoio e tre locali soffitta al piano secondo. - Tipologia: Abitazione di tipo civile - Prezzo: € 27.000,00 -",
+    "descrizione": "Compendio immobiliare costituito da tre unità a destinazione residenziale - Tipologia: Abitazione di tipo civile - Prezzo: € 27.000,00 - Data asta: 20/10/2026 - 09:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2423941",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcpQcjvDELDNqfZxesYRV'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcrMSjUZ6HG31qqW2nn1w'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-08"
+    "data_analisi": "2026-07-09"
   }
 }

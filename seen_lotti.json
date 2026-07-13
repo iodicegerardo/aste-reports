@@ -2039,11 +2039,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2424972",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccwwx5Mfvrd2KZTmakM6p'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcyvtaPTKb77ADhyXEBSJ'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-12"
+    "data_analisi": "2026-07-13"
   },
   "portaleaste_B2425117": {
     "id": "portaleaste_B2425117",
@@ -2078,11 +2078,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2425117",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcwwxF2M78tvzncEZWsaE'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcyvtjrUF94gGrCiX4jx1'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-12"
+    "data_analisi": "2026-07-13"
   },
   "portaleaste_B2424829": {
     "id": "portaleaste_B2424829",
@@ -2117,11 +2117,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2424829",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcwwxRFkMw5ZuLzNc6seN'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcyvtvRiDbBZ2w8pFGkGR'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-12"
+    "data_analisi": "2026-07-13"
   },
   "portaleaste_B2425337": {
     "id": "portaleaste_B2425337",
@@ -2198,10 +2198,52 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2423941",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccwwwud2wPiDG75ff3tC8'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcyvtQPgefxtbd7vXr7CD'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-12"
+    "data_analisi": "2026-07-13"
+  },
+  "portaleaste_B2425874": {
+    "id": "portaleaste_B2425874",
+    "source": "portaleaste",
+    "titolo": "Via Roggia Borromea , 7 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 151/2025 Rif. #B2425874",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 95100.0,
+    "data_asta": "29/10/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2425874",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/fc4665493c2798141310c2f57b561f7f/2424042-D?cd=true",
+      "https://documents.astalegale.net/file/2/be063c37f368e0367ceb4505ab954628/2424043-D?cd=true",
+      "https://documents.astalegale.net/file/2/236c85088e3b238dedb97bd0eb0f2296/2424044-D?cd=true",
+      "https://documents.astalegale.net/file/2/66845e6f3069ec10451cb4e956283553/2424047-D?cd=true",
+      "https://documents.astalegale.net/file/2/069c7c5d519ed30f7fbb6541cd941432/2424048-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2425874_doc1.pdf",
+      "output/pdf/portaleaste_B2425874_doc2.pdf",
+      "output/pdf/portaleaste_B2425874_doc3.pdf",
+      "output/pdf/portaleaste_B2425874_doc4.pdf",
+      "output/pdf/portaleaste_B2425874_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2424042 d avviso di vendita",
+      "2424043 d ordinanza",
+      "2424044 d perizia",
+      "2424047 d perizia",
+      "2424048 d documento con foto"
+    ],
+    "descrizione": "L'unità immobiliare oggetto di pignoramento è costituita da un’abitazione con relativi fabbricati accessori. Vi si accede da via Roggia Borromea n.7. L’accesso avviene dal cancello pedonale e carraio che immette nella proprietà, in ferro verniciato. Il corsello carraio è leggermente in pendenza con quota minore verso strada. L’abitazione fa parte di una villa quadrifamiliare, ha giardino e portico esclusivi e un posto auto coperto.\nL’abitazione è costituita da:\nAl pianto terra: -soggiorno con cu",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2425874",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccyvu5pGQyzux6B7ecWmk'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-13"
   }
 }

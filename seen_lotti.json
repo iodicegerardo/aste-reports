@@ -2249,7 +2249,7 @@
   "portaleaste_B2426164": {
     "id": "portaleaste_B2426164",
     "source": "portaleaste",
-    "titolo": "Localita' Vicomoscano - Via Cellini, 15/E - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 110/2025 Rif. #B2426164",
+    "titolo": "Localita' Vicomoscano - Via Cellini 15/E - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 110/2025 Rif. #B2426164",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 68250.0,
@@ -2282,11 +2282,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2426164",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSTmQC3Z8uRY5wsBS3eM'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdUJ7rsZTxMGx4WEiv6FC'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-27"
+    "data_analisi": "2026-07-28"
   },
   "portaleaste_B2427432": {
     "id": "portaleaste_B2427432",
@@ -2321,11 +2321,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2427432",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSTmEGjy9DKAW41SQU8p'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdUJ7h5CXyA322wYYNxtP'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-27"
+    "data_analisi": "2026-07-28"
   },
   "portaleaste_B2427817": {
     "id": "portaleaste_B2427817",
@@ -2360,10 +2360,85 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2427817",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSTm4XMwp47Gq6uQv52w'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdUJ7WcQTrJFQYfwZ8rrc'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-27"
+    "data_analisi": "2026-07-28"
+  },
+  "portaleaste_B2428862": {
+    "id": "portaleaste_B2428862",
+    "source": "portaleaste",
+    "titolo": "Via IX Febbraio , 62 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 116/2019 Rif. #B2428862",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 124575.0,
+    "data_asta": "16/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2428862",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/eeba3888ae9fe1121b9a300ca8919e2a/2441397-B?cd=true",
+      "https://documents.astalegale.net/file/2/20d9b64c0269c04017fd7b0b97a98c9a/2441395-B?cd=true",
+      "https://documents.astalegale.net/file/2/fdfc52ae2d58acfc9cef9be5892ddc28/2441396-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2428862_doc1.pdf",
+      "output/pdf/portaleaste_B2428862_doc2.pdf",
+      "output/pdf/portaleaste_B2428862_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2441397 b avviso di vendita",
+      "2441395 b ordinanza",
+      "2441396 b perizia"
+    ],
+    "descrizione": "L’unità immobiliare risulta così composta: al piano terra: corridoio, disimpegno d’ingresso e cortile il tutto in comune con il lotto 1, servizio igienico, pertinenze abitative con scala interna di accesso al piano superiore, disimpegno, disbrigo, cantina, passaggio coperto esterno, cortile esclusivo, giardino esclusivo, porticato con rustico pertinenziale esterno; al primo piano: soggiorno-pranzo, zona cottura, disimpegno, bagno, letto. Accesso pedonale all’abitazione si accede dalla via XI Feb",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2428862",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdUJ82TX4kUQSmw9bQ2B8'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-28"
+  },
+  "portaleaste_B2428728": {
+    "id": "portaleaste_B2428728",
+    "source": "portaleaste",
+    "titolo": "Via Sebenico - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 162/2024 Rif. #B2428728",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 53250.0,
+    "data_asta": "17/11/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2428728",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/1839fa1acc66f416a3554323f6d1951d/2441360-B?cd=true",
+      "https://documents.astalegale.net/file/2/d6b0e0eb5ae70e67c3e5cce8700c19c8/2441359-B?cd=true",
+      "https://documents.astalegale.net/file/2/393512a1a167b39f8715530cf67b42ff/2344303-D?cd=true",
+      "https://documents.astalegale.net/file/2/131db2c952c1e52d394ffd6f61ac8335/2344302-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2428728_doc1.pdf",
+      "output/pdf/portaleaste_B2428728_doc2.pdf",
+      "output/pdf/portaleaste_B2428728_doc3.pdf",
+      "output/pdf/portaleaste_B2428728_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2441360 b avviso di vendita",
+      "2441359 b ordinanza",
+      "2344303 d perizia",
+      "2344302 d planimetria"
+    ],
+    "descrizione": "Compendio immobiliare, costituito da una casa monofamiliare di tre piani fuori terra con cortile privato su cui si affacciano due locali accessori e un'autorimessa singola.\nAttestato di Prestazione Energetica n°1900600000525 con scadenza 16/04/2035, l'abitazione risulta essere in classe G con un consumo medio annuale di 523,18 kWh/mq anno - Tipologia: Abitazione di tipo civile - Prezzo: € 53.250,00 - Data asta: 17/11/2026 - 11:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2428728",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdUJ8Bisq95Q7zcxGZJVa'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-28"
   }
 }

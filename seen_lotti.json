@@ -2360,11 +2360,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2427817",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdY4tGR1sn25E8k4sTnJB'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZynyoBG2zGWUVGcfGak'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-30"
+    "data_analisi": "2026-07-31"
   },
   "portaleaste_B2428862": {
     "id": "portaleaste_B2428862",
@@ -2396,11 +2396,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2428862",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdY4svv1N9DTNJqpHEuAF'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZynekCWcYh1dTRZPjGv'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-30"
+    "data_analisi": "2026-07-31"
   },
   "portaleaste_B2428728": {
     "id": "portaleaste_B2428728",
@@ -2435,11 +2435,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2428728",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdY4t6avbrGsZCAsGCjJM'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZynpJvULwYmQuNPsMtX'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-30"
+    "data_analisi": "2026-07-31"
   },
   "portaleaste_B2428459": {
     "id": "portaleaste_B2428459",
@@ -2474,10 +2474,52 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2428459",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdY4skwj4wrcsN976uQq9'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZynRMJBjKQCycScbRrG'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-07-30"
+    "data_analisi": "2026-07-31"
+  },
+  "portaleaste_B2428574": {
+    "id": "portaleaste_B2428574",
+    "source": "portaleaste",
+    "titolo": "Via TRENTO , 27 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 102/2025 Rif. #B2428574",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 13875.0,
+    "data_asta": "19/11/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2428574",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/1f767155a0306fc8671a3a3df2256428/2447566-C?cd=true",
+      "https://documents.astalegale.net/file/2/3843d48374cab3661d8d79c0032dc404/2447565-C?cd=true",
+      "https://documents.astalegale.net/file/2/31cc0f827d7598154208d116a13b5cac/2347165-B?cd=true",
+      "https://documents.astalegale.net/file/2/5d9c2dc7b3360d4ebe6ed16ab77663bb/2347166-B?cd=true",
+      "https://documents.astalegale.net/file/2/c101cd31b4220c57a32c38e50a46d3af/2347163-B?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2428574_doc1.pdf",
+      "output/pdf/portaleaste_B2428574_doc2.pdf",
+      "output/pdf/portaleaste_B2428574_doc3.pdf",
+      "output/pdf/portaleaste_B2428574_doc4.pdf",
+      "output/pdf/portaleaste_B2428574_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2447566 c avviso di vendita",
+      "2447565 c ordinanza",
+      "2347165 b perizia",
+      "2347166 b documento con foto",
+      "2347163 b planimetria"
+    ],
+    "descrizione": "Trattasi di casa a cortina nel centro di Grontardo (CR), dotata di cortile e rustico antistante su due livelli: l'ingresso avviene dal cancello al civico n. 27 di via Trento che non pare avere una concessione di passo carraio. Dal cortile si accede al portico e, con una scala esterna mobile, al fienile; dalla porta d'accesso al fabbricato principale invece si accede al soggiorno, successivamente alla cucina ed infine al bagno. \nDall'antibagno parte la scala interna che conduce al piano primo: la",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2428574",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdZyo9AVLGkCHVfNQwgXw'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-07-31"
   }
 }

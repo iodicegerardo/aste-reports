@@ -2534,7 +2534,7 @@
     "pdf_urls": [
       "https://documents.astalegale.net/file/2/cdfed9e3d4ebf37a0fcc8958f54c8405/2450178-B?cd=true",
       "https://documents.astalegale.net/file/2/0e8bb6a0a03a475e47a816bcf4ee9a9a/2449732-B?cd=true",
-      "https://documents.astalegale.net/file/2/7544fff3dd2df8ce11ff25e5bbda08ea/2449733-B?cd=true"
+      "https://documents.astalegale.net/file/2/7916a97e2f2a436f5f86802e5a28cd1a/2462135-B?cd=true"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2430129_doc1.pdf",
@@ -2544,7 +2544,7 @@
     "pdf_names": [
       "2450178 b avviso di vendita",
       "2449732 b ordinanza",
-      "2449733 b perizia"
+      "2462135 b perizia"
     ],
     "descrizione": "Appartamento posto al primo piano, al primo piano costituito da soggiorno con angolo cucina, due camere,\nbagno, ripostiglio, disimpegno e due balconi, al piano terra c’è un box auto e quota di proprietà di 3050,50/12500 dell’area particella 11 sub 516 adibita a parcheggio privato. Attestazione di prestazione energetica: N. 1902400000419 valido sino al 28.06.2029 classe energetica B con EP gl, nren 79,45 kwh/m2anno - Tipologia: Abitazione di tipo civile - Prezzo: € 68.197,71 - Data asta: 26/11/20",
     "superficie": "72M2",
@@ -2552,11 +2552,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430129",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeTk5GJNfVjyk85fXiFdu'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeVj2erFPvway7LkSwkaT'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-27"
+    "data_analisi": "2026-08-28"
   },
   "portaleaste_B2430163": {
     "id": "portaleaste_B2430163",
@@ -2594,11 +2594,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430163",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeTk4h28ksnxohnR7PP95'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeVj2AWRN4kfbBCMK6pHE'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-27"
+    "data_analisi": "2026-08-28"
   },
   "portaleaste_B2430150": {
     "id": "portaleaste_B2430150",
@@ -2630,11 +2630,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430150",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeTk4sYu2ufUAigetMogW'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeVj2KsjfCCaNvY8Vk7Tv'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-27"
+    "data_analisi": "2026-08-28"
   },
   "portaleaste_B2429748": {
     "id": "portaleaste_B2429748",
@@ -2672,11 +2672,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2429748",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeTk54SVSVmX1Po7CAKhC'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeVj2VPESncaM16BFQJCE'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-27"
+    "data_analisi": "2026-08-28"
   },
   "portaleaste_B2431000": {
     "id": "portaleaste_B2431000",
@@ -2714,10 +2714,10 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2431000",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeTk4XWdsk6BGK4BfVfQy'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeVj21HYHm7Tp6nGvNc5L'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-27"
+    "data_analisi": "2026-08-28"
   }
 }

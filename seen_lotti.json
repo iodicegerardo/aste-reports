@@ -2552,11 +2552,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430129",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeZ1XL3Ls3CFkwtiTQrpA'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ceb5jR6FrV2MGCjozDhjP'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-30"
+    "data_analisi": "2026-08-31"
   },
   "portaleaste_B2430163": {
     "id": "portaleaste_B2430163",
@@ -2594,16 +2594,16 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430163",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeZ1WqGDf1d1MS3iNYn5m'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ceb5iueTDdvePZaGtWUQv'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-30"
+    "data_analisi": "2026-08-31"
   },
   "portaleaste_B2430150": {
     "id": "portaleaste_B2430150",
     "source": "portaleaste",
-    "titolo": "Via Leonardo da Vinci, 4 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 152/2025 Rif. #B2430150",
+    "titolo": "Via Leonardo da Vinci 4 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 152/2025 Rif. #B2430150",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 14400.0,
@@ -2612,34 +2612,37 @@
     "pdf_urls": [
       "https://documents.astalegale.net/file/2/c952386008c4bb4779bffc7de4d11e03/2454739-B?cd=true",
       "https://documents.astalegale.net/file/2/92012485bd0296497670ea9b5ab7e3ee/2454740-B?cd=true",
-      "https://documents.astalegale.net/file/2/982cad51ff36b341d068a6ecedad4f32/2454741-B?cd=true"
+      "https://documents.astalegale.net/file/2/982cad51ff36b341d068a6ecedad4f32/2454741-B?cd=true",
+      "https://www.portaleaste.com/api/media/file/MANUALE UTENTE VENDITE PUBBLICHE.pdf"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2430150_doc1.pdf",
       "output/pdf/portaleaste_B2430150_doc2.pdf",
-      "output/pdf/portaleaste_B2430150_doc3.pdf"
+      "output/pdf/portaleaste_B2430150_doc3.pdf",
+      "output/pdf/portaleaste_B2430150_doc4.pdf"
     ],
     "pdf_names": [
       "2454739 b avviso di vendita",
       "2454740 b ordinanza",
-      "2454741 b perizia"
+      "2454741 b perizia",
+      "MANUALE UTENTE VENDITE PUBBLICHE"
     ],
-    "descrizione": "Appartamento, posto al piano primo di un fabbricato in cortina, composto da una stanza con balcone ad uso cucina e una stanza da letto con balcone, lavabo e wc con accesso diretto, oltre a soffitta e cantina\ndi pertinenza. Il bene comprende una servitù attiva di passaggio a favore dell'immobile gravante sul vano\nscala del mapp. 309 sub. 504.\nclasse G con indice EPh, gl, nren pari a 376,56 kWh/mq anno. - Tipologia: Abitazione di tipo civile - Prezzo: € 14.400,00 - Data asta: 22/12/2026 - 09:30",
+    "descrizione": "Appartamento, posto al piano primo di un fabbricato in cortina - Tipologia: Abitazione di tipo civile - Prezzo: € 14.400,00 - Data asta: 22/12/2026 - 09:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2430150",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeZ1WziFG2r4weH5N3dNh'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ceb5j632nTwthWZToXewT'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-30"
+    "data_analisi": "2026-08-31"
   },
   "portaleaste_B2429748": {
     "id": "portaleaste_B2429748",
     "source": "portaleaste",
-    "titolo": "Via IV Novembre, 6 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 10/2026 Rif. #B2429748",
+    "titolo": "Via IV Novembre 6 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 10/2026 Rif. #B2429748",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 29600.0,
@@ -2666,17 +2669,17 @@
       "2453351 b documento con foto",
       "2453340 b planimetria"
     ],
-    "descrizione": "Appartamento al 6° e ultimo piano di un grande complesso condominiale, con cantina all’interrato, soffitta nel sottotetto e senza garage; il tutto per una superficie abitabile calpestabile di circa 66 mq. Appartamento con duplice affaccio a nord e a sud (con ampia vista panoramica). Appartamento composto da largo ingresso, cucina abitabile e soggiorno, ripostiglio, camera matrimoniale e bagno con vasca. Due balconi. La vista è libera e molto panoramica per entrambi gli affacci. \nSoffitta n. 1 ne",
+    "descrizione": "Appartamento al 6° e ultimo piano di un grande complesso condominiale, con cantina all’interrato, soffitta nel sottotetto e senza garage - Tipologia: Abitazione di tipo civile - Prezzo: € 29.600,00 - Data asta: 22/12/2026 - 09:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2429748",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeZ1XATNpMTr51U4b1753'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ceb5jFXY7HuF5n9b8qwen'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-30"
+    "data_analisi": "2026-08-31"
   },
   "portaleaste_B2431000": {
     "id": "portaleaste_B2431000",
@@ -2714,10 +2717,10 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2431000",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeZ1WfwtMhx5iLQmZT2qF'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ceb5ikLrinVpYUUojgQsb'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-08-30"
+    "data_analisi": "2026-08-31"
   }
 }

@@ -2594,11 +2594,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430163",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf3VyTJz4fjAAuLNFj46H'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5GXaFiXC7c1cwLmmJXN'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-14"
+    "data_analisi": "2026-09-15"
   },
   "portaleaste_B2430150": {
     "id": "portaleaste_B2430150",
@@ -2633,11 +2633,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2430150",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf3Vyd4NFzQDsptCA4kkq'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5GXk26GEaueqGozzM5Y'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-14"
+    "data_analisi": "2026-09-15"
   },
   "portaleaste_B2429748": {
     "id": "portaleaste_B2429748",
@@ -2675,11 +2675,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2429748",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf3VyozwWeSbnrQudj3XN'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5GXwpFeSXauHbmwLmVL'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-14"
+    "data_analisi": "2026-09-15"
   },
   "portaleaste_B2431000": {
     "id": "portaleaste_B2431000",
@@ -2717,10 +2717,52 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2431000",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf3VyH7KbqtHqWTBp8cdZ'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5GXQqRmnwBv3b8XX5ym'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-14"
+    "data_analisi": "2026-09-15"
+  },
+  "portaleaste_B2433097": {
+    "id": "portaleaste_B2433097",
+    "source": "portaleaste",
+    "titolo": "Via XX Settembre , 29 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 146/2025 Rif. #B2433097",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 21750.0,
+    "data_asta": "18/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433097",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/f9add4236102b29ebe22f39fea5a4e39/2477075-D?cd=true",
+      "https://documents.astalegale.net/file/2/5795fc1bea8b940c21f2103d89257113/2477076-D?cd=true",
+      "https://documents.astalegale.net/file/2/46721d61df6d18a29bfa122aa9c00bfa/2371105-C?cd=true",
+      "https://documents.astalegale.net/file/2/d3c048825bccd206790ec688a4898ee1/2371107-C?cd=true",
+      "https://documents.astalegale.net/file/2/3ec51ae0495422a404b4c1c7a7f01cae/2371106-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433097_doc1.pdf",
+      "output/pdf/portaleaste_B2433097_doc2.pdf",
+      "output/pdf/portaleaste_B2433097_doc3.pdf",
+      "output/pdf/portaleaste_B2433097_doc4.pdf",
+      "output/pdf/portaleaste_B2433097_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2477075 d avviso di vendita",
+      "2477076 d ordinanza",
+      "2371105 c perizia",
+      "2371107 c documento con foto",
+      "2371106 c documento con foto"
+    ],
+    "descrizione": "In fabbricato condominiale denominato “Condominio del Sole”: piena proprietà di appartamento a uso abitativo sito al secondo piano - composto da ingresso/disimpegno, soggiorno con angolo cottura, bagno, una camera da letto, con balcone – e di garage/autorimessa al piano terreno. Ai descritti beni compete la proporzionale quota di comproprietà indivisa sugli enti comuni dello stabile, area compresa, ai sensi dell’art. 1117 cod. civ.. L’immobile possiede un Attestato di Prestazione Energetica vali",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433097",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5GY79Lg3rXXHezqMdG6'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-15"
   }
 }

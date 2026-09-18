@@ -2764,5 +2764,215 @@
       "giudizio_colore": "⚪"
     },
     "data_analisi": "2026-09-17"
+  },
+  "portaleaste_B2433355": {
+    "id": "portaleaste_B2433355",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 4 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433355",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 72100.0,
+    "data_asta": "15/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433355",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/bdb8bddc4b6f4daa9938ac0c1000c2b5/2481055-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433355_doc1.pdf",
+      "output/pdf/portaleaste_B2433355_doc2.pdf",
+      "output/pdf/portaleaste_B2433355_doc3.pdf",
+      "output/pdf/portaleaste_B2433355_doc4.pdf",
+      "output/pdf/portaleaste_B2433355_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481055 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano secondo con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura con accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell’edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 72.100,00 - Data asta: 15/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433355",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAuoSgaUkhjDAST94vau'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-18"
+  },
+  "portaleaste_B2433356": {
+    "id": "portaleaste_B2433356",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 5 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433356",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 66200.0,
+    "data_asta": "15/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433356",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/903b8d6cdd70b11fd9b6e6dd0e0ae97e/2481070-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433356_doc1.pdf",
+      "output/pdf/portaleaste_B2433356_doc2.pdf",
+      "output/pdf/portaleaste_B2433356_doc3.pdf",
+      "output/pdf/portaleaste_B2433356_doc4.pdf",
+      "output/pdf/portaleaste_B2433356_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481070 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano secondo con posto auto scoperto e cantina al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura con accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 66.200,00 - Data asta: 15/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433356",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAuog1mAgP8jdeumeFq3'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-18"
+  },
+  "portaleaste_B2433357": {
+    "id": "portaleaste_B2433357",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 6 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433357",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 107000.0,
+    "data_asta": "15/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433357",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/e8e2fd11e5007c5a59fcdc542ff2e6d8/2481081-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433357_doc1.pdf",
+      "output/pdf/portaleaste_B2433357_doc2.pdf",
+      "output/pdf/portaleaste_B2433357_doc3.pdf",
+      "output/pdf/portaleaste_B2433357_doc4.pdf",
+      "output/pdf/portaleaste_B2433357_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481081 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano secondo con box al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura con accesso al balcone, disimpegno, bagno, camera da letto, locale guardaroba e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 107.000,00 - Data asta: 15/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433357",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAuoseFn7wdduYkMeGFQ'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-18"
+  },
+  "portaleaste_B2433358": {
+    "id": "portaleaste_B2433358",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 7 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433358",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 104800.0,
+    "data_asta": "16/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433358",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/3d03e66a6df0a2a7c7938878a542006d/2481112-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433358_doc1.pdf",
+      "output/pdf/portaleaste_B2433358_doc2.pdf",
+      "output/pdf/portaleaste_B2433358_doc3.pdf",
+      "output/pdf/portaleaste_B2433358_doc4.pdf",
+      "output/pdf/portaleaste_B2433358_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481112 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano terzo con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con accesso al balcone, cucina non abitabile, disimpegno, bagno, lavanderia, n. 2 camere da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc.\n - Tipologia: Abitazione di tipo civile - Prezzo: € 104.800,00 - Data asta: 16/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433358",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAup4sC5pDeKvfrj8qUC'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-18"
+  },
+  "portaleaste_B2433360": {
+    "id": "portaleaste_B2433360",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Paglieri, 14 - Lotto 9 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433360",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 107100.0,
+    "data_asta": "16/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433360",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/3fb70dcd52276fbf185278f2619d989b/2481140-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433360_doc1.pdf",
+      "output/pdf/portaleaste_B2433360_doc2.pdf",
+      "output/pdf/portaleaste_B2433360_doc3.pdf",
+      "output/pdf/portaleaste_B2433360_doc4.pdf",
+      "output/pdf/portaleaste_B2433360_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481140 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano quarto con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con accesso al balcone, cucina non abitabile, disimpegno, bagno, bagno/lavanderia, n. 2 camere da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell’edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 107.100,00 - Data asta: 16/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433360",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAupFsE5MVhmfiDfjGTS'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-18"
   }
 }

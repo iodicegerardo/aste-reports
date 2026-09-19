@@ -2801,11 +2801,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433355",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAuoSgaUkhjDAST94vau'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfCmwKSZCyFdhmNhBW3gw'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-18"
+    "data_analisi": "2026-09-19"
   },
   "portaleaste_B2433356": {
     "id": "portaleaste_B2433356",
@@ -2843,11 +2843,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433356",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAuog1mAgP8jdeumeFq3'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfCmwXqBsFLWDAkuesy89'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-18"
+    "data_analisi": "2026-09-19"
   },
   "portaleaste_B2433357": {
     "id": "portaleaste_B2433357",
@@ -2927,11 +2927,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433358",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAup4sC5pDeKvfrj8qUC'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfCmwnrpg8mjKe6rdtPYb'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-18"
+    "data_analisi": "2026-09-19"
   },
   "portaleaste_B2433360": {
     "id": "portaleaste_B2433360",
@@ -2969,10 +2969,52 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433360",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAupFsE5MVhmfiDfjGTS'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfCmx3KigCyMWyHmAVvEA'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-18"
+    "data_analisi": "2026-09-19"
+  },
+  "portaleaste_B2433353": {
+    "id": "portaleaste_B2433353",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433353",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 61100.0,
+    "data_asta": "15/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433353",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/ad70e69251f9c449ca34db9a844793e6/2481028-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433353_doc1.pdf",
+      "output/pdf/portaleaste_B2433353_doc2.pdf",
+      "output/pdf/portaleaste_B2433353_doc3.pdf",
+      "output/pdf/portaleaste_B2433353_doc4.pdf",
+      "output/pdf/portaleaste_B2433353_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481028 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano primo con posto auto scoperto e cantina al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura e accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 61.100,00 - Data asta: 15/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433353",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfCmxF8d8F1PEHFHb1Drg'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-19"
   }
 }

@@ -2801,11 +2801,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433355",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfEiTGYobQFzK3BaYDReJ'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmCAa5MQQjiEHMrqJQT'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-20"
+    "data_analisi": "2026-09-21"
   },
   "portaleaste_B2433356": {
     "id": "portaleaste_B2433356",
@@ -2885,11 +2885,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433357",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAuoseFn7wdduYkMeGFQ'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmBipmTwD7HkwAF84wD'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-18"
+    "data_analisi": "2026-09-21"
   },
   "portaleaste_B2433358": {
     "id": "portaleaste_B2433358",
@@ -3011,10 +3011,94 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433353",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfEiT3h9V27r66h45BVUE'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmBxEfdf5w1G3WnxumT'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-20"
+    "data_analisi": "2026-09-21"
+  },
+  "portaleaste_B2433370": {
+    "id": "portaleaste_B2433370",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 13 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433370",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 67700.0,
+    "data_asta": "17/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433370",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/a1426b3077f55cb0254c54c8aebb70c8/2481207-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433370_doc1.pdf",
+      "output/pdf/portaleaste_B2433370_doc2.pdf",
+      "output/pdf/portaleaste_B2433370_doc3.pdf",
+      "output/pdf/portaleaste_B2433370_doc4.pdf",
+      "output/pdf/portaleaste_B2433370_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481207 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano quinto con posto auto scoperto e cantina al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura con accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 67.700,00 - Data asta: 17/12/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433370",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmCNszk2ZjmuQpPXuRz'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-21"
+  },
+  "portaleaste_B2433372": {
+    "id": "portaleaste_B2433372",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 15 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433372",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 67300.0,
+    "data_asta": "17/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433372",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/2f6567f13743659d3a867dd1e90dd858/2481233-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433372_doc1.pdf",
+      "output/pdf/portaleaste_B2433372_doc2.pdf",
+      "output/pdf/portaleaste_B2433372_doc3.pdf",
+      "output/pdf/portaleaste_B2433372_doc4.pdf",
+      "output/pdf/portaleaste_B2433372_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481233 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano sesto con posto auto scoperto e cantina al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 67.300,00 - Data asta: 17/12/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433372",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmCawnJL1MrYU58Nd79'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-21"
   }
 }

@@ -2843,11 +2843,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433356",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfEiTwDyv4gUv1q7ZEgYx'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJWzJEF13kYpFGjycbCV'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-20"
+    "data_analisi": "2026-09-22"
   },
   "portaleaste_B2433357": {
     "id": "portaleaste_B2433357",
@@ -2927,11 +2927,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433358",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfEiTVadSPJe9MC5Hm31M'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJWzYNYM3DFbZRAxsau4'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-20"
+    "data_analisi": "2026-09-22"
   },
   "portaleaste_B2433360": {
     "id": "portaleaste_B2433360",
@@ -2969,11 +2969,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433360",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfEiTiD9Vc4U6mtwj7kam'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJWzkmAnnfmJj7GSdgYr'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-20"
+    "data_analisi": "2026-09-22"
   },
   "portaleaste_B2433353": {
     "id": "portaleaste_B2433353",
@@ -3100,5 +3100,89 @@
       "giudizio_colore": "⚪"
     },
     "data_analisi": "2026-09-21"
+  },
+  "portaleaste_B2433810": {
+    "id": "portaleaste_B2433810",
+    "source": "portaleaste",
+    "titolo": "Via Bandiera , 31 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 34/2025 Rif. #B2433810",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 29109.38,
+    "data_asta": "12/01/2027",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433810",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/356541327f6b49af54a3671c5f21d089/2484053-D?cd=true",
+      "https://documents.astalegale.net/file/2/63134f83a09bbd4cc0b639cdd4246ee1/2484052-D?cd=true",
+      "https://documents.astalegale.net/file/2/9ee3e4b45ddb43bde394416a4be485b0/2144991-C?cd=true",
+      "https://documents.astalegale.net/file/2/1c313912763829ff2b4d45a99aae6d64/2144989-C?cd=true",
+      "https://documents.astalegale.net/file/2/40a833633ed363fc26b35614f4a500bb/2144988-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433810_doc1.pdf",
+      "output/pdf/portaleaste_B2433810_doc2.pdf",
+      "output/pdf/portaleaste_B2433810_doc3.pdf",
+      "output/pdf/portaleaste_B2433810_doc4.pdf",
+      "output/pdf/portaleaste_B2433810_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2484053 d avviso di vendita",
+      "2484052 d ordinanza",
+      "2144991 c perizia",
+      "2144989 c documento con foto",
+      "2144988 c documento con foto"
+    ],
+    "descrizione": "fabbricato abitativo attualmente locato, ubicato in via fratelli Bandiera n.31, in pessime condizioni di manutenzione e privo di riscaldamento, disposto su due livelli con corpo accessori annesso in lato di ponente ed area cortilizia\\a verde - Tipologia: Abitazione di tipo civile - Prezzo: € 29.109,38 - Data asta: 12/01/2027 - 17:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433810",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJWzzEYAZzzBTuxghgjt'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-22"
+  },
+  "portaleaste_B2433826": {
+    "id": "portaleaste_B2433826",
+    "source": "portaleaste",
+    "titolo": "Via Giordano , 92 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 172/2025 Rif. #B2433826",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 37126.09,
+    "data_asta": "12/01/2027",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433826",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/d18a55139aefb0d0fd7883c0f31ee0c9/2484029-D?cd=true",
+      "https://documents.astalegale.net/file/2/fa5bd239edc9801f48410a8920062b5b/2484028-D?cd=true",
+      "https://documents.astalegale.net/file/2/cb14d7613a5a28f23c394814ec50ed97/2484872-D?cd=true",
+      "https://documents.astalegale.net/file/2/fb0e8e8d1be3a7110e58d232c15dd526/2484031-D?cd=true",
+      "https://documents.astalegale.net/file/2/ab606998fccb1065aac42070aef1038a/2484033-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433826_doc1.pdf",
+      "output/pdf/portaleaste_B2433826_doc2.pdf",
+      "output/pdf/portaleaste_B2433826_doc3.pdf",
+      "output/pdf/portaleaste_B2433826_doc4.pdf",
+      "output/pdf/portaleaste_B2433826_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2484029 d avviso di vendita",
+      "2484028 d ordinanza",
+      "2484872 d perizia",
+      "2484031 d documento con foto",
+      "2484033 d documento con foto"
+    ],
+    "descrizione": "Appartamento al quarto piano del condominio Gardenia e cantina nel seminterrato. L’alloggio è composto da soggiorno, cucina, camera da letto, bagno, disimpegno, ripostiglio e balconi ed ha una superficie commerciale (ovvero al lordo dei muri) di circa 68,40 mq.. - Tipologia: Abitazione di tipo civile - Prezzo: € 37.126,09 - Data asta: 12/01/2027 - 17:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433826",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJX19bMao6kBfzbZmPpT'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-22"
   }
 }

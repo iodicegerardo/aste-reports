@@ -3137,11 +3137,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433810",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJWzzEYAZzzBTuxghgjt'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRhPfruAEUZxuvUxiey'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-22"
+    "data_analisi": "2026-09-23"
   },
   "portaleaste_B2433826": {
     "id": "portaleaste_B2433826",
@@ -3179,10 +3179,133 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433826",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfJX19bMao6kBfzbZmPpT'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRhZt2j5CwaisG8mZHv'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-22"
+    "data_analisi": "2026-09-23"
+  },
+  "portaleaste_B2433603": {
+    "id": "portaleaste_B2433603",
+    "source": "portaleaste",
+    "titolo": "Via MARTIRI DEL TERRORISMO 12 - Lotto 4 - Tribunale di Cremona - Procedure concorsuali / Fallimentare 5/2021 Rif. #B2433603",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 15000.0,
+    "data_asta": "10/11/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433603",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/900321e5feafebad067796133532d46c/2483966-D?cd=true",
+      "https://documents.astalegale.net/file/2/288198bb998c0dc49ede497269fc49b5/2483965-D?cd=true",
+      "https://documents.astalegale.net/file/2/76064fb56cdada16941169b8a43bb263/1316018-D?cd=true",
+      "https://documents.astalegale.net/file/2/4c1d0a4049705d48b92e4d17a3d8150c/1316019-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433603_doc1.pdf",
+      "output/pdf/portaleaste_B2433603_doc2.pdf",
+      "output/pdf/portaleaste_B2433603_doc3.pdf",
+      "output/pdf/portaleaste_B2433603_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2483966 d avviso di vendita",
+      "2483965 d ordinanza",
+      "1316018 d perizia",
+      "1316019 d planimetria"
+    ],
+    "descrizione": "QUOTA IDEALE DEL 50% di una porzione di villa bifamiliare in Formigara, via Martiri del Terrorismo n.12, eretta su tre piani fuori terra, composta da portico, ingresso, ripostiglio, lavanderia/WC (piano terra), ingresso, soggiorno, cucina, tre camere, bagno, ripostiglio e due balconi (piano primo), bagno e ripostiglio (piano secondo). - Tipologia: Abitazione di tipo civile - Prezzo: € 15.000,00 - Data asta: 10/11/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433603",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRhk4TZWULLv4ZPkA4v'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-23"
+  },
+  "portaleaste_B2433375": {
+    "id": "portaleaste_B2433375",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 17 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433375",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 89300.0,
+    "data_asta": "17/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433375",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/72d83d459f51c975d9ccd2816d1167ab/2481258-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433375_doc1.pdf",
+      "output/pdf/portaleaste_B2433375_doc2.pdf",
+      "output/pdf/portaleaste_B2433375_doc3.pdf",
+      "output/pdf/portaleaste_B2433375_doc4.pdf",
+      "output/pdf/portaleaste_B2433375_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481258 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano sesto con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura e accesso al balcone, locale guardaroba, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 89.300,00 - Data asta: 17/12/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433375",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRi6rMsNzVn8m9JLPfi'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-23"
+  },
+  "portaleaste_B2433377": {
+    "id": "portaleaste_B2433377",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 18 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433377",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 77900.0,
+    "data_asta": "17/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433377",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/3301d323f0022ed79a6a018f163d5177/2481273-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433377_doc1.pdf",
+      "output/pdf/portaleaste_B2433377_doc2.pdf",
+      "output/pdf/portaleaste_B2433377_doc3.pdf",
+      "output/pdf/portaleaste_B2433377_doc4.pdf",
+      "output/pdf/portaleaste_B2433377_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481273 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano sesto con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura e accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 77.900,00 - Data asta: 17/12/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433377",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRj43UGAKCt2dDKVz51'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-23"
   }
 }

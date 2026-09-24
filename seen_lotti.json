@@ -3011,11 +3011,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433353",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmBxEfdf5w1G3WnxumT'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyZizHqo8yBjmLQKej'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-21"
+    "data_analisi": "2026-09-24"
   },
   "portaleaste_B2433370": {
     "id": "portaleaste_B2433370",
@@ -3137,11 +3137,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433810",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRhPfruAEUZxuvUxiey'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJy27iDyaht14iTWXbe'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-23"
+    "data_analisi": "2026-09-24"
   },
   "portaleaste_B2433826": {
     "id": "portaleaste_B2433826",
@@ -3179,11 +3179,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433826",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRhZt2j5CwaisG8mZHv'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyC41X5iTPxfrN54cx'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-23"
+    "data_analisi": "2026-09-24"
   },
   "portaleaste_B2433603": {
     "id": "portaleaste_B2433603",
@@ -3218,11 +3218,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433603",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfLRhk4TZWULLv4ZPkA4v'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyNurxXaaZTsuSHudK'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-23"
+    "data_analisi": "2026-09-24"
   },
   "portaleaste_B2433375": {
     "id": "portaleaste_B2433375",
@@ -3307,5 +3307,47 @@
       "giudizio_colore": "⚪"
     },
     "data_analisi": "2026-09-23"
+  },
+  "portaleaste_B2433367": {
+    "id": "portaleaste_B2433367",
+    "source": "portaleaste",
+    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 12 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433367",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 106200.0,
+    "data_asta": "16/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2433367",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/993f92f459b3d7a91ba93fdf0b2bb946/2481013-D?cd=true",
+      "https://documents.astalegale.net/file/2/061a2caebbe43e73ad3065db97b29297/2481012-D?cd=true",
+      "https://documents.astalegale.net/file/2/ec46ec695d28a025103fa9da24861968/2481014-D?cd=true",
+      "https://documents.astalegale.net/file/2/e802683cb45436a5691ce66e179eff6d/2481015-D?cd=true",
+      "https://documents.astalegale.net/file/2/212c21476198722b5c336cfdea6d1c5d/2481187-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2433367_doc1.pdf",
+      "output/pdf/portaleaste_B2433367_doc2.pdf",
+      "output/pdf/portaleaste_B2433367_doc3.pdf",
+      "output/pdf/portaleaste_B2433367_doc4.pdf",
+      "output/pdf/portaleaste_B2433367_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2481013 d avviso di vendita",
+      "2481012 d ordinanza",
+      "2481014 d perizia",
+      "2481015 d perizia",
+      "2481187 d documento con foto"
+    ],
+    "descrizione": "Piena proprietà di appartamento al piano quinto con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con accesso al balcone, cucina non abitabile, disimpegno, bagno, bagno/lavanderia, n. 2 camere da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 106.200,00 - Data asta: 16/12/2026 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2433367",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyoYSpZMCaebebCGzp'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-24"
   }
 }

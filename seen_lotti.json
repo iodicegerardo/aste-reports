@@ -2801,11 +2801,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433355",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfGmCAa5MQQjiEHMrqJQT'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9htDW15gLzpyBKWCR'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-21"
+    "data_analisi": "2026-09-25"
   },
   "portaleaste_B2433356": {
     "id": "portaleaste_B2433356",
@@ -3104,7 +3104,7 @@
   "portaleaste_B2433810": {
     "id": "portaleaste_B2433810",
     "source": "portaleaste",
-    "titolo": "Via Bandiera , 31 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 34/2025 Rif. #B2433810",
+    "titolo": "Via Bandiera  31 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 34/2025 Rif. #B2433810",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 29109.38,
@@ -3131,22 +3131,22 @@
       "2144989 c documento con foto",
       "2144988 c documento con foto"
     ],
-    "descrizione": "fabbricato abitativo attualmente locato, ubicato in via fratelli Bandiera n.31, in pessime condizioni di manutenzione e privo di riscaldamento, disposto su due livelli con corpo accessori annesso in lato di ponente ed area cortilizia\\a verde - Tipologia: Abitazione di tipo civile - Prezzo: € 29.109,38 - Data asta: 12/01/2027 - 17:30",
+    "descrizione": "Fabbricato abitativo attualmente locato, ubicato in via fratelli Bandiera n.31, in pessime condizioni di manutenzione e privo di riscaldamento, disposto su due livelli con corpo accessori annesso in lato di ponente ed area cortilizia\\a verde - Tipologia: Abitazione di tipo civile - Prezzo: € 29.109,38 - Data asta: 12/01/2027 - 17:30",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2433810",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJy27iDyaht14iTWXbe'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9AwNJLmjvz6zjdT1j'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-24"
+    "data_analisi": "2026-09-25"
   },
   "portaleaste_B2433826": {
     "id": "portaleaste_B2433826",
     "source": "portaleaste",
-    "titolo": "Via Giordano , 92 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 172/2025 Rif. #B2433826",
+    "titolo": "Via Giordano  92 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 172/2025 Rif. #B2433826",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 37126.09,
@@ -3173,17 +3173,17 @@
       "2484031 d documento con foto",
       "2484033 d documento con foto"
     ],
-    "descrizione": "Appartamento al quarto piano del condominio Gardenia e cantina nel seminterrato. L’alloggio è composto da soggiorno, cucina, camera da letto, bagno, disimpegno, ripostiglio e balconi ed ha una superficie commerciale (ovvero al lordo dei muri) di circa 68,40 mq.. - Tipologia: Abitazione di tipo civile - Prezzo: € 37.126,09 - Data asta: 12/01/2027 - 17:00",
+    "descrizione": "Appartamento al quarto piano del condominio Gardenia e cantina nel seminterrato.  - Tipologia: Abitazione di tipo civile - Prezzo: € 37.126,09 - Data asta: 12/01/2027 - 17:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2433826",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyC41X5iTPxfrN54cx'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9MAXmLvKamCZkPiL9'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-24"
+    "data_analisi": "2026-09-25"
   },
   "portaleaste_B2433603": {
     "id": "portaleaste_B2433603",
@@ -3218,11 +3218,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433603",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyNurxXaaZTsuSHudK'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9X6ZyvZ1vkx33LTKF'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-24"
+    "data_analisi": "2026-09-25"
   },
   "portaleaste_B2433375": {
     "id": "portaleaste_B2433375",
@@ -3349,5 +3349,47 @@
       "giudizio_colore": "⚪"
     },
     "data_analisi": "2026-09-24"
+  },
+  "portaleaste_B2434096": {
+    "id": "portaleaste_B2434096",
+    "source": "portaleaste",
+    "titolo": "Via Giuseppe Mazzini , 35 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 67/2024 Rif. #B2434096",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 50997.52,
+    "data_asta": "18/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2434096",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/f613faae497fe661835cf17a3cb95f9b/2488577-D?cd=true",
+      "https://documents.astalegale.net/file/2/9a8102aa3856fbd490f33ce268887014/2488576-D?cd=true",
+      "https://documents.astalegale.net/file/2/06ec344580131abcd3cb85aa7e87aa3d/2369300-B?cd=true",
+      "https://documents.astalegale.net/file/2/9649ed7950f4dc691055eea07a703dbb/2146560-C?cd=true",
+      "https://documents.astalegale.net/file/2/ad8b39accd4c85f760a2f210faabd18b/2146558-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2434096_doc1.pdf",
+      "output/pdf/portaleaste_B2434096_doc2.pdf",
+      "output/pdf/portaleaste_B2434096_doc3.pdf",
+      "output/pdf/portaleaste_B2434096_doc4.pdf",
+      "output/pdf/portaleaste_B2434096_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2488577 d avviso di vendita",
+      "2488576 d ordinanza",
+      "2369300 b perizia",
+      "2146560 c documento con foto",
+      "2146558 c certificazione energetica"
+    ],
+    "descrizione": "Piena proprietà di “Appartamento unifamiliare a cortina fronte strada”, indipendente con ingresso dalla via pubblica denominata Via Giuseppe Mazzini al civico n°27 catastale, ma n°35 sullo stradario Comunale. La casa si sviluppa su due piani fuori terra e un seminterrato ove è ubicata un’antica cantina. Le zone abitabili sono poste al piano terra dove vi è l’ingresso, con la scala che conduce ai piani superiori. Al piano primo entrando dal vano scala si trova il soggiorno/pranzo, cucina e un bag",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2434096",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9wmtBzBFxENEdEmDu'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-09-25"
   }
 }

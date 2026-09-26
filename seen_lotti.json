@@ -2978,7 +2978,7 @@
   "portaleaste_B2433353": {
     "id": "portaleaste_B2433353",
     "source": "portaleaste",
-    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433353",
+    "titolo": "Frazione Ombriano - Via Pagliari 14 - Lotto 2 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433353",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 61100.0,
@@ -3005,17 +3005,17 @@
       "2481015 d perizia",
       "2481028 d documento con foto"
     ],
-    "descrizione": "Piena proprietà di appartamento al piano primo con posto auto scoperto e cantina al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura e accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 61.100,00 - Data asta: 15/12/2026 - 15:00",
+    "descrizione": "Piena proprietà di appartamento al piano primo con posto auto scoperto e cantina al piano terra facente parte del Condominio Le Vele. L’appartamento è composto da soggiorno con angolo cottura e accesso al balcone, disimpegno, bagno, camera da letto e balcone.Il tutto oltre alla quota di comproprietà sulle parti comuni dell'edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 61.100,00 - Data asta: 15/12/2026 - 15:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2433353",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfNJyZizHqo8yBjmLQKej'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfS4Sv2eDFRMsWWet87BW'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-24"
+    "data_analisi": "2026-09-26"
   },
   "portaleaste_B2433370": {
     "id": "portaleaste_B2433370",
@@ -3137,11 +3137,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433810",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9AwNJLmjvz6zjdT1j'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfS4SQwvHHU4xwoC3h2dj'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-25"
+    "data_analisi": "2026-09-26"
   },
   "portaleaste_B2433826": {
     "id": "portaleaste_B2433826",
@@ -3179,11 +3179,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433826",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9MAXmLvKamCZkPiL9'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfS4SaHFVFyxjRvG5H7Us'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-25"
+    "data_analisi": "2026-09-26"
   },
   "portaleaste_B2433603": {
     "id": "portaleaste_B2433603",
@@ -3218,11 +3218,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433603",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9X6ZyvZ1vkx33LTKF'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfS4Sjqxugrc4mpzczMJj'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-25"
+    "data_analisi": "2026-09-26"
   },
   "portaleaste_B2433375": {
     "id": "portaleaste_B2433375",
@@ -3353,7 +3353,7 @@
   "portaleaste_B2434096": {
     "id": "portaleaste_B2434096",
     "source": "portaleaste",
-    "titolo": "Via Giuseppe Mazzini , 35 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 67/2024 Rif. #B2434096",
+    "titolo": "Via Giuseppe Mazzini  35 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 67/2024 Rif. #B2434096",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 50997.52,
@@ -3380,16 +3380,16 @@
       "2146560 c documento con foto",
       "2146558 c certificazione energetica"
     ],
-    "descrizione": "Piena proprietà di “Appartamento unifamiliare a cortina fronte strada”, indipendente con ingresso dalla via pubblica denominata Via Giuseppe Mazzini al civico n°27 catastale, ma n°35 sullo stradario Comunale. La casa si sviluppa su due piani fuori terra e un seminterrato ove è ubicata un’antica cantina. Le zone abitabili sono poste al piano terra dove vi è l’ingresso, con la scala che conduce ai piani superiori. Al piano primo entrando dal vano scala si trova il soggiorno/pranzo, cucina e un bag",
+    "descrizione": "Piena proprietà di “Appartamento unifamiliare a cortina fronte strada”, indipendente con ingresso dalla via pubblica denominata Via Giuseppe Mazzini al civico n°27 catastale, ma n°35 sullo stradario Comunale. La casa si sviluppa su due piani fuori terra e un seminterrato ove è ubicata un’antica cantina. Le zone abitabili sono poste al piano terra dove vi è l’ingresso, con la scala che conduce ai piani superiori.  - Tipologia: Abitazione di tipo civile - Prezzo: € 50.997,52 - Data asta: 18/12/202",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2434096",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9wmtBzBFxENEdEmDu'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfS4SDgzpfXFn3hRVSh1L'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-25"
+    "data_analisi": "2026-09-26"
   }
 }

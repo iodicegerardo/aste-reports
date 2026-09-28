@@ -2768,7 +2768,7 @@
   "portaleaste_B2433355": {
     "id": "portaleaste_B2433355",
     "source": "portaleaste",
-    "titolo": "Frazione Ombriano - Via Pagliari, 14 - Lotto 4 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433355",
+    "titolo": "Frazione Ombriano - Via Pagliari 14 - Lotto 4 - Tribunale di Cremona - Esecuzioni civili 170/2024 Rif. #B2433355",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 72100.0,
@@ -2795,17 +2795,17 @@
       "2481015 d perizia",
       "2481055 d documento con foto"
     ],
-    "descrizione": "Piena proprietà di appartamento al piano secondo con autorimessa al piano terra facente parte del Condominio Le Vele. \nL’appartamento è composto da soggiorno con angolo cottura con accesso al balcone, disimpegno, bagno, camera da letto e balcone.\nIl tutto oltre alla quota di comproprietà sulle parti comuni dell’edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 72.100,00 - Data asta: 15/12/2026 - 15:00",
+    "descrizione": "Piena proprietà di appartamento al piano secondo con autorimessa al piano terra facente parte del Condominio Le Vele. L’appartamento è composto da soggiorno con angolo cottura con accesso al balcone, disimpegno, bagno, camera da letto e balcone.Il tutto oltre alla quota di comproprietà sulle parti comuni dell’edificio ai sensi dell’art. 1117 cc. - Tipologia: Abitazione di tipo civile - Prezzo: € 72.100,00 - Data asta: 15/12/2026 - 15:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2433355",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQD9htDW15gLzpyBKWCR'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfW968VkcoVakpuicRYpd'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-25"
+    "data_analisi": "2026-09-28"
   },
   "portaleaste_B2433356": {
     "id": "portaleaste_B2433356",
@@ -3137,11 +3137,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433810",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfU295LWQptfWAEgPYPz8'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfW95ZTeagSUh8YHbkjRq'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-27"
+    "data_analisi": "2026-09-28"
   },
   "portaleaste_B2433826": {
     "id": "portaleaste_B2433826",
@@ -3179,11 +3179,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433826",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfU29FMmJcj7mydUZKnSp'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfW95jZ7c7MHjJuH3LqJp'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-27"
+    "data_analisi": "2026-09-28"
   },
   "portaleaste_B2433603": {
     "id": "portaleaste_B2433603",
@@ -3218,11 +3218,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433603",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfU29Qr23QMc3YEXk4LKv'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfW95vVSDeYhHaKCejuWn'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-27"
+    "data_analisi": "2026-09-28"
   },
   "portaleaste_B2433375": {
     "id": "portaleaste_B2433375",
@@ -3386,10 +3386,10 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2434096",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfU28tYNKJdNNbxXxEJxA'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfW95Mjhoeb6V5vcrFiGz'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-09-27"
+    "data_analisi": "2026-09-28"
   }
 }

@@ -3137,11 +3137,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433810",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfo5A4MRP5MxLphZd9wsP'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfpyd9cF9CHCsUKSVaTf8'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-07"
+    "data_analisi": "2026-10-08"
   },
   "portaleaste_B2433826": {
     "id": "portaleaste_B2433826",
@@ -3179,11 +3179,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2433826",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfo5ADf1oJFUy9i6D7FSd'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfpydJu6Nqic79KAwyYjm'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-07"
+    "data_analisi": "2026-10-08"
   },
   "portaleaste_B2433603": {
     "id": "portaleaste_B2433603",
@@ -3386,11 +3386,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2434096",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfo59sGRUF4yHUboH9v5y'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfpycy31ghPE7vrtfiUoQ'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-07"
+    "data_analisi": "2026-10-08"
   },
   "portaleaste_B2435737": {
     "id": "portaleaste_B2435737",
@@ -3428,10 +3428,52 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2435737",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfo59fwJJW6Bp6KPk3TDm'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfpyckb9QsjCmuLMQC4Md'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-07"
+    "data_analisi": "2026-10-08"
+  },
+  "portaleaste_B2436263": {
+    "id": "portaleaste_B2436263",
+    "source": "portaleaste",
+    "titolo": "Via Migliaro, 4 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 92/2024 Rif. #B2436263",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 60750.0,
+    "data_asta": "19/01/2027",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2436263",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/58f008f962e16de5eb510eace7811f7f/2499177-C?cd=true",
+      "https://documents.astalegale.net/file/2/748977a96cab81c8915677b61af84d4c/2499176-C?cd=true",
+      "https://documents.astalegale.net/file/2/769d26840ceadb7bcf01a9c50971a071/2143429-C?cd=true",
+      "https://documents.astalegale.net/file/2/0551f2830479130fb93ee9eb5531b7ad/2143433-C?cd=true",
+      "https://documents.astalegale.net/file/2/3ad036571b4fff6e4850fcc31bce79d6/2143432-C?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2436263_doc1.pdf",
+      "output/pdf/portaleaste_B2436263_doc2.pdf",
+      "output/pdf/portaleaste_B2436263_doc3.pdf",
+      "output/pdf/portaleaste_B2436263_doc4.pdf",
+      "output/pdf/portaleaste_B2436263_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2499177 c avviso di vendita",
+      "2499176 c ordinanza",
+      "2143429 c perizia",
+      "2143433 c documento con foto",
+      "2143432 c documento con foto"
+    ],
+    "descrizione": "Alloggio di civile abitazione al piano secondo composto da cucina, soggiorno, bagno, disimpegno, due camere da letto, due balconi, con annesse due autorimesse di cui posta a piano terra e l'altra posta in angolo nord-est del cortile comune.\nVi  è un’area comune (identificata catastalmente fg. 15, mapp. 173, sub. 501 - non censibile )  composta da area recintata con in parte sistemazione a giardino, vano scala, cantina, W.C. piano terra, locale caldaia, legnaia e porticato  - Tipologia: Abitazion",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2436263",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfpydVg15JnLW2QhaM378'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-10-08"
   }
 }

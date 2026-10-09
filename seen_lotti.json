@@ -3386,11 +3386,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2434096",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfpycy31ghPE7vrtfiUoQ'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfrrEoAX282Vi7afUC6gU'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-08"
+    "data_analisi": "2026-10-09"
   },
   "portaleaste_B2435737": {
     "id": "portaleaste_B2435737",
@@ -3428,11 +3428,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2435737",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfpyckb9QsjCmuLMQC4Md'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfrrEd9Fc2MyvWP1xQUYH'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-08"
+    "data_analisi": "2026-10-09"
   },
   "portaleaste_B2436263": {
     "id": "portaleaste_B2436263",
@@ -3470,10 +3470,85 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2436263",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfpydVg15JnLW2QhaM378'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfrrERdxfhiuxbLxV72Qe'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-08"
+    "data_analisi": "2026-10-09"
+  },
+  "portaleaste_B2436258": {
+    "id": "portaleaste_B2436258",
+    "source": "portaleaste",
+    "titolo": "Via Bergamo, 67 - Lotto 1 - Tribunale di Cremona - Procedure concorsuali / Liquidazione giudiziale (CCI) 10/2023 Rif. #B2436258",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 38092.8,
+    "data_asta": "26/11/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2436258",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/1761fb98d6c1f3dca42c20057adee621/2500262-D?cd=true",
+      "https://documents.astalegale.net/file/2/110c5c2c181b64d68f445c83ce663f9f/2500260-D?cd=true",
+      "https://documents.astalegale.net/file/2/fecabb2fb965b27a08923d0ebafb6c27/2500261-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2436258_doc1.pdf",
+      "output/pdf/portaleaste_B2436258_doc2.pdf",
+      "output/pdf/portaleaste_B2436258_doc3.pdf"
+    ],
+    "pdf_names": [
+      "2500262 d avviso di vendita",
+      "2500260 d ordinanza",
+      "2500261 d perizia"
+    ],
+    "descrizione": "ABITAZIONE CIVILE SU DUE LIVELLI - Tipologia: Abitazione di tipo civile - Prezzo: € 38.092,80 - Data asta: 26/11/2026 - 10:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2436258",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfrrEyDFWsDQagdnoLz5L'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-10-09"
+  },
+  "portaleaste_B2436257": {
+    "id": "portaleaste_B2436257",
+    "source": "portaleaste",
+    "titolo": "Via  Federici, 56 - Lotto 6 - Tribunale di Cremona - Procedure concorsuali / Fallimentare 55/2015 Rif. #B2436257",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 46935.04,
+    "data_asta": "26/11/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2436257",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/2eeb8f72207740b472eac3b49d642c3e/2500259-D?cd=true",
+      "https://documents.astalegale.net/file/2/aedd91d815f752948e219fba5df90bdd/2500257-D?cd=true",
+      "https://documents.astalegale.net/file/2/91da9a02d14a6d4efabdfee803eec5c6/2500258-D?cd=true",
+      "https://documents.astalegale.net/file/2/9eab4087c0f4be4a27ae7bdf74c4fd36/2500256-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2436257_doc1.pdf",
+      "output/pdf/portaleaste_B2436257_doc2.pdf",
+      "output/pdf/portaleaste_B2436257_doc3.pdf",
+      "output/pdf/portaleaste_B2436257_doc4.pdf"
+    ],
+    "pdf_names": [
+      "2500259 d avviso di vendita",
+      "2500257 d ordinanza",
+      "2500258 d ordinanza",
+      "2500256 d perizia"
+    ],
+    "descrizione": "Lotto 6. - Appartamento composto da 8,5 vani catastali - Tipologia: Abitazione di tipo civile - Prezzo: € 46.935,04 - Data asta: 26/11/2026 - 09:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2436257",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfrrF98ozwGj95aueZ3Px'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-10-09"
   }
 }

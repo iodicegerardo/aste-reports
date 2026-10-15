@@ -3587,16 +3587,16 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2434163",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg2BqdoB9ec5o4Jq7tcT1'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg44db5KKHVVUMJ5ecf5r'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-14"
+    "data_analisi": "2026-10-15"
   },
   "portaleaste_B2436782": {
     "id": "portaleaste_B2436782",
     "source": "portaleaste",
-    "titolo": "Piazza Soyons (già Via Roma), 2 - Lotto 3 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436782",
+    "titolo": "Piazza Soyons già Via Roma, 2 - Lotto 3 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436782",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 73500.0,
@@ -3606,8 +3606,8 @@
       "https://documents.astalegale.net/file/2/9bbe78b035c5518144a6fe085abb3248/2503129-D?cd=true",
       "https://documents.astalegale.net/file/2/a7e4fff5cc50e35a03da65c667d8a053/2503113-D?cd=true",
       "https://documents.astalegale.net/file/2/63de17d62f7114b680745268e3174bfd/2503128-D?cd=true",
-      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true",
-      "https://documents.astalegale.net/file/2/bc2192e418898b16490e7a0677608076/2503115-D?cd=true"
+      "https://documents.astalegale.net/file/2/c88568051e07efd7dd52841dfe43d0d9/2505989-D?cd=true",
+      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2436782_doc1.pdf",
@@ -3620,25 +3620,25 @@
       "2503129 d avviso di vendita",
       "2503113 d ordinanza",
       "2503128 d ordinanza",
-      "2503114 d perizia",
-      "2503115 d perizia"
+      "2505989 d perizia",
+      "2503114 d perizia"
     ],
-    "descrizione": "piena proprietà di villetta a schiera, di recente costruzione, di vani 6 e mq 117,27 (catastali 112) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato.\nATTESTATO DI PRESTAZIONE ENERGETICA: l'unità immobiliare\nad uso residenziale ha il seguente Attestato di Prestazione Energetica n.\n1910000000724 con scadenza 19/02/2034 che pone l’immobile, ai fini\nenergetici, in classe :B EPgl, nren 77,63 KWh/m2a. - Tipologia: Abita",
+    "descrizione": "Piena proprietà di villetta a schiera, di recente costruzione, di vani 6 e mq 117,27 (catastali 112) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato. ATTESTATO DI PRESTAZIONE ENERGETICA: l'unità immobiliare ad uso residenziale ha il seguente Attestato di Prestazione Energetica n. 1910000000724 con scadenza 19/02/2034 che pone l’immobile, ai fini energetici, in classe :B EPgl, nren 77,63 KWh/m2a. - Tipologia: Abita",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2436782",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg2BrCSxsR4N526VAEM6T'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg44dnfawqD2uXk6iNP5n'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-14"
+    "data_analisi": "2026-10-15"
   },
   "portaleaste_B2436784": {
     "id": "portaleaste_B2436784",
     "source": "portaleaste",
-    "titolo": "Piazza Soyons (già Via Roma), 2 - Lotto 6 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436784",
+    "titolo": "Piazza Soyons già Via Roma 2 - Lotto 6 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436784",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 73500.0,
@@ -3648,8 +3648,8 @@
       "https://documents.astalegale.net/file/2/9bbe78b035c5518144a6fe085abb3248/2503129-D?cd=true",
       "https://documents.astalegale.net/file/2/a7e4fff5cc50e35a03da65c667d8a053/2503113-D?cd=true",
       "https://documents.astalegale.net/file/2/63de17d62f7114b680745268e3174bfd/2503128-D?cd=true",
-      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true",
-      "https://documents.astalegale.net/file/2/bc2192e418898b16490e7a0677608076/2503115-D?cd=true"
+      "https://documents.astalegale.net/file/2/bb9aff67a6ab53cafb1cbc18edd37d0a/2505990-D?cd=true",
+      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2436784_doc1.pdf",
@@ -3662,25 +3662,25 @@
       "2503129 d avviso di vendita",
       "2503113 d ordinanza",
       "2503128 d ordinanza",
-      "2503114 d perizia",
-      "2503115 d perizia"
+      "2505990 d perizia",
+      "2503114 d perizia"
     ],
-    "descrizione": "piena proprietà di villetta a schiera, di recente costruzione, di vani 6 e mq 116,92 (catastali 114) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato. \nATTESTATO DI PRESTAZIONE ENERGETICA: l’unità immobiliare ad uso residenziale ha il seguente Attestato di Prestazione Energetica n.\n1781910000000924 con scadenza 19/02/2034 che pone l’immobile, ai fini\nenergetici, in classe :?B EPgl, nren 91,02 Kwh/m2a. - Tipologia: ",
+    "descrizione": "Piena proprietà di villetta a schiera, di recente costruzione, di vani 6 e mq 116,92 (catastali 114) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato.  - Tipologia: Abitazione di tipo civile - Prezzo: € 73.500,00 - Data asta: 17/12/2026 - 16:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2436784",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg2BqqRvF7Eyq6tSjFnmd'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg44dyQEjhXv9ANawpiki'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-14"
+    "data_analisi": "2026-10-15"
   },
   "portaleaste_B2436785": {
     "id": "portaleaste_B2436785",
     "source": "portaleaste",
-    "titolo": "Piazza Soyons (già Via Roma), 2 - Lotto 7 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436785",
+    "titolo": "Piazza Soyons già Via Roma 2 - Lotto 7 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436785",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 75000.0,
@@ -3690,8 +3690,8 @@
       "https://documents.astalegale.net/file/2/9bbe78b035c5518144a6fe085abb3248/2503129-D?cd=true",
       "https://documents.astalegale.net/file/2/a7e4fff5cc50e35a03da65c667d8a053/2503113-D?cd=true",
       "https://documents.astalegale.net/file/2/63de17d62f7114b680745268e3174bfd/2503128-D?cd=true",
-      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true",
-      "https://documents.astalegale.net/file/2/bc2192e418898b16490e7a0677608076/2503115-D?cd=true"
+      "https://documents.astalegale.net/file/2/eb304d855025be630ef9ea7e5c70b6b6/2505991-D?cd=true",
+      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2436785_doc1.pdf",
@@ -3704,25 +3704,25 @@
       "2503129 d avviso di vendita",
       "2503113 d ordinanza",
       "2503128 d ordinanza",
-      "2503114 d perizia",
-      "2503115 d perizia"
+      "2505991 d perizia",
+      "2503114 d perizia"
     ],
-    "descrizione": "piena proprietà di villetta a schiera, di recente costruzione, di vani 6 e mq 118,12 (catastali 113) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato. \nATTESTATO DI PRESTAZIONE ENERGETICA: l’unità immobiliare\nad uso residenziale ha il seguente Attestato di Prestazione Energetica\nn.1971910000001024 con scadenza 19/02/2034 che pone l’immobile, ai\nfini energetici, in classe :?B EPgl, nren 77,06 Kwh/m2a. - Tipologia: A",
+    "descrizione": "Piena proprietà di villetta a schiera, di recente costruzione, di vani 6 e mq 118,12 (catastali 113) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato.  - Tipologia: Abitazione di tipo civile - Prezzo: € 75.000,00 - Data asta: 17/12/2026 - 16:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2436785",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg2Br1c6NuEQQhhtUApRN'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg44eA6vjBDzKcYWZxRuC'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-14"
+    "data_analisi": "2026-10-15"
   },
   "portaleaste_B2436786": {
     "id": "portaleaste_B2436786",
     "source": "portaleaste",
-    "titolo": "Piazza Soyons (già Via Roma), 2 - Lotto 9 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436786",
+    "titolo": "Piazza Soyons già Via Roma 2 - Lotto 9 - Tribunale di Cremona - Esecuzioni civili 23/2023 Rif. #B2436786",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 75000.0,
@@ -3732,8 +3732,8 @@
       "https://documents.astalegale.net/file/2/9bbe78b035c5518144a6fe085abb3248/2503129-D?cd=true",
       "https://documents.astalegale.net/file/2/a7e4fff5cc50e35a03da65c667d8a053/2503113-D?cd=true",
       "https://documents.astalegale.net/file/2/63de17d62f7114b680745268e3174bfd/2503128-D?cd=true",
-      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true",
-      "https://documents.astalegale.net/file/2/bc2192e418898b16490e7a0677608076/2503115-D?cd=true"
+      "https://documents.astalegale.net/file/2/f8d186d59e66a1d27f9af257b2f2bc40/2505992-D?cd=true",
+      "https://documents.astalegale.net/file/2/b6741c43c28c1310eb9f794fd696024c/2503114-D?cd=true"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2436786_doc1.pdf",
@@ -3746,19 +3746,19 @@
       "2503129 d avviso di vendita",
       "2503113 d ordinanza",
       "2503128 d ordinanza",
-      "2503114 d perizia",
-      "2503115 d perizia"
+      "2505992 d perizia",
+      "2503114 d perizia"
     ],
-    "descrizione": "piena proprietà di villetta a schiera locata, di recente costruzione, di vani 6 e mq 118,12 (catastali 112) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato.\nATTESTATO DI PRESTAZIONE ENERGETICA: l’unità immobiliare\nad uso residenziale ha il seguente Attestato di Prestazione Energetica\nn.1910000001224 con scadenza 19/02/2034 che pone l’immobile, ai fini energetici, in classe :?B EPgl, nren 77,02 Kwh/m2a. - Tipologia",
+    "descrizione": "Piena proprietà di villetta a schiera locata, di recente costruzione, di vani 6 e mq 118,12 (catastali 112) su due piani oltre al sottotetto direttamente comunicante, area esterna esclusiva al piano terra ed autorimessa al piano interrato. - Tipologia: Abitazione di tipo civile - Prezzo: € 75.000,00 - Data asta: 17/12/2026 - 16:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2436786",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg2BrNiLcUrcn4kxK4JQc'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg44eM4z5hsLc9ZXbMmB9'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-14"
+    "data_analisi": "2026-10-15"
   }
 }

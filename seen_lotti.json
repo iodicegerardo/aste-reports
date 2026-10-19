@@ -3587,11 +3587,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2434163",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg9h5a8wZbUGX8ErsdQEt'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgBops2bY7mvdJZzva7VN'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-18"
+    "data_analisi": "2026-10-19"
   },
   "portaleaste_B2436782": {
     "id": "portaleaste_B2436782",
@@ -3629,11 +3629,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2436782",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg9h5mnvU5JZp1QoQTTsR'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgBoq4JWek1mTc51q5Xj6'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-18"
+    "data_analisi": "2026-10-19"
   },
   "portaleaste_B2436784": {
     "id": "portaleaste_B2436784",
@@ -3671,11 +3671,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2436784",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg9h5xdo7NhQSFkKcK8fx'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgBoqEadz3EgUsqdc2gT6'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-18"
+    "data_analisi": "2026-10-19"
   },
   "portaleaste_B2436785": {
     "id": "portaleaste_B2436785",
@@ -3760,5 +3760,89 @@
       "giudizio_colore": "⚪"
     },
     "data_analisi": "2026-10-18"
+  },
+  "portaleaste_B2437683": {
+    "id": "portaleaste_B2437683",
+    "source": "portaleaste",
+    "titolo": "Via Trento e Trieste, 47-49 - Lotto 1 - Tribunale di Cremona - Esecuzioni civili 185/2025 Rif. #B2437683",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 18229.0,
+    "data_asta": "27/01/2027",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2437683",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/6976e1cb7cf259eaad3c817da66b0125/2508982-D?cd=true",
+      "https://documents.astalegale.net/file/2/00aef8f98cf04f37cc738364a7e41f51/2508983-D?cd=true",
+      "https://documents.astalegale.net/file/2/d654317ef107aecf9d9a9744b7d0598f/2508985-D?cd=true",
+      "https://documents.astalegale.net/file/2/fe5ebfe01b939730fc72f363965a27bb/2508984-D?cd=true",
+      "https://documents.astalegale.net/file/2/37fdfba497332b7b0563f37b4befcce7/2508986-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2437683_doc1.pdf",
+      "output/pdf/portaleaste_B2437683_doc2.pdf",
+      "output/pdf/portaleaste_B2437683_doc3.pdf",
+      "output/pdf/portaleaste_B2437683_doc4.pdf",
+      "output/pdf/portaleaste_B2437683_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2508982 d avviso di vendita",
+      "2508983 d ordinanza",
+      "2508985 d perizia",
+      "2508984 d documento con foto",
+      "2508986 d planimetria"
+    ],
+    "descrizione": "Alloggio composto da soggiorno, cucina, camera da letto, bagno, disimpegno, ripostiglio e balcone con superficie commerciale di circa 60,00 mq. - Tipologia: Abitazione di tipo civile - Prezzo: € 18.229,00 - Data asta: 27/01/2027 - 15:00",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2437683",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgBoqQUCjUnGfQTwNEi6H'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-10-19"
+  },
+  "portaleaste_B2437648": {
+    "id": "portaleaste_B2437648",
+    "source": "portaleaste",
+    "titolo": "Localita' Erbatico - Lotto LOTTO UNICO - Tribunale di Cremona - Procedure concorsuali / Liquidazione giudiziale (CCI) 3/2022 Rif. #B2437648",
+    "indirizzo": "",
+    "comune": "Cremona",
+    "prezzo_base": 120000.0,
+    "data_asta": "15/12/2026",
+    "url": "https://www.portaleaste.com/Aste/Detail/B2437648",
+    "pdf_urls": [
+      "https://documents.astalegale.net/file/2/7ce33ee1b09150b7c821b3f2b1c05ab6/2508973-D?cd=true",
+      "https://documents.astalegale.net/file/2/54bc930eb80e80b602b5702b9a165693/2508974-D?cd=true",
+      "https://documents.astalegale.net/file/2/d14743fe7262ceaa9177810a2d4725bd/2508963-D?cd=true",
+      "https://documents.astalegale.net/file/2/d1a0a58af58a92d7fddac1ee4844f371/2508968-D?cd=true",
+      "https://documents.astalegale.net/file/2/bb985b15a186f3818c5d2f382a2c8a66/2508965-D?cd=true"
+    ],
+    "pdf_paths": [
+      "output/pdf/portaleaste_B2437648_doc1.pdf",
+      "output/pdf/portaleaste_B2437648_doc2.pdf",
+      "output/pdf/portaleaste_B2437648_doc3.pdf",
+      "output/pdf/portaleaste_B2437648_doc4.pdf",
+      "output/pdf/portaleaste_B2437648_doc5.pdf"
+    ],
+    "pdf_names": [
+      "2508973 d avviso di vendita",
+      "2508974 d ordinanza",
+      "2508963 d perizia",
+      "2508968 d documento con foto",
+      "2508965 d dati catastali"
+    ],
+    "descrizione": "porzione di cascina e di terreno, situati in Spino d’Adda in località Erbatico - Tipologia: Abitazione di tipo civile - Prezzo: € 120.000,00 - Data asta: 15/12/2026 - 11:30",
+    "superficie": "72M2",
+    "tribunale": "",
+    "numero_procedura": "",
+    "portaleaste_ref": "B2437648",
+    "analisi_ai": {
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgBoqZhM7nbaXq5cJP1nd'}",
+      "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
+      "giudizio_colore": "⚪"
+    },
+    "data_analisi": "2026-10-19"
   }
 }

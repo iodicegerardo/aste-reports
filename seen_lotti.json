@@ -3587,11 +3587,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2434163",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgUp8eSdmnk6VJyp8U34m'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgWiT23DKKDcvneugNWtx'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-28"
+    "data_analisi": "2026-10-29"
   },
   "portaleaste_B2436782": {
     "id": "portaleaste_B2436782",
@@ -3797,11 +3797,11 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2437683",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgUp8KsRf7JYcQb3wB5H2'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgWiSgq4cWWJQBP9Ckek8'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-28"
+    "data_analisi": "2026-10-29"
   },
   "portaleaste_B2437648": {
     "id": "portaleaste_B2437648",
@@ -3839,16 +3839,16 @@
     "numero_procedura": "",
     "portaleaste_ref": "B2437648",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgUp8UxcfUitShaLWH3jR'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgWiSr8QHxcVCnUybvkZf'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-28"
+    "data_analisi": "2026-10-29"
   },
   "portaleaste_B2438317": {
     "id": "portaleaste_B2438317",
     "source": "portaleaste",
-    "titolo": "Via Bellena, 7/3 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 131/2024 Rif. #B2438317",
+    "titolo": "Via Bellena 7/3 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni civili 131/2024 Rif. #B2438317",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 30375.0,
@@ -3875,22 +3875,22 @@
       "1972661 b documento con foto",
       "1972660 b planimetria"
     ],
-    "descrizione": "Unità immobiliare urbana ad uso civile abitazione eretta due piani fuori terra con pertinenziale autorimessa e antistante cortile cosi composta:\nquanto all’abitazione:\nal piano terra: accesso dall’antistante cortile sul soggiorno con cucina in angolo; corridoio, bagno e ripostiglio;\nal piano primo: disimpegno, bagno, guardaroba e due vani.\nPiani, questi, collegati da scala interna; quanto alla pertinenziale autorimessa: un vano.\nclasse energetica F - Tipologia: Abitazione di tipo civile - Prezzo",
+    "descrizione": "Unità immobiliare urbana ad uso civile abitazione eretta due piani fuori terra con pertinenziale autorimessa e antistante cortile - Tipologia: Abitazione di tipo civile - Prezzo: € 30.375,00 - Data asta: 19/01/2027 - 10:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2438317",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgUp8AEjy3e5CGro8iZvH'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgWiSXj8QY4R2ia9xqU2r'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-28"
+    "data_analisi": "2026-10-29"
   },
   "portaleaste_B2438852": {
     "id": "portaleaste_B2438852",
     "source": "portaleaste",
-    "titolo": "Vicolo Casirani, 2 - Lotto Unico - Tribunale di Cremona - Esecuzioni civili 43/2026 Rif. #B2438852",
+    "titolo": "Vicolo Casirani 2 - Lotto LOTTO UNICO - Tribunale di Cremona - Esecuzioni civili 43/2026 Rif. #B2438852",
     "indirizzo": "",
     "comune": "Cremona",
     "prezzo_base": 121000.0,
@@ -3900,30 +3900,33 @@
       "https://documents.astalegale.net/file/2/acaf8072e6c3c20dd15ebc0a22486016/2518089-C?cd=true",
       "https://documents.astalegale.net/file/2/c905b4237a246bed11d2c833a7446b34/2518088-C?cd=true",
       "https://documents.astalegale.net/file/2/e8312dd1e0d84e9b45a1975a8456e150/2518090-C?cd=true",
-      "https://documents.astalegale.net/file/2/bd0a90403a9f38e785dc9d07dc603306/2518091-C?cd=true"
+      "https://documents.astalegale.net/file/2/bd0a90403a9f38e785dc9d07dc603306/2518091-C?cd=true",
+      "https://www.portaleaste.com/api/media/file/MANUALE UTENTE VENDITE PUBBLICHE.pdf"
     ],
     "pdf_paths": [
       "output/pdf/portaleaste_B2438852_doc1.pdf",
       "output/pdf/portaleaste_B2438852_doc2.pdf",
       "output/pdf/portaleaste_B2438852_doc3.pdf",
-      "output/pdf/portaleaste_B2438852_doc4.pdf"
+      "output/pdf/portaleaste_B2438852_doc4.pdf",
+      "output/pdf/portaleaste_B2438852_doc5.pdf"
     ],
     "pdf_names": [
       "2518089 c avviso di vendita",
       "2518088 c ordinanza",
       "2518090 c perizia",
-      "2518091 c documento con foto"
+      "2518091 c documento con foto",
+      "MANUALE UTENTE VENDITE PUBBLICHE"
     ],
-    "descrizione": "L’immobile si trova nel centro storico ed è composto da un appartamento disposto su tre piani, un box auto e un locale accessorio denominato “ex legnaia”, situato sopra il box:\nAppartamento: superficie lorda di circa 134 m², oltre a un balcone di circa 4 m². Al piano terra si trovano soggiorno, cucina e bagno; al primo piano una camera matrimoniale, uno studio, un ripostiglio, un disimpegno e un bagno; al secondo piano una camera matrimoniale, cabina armadio, bagno, corridoio e ripostiglio. Acce",
+    "descrizione": "L’immobile si trova nel centro storico ed è composto da un appartamento disposto su tre piani, un box auto e un locale accessorio denominato “ex legnaia”, situato sopra il box: Appartamento: superficie lorda di circa 134 m², oltre a un balcone di circa 4 m². - Tipologia: Abitazione di tipo civile - Prezzo: € 121.000,00 - Data asta: 14/01/2027 - 15:00",
     "superficie": "72M2",
     "tribunale": "",
     "numero_procedura": "",
     "portaleaste_ref": "B2438852",
     "analisi_ai": {
-      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgUp8pFjQ1JH3q9Ng5oaP'}",
+      "errore": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgWiSN1j6wMxeCMQXLWk3'}",
       "motivo_mancanza": "Crediti API Anthropic esauriti — ricaricare il piano su console.anthropic.com",
       "giudizio_colore": "⚪"
     },
-    "data_analisi": "2026-10-28"
+    "data_analisi": "2026-10-29"
   }
 }
